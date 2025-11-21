@@ -131,3 +131,28 @@ func TestReadResourceFile(t *testing.T) {
 		t.Errorf("文件内容不匹配，期望 %s，实际 %s", expectedLine, lines[0])
 	}
 }
+
+func TestParseLineSentenceWithoutTranslation(t *testing.T) {
+	line := "People often talk about the beggar who sits on the corner of Main Street."
+	original, translation := ParseLine(line)
+
+	if original != line {
+		t.Fatalf("纯英文句子应保持原样，期望 %q，实际 %q", line, original)
+	}
+	if translation != "" {
+		t.Fatalf("纯英文句子不应解析出翻译，实际 %q", translation)
+	}
+}
+
+func TestParseLineWithSpaceSeparatedTranslation(t *testing.T) {
+	line := "beggar /ˈbɛgər/ n. 乞丐"
+	original, translation := ParseLine(line)
+
+	if original != "beggar" {
+		t.Fatalf("应正确解析原文，期望 %q，实际 %q", "beggar", original)
+	}
+	expectedTranslation := "/ˈbɛgər/ n. 乞丐"
+	if translation != expectedTranslation {
+		t.Fatalf("应解析出翻译，期望 %q，实际 %q", expectedTranslation, translation)
+	}
+}

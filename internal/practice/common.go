@@ -607,10 +607,14 @@ func ParseLine(line string) (string, string) {
 	}
 
 	// 然后检查空格分隔符
-	// 第一个空格之前的文本作为原文，之后的作为翻译
+	// 仅当空格后的文本包含非ASCII字符时，才认为它是翻译（避免纯英文句子被拆分）
 	spaceIndex := strings.Index(line, " ")
 	if spaceIndex > 0 {
-		return strings.TrimSpace(line[:spaceIndex]), strings.TrimSpace(line[spaceIndex+1:])
+		original := strings.TrimSpace(line[:spaceIndex])
+		translation := strings.TrimSpace(line[spaceIndex+1:])
+		if translation != "" && containsNonASCII(translation) {
+			return original, translation
+		}
 	}
 
 	// 定义其他分隔符优先级列表
@@ -628,6 +632,16 @@ func ParseLine(line string) (string, string) {
 
 	// 如果没有找到任何分隔符，整行作为原文，翻译为空
 	return line, ""
+}
+
+// containsNonASCII 判断字符串中是否包含非ASCII字符
+func containsNonASCII(s string) bool {
+	for _, r := range s {
+		if r > unicode.MaxASCII {
+			return true
+		}
+	}
+	return false
 }
 
 // GetNextIndex 获取下一个索引
