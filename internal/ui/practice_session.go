@@ -940,7 +940,8 @@ func (m PracticeSession) getCurrentItem() string {
 		primary = item
 	}
 
-	return primary + "\n" + translation
+	translationLine := "翻译: " + translation
+	return primary + "\n" + translationLine
 }
 
 func (m PracticeSession) getCurrentRawItem() string {
@@ -1091,35 +1092,46 @@ func (m PracticeSession) wrapText(text string, width int) string {
 		return text
 	}
 
-	words := strings.Fields(text)
-	if len(words) == 0 {
+	segments := strings.Split(text, "\n")
+	if len(segments) == 0 {
 		return text
 	}
 
-	var lines []string
-	currentLine := ""
+	var wrapped []string
 
-	for _, word := range words {
-		// 如果当前行为空，直接添加单词
-		if currentLine == "" {
-			currentLine = word
-		} else {
-			// 检查添加新单词后是否超过宽度
+	for _, segment := range segments {
+		trimmed := strings.TrimSpace(segment)
+		if trimmed == "" {
+			wrapped = append(wrapped, "")
+			continue
+		}
+
+		words := strings.Fields(trimmed)
+		if len(words) == 0 {
+			wrapped = append(wrapped, "")
+			continue
+		}
+
+		currentLine := ""
+		for _, word := range words {
+			if currentLine == "" {
+				currentLine = word
+				continue
+			}
+
 			testLine := currentLine + " " + word
 			if len(testLine) <= width {
 				currentLine = testLine
 			} else {
-				// 超过宽度，将当前行添加到结果中，开始新行
-				lines = append(lines, currentLine)
+				wrapped = append(wrapped, currentLine)
 				currentLine = word
 			}
 		}
+
+		if currentLine != "" {
+			wrapped = append(wrapped, currentLine)
+		}
 	}
 
-	// 添加最后一行
-	if currentLine != "" {
-		lines = append(lines, currentLine)
-	}
-
-	return strings.Join(lines, "\n")
+	return strings.Join(wrapped, "\n")
 }

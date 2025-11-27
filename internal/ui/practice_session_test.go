@@ -245,9 +245,9 @@ func TestGetCurrentItem(t *testing.T) {
 
 	// 创建测试会话
 	session := &PracticeSession{
-		resourceType: practice.Words,
-		items:        []string{"apple ->> 苹果", "banana ->> 香蕉", "orange ->> 橙子"},
-		practiceOrder: []int{0, 1, 2},
+		resourceType:   practice.Words,
+		items:          []string{"apple ->> 苹果", "banana ->> 香蕉", "orange ->> 橙子"},
+		practiceOrder:  []int{0, 1, 2},
 		completedCount: 0,
 	}
 
@@ -289,7 +289,7 @@ func TestGetCurrentItem(t *testing.T) {
 	config.AppConfig.ShowTranslation = true
 	session.completedCount = 0
 	result := session.getCurrentItem()
-	expected := "apple\n苹果"
+	expected := "apple\n翻译: 苹果"
 	if result != expected {
 		t.Errorf("显示翻译 getCurrentItem() = %v, want %v", result, expected)
 	}
@@ -308,7 +308,7 @@ func TestGetCurrentItem(t *testing.T) {
 	// 测试短语类型 - 显示翻译
 	config.AppConfig.ShowTranslation = true
 	result = session.getCurrentItem()
-	expected = "good morning\n早上好"
+	expected = "good morning\n翻译: 早上好"
 	if result != expected {
 		t.Errorf("短语类型显示翻译 getCurrentItem() = %v, want %v", result, expected)
 	}
@@ -327,7 +327,7 @@ func TestGetCurrentItem(t *testing.T) {
 	// 测试句子类型 - 显示翻译
 	config.AppConfig.ShowTranslation = true
 	result = session.getCurrentItem()
-	expected = "How are you?\n你好吗？"
+	expected = "How are you?\n翻译: 你好吗？"
 	if result != expected {
 		t.Errorf("句子类型显示翻译 getCurrentItem() = %v, want %v", result, expected)
 	}
@@ -346,7 +346,7 @@ func TestGetCurrentItem(t *testing.T) {
 	// 测试文章类型 - 显示翻译
 	config.AppConfig.ShowTranslation = true
 	result = session.getCurrentItem()
-	expected = "This is a test.\n这是一个测试。"
+	expected = "This is a test.\n翻译: 这是一个测试。"
 	if result != expected {
 		t.Errorf("文章类型显示翻译 getCurrentItem() = %v, want %v", result, expected)
 	}
