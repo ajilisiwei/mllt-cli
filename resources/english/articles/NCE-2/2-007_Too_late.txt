@@ -8,13 +8,13 @@ To their surprise, the precious parcel was full of stones and sand! ->> 令他�
 
 
 detectives were waiting at the airport all morning.  
-Detectives were waiting at the airport all morning, scanning every arriving passenger for the missing courier.  
-Detectives were waiting at the airport all morning, but the suspect slipped through a different terminal.  
+Detectives were waiting at the airport all morning, scanning every arriving passenger for the missing courier. ->> 侦探们在机场守了一上午，仔细检查每个抵达的乘客，寻找失踪的信使。  
+Detectives were waiting at the airport all morning, but the suspect slipped through a different terminal. ->> 侦探们在机场等了整整一上午，可嫌疑人却从另一座候机楼溜走了。  
 
 keep guard.  
-Two volunteers kept guard at the museum door until the police arrived.  
-The shepherd asked his eldest son to keep guard over the flock through the night.  
+Two volunteers kept guard at the museum door until the police arrived. ->> 两名志愿者一直在博物馆门口守着，直到警察赶来。  
+The shepherd asked his eldest son to keep guard over the flock through the night. ->> 牧羊人让大儿子整夜守护羊群。  
 
 to their surprise.  
-To their surprise, the letter contained free concert tickets instead of a bill.  
-To their surprise, the heavy box was filled with nothing but old newspapers.  
+To their surprise, the letter contained free concert tickets instead of a bill. ->> 令他们惊喜的是，那封信里装的不是账单，而是免费的演唱会门票。  
+To their surprise, the heavy box was filled with nothing but old newspapers. ->> 令他们惊讶的是，那只沉重的箱子里装的竟全是旧报纸。  
