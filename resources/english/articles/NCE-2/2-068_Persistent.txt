@@ -14,14 +14,14 @@ You're not busy doing anything, are you?' 'No, not at all,' I answered. ->> “�
 'There's always plenty to read in the waiting room!' ->> “候诊室里总有很多东西可供阅读！”他回答。
 
 
-persistent /pərˈsɪstənt/ adj. 坚持的，固执的  
+persistent ->> /pərˈsɪstənt/ adj. 坚持的，固执的  
 The persistent rain ruined our plans for the weekend. ->> 连绵不绝的雨破坏了我们周末的计划。  
 His persistent attitude eventually led to success in his career. ->> 他坚持不懈的态度最终带来了事业上的成功。  
 
-avoid /əˈvɔɪd/ v. 避开  
+avoid ->> /əˈvɔɪd/ v. 避开  
 She tried to avoid making eye contact during the meeting. ->> 她在会议期间尽量避免与人眼神接触。  
 It's wise to avoid discussing politics with colleagues. ->> 避免与同事讨论政治是明智的。  
 
-insist /ˌɪnˈsɪst/ v. 坚持做  
+insist ->> /ˌɪnˈsɪst/ v. 坚持做  
 She insists on walking to work every day, regardless of the weather. ->> 无论天气如何，她每天坚持步行去上班。  
 He insists that he was right, despite the evidence against him. ->> 尽管有相反的证据，他仍坚持自己是对的。

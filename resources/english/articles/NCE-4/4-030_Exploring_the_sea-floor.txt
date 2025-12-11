@@ -23,62 +23,62 @@ This continental slope usually starts at a place somewhere near the 100-fathom m
 The slope averages about 1 in 30, but contains steep, probably vertical, cliffs, and gentle sediment-covered terraces, and near its lower reaches there is a long tailing-off which is almost certainly the result of material transported out to deep water after being eroded from the continental masses. ->> 坡度平均约为1/30，包括陡峭的、甚至是垂直的峭壁，以及沉积物覆盖的平缓阶地，在其下游附近，有很长一段逐渐消失地带，这几乎可以肯定是大陆块体被侵蚀后，物质被水冲到深水处形成的。
 
 
-navigation /ˌnævəˈgeɪʃən/ n. 航海  
+navigation ->> /ˌnævəˈgeɪʃən/ n. 航海  
 Navigation has been crucial in the development of international trade routes.  
 Understanding navigation techniques is essential for successful ocean voyages.  
 
-sounding /ˈsaʊndɪŋ/ n. 水深度  
+sounding ->> /ˈsaʊndɪŋ/ n. 水深度  
 Accurate sounding is needed to ensure safe passage through the channel.  
 The latest technology has greatly improved the precision of soundings in deep waters.  
 
-fathom /ˈfæðəm/ n. 寻（1寻等于1.8米）  
+fathom ->> /ˈfæðəm/ n. 寻（1寻等于1.8米）  
 The shipwreck was discovered at a depth of ten fathoms beneath the sea.  
 Many sailors still measure depth in fathoms when navigating treacherous waters.  
 
-porcupine /ˈpɔrkjəˌpaɪn/ n. 箭猪  
+porcupine ->> /ˈpɔrkjəˌpaɪn/ n. 箭猪  
 The natural habitat of the porcupine is being threatened by deforestation.  
 Children were fascinated by the porcupine at the zoo, noting its sharp quills.  
 
-dredge /drɛʤ/ v. 挖掘  
+dredge ->> /drɛʤ/ v. 挖掘  
 They had to dredge the river to remove accumulated silt and improve water flow.  
 Dredging the lake helped to maintain its depth for larger boats.  
 
-expedition /ˌɛkspəˈdɪʃən/ n. 远征  
+expedition ->> /ˌɛkspəˈdɪʃən/ n. 远征  
 The expedition to the South Pole faced numerous challenges, including extreme cold.  
 He joined an expedition to explore the jungles of the Amazon River basin.  
 
-physicist /ˈfɪzɪsɪst/ n. 物理学家  
+physicist ->> /ˈfɪzɪsɪst/ n. 物理学家  
 The physicist contributed significantly to the development of quantum mechanics.  
 Renowned physicists gathered at the conference to discuss groundbreaking research.  
 
-magnitude /ˈmægnəˌtud/ n. 很多  
+magnitude ->> /ˈmægnəˌtud/ n. 很多  
 The magnitude of the earthquake was recorded at 7.2 on the Richter scale.  
 Understanding the magnitude of the problem helps in developing effective solutions.  
 
-topography /təˈpɑgrəfi/ n. 地形  
+topography ->> /təˈpɑgrəfi/ n. 地形  
 The topography of the area influences local climate and weather patterns.  
 A detailed study of the topography is essential for any construction project.  
 
-crust /krəst/ n. 地壳  
+crust ->> /krəst/ n. 地壳  
 Movements within the Earth's crust can cause earthquakes and volcanic eruptions.  
 Scientists study the Earth's crust to understand geological history and formation.  
 
-rugged /ˈrəgəd/ adj. 崎岖不平  
+rugged ->> /ˈrəgəd/ adj. 崎岖不平  
 The rugged terrain made the hike challenging but rewarding.  
 Vehicles with four-wheel drive are ideal for navigating rugged landscapes.  
 
-tableland /ˈteɪbəlˌlænd/ n. 高地  
+tableland ->> /ˈteɪbəlˌlænd/ n. 高地  
 Farmers in the tableland region often face challenges with soil erosion.  
 The tableland offers a unique ecosystem that supports diverse flora and fauna.  
 
-sediment /ˈsɛdəmənt/ n. 沉淀物  
+sediment ->> /ˈsɛdəmənt/ n. 沉淀物  
 Sediment accumulation can reduce the depth and flow of rivers.  
 The study of sediment layers helps scientists understand past climatic changes.  
 
-terrace /ˈtɛrəs/ n. 阶地  
+terrace ->> /ˈtɛrəs/ n. 阶地  
 The ancient civilization built terraces to maximize agricultural production.  
 From the terrace, there was a breathtaking view of the surrounding landscape.  
 
-erode /ɪˈroʊd/ v. 侵蚀  
+erode ->> /ɪˈroʊd/ v. 侵蚀  
 Wind and water can erode rock formations over millions of years.  
 Without proper conservation efforts, the coastline will continue to erode.

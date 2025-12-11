@@ -16,62 +16,62 @@ Could any spectacle, for instance, be more grimly whimsical than that of gunners
 We have to ask ourselves very seriously what will happen if this twofold use of knowledge, with its ever-increasing power, continues. ->> 我们不得不严肃地问问自己：随着日益增长的知识的力量，如果继续利用知识的这种双重性，将会发生什么样的情况呢？
 
 
-loom /lum/ v. 赫然耸起  
+loom ->> /lum/ v. 赫然耸起  
 A huge mountain loomed in the distance, casting a shadow over the valley.  
 As the deadline loomed closer, tension grew among the team members.  
 
-manifest /ˈmænəˌfɛst/ adj. 明显的  
+manifest ->> /ˈmænəˌfɛst/ adj. 明显的  
 Her manifest joy was infectious, brightening the mood of everyone around her.  
 The errors in the report were manifest and needed immediate correction.  
 
-morality /ˌmɔˈræləˌti/ n. 道德  
+morality ->> /ˌmɔˈræləˌti/ n. 道德  
 His actions were guided by a strong sense of morality, influencing those around him.  
 The debate centered on the morality of the proposed law changes.  
 
-communicate /kəmˈjunəˌkeɪt/ v. 交流，交际  
+communicate ->> /kəmˈjunəˌkeɪt/ v. 交流，交际  
 They learned to communicate effectively as a team, which improved their project outcomes.  
 She found it hard to communicate her feelings clearly to her friends.  
 
-compound /ˈkɑmpaʊnd/ adj. 复合的  
+compound ->> /ˈkɑmpaʊnd/ adj. 复合的  
 The compound sentence structure can add complexity to writing.  
 This medication is a compound formula, designed to treat multiple symptoms at once.  
 
-enhance /ɛnˈhæns/ v. 增进  
+enhance ->> /ɛnˈhæns/ v. 增进  
 The new software promises to enhance productivity in the workplace.  
 Lighting can dramatically enhance the ambiance of a room.  
 
-tempo /ˈtɛmˌpoʊ/ n. 速率  
+tempo ->> /ˈtɛmˌpoʊ/ n. 速率  
 The conductor set a brisk tempo for the orchestra.  
 The workout routine is designed to vary the tempo to maximize effectiveness.  
 
-trickle /ˈtrɪkəl/ n. 涓涓细流  
+trickle ->> /ˈtrɪkəl/ n. 涓涓细流  
 A trickle of water escaped from the leaky faucet, slowly filling the sink.  
 The trickle of tourists during the off-season provided a peaceful atmosphere.  
 
-torrent /ˈtɔrənt/ n. 滔滔洪流  
+torrent ->> /ˈtɔrənt/ n. 滔滔洪流  
 After the storm, a torrent of water rushed down the hillside.  
 The torrent of information available online can be overwhelming.  
 
-humanity /juˈmænɪti/ n. 人类  
+humanity ->> /juˈmænɪti/ n. 人类  
 Advancements in technology continue to shape the future of humanity.  
 Her artwork captures the essence of humanity in its rawest form.  
 
-indifferently /ɪnˈdɪfərəntli/ adv. 不在乎地  
+indifferently ->> /ɪnˈdɪfərəntli/ adv. 不在乎地  
 He shrugged indifferently at the news, showing no emotional reaction.  
 The task was completed indifferently, lacking any attention to detail.  
 
-grimly /ˈgrɪmli/ adv. 可怖地  
+grimly ->> /ˈgrɪmli/ adv. 可怖地  
 He grimly acknowledged the challenges ahead without flinching.  
 She smiled grimly as she recounted the difficult events of the past year.  
 
-whimsical /ˈwɪmzɪkəl/ adj. 怪诞的  
+whimsical ->> /ˈwɪmzɪkəl/ adj. 怪诞的  
 The artist's whimsical paintings are a delight to the imagination.  
 Her whimsical approach to problem-solving often leads to creative solutions.  
 
-shatter /ˈʃætər/ v. 毁坏  
+shatter ->> /ˈʃætər/ v. 毁坏  
 The unexpected news seemed to shatter his hopes instantly.  
 Glass shattered everywhere when the ball struck the window.  
 
-twofold /ˈtuˈfoʊld/ adj. 双重的  
+twofold ->> /ˈtuˈfoʊld/ adj. 双重的  
 The benefits of the program are twofold, improving both physical and mental well-being.  
 Her responsibilities at work are now twofold, including both administrative and managerial tasks.

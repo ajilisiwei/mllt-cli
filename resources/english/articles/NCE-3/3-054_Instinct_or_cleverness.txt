@@ -29,51 +29,51 @@ I realized sadly that I had been completely defeated by their ingenuity. ->> 我
 The ants had been quick to find an answer to my thoroughly unscientific methods! ->> 蚂蚁很快就找到了应对我这种完全不科学方法的办法！
 
 
-insect /ˈɪnˌsɛkt/ n. 昆虫  
+insect ->> /ˈɪnˌsɛkt/ n. 昆虫  
 The insect population in this area has been steadily increasing.  
 Many species of insect are vital for plant pollination.
 
-wage /weɪʤ/ v. 进行（斗争）  
+wage ->> /weɪʤ/ v. 进行（斗争）  
 They decided to wage a campaign for better working conditions.  
 The government continues to wage war against corruption.
 
-contaminate /kənˈtæməˌneɪt/ v. 弄脏  
+contaminate ->> /kənˈtæməˌneɪt/ v. 弄脏  
 Do not contaminate the water supply with chemicals.  
 The oil spill could contaminate the entire shoreline.
 
-provocation /ˌprɑvəˈkeɪʃən/ n. 惹怒  
+provocation ->> /ˌprɑvəˈkeɪʃən/ n. 惹怒  
 The provocation led to a heated debate during the meeting.  
 Despite repeated provocation, she remained calm and composed.
 
-spider /ˈspaɪdər/ n. 蜘蛛  
+spider ->> /ˈspaɪdər/ n. 蜘蛛  
 There's a large spider building a web in the corner of the room.  
 Many people are afraid of spiders even though most are harmless.
 
-wasp /wɑsp/ n. 黄蜂  
+wasp ->> /wɑsp/ n. 黄蜂  
 A wasp stung me while I was gardening yesterday.  
 Wasp nests can be commonly found under the eaves of houses.
 
-moth /mɔθ/ n. 飞蛾  
+moth ->> /mɔθ/ n. 飞蛾  
 The moth fluttered around the porch light.  
 Some species of moth can be very destructive to crops.
 
-ant /ænt/ n. 蚂蚁  
+ant ->> /ænt/ n. 蚂蚁  
 Ant colonies can be found in a variety of habitats.  
 The ant trail led directly to the picnic basket.
 
-revulsion /rɪˈvəlʃən/ n. 厌恶  
+revulsion ->> /rɪˈvəlʃən/ n. 厌恶  
 He felt a deep revulsion at the sight of the crime scene.  
 The article triggered a wave of revulsion from the public.
 
-horde /hɔrd/ n. 群  
+horde ->> /hɔrd/ n. 群  
 A horde of tourists descended upon the small village.  
 The store was overwhelmed by a horde of shoppers during the sale.
 
-uncanny /ənˈkæni/ adj. 神秘的，不可思议的  
+uncanny ->> /ənˈkæni/ adj. 神秘的，不可思议的  
 She has an uncanny ability to predict the future.  
 The old house has an uncanny atmosphere that intrigues visitors.
 
-erase /ɪˈreɪs/ v. 擦，抹去  
+erase ->> /ɪˈreɪs/ v. 擦，抹去  
 She tried to erase all evidence of her mistakes from the report.  
 The teacher asked the student to erase the board after class.
 
@@ -81,50 +81,50 @@ praying mantis 螳螂
 A praying mantis captured my attention as it camouflaged itself among the leaves.  
 Praying mantises are known for their predatory skills.
 
-entranced /ɪnˈtrænst/ adj. 出神的  
+entranced ->> /ɪnˈtrænst/ adj. 出神的  
 The audience sat entranced by the mesmerizing performance.  
 She was entranced by the beauty of the sunset over the ocean.
 
-beetle /ˈbitəl/ n. 甲虫  
+beetle ->> /ˈbitəl/ n. 甲虫  
 The beetle scurried across the forest floor in search of food.  
 Beetles come in a wide array of colors and sizes.
 
-sheltered /ˈʃɛltərd/ adj. 伤不着的，无危险的  
+sheltered ->> /ˈʃɛltərd/ adj. 伤不着的，无危险的  
 They enjoyed a sheltered upbringing, far from the city chaos.  
 The plant thrived in a sheltered spot in the garden.
 
-luscious /ˈləʃɪs/ adj. 甘美的  
+luscious ->> /ˈləʃɪs/ adj. 甘美的  
 The garden was filled with luscious fruits hanging from the trees.  
 The chef prepared a luscious dessert that was the highlight of the meal.
 
-cluster /ˈkləstər/ n. 一簇  
+cluster ->> /ˈkləstər/ n. 一簇  
 The grapes grew in a tight cluster on the vine.  
 Astronomers discovered a new cluster of stars in the distant galaxy.
 
-aphid /ˈæfɪd/ n. 蚜虫  
+aphid ->> /ˈæfɪd/ n. 蚜虫  
 The farmer used natural predators to control the aphid population on his crops.  
 Aphids can cause significant damage to tender shoots and leaves.
 
-underside /ˈəndərˌsaɪd/ n. 底面，下侧  
+underside ->> /ˈəndərˌsaɪd/ n. 底面，下侧  
 The underside of the leaf revealed a network of tiny veins.  
 To hide from predators, some fish blend in with the color of the riverbed's underside.
 
-colony /ˈkɑləni/ n. 一群  
+colony ->> /ˈkɑləni/ n. 一群  
 The beekeepers were proud of their thriving colony of bees.  
 The artist painted a scene depicting a bustling colony of penguins.
 
-sticky /ˈstɪki/ adj. 粘的  
+sticky ->> /ˈstɪki/ adj. 粘的  
 Children often love to eat sticky treats like gum and candy.  
 The sticky tape was used to secure the paper to the wall.
 
-scurry /ˈskəri/ v. 小步跑  
+scurry ->> /ˈskəri/ v. 小步跑  
 The mouse scurried across the kitchen floor when the lights were turned on.  
 Children scurry off to play as soon as school lets out.
 
-swarm /swɔrm/ v. 聚集  
+swarm ->> /swɔrm/ v. 聚集  
 Bees swarm when they are looking for a new place to build a hive.  
 Protesters began to swarm the streets, calling for action.
 
-ingenuity /ˌɪnʤəˈnuəˌti/ n. 机灵  
+ingenuity ->> /ˌɪnʤəˈnuəˌti/ n. 机灵  
 Her ingenuity in problem-solving impressed her colleagues.  
 The engineer's ingenuity led to a groundbreaking invention.

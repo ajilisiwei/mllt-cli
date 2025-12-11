@@ -11,50 +11,50 @@ They may also have used wood and skins, but these have rotted away. ->> 他们�
 Stone does not decay, and so the tools of long ago have remained when even the bones of the men who made them have disappeared without trace. ->> 石头不会腐烂，因此，尽管制造这些工具的人的骨头早已荡然无存，但远古时代的石头工具却保存了下来。
 
 
-fossil man (title) adj. 化石人
-The fossil man plays an important role in this excavation project.  
-Historians often debate the age of the fossil man in scientific circles.
+fossil man (title) ->> adj. 化石人
+The fossil man plays an important role in this excavation project. ->> 这个“化石人”在这次发掘项目中起着重要作用。
+Historians often debate the age of the fossil man in scientific circles. ->> 历史学家常在学术界讨论这位化石人的年代。
 
-recount v. 叙述
-The recount of events was vivid and detailed.  
-Witnesses were called to recount their experiences during the trial.
+recount ->> v. 叙述
+The recount of events was vivid and detailed. ->> 对事件的叙述既生动又详尽。
+Witnesses were called to recount their experiences during the trial. ->> 审判中请来了证人叙述他们的亲身经历。
 
-saga n. 英雄故事
-The saga of the ancient hero captivated the children.  
-This book recounts the saga of the Norse gods.
+saga ->> n. 英雄故事
+The saga of the ancient hero captivated the children. ->> 这位古代英雄的传奇故事吸引了孩子们。
+This book recounts the saga of the Norse gods. ->> 这本书讲述了北欧诸神的传奇。
 
-legend n. 传说，传奇
-The legend of King Arthur continues to intrigue historians.  
-According to legend, the city was founded over a thousand years ago.
+legend ->> n. 传说，传奇
+The legend of King Arthur continues to intrigue historians. ->> 亚瑟王的传说至今仍让历史学家着迷。
+According to legend, the city was founded over a thousand years ago. ->> 据传这座城市建于一千多年前。
 
-migration n. 迁移，移居
-The migration of birds is a fascinating natural phenomenon.  
-The study focuses on the migration patterns of early humans.
+migration ->> n. 迁移，移居
+The migration of birds is a fascinating natural phenomenon. ->> 鸟类迁徙是令人着迷的自然现象。
+The study focuses on the migration patterns of early humans. ->> 这项研究聚焦于早期人类的迁移模式。
 
-anthropologist n. 人类学家
-The anthropologist conducted fieldwork in remote villages.  
-Her insights as an anthropologist enriched the cultural study.
+anthropologist ->> n. 人类学家
+The anthropologist conducted fieldwork in remote villages. ->> 这位人类学家在偏远村庄进行田野调查。
+Her insights as an anthropologist enriched the cultural study. ->> 她作为人类学家的见解丰富了这项文化研究。
 
-archaeologist n. 考古学家
-The archaeologist discovered an ancient burial site.  
-New technology allows the archaeologist to explore underwater ruins.
+archaeologist ->> n. 考古学家
+The archaeologist discovered an ancient burial site. ->> 这位考古学家发现了一处古代墓葬。
+New technology allows the archaeologist to explore underwater ruins. ->> 新技术让这位考古学家得以探索水下遗迹。
 
-ancestor n. 祖先
-Researching our ancestor's history is crucial to understanding our past.  
-Many people feel a strong connection to their ancestors.
+ancestor ->> n. 祖先
+Researching our ancestor's history is crucial to understanding our past. ->> 研究祖先的历史对理解我们的过去至关重要。
+Many people feel a strong connection to their ancestors. ->> 许多人对自己的祖先有强烈的连结。
 
-Polynesian adj.波利尼西亚（中太平洋之一群岛）的
-The Polynesian culture is rich in tradition and history.  
-He decorated the room with Polynesian art and sculptures.
+Polynesian ->> adj. 波利尼西亚（中太平洋之一群岛）的
+The Polynesian culture is rich in tradition and history. ->> 波利尼西亚文化在传统和历史上都十分丰富。
+He decorated the room with Polynesian art and sculptures. ->> 他用波利尼西亚的艺术品和雕塑装饰了房间。
 
-Indonesia n. 印度尼西亚
-Indonesia boasts incredible biodiversity within its rainforests.  
-Last year, Indonesia experienced a rise in international tourism.
+Indonesia ->> n. 印度尼西亚
+Indonesia boasts incredible biodiversity within its rainforests. ->> 印尼的雨林蕴藏着惊人的生物多样性。
+Last year, Indonesia experienced a rise in international tourism. ->> 去年印尼的国际旅游人数有所增加。
 
-flint n. 燧石
-Ancient tools often included flint for starting fires.  
-The flint pieces found at the site suggest prehistoric human activity.
+flint ->> n. 燧石
+Ancient tools often included flint for starting fires. ->> 古代工具常用燧石来取火。
+The flint pieces found at the site suggest prehistoric human activity. ->> 遗址中发现的燧石碎片显示出史前人类活动的痕迹。
 
-rot n. 烂掉
-The rot on the fallen tree indicated the cycle of nature at work.  
-Unattended, the food began to rot and attract insects.
+rot ->> n. 烂掉
+The rot on the fallen tree indicated the cycle of nature at work. ->> 倒下树木的腐烂显示着自然循环在运作。
+Unattended, the food began to rot and attract insects. ->> 食物无人看管便开始腐烂并招来昆虫。

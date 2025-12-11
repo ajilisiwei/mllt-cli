@@ -19,78 +19,78 @@ He had been there for nearly ten hours. ->> 他已经在烟囱里被困了将近
 Justice had been done even before the man was handed over to the police. ->> 甚至在那人被交给警察之前，正义就已得到了伸张。
 
 
-justicen. /justicen*./ 正义，公正；司法  
+justicen. ->> /justicen*./ 正义，公正；司法  
 The notion of 'justicen.' is central to this discussion on ethics. ->> “justicen.”的概念在这场关于伦理的讨论中是核心。  
 Many debates often revolve around the interpretation of 'justicen.' in society. ->> 许多辩论常常围绕着社会中对“justicen.”的解释展开。  
 
-court /kɔrt/ n. 法院  
+court ->> /kɔrt/ n. 法院  
 The court has the final say in matters of justice. ->> 法院在司法问题上有最终裁定权。  
 She spent years studying how the court system operates in different countries. ->> 她花了多年时间研究法院系统在不同国家的运作方式。  
 
-law /lɔ/ n. 法律  
+law ->> /lɔ/ n. 法律  
 The law protects the rights of every citizen. ->> 法律保护每一位公民的权利。  
 Understanding the law is crucial for anyone entering the legal profession. ->> 理解法律对于任何进入法律职业的人来说都是至关重要的。  
 
-innocence /ˈɪnəsəns/ n. 无辜  
+innocence ->> /ˈɪnəsəns/ n. 无辜  
 His innocence was finally proven after years of wrongful imprisonment. ->> 多年冤狱之后，他的无辜终于得到证明。  
 Childhood innocence is a theme often explored in literature. ->> 儿童的天真无邪是文学中常被探讨的主题。  
 
-undertake /ˈəndərˌteɪk/ v. 承担；着手做  
+undertake ->> /ˈəndərˌteɪk/ v. 承担；着手做  
 They decided to undertake a new project despite the challenges. ->> 尽管有挑战，他们还是决定着手进行一个新项目。  
 He's willing to undertake the responsibility for the team's success. ->> 他愿意承担团队成功的责任。  
 
-arduous /ˈɑrʤuəs/ adj. 艰苦的，艰难的  
+arduous ->> /ˈɑrʤuəs/ adj. 艰苦的，艰难的  
 The hikers embarked on an arduous journey through the mountains. ->> 徒步者开始了一段艰苦的山间旅行。  
 Completing this project proved to be more arduous than initially anticipated. ->> 完成这个项目比最初预期的要艰难得多。  
 
-abstract /ˈæbˌstrækt/ adj. 抽象的  
+abstract ->> /ˈæbˌstrækt/ adj. 抽象的  
 Her artwork is known for its abstract style, which captivates many viewers. ->> 她的作品因其抽象风格而闻名，吸引了很多观众。  
 The philosophy lecture dealt with very abstract concepts that were hard to grasp. ->> 哲学讲座涉及非常抽象的概念，很难理解。  
 
-concept /ˈkɑnsɛpt/ n. 概念，观念  
+concept ->> /ˈkɑnsɛpt/ n. 概念，观念  
 The concept of freedom varies greatly across different cultures. ->> 自由的概念在不同文化中有很大差异。  
 Innovative concepts in technology are driving the future of the industry. ->> 技术中的创新概念正在驱动行业的未来。  
 
-mete /ˈmɛtə/ out 给予，处置  
+mete ->> /ˈmɛtə/ out 给予，处置  
 It is not fair to mete out punishment without a full understanding of the situation. ->> 在不了解全面情况的情况下给予惩罚是不公平的。  
 The judge must carefully decide how to mete out justice in each case. ->> 法官必须仔细决定如何在每一个案子中实施正义。  
 
-interference /ˌɪnərˈfɪrəns/ n. 干涉  
+interference ->> /ˌɪnərˈfɪrəns/ n. 干涉  
 Government interference in the market can lead to unintended consequences. ->> 政府对市场的干涉可能导致意想不到的后果。  
 There was significant interference with the radio signal during the storm. ->> 暴风雨期间，广播信号受到严重干扰。  
 
-accord /əˈkɔrd/ n. 一致  
+accord ->> /əˈkɔrd/ n. 一致  
 The two countries reached an accord that benefited both sides. ->> 两国达成了一致，且对双方都有利。  
 In accord with tradition, the festival began with a parade. ->> 按照惯例，节日以游行开始。  
 
-premises /ˈprɛməsəz/ n. 房屋  
+premises ->> /ˈprɛməsəz/ n. 房屋  
 The company moved to new premises downtown to expand their operations. ->> 公司搬到市中心的新房屋以扩大经营。  
 Visitors are not allowed to enter the premises without a valid pass. ->> 访客没有有效通行证不得进入房屋。  
 
-convert /ˈkɑnvərt/ v. 转变，改变  
+convert ->> /ˈkɑnvərt/ v. 转变，改变  
 They plan to convert the old barn into a modern office space. ->> 他们计划将旧谷仓改造为现代办公空间。  
 The novel was converted into a successful film. ->> 这部小说被改编成了一部成功的电影。  
 
-disused /disused*/ adj. 不再用的，废弃的  
+disused ->> /disused*/ adj. 不再用的，废弃的  
 The disused railway line is now a popular walking trail. ->> 废弃的铁路线现在成了一条受欢迎的步行小道。  
 They found an old, disused factory by the edge of town. ->> 他们在镇边发现了一座废弃的旧工厂。  
 
-fireplace /ˈfaɪərˌpleɪs/ n. 壁炉  
+fireplace ->> /ˈfaɪərˌpleɪs/ n. 壁炉  
 The cozy living room was centered around a large stone fireplace. ->> 舒适的客厅以一个大石头壁炉为中心。  
 They gathered around the fireplace on cold winter nights. ->> 在寒冷的冬夜，他们聚集在壁炉旁。  
 
-muffle /ˈməfəl/ v. 捂住，厌抑  
+muffle ->> /ˈməfəl/ v. 捂住，厌抑  
 She used a scarf to muffle the sound of her cough. ->> 她用围巾捂住咳嗽声。  
 Thick walls can muffle the noise from outside the building. ->> 厚墙可以抑制来自建筑外的噪音。  
 
-chip /ʧɪp/ v. 砍，削，凿  
+chip ->> /ʧɪp/ v. 砍，削，凿  
 He chipped away at the block of wood to create a sculpture. ->> 他用力凿那块木头来创作雕塑。  
 Be careful not to chip the paint on the car with your keys. ->> 小心不要用钥匙剐掉车上的油漆。  
 
-blacken /ˈblækən/ v. 使变黑  
+blacken ->> /ˈblækən/ v. 使变黑  
 The smoke from the fire blackened the ceiling. ->> 火产生的烟熏黑了天花板。  
 Over time, the silver began to blacken with tarnish. ->> 随着时间的推移，银器开始因褪色而变黑。  
 
-emerge /ˈimərʤ/ v. （从某处）出现  
+emerge ->> /ˈimərʤ/ v. （从某处）出现  
 After hours of meditation, a sense of calm began to emerge. ->> 冥想几个小时后，一种平静感开始出现。  
 The issues and challenges soon emerged during the discussion. ->> 在讨论中，问题和挑战很快浮现出来。

@@ -9,14 +9,14 @@ Thousands of lanterns slowly drift out to sea guiding the dead on their return j
 This is a moving spectacle, for crowds of people stand on the shore watching the lanterns drifting away until they can be seen no more. ->> 这是一个感人的场面，人们成群结队地站在海岸上，注视着灯笼漂远，直到消失不见。
 
 
-festival /ˈfɛstɪvəl/ n. 节日  
+festival ->> /ˈfɛstɪvəl/ n. 节日  
 The festival brings people from all walks of life together. ->> 节日把各行各业的人们聚集在一起。  
 Attending the festival is a highlight of the year for many locals. ->> 参加节日是许多当地人的年度亮点。
 
-lantern /ˈlæntərn/ n. 灯笼  
+lantern ->> /ˈlæntərn/ n. 灯笼  
 We decorated the entire venue with colorful lanterns. ->> 我们用五颜六色的灯笼装饰了整个场地。  
 The lantern illuminated the dark alley as we passed through. ->> 当我们穿过时，灯笼照亮了黑暗的小巷。
 
-spectacle /ˈspɛktəkəl/ n. 景象，壮观，场面  
+spectacle ->> /ˈspɛktəkəl/ n. 景象，壮观，场面  
 The fireworks created a stunning spectacle in the night sky. ->> 烟花在夜空中创造了一场惊人的景象。  
 Everyone was captivated by the spectacle of the sunset over the ocean. ->> 每个人都被海上日落的壮观景象迷住了。

@@ -12,74 +12,74 @@ By 12.01, those fluctuations will already have created small errors one foot awa
 Soon the errors will have multiplied to the ten-foot scale, and so on up to the size of the globe. ->> 不久这些误差就会扩展到十英尺的尺度，继而扩展到整个地球的尺度。
 
 
-forecast /ˈfɔrˌkæst/ n. 预报  
+forecast ->> /ˈfɔrˌkæst/ n. 预报  
 The economic forecast was more optimistic than expected.  
 Before planning our hike, we checked the weather forecast for the weekend.
 
-speculative /ˈspɛkjələtɪv/ adj. 推测的  
+speculative ->> /ˈspɛkjələtɪv/ adj. 推测的  
 His speculative remarks about the stock market turned out to be quite accurate.  
 The art exhibit featured many speculative designs about future cities.
 
-blizzard /ˈblɪzərd/ n. 暴风雪  
+blizzard ->> /ˈblɪzərd/ n. 暴风雪  
 The blizzard paralyzed the entire city for days.  
 Schools were closed due to the severe blizzard warning.
 
-deteriorate /dɪˈtɪriərˌeɪt/ v. 变坏  
+deteriorate ->> /dɪˈtɪriərˌeɪt/ v. 变坏  
 Her health continued to deteriorate despite the best medical efforts.  
 The neglected building began to deteriorate over the years.
 
-multiply /ˈməltəˌplaɪ/ v. 增加  
+multiply ->> /ˈməltəˌplaɪ/ v. 增加  
 Bacteria can multiply rapidly under the right conditions.  
 Her responsibilities at work began to multiply after the promotion.
 
-cascade /kæˈskeɪd/ v. 瀑布似地落下  
+cascade ->> /kæˈskeɪd/ v. 瀑布似地落下  
 The water cascaded down the rocks into the pool below.  
 Her hair cascaded over her shoulders in soft curls.
 
-turbulent /ˈtərbjələnt/ adj. 狂暴的  
+turbulent ->> /ˈtərbjələnt/ adj. 狂暴的  
 The plane experienced turbulent skies on the way to its destination.  
 He had a turbulent childhood filled with constant change.
 
-dust /dəst/ devil 小尘暴，尘旋风  
+dust ->> /dəst/ devil 小尘暴，尘旋风  
 The dust devil danced across the open field on a hot summer day.  
 Farmers often spot dust devils on their land during dry seasons.
 
-squall /skwɔl/ n. 暴风  
+squall ->> /skwɔl/ n. 暴风  
 A sudden squall caught us off guard while we were sailing.  
 The squall left a trail of debris in its wake.
 
-eddy /ˈɛdi/ n. 旋涡  
+eddy ->> /ˈɛdi/ n. 旋涡  
 Strong eddies made it difficult for the small boat to navigate the river.  
 The artist captured the essence of eddies in her painting of the river.
 
-grid /grɪd/ n. 坐标方格  
+grid ->> /grɪd/ n. 坐标方格  
 The map used a grid system to help locate specific landmarks.  
 Engineers worked tirelessly to restore power to the entire grid after the blackout.
 
-sensor /ˈsɛnsər/ n. 传感器  
+sensor ->> /ˈsɛnsər/ n. 传感器  
 The sensor detected motion and turned on the outdoor lights automatically.  
 Modern cars are equipped with sensors to alert drivers of obstacles.
 
-humidity /hjuˈmɪdəti/ n. 湿度  
+humidity ->> /hjuˈmɪdəti/ n. 湿度  
 High humidity makes the summer heat feel even more oppressive.  
 The humidity in the rainforest is much higher than in the desert.
 
-meteorologist /ˌmitiərˈɑləʤɪst/ n. 气象学家  
+meteorologist ->> /ˌmitiərˈɑləʤɪst/ n. 气象学家  
 The meteorologist predicted a snowy winter for the northern regions.  
 A renowned meteorologist delivered a lecture on climate change impacts.
 
-Princeton /ˈprɪnstən/ n. 普林斯顿（美国城市名）  
+Princeton ->> /ˈprɪnstən/ n. 普林斯顿（美国城市名）  
 Princeton is known for its prestigious university and rich history.  
 After graduation, she received a job offer from a company based in Princeton.
 
-New Jersey /nu ˈʤərzi/ n. 新泽西（美国州名）  
+New Jersey ->> /nu ˈʤərzi/ n. 新泽西（美国州名）  
 New Jersey is famous for its shorelines and bustling suburbs.  
 Many commuters travel from New Jersey to New York City for work.
 
-fluctuation /ˌfləkʧuˈeɪʃən/ n. 起伏，波动  
+fluctuation ->> /ˌfləkʧuˈeɪʃən/ n. 起伏，波动  
 The stock market experienced significant fluctuation throughout the week.  
 Temperature fluctuations can be challenging for plant life.
 
-deviation /ˌdiviˈeɪʃən/ n. 偏差  
+deviation ->> /ˌdiviˈeɪʃən/ n. 偏差  
 There was a noticeable deviation from the expected results in the experiment.  
 Flight deviation occurred due to unexpected weather conditions.

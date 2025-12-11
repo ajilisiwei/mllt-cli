@@ -13,46 +13,46 @@ The examiner looked at me sadly. ->> 主考人伤心地看着我。
 'Mr.Eames,' he said, in a mournful voice, 'you have just killed that child!' ->> “埃姆斯先生，”他以悲伤的声调说，“你刚刚把那个小孩压死了！”
 
 
-murder /ˈmərdər/ n. 谋杀  
+murder ->> /ˈmərdər/ n. 谋杀  
 The details of the murder were shocking to everyone involved. ->> 谋杀的细节令所有相关人员震惊。  
 The murder remains unsolved, keeping the town in suspense. ->> 这起谋杀案尚未侦破，使小镇一直处于悬念中。
 
-instruct /ˌɪnˈstrəkt/ v. 命令，指示  
+instruct ->> /ˌɪnˈstrəkt/ v. 命令，指示  
 The general instructed his troops to advance at dawn. ->> 将军指示他的部队黎明时前进。  
 The instructor was careful to instruct the students on lab safety. ->> 教师细心地指示学生实验室安全规则。
 
-acquire /əkˈkwaɪər/ v. 取得，获得  
+acquire ->> /əkˈkwaɪər/ v. 取得，获得  
 She managed to acquire a rare painting at the auction. ->> 她设法在拍卖会上获得了一幅稀有的画。  
 The company is looking to acquire new technology to stay competitive. ->> 公司正在寻求获得新技术以保持竞争力。
 
-confidence /ˈkɑnfədɛns/ n. 信心  
+confidence ->> /ˈkɑnfədɛns/ n. 信心  
 Her confidence grew with each successful presentation. ->> 随着每次成功的演示，她的信心不断增强。  
 The team's confidence was evident in their performance on the field. ->> 这支队伍的信心在他们的场上表现中显而易见。
 
-examiner /ɪgˈzæmənər/ n. 主考人  
+examiner ->> /ɪgˈzæmənər/ n. 主考人  
 The examiner provided feedback after reviewing the examination papers. ->> 主考人在审阅试卷后提供了反馈。  
 An experienced examiner can usually spot any inconsistencies in the test. ->> 有经验的主考人通常能发现测试中的任何不一致。
 
-suppose /səˈpoʊz/ v. 假设  
+suppose ->> /səˈpoʊz/ v. 假设  
 Suppose we find a solution, what would be our next step? ->> 假设我们找到了解决方案，我们的下一个步骤是什么？  
 It's interesting to suppose what life would be like in the future. ->> 假设未来的生活会是什么样子，这很有趣。
 
-tap /tæp/ v. 轻敲  
+tap ->> /tæp/ v. 轻敲  
 She tapped gently on the door before entering the room. ->> 她在进房间前轻轻地敲了敲门。  
 He tapped a rhythm on the table as he waited for his meal. ->> 他在等待饭菜时在桌子上敲打着节奏。
 
-react /riækt/ v. 反应  
+react ->> /riækt/ v. 反应  
 He reacts quickly when faced with challenging questions. ->> 当面对有挑战性的问题时，他反应迅速。  
 The audience reacted positively to the speaker's message. ->> 观众对演讲者的信息反应积极。
 
-brake /breɪk/ n. 刹车  
+brake ->> /breɪk/ n. 刹车  
 The car's brake failed, leading to a minor accident. ->> 汽车的刹车失灵，导致轻微事故。  
 He applied the brake just in time to avoid hitting the deer. ->> 他及时踩下刹车以避免撞到鹿。
 
-pedal /ˈpɛdəl/ n. 踏板  
+pedal ->> /ˈpɛdəl/ n. 踏板  
 She adjusted the pedal on her bicycle before starting her ride. ->> 她在骑车之前调整了自行车的踏板。  
 The piano pedal is crucial for creating a sustained sound. ->> 钢琴踏板对于创造持续的声音至关重要。
 
-mournful /ˈmɔrnfəl/ adj. 悲哀的  
+mournful ->> /ˈmɔrnfəl/ adj. 悲哀的  
 The mournful expression on his face was unmistakable at the funeral. ->> 他脸上的悲哀表情在葬礼上清晰可见。  
 The mournful music filled the room, evoking deep emotions. ->> 悲哀的音乐充满整个房间，激起深刻的情感。

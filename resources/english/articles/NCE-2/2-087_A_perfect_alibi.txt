@@ -11,30 +11,30 @@
 'I suggest,' said the inspector, 'that you are not telling the truth. I suggest that you did not catch the 8 o'clock train, but that you caught the 8.25 which would still get you to work on time. You see, on the morning of the murder, the 8 o'clock train did not run at all. It broke down at Ferngreen station and was taken off the line.' ->> “我提醒您，”探长说，“您讲的不是实话。您乘的不是8点钟的那次火车，而是8点25分的，这趟车同样能使您按时上班。您看，在凶杀发生的那天早晨，8点钟的那趟车根本没有发。它在芬格林车站出了故障而被取消了。”
 
 
-alibi /ˈæləˌbaɪ/ n. 不在犯罪现场  
+alibi ->> /ˈæləˌbaɪ/ n. 不在犯罪现场  
 The alibi plays an important role in solving the mystery. ->> 不在犯罪现场在破解这个谜团中起着重要作用。  
 People often examine the alibi when they discuss crime cases. ->> 人们在讨论犯罪案件时经常检视不在犯罪现场。  
 
-commit /kəˈmɪt/ v. 犯（罪、错）  
+commit ->> /kəˈmɪt/ v. 犯（罪、错）  
 The act of committing a crime plays an important role in this novel. ->> 犯罪行为在这部小说中起着重要作用。  
 People often discuss how to prevent someone from committing an offense. ->> 人们经常讨论如何防止某人犯错。  
 
-inspector /ˌɪnˈspɛktər/ n. 探长  
+inspector ->> /ˌɪnˈspɛktər/ n. 探长  
 The inspector plays an important role in unraveling the case details. ->> 探长在解开案件细节中起着重要作用。  
 People often mention the inspector when they talk about famous detective stories. ->> 人们在谈论著名侦探故事时经常提到探长。  
 
-employer /ɪmˈplɔɪər/ n. 雇主  
+employer ->> /ɪmˈplɔɪər/ n. 雇主  
 The employer plays an important role in maintaining a good work environment. ->> 雇主在维护良好的工作环境中起着重要作用。  
 People often consult the employer when they discuss job-related issues. ->> 人们在讨论与工作相关的问题时经常咨询雇主。  
 
-confirm /kənˈfərm/ v. 确认，证实  
+confirm ->> /kənˈfərm/ v. 确认，证实  
 The act of confirming plays an important role in establishing the facts. ->> 确认行为在建立事实中起着重要作用。  
 People often talk about the need to confirm information when they discuss research methodologies. ->> 人们在讨论研究方法时经常提到确认信息的必要性。  
 
-suggest /səˈʤɛst/ v. 提醒  
+suggest ->> /səˈʤɛst/ v. 提醒  
 The ability to suggest an idea plays an important role in creative processes. ->> 提醒一个想法的能力在创造性过程中起着重要作用。  
 People often make suggestions when they discuss ways to improve a project. ->> 人们在讨论改进项目的方法时经常提出建议。  
 
-truth /truθ/ n. 真相  
+truth ->> /truθ/ n. 真相  
 The truth plays an important role in the pursuit of justice. ->> 真相在追求正义中起着重要作用。  
 People often search for the truth when they discuss historical events. ->> 人们在讨论历史事件时经常寻求真相。

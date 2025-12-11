@@ -16,26 +16,26 @@ Jackson: This is Jim. ->> 杰克逊：这位是吉姆。
 Jackson: He is our office assistant. ->> 杰克逊：他是我们的办公室助理。
 
 
-employee /ɪmˈplɔɪi/ n. 雇员  
+employee ->> /ɪmˈplɔɪi/ n. 雇员  
 The new employee quickly adapted to the team's workflow. ->> 新雇员迅速适应了团队的工作流程。  
 Each employee received a bonus for exceeding their targets. ->> 每位雇员因超额完成目标而获得奖金。
 
-hard-working /ˌhɑrdˈwərkɪŋ/ adj. 勤奋的  
+hard-working ->> /ˌhɑrdˈwərkɪŋ/ adj. 勤奋的  
 She is known as one of the most hard-working members of the team. ->> 她被公认为团队中最勤奋的成员之一。  
 The hard-working farmers toiled in the fields from dawn until dusk. ->> 勤奋的农民们从黎明到黄昏都在田里辛勤劳作。
 
-sales /seɪlz/ reps 推销员  
+sales ->> /seɪlz/ reps 推销员  
 The sales reps attended a training session to improve their skills. ->> 推销员们参加了一个培训课程以提高技能。  
 Our sales reps set a new record for quarterly revenue. ->> 我们的推销员创下了季度收入的新纪录。
 
-man /mæn/ n. 男人  
+man ->> /mæn/ n. 男人  
 A tall man waited patiently at the bus stop. ->> 一个高个子的男人在公交车站耐心等待。  
 The man gave a moving speech at the conference. ->> 那个男人在会议上发表了感人的演讲。
 
-office /ˈɔfəs/ n. 办公室  
+office ->> /ˈɔfəs/ n. 办公室  
 Her office is decorated with vibrant artwork. ->> 她的办公室装饰着鲜艳的艺术品。  
 The office renovation will begin next month. ->> 办公室装修将于下个月开始。
 
-assistant /əˈsɪstənt/ n. 助手  
+assistant ->> /əˈsɪstənt/ n. 助手  
 His assistant prepared the presentation for the meeting. ->> 他的助手为会议准备了演示文稿。  
 The talented assistant quickly mastered all her tasks. ->> 那位才华洋溢的助手迅速掌握了所有任务。

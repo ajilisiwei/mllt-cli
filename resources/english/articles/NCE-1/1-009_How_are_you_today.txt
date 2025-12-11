@@ -10,34 +10,34 @@ STEVEN: Goodbye, Helen. Nice to see you. ->> 史蒂文：再见，海伦。见�
 HELEN: Nice to see you, too, Steven. Goodbye. ->> 海伦：见到你也很高兴，史蒂文。再见。
 
 
-hello /hɛˈloʊ/ int. 喂（表示问候）  
+hello ->> /hɛˈloʊ/ int. 喂（表示问候）  
 He picked up the phone and said 'hello' to the caller. ->> 他接起电话对来电者说“hello”。  
 The girl smiled when she heard 'hello' from across the room. ->> 当她从房间的另一边听到“hello”时微笑了。  
 
-hi /haɪ/ int. 喂，嗨  
+hi ->> /haɪ/ int. 喂，嗨  
 She sent a quick text saying 'hi' to her cousin. ->> 她快速发了一条短信对表弟说“hi”。  
 Every morning, he starts his day with a cheerful 'hi' on his team call. ->> 每天早上，他都在团队电话中愉快地说“hi”开始自己的一天。  
 
-today /təˈdeɪ/ adv. 今天  
+today ->> /təˈdeɪ/ adv. 今天  
 We have an important meeting scheduled for today. ->> 我们今天安排了一场重要的会议。  
 Today, I'm going to try a new recipe for dinner. ->> 今天我要尝试一份新的晚餐食谱。  
 
-well /wɛl/ adj. 身体好  
+well ->> /wɛl/ adj. 身体好  
 He looks well after his vacation in the mountains. ->> 他休完山里的假后看起来身体很好。  
 It's great to hear you're feeling well again. ->> 很高兴听到你身体又恢复健康了。  
 
-fine /faɪn/ adj. 美好的  
+fine ->> /faɪn/ adj. 美好的  
 The restaurant has a fine selection of wines. ->> 这家餐馆有很好的葡萄酒选择。  
 She wore a fine dress to the gala event. ->> 她穿了一件美丽的连衣裙参加晚会。  
 
-thanks /θæŋks/ int. 谢谢  
+thanks ->> /θæŋks/ int. 谢谢  
 'Thanks for the ride,' he said as he got out of the car. ->> 他下车时说：“谢谢你搭载我。”  
 Thanks for joining us tonight, we really appreciate it. ->> 感谢你今晚加入我们，我们真的很感激。  
 
-goodbye /ˌgʊdˈbaɪ/ int. 再见  
+goodbye ->> /ˌgʊdˈbaɪ/ int. 再见  
 She blew a kiss as she said goodbye to her parents. ->> 她送了个飞吻对父母说再见。  
 After the long trip, he said a heartfelt goodbye to the people he met. ->> 长途旅行后，他对遇到的人们说了诚挚的再见。  
 
-see /si/ v. 见  
+see ->> /si/ v. 见  
 He went to see the doctor about his persistent cough. ->> 他去看医生检查持续的咳嗽。  
 They arranged to see each other for lunch next week. ->> 他们约定下周见面吃午餐。

@@ -21,54 +21,54 @@ Even this was remarkable, considering that she had had so many delays. ->> 考�
 There is no doubt that if she had not lost her rudder she would have won the race easily. ->> 毫无疑问，如果中途没有失去舵，“卡蒂萨克”号肯定能轻松夺冠。
 
 
-impressiveadj. /impressiveadj*./ 给人深刻印象的
+impressiveadj. ->> /impressiveadj*./ 给人深刻印象的
 The impressiveadj. sunset left the audience in awe. ->> 那个给人深刻印象的日落让观众惊叹不已。
 Her performance was so impressiveadj. that everyone gave a standing ovation. ->> 她的表演给人留下深刻印象，以至于每个人都起立鼓掌。
 
-steamship /ˈstimˌʃɪp/ n. 蒸汽轮船
+steamship ->> /ˈstimˌʃɪp/ n. 蒸汽轮船
 The steamship sailed across the Atlantic Ocean in record time. ->> 蒸汽轮船以创纪录的时间横渡了大西洋。
 Tourists enjoyed the scenic views from the deck of the steamship. ->> 游客们在蒸汽轮船的甲板上欣赏美丽的风景。
 
-vessel /ˈvɛsəl/ n. 轮船，大木船
+vessel ->> /ˈvɛsəl/ n. 轮船，大木船
 The vessel docked at the harbor after a long voyage. ->> 轮船经过长途航行后停靠在港口。
 He spent months on the vessel conducting marine biology research. ->> 他在轮船上花了数月进行海洋生物学研究。
 
-era /ˈɪrə/ n. 时期，时代
+era ->> /ˈɪrə/ n. 时期，时代
 The discovery marked a new era in technology. ->> 这个发现标志着科技新时代的到来。
 Historians often refer to that era as a time of great change. ->> 历史学家通常将那个时期视为巨大变革的时代。
 
-Java /ˈʤɑvə/ n. 爪哇（印度尼西亚一岛）
+Java ->> /ˈʤɑvə/ n. 爪哇（印度尼西亚一岛）
 The island of Java is known for its rich culture and history. ->> 爪哇岛以其丰富的文化和历史而闻名。
 During our travels, we spent a week exploring Java. ->> 在旅行中，我们花了一周时间探索爪哇。
 
-rudder /ˈrədər/ n. 舵
+rudder ->> /ˈrədər/ n. 舵
 The captain skillfully maneuvered the ship using the rudder. ->> 船长熟练地使用舵操纵船只。
 A malfunction in the rudder caused the ship to drift off course. ->> 舵的故障导致船只偏离航线。
 
-roll /roʊl/ v. 颠簸，摇摆
+roll ->> /roʊl/ v. 颠簸，摇摆
 The ship began to roll as the storm intensified. ->> 随着风暴加剧，船开始颠簸。
 Passengers felt the roll of the aircraft during turbulence. ->> 乘客在颠簸中感受到飞机的摇摆。
 
-steer /stɪr/ v. 掌握方向
+steer ->> /stɪr/ v. 掌握方向
 I had to steer carefully through the narrow streets. ->> 我必须小心地在狭窄的街道上掌握方向。
 She learned how to steer the boat during sailing lessons. ->> 她在帆船课程中学习了如何掌握船的方向。
 
-temporary /ˈtɛmpərˌɛri/ adj. 临时的
+temporary ->> /ˈtɛmpərˌɛri/ adj. 临时的
 The temporary job provided him with valuable experience. ->> 这份临时工作给他带来了宝贵的经验。
 They set up a temporary shelter for the flood victims. ->> 他们为洪水受灾者搭建了一个临时避难所。
 
-plank /plæŋk/ n. 大块木板
+plank ->> /plæŋk/ n. 大块木板
 He used a plank to bridge the gap in the fence. ->> 他用一块大木板来填补篱笆的缺口。
 The carpenters carried the heavy plank to the construction site. ->> 木匠们把沉重的木板搬到施工现场。
 
-fit /fɪt/ v. 安装
+fit ->> /fɪt/ v. 安装
 He called an expert to help fit the new equipment. ->> 他请来一位专家帮助安装新设备。
 The technician will fit the parts into the machine this afternoon. ->> 技术员将在今天下午将零件安装到机器上。
 
-Equator /ɪkˈweɪtər/ n. 赤道
+Equator ->> /ɪkˈweɪtər/ n. 赤道
 The Equator is an imaginary line that divides the Earth into two hemispheres. ->> 赤道是一条将地球分为两个半球的假想线。
 Countries near the Equator often experience tropical climates. ->> 靠近赤道的国家通常经历热带气候。
 
-delay /dɪˈleɪ/ n. 耽误
+delay ->> /dɪˈleɪ/ n. 耽误
 The delay in the project's completion caused quite a few issues. ->> 项目完成的耽误造成了许多问题。
 Travelers were frustrated by the delay at the airport. ->> 旅客们对机场的耽误感到沮丧。

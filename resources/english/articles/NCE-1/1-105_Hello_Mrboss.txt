@@ -21,22 +21,22 @@ The Boss: It's a dictionary. ->> 老板：是本词典。
 I hope it will help you. ->> 我希望它能对你有所帮助。
 
 
-spell /spɛl/ v. 拼写  
+spell ->> /spɛl/ v. 拼写  
 Could you spell the address out for me? ->> 你能帮我拼一下这个地址吗？  
 Children often learn to spell by using phonics exercises. ->> 孩子们通常通过语音练习学习拼写。
 
-intelligent /ˌɪnˈtɛləʤənt/ adj. 聪明的，有智慧的  
+intelligent ->> /ˌɪnˈtɛləʤənt/ adj. 聪明的，有智慧的  
 He came up with an intelligent solution to the issue. ->> 他提出了一个聪明的解决方案。  
 Her intelligent remarks impressed everyone at the meeting. ->> 她聪明的发言让会议上的每个人都印象深刻。
 
-mistake /mɪˈsteɪk/ n. 错误  
+mistake ->> /mɪˈsteɪk/ n. 错误  
 She realized her mistake and quickly corrected it. ->> 她意识到了自己的错误并迅速改正。  
 It's okay to make a mistake as long as you learn from it. ->> 只要从中学习，犯错误是可以接受的。
 
-present /ˈprɛzənt/ n. 礼物  
+present ->> /ˈprɛzənt/ n. 礼物  
 He was surprised by the unexpected present. ->> 他对这个意外的礼物感到惊喜。  
 They exchanged presents during the holiday season. ->> 他们在节日期间互换礼物。
 
-dictionary /ˈdɪkʃəˌnɛri/ n. 词典  
+dictionary ->> /ˈdɪkʃəˌnɛri/ n. 词典  
 He consulted the dictionary for the definition of the word. ->> 他查阅了词典寻找这个词的定义。  
 My grandmother gave me an old dictionary as a gift. ->> 我祖母送了我一本旧词典作为礼物。

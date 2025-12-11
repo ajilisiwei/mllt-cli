@@ -12,35 +12,35 @@ The snake then wound itself round the wires. ->> 然后，蛇就缠住了电线�
 When it did so, it sent sparks down to the ground and these immediately started a fire. ->> 当它这样做时，火花落到了地面，立刻引起了一场大火。
 
 
-hot /hɑt/ adj. 带电的，充电的  
+hot ->> /hɑt/ adj. 带电的，充电的  
 The device remained hot after being connected to the charger. ->> 设备在接上充电器后保持带电。（充电）  
 Be careful when touching that wire; it might still be hot. ->> 小心触摸那根电线；它可能仍然是带电的。（充电）  
 
-fireman /ˈfaɪrmən/ n. 消防队员  
+fireman ->> /ˈfaɪrmən/ n. 消防队员  
 The fireman quickly extinguished the flames before they spread. ->> 消防队员迅速扑灭了火焰，防止蔓延。  
 Children often dream of becoming a fireman to save lives. ->> 孩子们常常梦想成为消防队员去拯救生命。  
 
-cause /kɔz/ v. 引起； n. 原因  
+cause ->> /kɔz/ v. 引起； n. 原因  
 Lack of sleep can cause various health issues. ->> 缺乏睡眠会引起各种健康问题。  
 Determining the cause of the accident was their main focus. ->> 确定事故的原因是他们的主要关注点。  
 
-examine /ɪgˈzæmɪn/ v. 检查  
+examine ->> /ɪgˈzæmɪn/ v. 检查  
 The doctor will examine your injury thoroughly. ->> 医生将彻底检查你的伤口。  
 Before buying a used car, it's wise to examine it carefully. ->> 在买二手车之前，仔细检查是明智的。  
 
-accidentally /ˌæksəˈdɛnəli/ adv. 意外地，偶然地  
+accidentally ->> /ˌæksəˈdɛnəli/ adv. 意外地，偶然地  
 She accidentally deleted the important document from her computer. ->> 她意外地从电脑上删除了重要文件。  
 I accidentally ran into an old friend at the supermarket. ->> 我在超市偶然碰到了一个老朋友。  
 
-remains /rɪˈmeɪnz/ n. 尸体，残骸  
+remains ->> /rɪˈmeɪnz/ n. 尸体，残骸  
 The remains of the ancient city were discovered during the excavation. ->> 那座古城的残骸是在挖掘过程中发现的。  
 After the fire, only the remains of the house stood. ->> 火灾过后，房子的残骸仍然矗立在那里。  
 
-wire /waɪər/ n. 电线  
+wire ->> /waɪər/ n. 电线  
 Be sure to connect the red wire to the positive terminal. ->> 确保将红色电线连接到正极。  
 The fence was reinforced with barbed wire for added security. ->> 为了增加安全性，围栏加固了带刺的铁丝。  
 
-volt /voʊlt/ n. 伏特（电压单位）  
+volt ->> /voʊlt/ n. 伏特（电压单位）  
 This battery operates at 12 volts. ->> 这个电池在12伏特下工作。  
 The new device can handle up to 240 volts. ->> 新设备可以承受高达240伏特。  
 
@@ -48,18 +48,18 @@ power line 电力线
 The power line was damaged during the storm, causing outages. ->> 风暴期间，电力线受损，导致停电。  
 Birds often perch on power lines, seemingly unaffected by the electricity. ->> 鸟儿常常栖息在电力线上，似乎不受电影响。  
 
-solve /sɑlv/ v. 解决  
+solve ->> /sɑlv/ v. 解决  
 The detective worked tirelessly to solve the case. ->> 侦探不知疲倦地工作以解决案件。  
 We need to solve this issue before it escalates further. ->> 我们需要在问题进一步升级之前解决它。  
 
-mystery /ˈmɪstəri/ n. 谜  
+mystery ->> /ˈmɪstəri/ n. 谜  
 The mystery of the missing artifact puzzled everyone. ->> 失踪文物之谜让每个人都困惑不已。  
 Her sudden disappearance remains a mystery to this day. ->> 她的突然失踪至今仍然是个谜。  
 
-snatch /snæʧ/ v. 抓住  
+snatch ->> /snæʧ/ v. 抓住  
 She managed to snatch her purse back from the thief. ->> 她设法从小偷手中抢回了她的钱包。  
 The cat snatched the toy from his owner's hand. ->> 猫从主人手中抓住了玩具。  
 
-spark /spɑrk/ n. 电火花  
+spark ->> /spɑrk/ n. 电火花  
 A tiny spark can ignite a large explosion under the right conditions. ->> 在适当条件下，一点电火花就能引发大爆炸。  
 The old engine produced a spark when it finally started. ->> 老发动机启动时产生了电火花。

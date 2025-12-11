@@ -11,38 +11,38 @@ There he was picked up by a policeman and sent back to England by the local auth
 He has surely set up a record for the thousands of children who dream of evading school. ->> 他无疑为成千上万梦想逃避上学的孩子们创造了一项纪录。
 
 
-record-holder /record-holder*/ 纪录保持者  
+record-holder ->> /record-holder*/ 纪录保持者  
 Tom once held the title of record-holder, but it was broken last year. ->> 汤姆曾是纪录保持者，但去年被打破了。  
 Despite the new competition, she remains the unbeaten record-holder. ->> 尽管有新的竞争，她仍是无人打破的纪录保持者。  
 
-truant /truənt/ n. 逃学的孩子  
+truant ->> /truənt/ n. 逃学的孩子  
 The teacher recognized the truant immediately when he slipped back into class. ->> 这个孩子溜回课堂时，老师立刻认出了他。  
 Parents were concerned when they discovered their child was a truant. ->> 当发现孩子逃学时，家长们很担心。  
 
-unimaginative /ənɪˈmæˌʤɪnətɪv/ adj. 缺乏想像力的  
+unimaginative ->> /ənɪˈmæˌʤɪnətɪv/ adj. 缺乏想像力的  
 His unimaginative approach to the project left everyone disappointed. ->> 他缺乏想象力的方法让每个人都很失望。  
 The book was criticized for its unimaginative characters and plot. ->> 这本书因缺乏想象力的人物和情节而受到批评。  
 
-shame /ʃeɪm/ n. 惭愧，羞耻  
+shame ->> /ʃeɪm/ n. 惭愧，羞耻  
 She couldn't shake off the shame of her past mistakes. ->> 她无法摆脱过去错误带来的羞耻感。  
 The community worked to remove the stigma and shame surrounding the issue. ->> 社区努力消除围绕该问题的耻辱感。  
 
-hitchhike /ˈhɪˌʧhaɪk/ v. 搭便车旅行  
+hitchhike ->> /ˈhɪˌʧhaɪk/ v. 搭便车旅行  
 During her gap year, she decided to hitchhike across Europe. ->> 在她的空档年，她决定搭便车穿越欧洲。  
 John shared many stories from his experiences while he used to hitchhike. ->> 约翰分享了他搭便车旅行时的许多故事。  
 
-meantime /ˈminˌtaɪm/ n. 其间  
+meantime ->> /ˈminˌtaɪm/ n. 其间  
 In the meantime, they will work on other parts of the project. ->> 其间，他们将致力于项目的其他部分。  
 She decided to take a course in the meantime to improve her skills. ->> 她决定在此期间参加课程以提高技能。  
 
-lorry /ˈlɔri/ n. 卡车  
+lorry ->> /ˈlɔri/ n. 卡车  
 The lorry was filled with goods ready to be delivered. ->> 卡车装满了准备运送的货物。  
 We had to wait for the lorry to pass before we could cross the road. ->> 我们得等卡车通过才能过马路。  
 
-border /ˈbɔrdər/ n. 边界  
+border ->> /ˈbɔrdər/ n. 边界  
 The soldiers were stationed at the border to ensure security. ->> 士兵们驻扎在边界以确保安全。  
 Trade agreements often consider the border regulations of the countries involved. ->> 贸易协议通常会考虑涉及国家的边界规定。  
 
-evade /ɪˈveɪd/ v. 逃避，逃离  
+evade ->> /ɪˈveɪd/ v. 逃避，逃离  
 He tried to evade the question during the interview. ->> 他在面试中试图逃避问题。  
 Authorities are finding new ways to prevent people from evading taxes. ->> 当局正在寻找防止人们逃税的新方法。

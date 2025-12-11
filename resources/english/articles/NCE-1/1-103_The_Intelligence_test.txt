@@ -21,70 +21,70 @@ Harry: Then he sat there and looked at it for three hours! ->> 哈里：然后�
 He didn't write a word! ->> 一个字也没写！
 
 
-exam /ɪgˈzæm/ n. 考试  
+exam ->> /ɪgˈzæm/ n. 考试  
 She aced the biology exam. ->> 她在生物考试中取得了优异成绩。  
 After the exam, we all felt relieved. ->> 考试结束后，我们都感到放松。  
 
-pass /pæs/ v. 及格，通过  
+pass ->> /pæs/ v. 及格，通过  
 He was thrilled to pass his final exam. ->> 他对通过期末考试感到兴奋。  
 If you pass the test, you'll earn a certificate. ->> 如果你通过考试，你将获得证书。  
 
-mathematics (maths是缩写) /ˌmæθəˈmætɪks/ n. 数学  
+mathematics (maths是缩写) ->> /ˌmæθəˈmætɪks/ n. 数学  
 She teaches mathematics at the university. ->> 她在大学教授数学。  
 Understanding mathematics improves problem-solving skills. ->> 理解数学能提高解决问题的能力。  
 
-question /ˈkwɛʃən/ n. 问题  
+question ->> /ˈkwɛʃən/ n. 问题  
 The student hesitated before asking a question. ->> 学生在提问前犹豫了一下。  
 There's a question I'd like to discuss further. ->> 有个问题我想进一步讨论。  
 
-easy /ˈizi/ adj. 容易的  
+easy ->> /ˈizi/ adj. 容易的  
 The recipe is surprisingly easy to follow. ->> 这个食谱出乎意料地容易遵循。  
 Her new job turned out to be quite easy. ->> 她的新工作结果相当容易。  
 
-enough /ɪˈnəf/ adv. 足够地  
+enough ->> /ɪˈnəf/ adv. 足够地  
 The soup is warm enough to eat now. ->> 汤现在够热可以喝了。  
 We didn't have enough chairs for everyone. ->> 我们没有足够的椅子给每个人。  
 
-paper /ˈpeɪpər/ n. 考卷  
+paper ->> /ˈpeɪpər/ n. 考卷  
 He forgot to put his name on the paper. ->> 他忘了在考卷上写名字。  
 The paper was longer than I anticipated. ->> 这份考卷比我预料的要长。  
 
-fail /feɪl/ v. 未及格，失败  
+fail ->> /feɪl/ v. 未及格，失败  
 She didn't want to fail the history class. ->> 她不想历史课不及格。  
 Despite his efforts, he failed to win the race. ->> 尽管努力了，他还是没能赢得比赛。  
 
-answer /ˈænsər/ v. 回答  
+answer ->> /ˈænsər/ v. 回答  
 She struggled to answer the tricky question. ->> 她费力回答这个棘手的问题。  
 Can you answer the question without looking at the notes? ->> 你能不看笔记回答问题吗？  
 
-mark /mɑrk/ n. 分数  
+mark ->> /mɑrk/ n. 分数  
 He aimed for a full mark on the test. ->> 他力求在测试中得满分。  
 Receiving a poor mark upset her greatly. ->> 得低分让她非常沮丧。  
 
-rest /rɛst/ n. 其他的东西  
+rest ->> /rɛst/ n. 其他的东西  
 We can save the rest of the snacks for later. ->> 我们可以把剩下的小吃留到以后吃。  
 You worked well, so take the rest of the day off. ->> 你表现很好，所以这一天剩下的时间可以休息。  
 
-difficult /ˈdɪfəkəlt/ adj. 困难的  
+difficult ->> /ˈdɪfəkəlt/ adj. 困难的  
 Learning a new language is difficult. ->> 学习一门新语言是困难的。  
 The project proved more difficult than expected. ->> 这个项目比预期的更困难。  
 
-hate /heɪt/ v. 讨厌  
+hate ->> /heɪt/ v. 讨厌  
 He hates cleaning the bathroom. ->> 他讨厌打扫浴室。  
 They hate waiting in long lines. ->> 他们讨厌排长队等候。  
 
-low /loʊ/ adj. 低的  
+low ->> /loʊ/ adj. 低的  
 The stock prices are at a low point. ->> 股票价格处于低点。  
 She set the volume too low to hear. ->> 她把音量调得太低，听不清。  
 
-cheer /ʧɪr/ v. 振作，振奋  
+cheer ->> /ʧɪr/ v. 振作，振奋  
 The team needed to cheer after losing the game. ->> 队伍在输掉比赛后需要振作。  
 Everyone gathered to cheer the runners. ->> 大家聚集在一起为跑步者加油。  
 
-guy /gaɪ/ n. 家伙，人  
+guy ->> /gaɪ/ n. 家伙，人  
 Some guy left his umbrella here. ->> 有个家伙把伞留在这了。  
 The guy at the bakery was really friendly. ->> 面包店的那个人非常友好。  
 
-top /tɔp/ n. 上方，顶部  
+top ->> /tɔp/ n. 上方，顶部  
 They reached the top just before sunset. ->> 他们在日落前到达顶峰。  
 You need a ladder to reach the top shelf. ->> 你需要梯子才能拿到最上面的架子。

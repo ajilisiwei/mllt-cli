@@ -19,58 +19,58 @@ If no other safe supply can be obtained, tap water that is too hot to touch can 
 Those planning a trip to remote areas, or intending to live in countries where drinking water is not readily available, should know about the various possible methods for making water safe. ->> 准备前往偏远地区旅行，或计划居住在饮用水不易获取的国家的人，应该了解各种可能的水处理方法以确保安全。
 
 
-contamination /kənˌtæməˈneɪʃən/ n. 污染  
+contamination ->> /kənˌtæməˈneɪʃən/ n. 污染  
 Contamination in the river has become a major concern for local residents. ->> 河流中的污染已成为当地居民的一大担忧。  
 Efforts to reduce contamination in the area are proving to be effective. ->> 减少该地区污染的努力正在证明是有效的。
 
-sanitation /ˌsænɪˈteɪʃən/ n. 卫生，卫生设备  
+sanitation ->> /ˌsænɪˈteɪʃən/ n. 卫生，卫生设备  
 Improving sanitation in rural areas can significantly enhance public health. ->> 改善农村地区的卫生可以显著提高公共健康。  
 Sanitation workers play a critical role during health crises. ->> 在健康危机中，卫生工人起着至关重要的作用。
 
-sewage /suɪʤ/ n. 污水  
+sewage ->> /suɪʤ/ n. 污水  
 The city is investing in new infrastructure to treat sewage more effectively. ->> 该市正在投资新的基础设施，以更有效地处理污水。  
 Sewage leaks can lead to severe environmental issues if not addressed promptly. ->> 如果不及时处理，污水泄漏可能导致严重的环境问题。
 
-leakage /ˈlikɪʤ/ n. 泄漏  
+leakage ->> /ˈlikɪʤ/ n. 泄漏  
 The discovery of a gas leakage prompted the evacuation of the building. ->> 发现煤气泄漏后，整栋建筑被紧急疏散。  
 Water leakage in the basement caused significant damage to the building's foundation. ->> 地下室的水泄漏对建筑的地基造成了严重损害。
 
-intermittent /ˌɪntərˈmɪtənt/ adj. 间歇的，断断续续的  
+intermittent ->> /ˌɪntərˈmɪtənt/ adj. 间歇的，断断续续的  
 The intermittent rain made it difficult to plan outdoor activities. ->> 间歇的雨水使得室外活动难以筹划。  
 She suffers from intermittent back pain, which flares up unpredictably. ->> 她患有间歇性背痛，不定期复发。
 
-carbonated /ˈkɑrbəˌneɪtɪd/ adj. 碳化的，碳酸的  
+carbonated ->> /ˈkɑrbəˌneɪtɪd/ adj. 碳化的，碳酸的  
 She prefers carbonated drinks over still water. ->> 她更喜欢喝碳酸饮料而不是非碳酸水。  
 The carbonated sensation of the drink was refreshing on a hot day. ->> 碳酸饮料的刺激感在炎热的天气显得清新爽口。
 
-acidic /əˈsɪdɪk/ adj. 酸的，酸性的  
+acidic ->> /əˈsɪdɪk/ adj. 酸的，酸性的  
 The soil in this region is too acidic for most crops to thrive. ->> 该地区的土壤过于酸性，以致大多数作物无法茁壮成长。  
 Some fruit juices can be quite acidic, affecting dental health if consumed frequently. ->> 一些果汁可能非常酸，经常饮用会影响牙齿健康。
 
-alcohol /ˈælkəˌhɑl/ n. 酒精  
+alcohol ->> /ˈælkəˌhɑl/ n. 酒精  
 Excessive consumption of alcohol can lead to health complications. ->> 过度饮用酒精可能导致健康问题。  
 Alcohol is often used as a disinfectant in medical settings. ->> 酒精常在医疗环境中用作消毒剂。
 
-disinfectant /dɪsɪnˈfɛktənt/ n. 消毒剂  
+disinfectant ->> /dɪsɪnˈfɛktənt/ n. 消毒剂  
 The use of disinfectant products has increased significantly during the pandemic. ->> 在疫情期间，消毒剂产品的使用显著增加。  
 Make sure to use a reliable disinfectant to clean high-touch surfaces. ->> 确保使用可靠的消毒剂清洁高频接触的表面。
 
-sterilize /ˈstɛrəˌlaɪz/ v. 消毒  
+sterilize ->> /ˈstɛrəˌlaɪz/ v. 消毒  
 It's important to sterilize medical instruments before use. ->> 消毒医疗器械在使用前非常重要。  
 The procedure to sterilize the equipment took longer than expected. ->> 消毒设备的过程比预期的要长。
 
-ethanol /ˈɛθəˌnɔl/ n. 乙醇  
+ethanol ->> /ˈɛθəˌnɔl/ n. 乙醇  
 Ethanol is commonly used as a fuel additive. ->> 乙醇常用作燃料添加剂。  
 In laboratories, ethanol is used as a solvent for various reactions. ->> 在实验室中，乙醇用作各种反应的溶剂。
 
-bactericidal /bactericidal*/ adj. 杀菌的  
+bactericidal ->> /bactericidal*/ adj. 杀菌的  
 The new cleaning agent has bactericidal properties that eliminate 99% of germs. ->> 新的清洁剂具有杀菌性能，可消除99%的细菌。  
 Bactericidal soaps are increasingly popular in households around the world. ->> 杀菌皂在世界各地的家庭中越来越受欢迎。
 
-negligible /ˈnɛglɪʤəbəl/ adj. 可以忽略的，微不足道的  
+negligible ->> /ˈnɛglɪʤəbəl/ adj. 可以忽略的，微不足道的  
 The difference in results was negligible and did not affect the overall conclusion. ->> 结果的差异微不足道，不影响整体结论。  
 His contribution to the project was negligible compared to the team’s effort. ->> 与团队的努力相比，他对项目的贡献微不足道。
 
-methylated /methylated*/ adj. 加入甲醇的  
+methylated ->> /methylated*/ adj. 加入甲醇的  
 Methylated spirits are often used as a solvent and as fuel for spirit burners. ->> 加入甲醇的酒精常用作溶剂和用于酒精炉的燃料。  
 Due to its methylated content, this substance must be handled with care. ->> 由于其含有甲醇，该物质必须小心处理。

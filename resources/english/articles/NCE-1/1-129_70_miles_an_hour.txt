@@ -21,42 +21,42 @@ Harry: You always tell me to drive slowly, darling. ->> 哈里：你总是叫我
 Ann: Well, next time you'd better take my advice! ->> 安：好啦，下次你最好还是听从我的劝告！
 
 
-wave /weɪv/ v. 招手  
+wave ->> /weɪv/ v. 招手  
 She waved excitedly as the train departed. ->> 火车离开时，她兴奋地挥手。  
 The fans waved their flags fervently at the concert. ->> 演唱会上，粉丝们热情地挥舞着他们的旗帜。  
 
-track /træk/ n. 跑道  
+track ->> /træk/ n. 跑道  
 The athlete sprinted down the track with determination. ->> 运动员坚定地在跑道上冲刺。  
 After the rain, the track was too muddy to race on. ->> 雨后，跑道太泥泞，无法比赛。  
 
-mile /maɪl/ n. 英里  
+mile ->> /maɪl/ n. 英里  
 She runs five miles every morning to stay fit. ->> 她每天早上跑五英里保持健康。  
 The old cabin is situated just a few miles from the lake. ->> 老木屋坐落在离湖仅几英里的地方。  
 
-overtake (overtook, overtaken) /ˈoʊvərˌteɪk/ v. 从后面超越，超车  
+overtake (overtook, overtaken) ->> /ˈoʊvərˌteɪk/ v. 从后面超越，超车  
 She accelerated to overtake the truck on the highway. ->> 她加速超车，在高速公路上超过了卡车。  
 In the final lap, he overtook his rival to win the race. ->> 在最后一圈，他超越了对手赢得了比赛。  
 
-speed /spid/ limit 限速  
+speed ->> /spid/ limit 限速  
 The new speed limit on this road is 50 mph. ->> 这条路的新限速是每小时50英里。  
 She slowed down when she saw the speed limit sign ahead. ->> 她看到前方的限速标志时减速了。  
 
-dream /drim/ v. 做梦，思想不集中  
+dream ->> /drim/ v. 做梦，思想不集中  
 He dreams of traveling around the world one day. ->> 他梦想有一天能环游世界。  
 She absentmindedly dreamt through the meeting and missed important details. ->> 她在会议上思想不集中，错过了重要的细节。  
 
-sign /saɪn/ n. 标记，牌子  
+sign ->> /saɪn/ n. 标记，牌子  
 The detour sign directed traffic away from the construction site. ->> 绕道标志将交通指向了施工现场。  
 He noticed the warning sign before entering the restricted area. ->> 他在进入限制区域之前注意到了警告标志。  
 
-driving /ˈdraɪvɪŋ/ licence 驾驶执照  
+driving ->> /ˈdraɪvɪŋ/ licence 驾驶执照  
 He finally obtained his driving licence after multiple attempts. ->> 在多次尝试后，他终于获得了驾驶执照。  
 In that country, you must be 18 years old to apply for a driving licence. ->> 在那个国家，你必须年满18岁才能申请驾驶执照。  
 
-charge /ʧɑrʤ/ v. 罚款  
+charge ->> /ʧɑrʤ/ v. 罚款  
 She was charged a late fee for returning the book after the due date. ->> 她因逾期还书而被收取滞纳金。  
 They charged him for damage to the hotel room during his stay. ->> 他们因他入住期间对酒店房间的损坏而对他罚款。  
 
-darling /ˈdɑrlɪŋ/ n. 亲爱的（用作表示称呼）  
+darling ->> /ˈdɑrlɪŋ/ n. 亲爱的（用作表示称呼）  
 He called out to his darling as she walked into the room. ->> 她走进房间时，他轻声呼唤她“亲爱的”。  
 "Are you ready to go, darling?" he asked with a smile. ->> 他微笑着问：“亲爱的，你准备好出发了吗？”

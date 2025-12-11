@@ -16,46 +16,46 @@ MRS.BIRD: My husband likes steak, but he doesn't like chicken. ->> 伯德夫人�
 BUTCHER: To tell you the truth, Mrs. Bird, I don't like chicken either! ->> 肉商：说老实话，伯德夫人，我也不喜欢鸡。
 
 
-butcher /ˈbʊʧər/ n. 卖肉的  
+butcher ->> /ˈbʊʧər/ n. 卖肉的  
 The butcher recommended a nice cut of pork for roasting.  
 I always chat with the butcher while deciding what to buy.
 
-meat /mit/ n. （食用）肉  
+meat ->> /mit/ n. （食用）肉  
 He has been trying to reduce his meat consumption for health reasons.  
 The recipe calls for a pound of ground meat.
 
-beef /bif/ n. 牛肉  
+beef ->> /bif/ n. 牛肉  
 My grandmother has a special recipe for beef stew.  
 The chef prepared a tender beef roast for the occasion.
 
-lamb /læm/ n. 羔羊肉  
+lamb ->> /læm/ n. 羔羊肉  
 They marinated the lamb before grilling it.  
 During the festival, lamb dishes are a staple on every table.
 
-husband /ˈhəzbənd/ n. 丈夫  
+husband ->> /ˈhəzbənd/ n. 丈夫  
 She and her husband travel to different countries every summer.  
 Her husband surprised her with tickets to her favorite band.
 
-steak /steɪk/ n. 牛排  
+steak ->> /steɪk/ n. 牛排  
 For his birthday dinner, he wanted a juicy steak.  
 She prefers her steak well-done with a side of vegetables.
 
-mince /mɪns/ n. 肉馅，绞肉  
+mince ->> /mɪns/ n. 肉馅，绞肉  
 He browned the mince before adding it to the chili.  
 Mince pies are a traditional holiday dessert in some cultures.
 
-chicken /ˈʧɪkən/ n. 鸡  
+chicken ->> /ˈʧɪkən/ n. 鸡  
 The restaurant's special was a spicy chicken curry.  
 She buys free-range chicken from the local market.
 
-tell /tɛl/ v. 告诉  
+tell ->> /tɛl/ v. 告诉  
 He promised not to tell anyone about the surprise party.  
 The teacher asked the students to tell their favorite stories.
 
-truth /truθ/ n. 实情  
+truth ->> /truθ/ n. 实情  
 Her confession finally brought the truth to light.  
 In the end, the truth was revealed to everyone.
 
-either /ˈiðər/ adv. 也（用于否定句）  
+either ->> /ˈiðər/ adv. 也（用于否定句）  
 I haven't been to Italy, and I haven't visited Spain either.  
 He doesn’t like spicy food, and she doesn’t either.

@@ -18,22 +18,22 @@ John Smith: No, I don't. ->> 约翰·史密斯：不，不是。
 I'm John Smith the telephone engineer and I'm repairing your telephone line. ->> 我是电话工程师约翰·史密斯，我正在修理您的电话线。
 
 
-extra /ˈɛkstrə/ adj. 额外的  
+extra ->> /ˈɛkstrə/ adj. 额外的  
 They charged an extra fee for luggage. ->> 他们对行李收取了额外费用。  
 An extra pair of hands would be helpful for the event. ->> 活动中多一个人手会有帮助。
 
-overseas /ˈoʊvərˈsiz/ adj. 海外的，国外的  
+overseas ->> /ˈoʊvərˈsiz/ adj. 海外的，国外的  
 She received an overseas job offer. ->> 她收到了一份海外工作邀请。  
 There is a growing interest in overseas markets. ->> 对海外市场的兴趣在增加。
 
-engineering /ˈɛnʤəˈnɪrɪŋ/ n. 工程  
+engineering ->> /ˈɛnʤəˈnɪrɪŋ/ n. 工程  
 His passion for engineering started at an early age. ->> 他对工程的热情从小就开始。  
 The engineering team successfully completed the bridge construction. ->> 工程团队成功完成了桥的建设。
 
-company /ˈkəmpəˌni/ n. 公司  
+company ->> /ˈkəmpəˌni/ n. 公司  
 She recently joined a tech company as a software developer. ->> 她最近加入了一家科技公司，担任软件开发人员。  
 The company values creativity and innovation. ->> 这家公司重视创造力和创新。
 
-line /laɪn/ n. 线路  
+line ->> /laɪn/ n. 线路  
 The assembly line is fully automated now. ->> 生产线现在已全自动化。  
 He called the support line for assistance. ->> 他打电话给支持热线寻求帮助。

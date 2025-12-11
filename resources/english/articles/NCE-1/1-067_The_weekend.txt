@@ -18,58 +18,58 @@ MRS WILLIAMS: Friday, Saturday and Sunday in the country! ->> 星期五、星期
 Aren't you lucky! ->> 你们真幸运啊！
 
 
-greengrocer /greengrocer*/ n. 蔬菜水果零售商  
+greengrocer ->> /greengrocer*/ n. 蔬菜水果零售商  
 The greengrocer offers seasonal produce at a discount. ->> 蔬菜水果零售商提供季节性产品的折扣。  
 Our local greengrocer knows all his regular customers by name. ->> 我们当地的蔬菜水果零售商能叫出所有常客的名字。  
 
-absent /ˈæbsənt/ adj. 缺席的  
+absent ->> /ˈæbsənt/ adj. 缺席的  
 He was absent from the meeting this morning. ->> 他今早没有参加会议。  
 An absent member of the team can affect the project timeline. ->> 一个团队成员的缺席可能影响项目进度。  
 
-Monday /ˈmənˌdeɪ/ n. 星期一  
+Monday ->> /ˈmənˌdeɪ/ n. 星期一  
 The new project kicks off on Monday. ->> 新项目在星期一启动。  
 Monday mornings are always hectic for me. ->> 星期一早晨对我来说总是很忙。  
 
-Tuesday /ˈtuzˌdeɪ/ n. 星期二  
+Tuesday ->> /ˈtuzˌdeɪ/ n. 星期二  
 We're having a team lunch this Tuesday. ->> 我们这个星期二有个团队午餐。  
 The store restocks its shelves every Tuesday. ->> 商店每星期二补货上架。  
 
-Wednesday /ˈwɛnzˌdeɪ/ n. 星期三  
+Wednesday ->> /ˈwɛnzˌdeɪ/ n. 星期三  
 I have a yoga class on Wednesday evenings. ->> 我每星期三晚上有瑜伽课。  
 There's a special event at the museum this Wednesday. ->> 这星期三博物馆有特别活动。  
 
-Thursday /ˈθərzˌdeɪ/ n. 星期四  
+Thursday ->> /ˈθərzˌdeɪ/ n. 星期四  
 The report is due on Thursday. ->> 报告截止到星期四。  
 Every Thursday, we have a team check-in call. ->> 每个星期四，我们有个团队签到电话会议。  
 
-keep /kip/ v. （身体健康）处于（状况）  
+keep ->> /kip/ v. （身体健康）处于（状况）  
 He keeps in touch with his friends from college regularly. ->> 他定期与大学朋友保持联系。  
 They keep their garden in perfect condition all year round. ->> 他们的花园一年四季都保持完美状态。  
 
-spend /spɛnd/ v. 度过  
+spend ->> /spɛnd/ v. 度过  
 She spends her evenings painting in her studio. ->> 她在画室度过每个晚上画画。  
 They decided to spend the holidays in a cabin by the lake. ->> 他们决定在湖边的小屋度假。  
 
-weekend /ˈwiˌkɪnd/ n. 周末  
+weekend ->> /ˈwiˌkɪnd/ n. 周末  
 We're planning a movie marathon this weekend. ->> 我们这个周末计划看电影马拉松。  
 During the weekend, the streets are quieter than usual. ->> 周末期间，街道比平时更安静。  
 
-Friday /ˈfraɪˌdeɪ/ n. 星期五  
+Friday ->> /ˈfraɪˌdeɪ/ n. 星期五  
 Let's go to the new restaurant on Friday night. ->> 星期五晚上我们去新餐馆吧。  
 The office always has a casual dress code on Fridays. ->> 办公室在星期五总是有个休闲着装的规定。  
 
-Saturday /ˈsæˌtɪˌdeɪ/ n. 星期六  
+Saturday ->> /ˈsæˌtɪˌdeɪ/ n. 星期六  
 My sister's wedding is on Saturday. ->> 我姐姐的婚礼在星期六。  
 The farmer's market opens early on Saturday mornings. ->> 农贸市场星期六早上很早开门。  
 
-Sunday /ˈsənˌdi/ n. 星期日  
+Sunday ->> /ˈsənˌdi/ n. 星期日  
 We have brunch with friends every Sunday. ->> 我们每星期日和朋友一起吃早午餐。  
 Sunday afternoons are perfect for a leisurely stroll. ->> 星期天下午很适合悠闲散步。  
 
-country /ˈkəntri/ n. 乡村  
+country ->> /ˈkəntri/ n. 乡村  
 They took a drive through the scenic country roads. ->> 他们开车行驶在风景优美的乡村道路上。  
 Many people move to the country for a quieter life. ->> 很多人搬到乡下寻求更安静的生活。  
 
-lucky /ˈləki/ adj. 幸运的  
+lucky ->> /ˈləki/ adj. 幸运的  
 He felt lucky to get tickets to the sold-out concert. ->> 他觉得能买到售罄演唱会的票很幸运。  
 You're lucky to have such supportive colleagues. ->> 你很幸运有这么支持你的同事。

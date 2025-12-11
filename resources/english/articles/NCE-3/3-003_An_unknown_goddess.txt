@@ -18,82 +18,82 @@ Despite her great age, she was very graceful indeed. ->> 尽管上了年纪，�
 However, so far, the archaeologists have been unable to discover her identity. ->> 不过，考古学家至今未能确定这位女神的身份。
 
 
-goddess(tile) /ˈgɑdəs/ n. 女神
+goddess(tile) ->> /ˈgɑdəs/ n. 女神
 The goddess is often depicted with a crown in ancient art. ->> 女神在古代艺术中经常被描绘成戴着王冠的形象。
 During the festival, the villagers offer flowers to the goddess. ->> 在节日期间，村民们向女神献花。
 
-archaeologist /ˌɑrkiˈɑləʤɪst/ n. 考古学家
+archaeologist ->> /ˌɑrkiˈɑləʤɪst/ n. 考古学家
 The archaeologist discovered an intact artifact buried for centuries. ->> 这位考古学家发现了一件埋藏了几个世纪的完整文物。
 Many archaeologists gathered at the site to examine the ancient ruins. ->> 许多考古学家聚集在现场考察古代遗迹。
 
-Aegean /ˌeɪˈʤiən/ adj. 爱琴海的
+Aegean ->> /ˌeɪˈʤiən/ adj. 爱琴海的
 The Aegean islands are famous for their stunning beaches and clear waters. ->> 爱琴海的岛屿以其壮观的海滩和清澈的海水而闻名。
 We sailed through the Aegean Sea, enjoying the warm breeze and beautiful scenery. ->> 我们航行在爱琴海，享受着温暖的海风和美丽的风景。
 
-explore /ɪkˈsplɔr/ v. 考察，勘探
+explore ->> /ɪkˈsplɔr/ v. 考察，勘探
 We plan to explore the ancient city ruins on our next trip. ->> 我们计划在下次旅行中考察古城遗址。
 They explored the vast desert, searching for evidence of past civilizations. ->> 他们在广阔的沙漠中勘探，寻找过去文明的证据。
 
-promontory /ˈprɑmənˌtɔri/ n. 海角
+promontory ->> /ˈprɑmənˌtɔri/ n. 海角
 The lighthouse was built on the promontory to guide ships safely to shore. ->> 灯塔建在海角上，以引导船只安全靠岸。
 From the top of the promontory, we could see the entire coastline stretch before us. ->> 从海角的顶端，我们可以看到整个海岸线延伸在我们面前。
 
-prosperous /ˈprɑspərəs/ adj. （经济上）繁荣的，昌盛的
+prosperous ->> /ˈprɑspərəs/ adj. （经济上）繁荣的，昌盛的
 The once small town has grown into a prosperous city with thriving businesses. ->> 这个曾经的小镇已经发展成一个繁荣的城市，商业兴隆。
 During the prosperous era, the country achieved significant economic growth. ->> 在繁荣的时代，该国实现了显著的经济增长。
 
-civilization /ˌsɪvəlɪˈzeɪʃən/ n. 文明
+civilization ->> /ˌsɪvəlɪˈzeɪʃən/ n. 文明
 The study of ancient civilizations provides insights into human history. ->> 对古代文明的研究为人类历史提供了见解。
 Advances in technology have shaped modern civilization tremendously. ->> 技术的进步极大地塑造了现代文明。
 
-storey /ˈstɔri/ n. 楼层
+storey ->> /ˈstɔri/ n. 楼层
 The building has a rooftop garden on the tenth storey. ->> 这栋建筑的第十层有一个屋顶花园。
 We live in a two-storey house with a lovely backyard. ->> 我们住在一栋有着漂亮后院的两层楼房中。
 
-drainage /ˈdreɪnɪʤ/ n. 排水
+drainage ->> /ˈdreɪnɪʤ/ n. 排水
 The city's drainage system was upgraded to prevent flooding during heavy rains. ->> 城市的排水系统经过升级，以防止在大雨中发生洪水。
 Proper drainage is essential for maintaining healthy soil in agriculture. ->> 适当的排水对农业中保持土壤健康至关重要。
 
-worship /ˈwərʃɪp/ n. 崇拜
+worship ->> /ˈwərʃɪp/ n. 崇拜
 Many people attend the temple for worship on special occasions. ->> 许多人在特殊场合去庙里进行崇拜。
 The act of worship can vary significantly across different cultures. ->> 崇拜的方式在不同文化中可以有很大的不同。
 
-sacred /ˈseɪkrɪd/ adj. 宗教的，神圣的
+sacred ->> /ˈseɪkrɪd/ adj. 宗教的，神圣的
 The mountain is considered sacred by the indigenous people. ->> 这座山被土著人视为神圣。
 Visitors are asked to respect the sacred nature of the site. ->> 参观者被要求尊重这个地方的神圣性质。
 
-fragment /ˈfrægmənt/ n. 碎片
+fragment ->> /ˈfrægmənt/ n. 碎片
 The vase shattered, leaving fragments scattered across the floor. ->> 花瓶破了，碎片散落在地板上。
 Scientists studied the fragment for clues about its origin. ->> 科学家研究这个碎片，以寻找其起源的线索。
 
-remains /rɪˈmeɪnz/ n. 遗物，遗迹，废墟
+remains ->> /rɪˈmeɪnz/ n. 遗物，遗迹，废墟
 The remains of the ancient fortress attract historians and tourists alike. ->> 古堡的遗迹吸引了历史学家和游客。
 Excavations revealed remains of pottery and tools from the archaeological site. ->> 挖掘揭示了考古遗址中的陶器和工具遗迹。
 
-classical /ˈklæsɪkəl/ adj. （希腊和罗马）古典的
+classical ->> /ˈklæsɪkəl/ adj. （希腊和罗马）古典的
 The symphony orchestra performed a classical piece to a full audience. ->> 交响乐团演奏了一首古典曲目，观众爆满。
 Students study classical literature to appreciate its impact on modern works. ->> 学生们学习古典文学以理解其对现代作品的影响。
 
-reconstruct /ˌrikənˈstrəkt/ v. 修复
+reconstruct ->> /ˌrikənˈstrəkt/ v. 修复
 Engineers are working to reconstruct the damaged bridge. ->> 工程师们正在努力修复受损的大桥。
 The team reconstructed the historical events based on available evidence. ->> 团队根据现有证据重建了历史事件。
 
-rest /rɛst/ v. 倚放，放置
+rest ->> /rɛst/ v. 倚放，放置
 She let the book rest on the table while she made a phone call. ->> 她在打电话时把书放在桌子上。
 He rested the ladder against the wall before climbing up. ->> 他把梯子靠在墙上，然后爬上去。
 
-hip /hɪp/ n. 屁股，臀部
+hip ->> /hɪp/ n. 屁股，臀部
 She injured her hip in the fall and needed medical attention. ->> 她摔倒时伤了屁股，需要就医。
 The new exercise routine is designed to strengthen the hip muscles. ->> 这个新的锻炼计划旨在加强臀部肌肉。
 
-full-length /full-length*/ adj. （裙衣）拖地长的
+full-length ->> /full-length*/ adj. （裙衣）拖地长的
 She wore a beautiful full-length gown to the formal event. ->> 她穿了一件漂亮的拖地长礼服参加正式活动。
 The designer showcased a collection of full-length dresses at the fashion show. ->> 设计师在时装秀上展示了一系列拖地长裙。
 
-graceful /ˈgreɪsfəl/ adj. 优雅的
+graceful ->> /ˈgreɪsfəl/ adj. 优雅的
 The dancer's movements were incredibly graceful and captivating. ->> 舞者的动作极其优雅，令人陶醉。
 Swans are often admired for their graceful appearance on the water. ->> 天鹅常因其水上的优雅姿态而受到赞美。
 
-identity /aɪˈdɛntəˌti/ n. 身份
+identity ->> /aɪˈdɛntəˌti/ n. 身份
 She struggled with her cultural identity after moving to a new country. ->> 她在移居到一个新国家后对自己的文化身份感到困惑。
 The community values its unique identity and heritage. ->> 这个社区珍视其独特的身份和遗产。

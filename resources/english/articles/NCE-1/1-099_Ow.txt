@@ -13,46 +13,46 @@ Pat: The doctor says that he will come at once. ->> 医生说他马上就来。
 I'm sure that you need an X-ray, Ted. ->> Ted， 我看你需要做一次X光透视。
 
 
-own /oʊn/ int. 哎哟  
+own ->> /oʊn/ int. 哎哟  
 "Own, I just spilled coffee on my shirt!" ->> 哎哟，我把咖啡洒在衬衫上了！  
 "Own, that's an expensive mistake!" ->> 哎哟，那是个昂贵的错误！
 
-slip /slɪp/ v. 滑倒，滑了一脚  
+slip ->> /slɪp/ v. 滑倒，滑了一脚  
 Watch out, you might slip on those stairs. ->> 小心，你可能会在那些楼梯上滑倒。  
 He slipped in the puddle and got his shoes wet. ->> 他在水坑里滑倒，弄湿了鞋子。
 
-fall (fell, fallen) /fɔl/ v. 落下，跌倒  
+fall (fell, fallen) ->> /fɔl/ v. 落下，跌倒  
 I watched the vase fall off the shelf. ->> 我看着花瓶从架子上掉下来。  
 She fell asleep on the couch while watching TV. ->> 她看电视时在沙发上睡着了。
 
-downstairs /ˈdaʊnˈstɛrz/ adv. 下楼  
+downstairs ->> /ˈdaʊnˈstɛrz/ adv. 下楼  
 He's cleaning the garage downstairs. ->> 他正在楼下清理车库。  
 They moved their home office downstairs. ->> 他们把家庭办公室搬到了楼下。
 
-hurt (hurt, hurt) /hərt/ v. 伤，伤害，疼痛  
+hurt (hurt, hurt) ->> /hərt/ v. 伤，伤害，疼痛  
 Jogging every morning can hurt your knees if you're not careful. ->> 每天早晨慢跑如果不小心会伤到膝盖。  
 He doesn't want to hurt anyone's feelings. ->> 他不想伤害任何人的感情。
 
-back /bæk/ n. 背  
+back ->> /bæk/ n. 背  
 He gently patted her back to comfort her. ->> 他轻轻拍了拍她的背以示安慰。  
 She has a tattoo on her lower back. ->> 她的下背部有一个纹身。
 
-stand /stænd/ up 起立，站起来  
+stand ->> /stænd/ up 起立，站起来  
 The audience stood up to applaud the performers. ->> 观众起立为表演者鼓掌。  
 He had to stand up during the whole bus ride. ->> 他在整个公车行程中不得不站着。
 
-help /hɛlp/ v. 帮助  
+help ->> /hɛlp/ v. 帮助  
 The firefighters helped rescue the trapped cat. ->> 消防员帮助救出了被困的猫。  
 If you need directions, I'd be happy to help. ->> 如果你需要指路，我很乐意帮助。
 
-at /æt/ once 立即  
+at ->> /æt/ once 立即  
 Send the email at once to confirm your reservation. ->> 立即发送邮件确认你的预订。  
 She realized her mistake and corrected it at once. ->> 她意识到自己的错误并立即改正。
 
-sure /ʃʊr/ adj. 一定的，确信的  
+sure ->> /ʃʊr/ adj. 一定的，确信的  
 Make sure you have your passport before leaving. ->> 出发前确保你带了护照。  
 He's sure that he'll get the job offer next week. ->> 他确信下周会收到工作邀请。
 
-X-ray /ˈɛksˌreɪ/ n. X光透视  
+X-ray ->> /ˈɛksˌreɪ/ n. X光透视  
 The dentist took an X-ray of her teeth. ->> 牙医给她的牙齿拍了X光。  
 An X-ray revealed the presence of a foreign object. ->> 一张X光片显示有异物存在。

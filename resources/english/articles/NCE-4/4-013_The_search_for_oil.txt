@@ -12,54 +12,54 @@ We endeavour to avoid the old, romantic idea of a gusher, which wastes oil and g
 We want it to stay down the hole until we can lead it off in a controlled manner. ->> 我们希望石油能够留在井内，直到我们可以以受控的方式将其引出。
 
 
-mineral /ˈmɪnərəl/ adj. 矿物的  
+mineral ->> /ˈmɪnərəl/ adj. 矿物的  
 The mineral water tasted refreshing on a hot day.  
 Her necklace was adorned with beautiful mineral stones.  
 
-boring /ˈbɔrɪŋ/ n. 钻孔  
+boring ->> /ˈbɔrɪŋ/ n. 钻孔  
 The engineer inspected the boring to ensure accuracy.  
 Boring samples are crucial for geological analysis.  
 
-derrick /ˈdɛrɪk/ n. 井架  
+derrick ->> /ˈdɛrɪk/ n. 井架  
 A new derrick was installed at the oil rig last week.  
 The towering derrick could be seen from miles away.  
 
-block /blɑk/ and tackle 滑轮组  
+block ->> /blɑk/ and tackle 滑轮组  
 They used a block and tackle to lift the heavy crate.  
 Understanding how to use a block and tackle is essential for the task.  
 
-haul /hɔl/ v. 拖，拉  
+haul ->> /hɔl/ v. 拖，拉  
 The truck was hired to haul the construction materials.  
 It took three men to haul the boat onto the shore.  
 
-rotate /ˈroʊˌteɪt/ v. 使转动  
+rotate ->> /ˈroʊˌteɪt/ v. 使转动  
 The mechanic showed me how to rotate the tires properly.  
 In this experiment, you need to rotate the handle slowly.  
 
-cutting /ˈkətɪŋ/ bit 钻头  
+cutting ->> /ˈkətɪŋ/ bit 钻头  
 He carefully selected the cutting bit suitable for the material.  
 This machine requires a specialized cutting bit for precision work.  
 
-geologist /ʤiˈɑləʤəst/ n. 地质学家  
+geologist ->> /ʤiˈɑləʤəst/ n. 地质学家  
 The geologist presented her findings at the conference.  
 Geologists play a crucial role in exploring natural resources.  
 
-coring /coring*/ 取芯钻头  
+coring ->> /coring*/ 取芯钻头  
 The team used a coring tool to extract samples from the ice.  
 Coring is essential for gathering data from within the earth’s crust.  
 
-cylinder /ˈsɪlɪndər/ n. 圆柱体  
+cylinder ->> /ˈsɪlɪndər/ n. 圆柱体  
 The cylinder was filled with compressed air for the experiment.  
 In geometry, a cylinder is defined by its circular base and parallel sides.  
 
-strata /ˈstrætə/ n. 岩层[复]([单]stratum或strata [误用])  
+strata ->> /ˈstrætə/ n. 岩层[复]([单]stratum或strata [误用])  
 The geologists examined the strata to understand the area's history.  
 Fossils were found embedded within the ancient strata.  
 
-circulate /ˈsərkjəˌleɪt/ v. 注入，环流  
+circulate ->> /ˈsərkjəˌleɪt/ v. 注入，环流  
 Air needs to circulate freely to maintain a stable temperature.  
 The system is designed to circulate water efficiently.  
 
-gusher /ˈgəʃər/ n. 喷油井  
+gusher ->> /ˈgəʃər/ n. 喷油井  
 The discovery of the gusher changed the town's fortunes overnight.  
 They witnessed the dramatic sight of an oil gusher during drilling.

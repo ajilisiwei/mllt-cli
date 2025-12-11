@@ -24,22 +24,22 @@ Tom: What's the matter, Peggy? ->> 汤姆：怎么了，佩吉？
 Peggy: Well, you're going to have roast beef and potatoes again tonight! ->> 佩吉：唉，今晚你们又要吃烤牛肉和土豆了！
 
 
-bath /bæθ/ n. 洗澡  
+bath ->> /bæθ/ n. 洗澡  
 The hotel room has a luxurious bath. ->> 酒店房间有一个豪华的浴缸。  
 He prefers a bath to a quick shower. ->> 他更喜欢洗澡而不是快速冲淋。  
 
-nearly /ˈnɪrli/ adv. 几乎，将近  
+nearly ->> /ˈnɪrli/ adv. 几乎，将近  
 We've nearly completed the project. ->> 我们几乎完成了这个项目。  
 She nearly missed the last train home. ->> 她差点错过回家的末班火车。  
 
-ready /ˈrɛdi/ adj. 准备好的，完好的  
+ready ->> /ˈrɛdi/ adj. 准备好的，完好的  
 Dinner will be ready in ten minutes. ->> 晚餐将在十分钟后准备好。  
 He was ready with an answer to the question. ->> 他已经准备好回答这个问题。  
 
-dinner /ˈdɪnər/ n. 正餐，晚餐  
+dinner ->> /ˈdɪnər/ n. 正餐，晚餐  
 We're going out for dinner tonight. ->> 我们今晚要出去吃晚餐。  
 My family gathers for dinner every Sunday. ->> 我们家每周日都会聚在一起共进晚餐。  
 
-roast /roʊst/ adj. 烤的  
+roast ->> /roʊst/ adj. 烤的  
 The restaurant is famous for its roast beef. ->> 那家餐馆以烤牛肉而闻名。  
 She prepared a roast vegetable platter for the party. ->> 她为聚会准备了烤蔬菜拼盘。

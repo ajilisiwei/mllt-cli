@@ -13,46 +13,46 @@ Not only had the poor man been arrested, but he had been sent to prison as well.
 However, he had at last been allowed to send a fax in which he informed the editor that he had been arrested while counting the 1,084 steps leading to the fifteen-foot wall which surrounded the president's palace. ->> 不过，他终于获准发回了一份传真。在传真中他告诉编辑，就在他数通向15英尺高的总统府围墙的1,084级台阶时，被抓了起来。
 
 
-editor /ˈɛdɪtər/ n. 编辑  
+editor ->> /ˈɛdɪtər/ n. 编辑  
 The editor makes crucial decisions for the final publication. ->> 编辑为最终的出版物作出重要决策。  
 The magazine's editor is renowned for her innovative ideas. ->> 这家杂志的编辑因其创新想法而闻名。  
 
-extreme /ɪkˈstrim/ n. 极端  
+extreme ->> /ɪkˈstrim/ n. 极端  
 The extreme weather conditions affected the outcome of the experiment. ->> 极端天气条件影响了实验的结果。  
 You should avoid going to extremes when forming opinions on sensitive issues. ->> 在就敏感问题形成看法时，你应该避免走极端。  
 
-statistics /stəˈtɪstɪks/ n. 统计数字  
+statistics ->> /stəˈtɪstɪks/ n. 统计数字  
 Analyzing the statistics helps us understand the trends. ->> 分析统计数字有助于我们了解趋势。  
 We used the latest statistics to support our findings. ->> 我们使用最新的统计数字支持我们的调查结果。  
 
-journalist /ˈʤərnəlɪst/ n. 新闻记者  
+journalist ->> /ˈʤərnəlɪst/ n. 新闻记者  
 The journalist interviewed the scientist about the new discovery. ->> 新闻记者采访了科学家关于新发现的情况。  
 Being a respected journalist requires integrity and dedication. ->> 成为受人尊敬的新闻记者需要正直和奉献精神。  
 
-president /ˈprɛzɪdənt/ n. 总统  
+president ->> /ˈprɛzɪdənt/ n. 总统  
 The president addressed the nation in response to the crisis. ->> 总统就危机向全国发表讲话。  
 Many citizens are hopeful for the new president's policies. ->> 许多市民对新总统的政策寄予厚望。  
 
-palace /ˈpæləs/ n. 王宫；宏伟的住宅  
+palace ->> /ˈpæləs/ n. 王宫；宏伟的住宅  
 The palace was built in the 18th century and stands as a historical monument. ->> 这座王宫建于18世纪，是一座历史遗迹。  
 Tourists are fascinated by the grandeur of the royal palace. ->> 游客们为宏伟的王宫所迷住。  
 
-publish /ˈpəblɪʃ/ v. 出版  
+publish ->> /ˈpəblɪʃ/ v. 出版  
 She plans to publish her novel next spring. ->> 她计划在明年春天出版她的小说。  
 The university will publish the research findings in their journal. ->> 大学将会在他们的期刊上发表研究结果。  
 
-fax /fæks/ n. 传真  
+fax ->> /fæks/ n. 传真  
 The company still relies on fax for some of its communications. ->> 公司仍然依赖传真进行部分通讯。  
 We received the signed contract by fax yesterday. ->> 我们昨天收到了通过传真发来的签署合同。  
 
-impatient /ˌɪmˈpeɪʃənt/ adj. 不耐烦的  
+impatient ->> /ˌɪmˈpeɪʃənt/ adj. 不耐烦的  
 She became impatient waiting for the delayed flight. ->> 她因等待航班延误而变得不耐烦。  
 He was impatient to see the final results of the project. ->> 他迫不及待地想看到项目的最终结果。  
 
-fire /faɪər/ v. 解雇  
+fire ->> /faɪər/ v. 解雇  
 The company had to fire several employees due to budget cuts. ->> 公司因预算削减不得不解雇几名员工。  
 It's never easy to fire someone, but it may be necessary for the team's well-being. ->> 解雇某人从来都不容易，但为了团队的福祉，这可能是必须的。  
 
-originally /ərˈɪʤənəli/ adv. 起初，原先，从前  
+originally ->> /ərˈɪʤənəli/ adv. 起初，原先，从前  
 The building was originally a farmhouse before being converted into a museum. ->> 这座建筑起初是一座农舍，后改为博物馆。  
 Originally, the project was intended to be finished in a year. ->> 起初，这个项目计划一年内完成。

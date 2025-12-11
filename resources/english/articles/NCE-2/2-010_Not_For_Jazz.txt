@@ -23,86 +23,86 @@ Now we were not allowed to touch it. ->> 现在他不允许我们再碰它。
 It is being repaired by a friend of my father's. ->> 父亲的一位朋友正在修理这件古老的乐器。
 
 
-jazz /ʤæz/ n. 爵士音乐  
+jazz ->> /ʤæz/ n. 爵士音乐  
 Jazz has influenced many different genres of music over the years. ->> 多年来爵士乐影响了许多不同的音乐流派。  
 I spent the evening at a club listening to live jazz performances. ->> 我在一家俱乐部里听了一晚上的爵士现场演出。
 
-musical /mˈjuzɪkəl/ a.音乐的  
+musical ->> /mˈjuzɪkəl/ a.音乐的  
 She has a remarkable musical talent that you can notice immediately. ->> 她的音乐天赋一眼就能看出来。  
 They attended a musical event featuring various local bands. ->> 他们参加了一场有多支本地乐队演出的音乐活动。
 
-instrument /ˈɪnstrəmənt/ n. 器具  
+instrument ->> /ˈɪnstrəmənt/ n. 器具  
 Learning to play a musical instrument takes time and dedication. ->> 学会演奏一种乐器需要时间和投入。  
 This tool is an essential instrument in conducting the experiment. ->> 这个工具是做这项实验不可或缺的器具。
 
-call /kɔl/ vt. 叫做  
+call ->> /kɔl/ vt. 叫做  
 She would often call her grandmother just to hear her voice. ->> 她常常给祖母打电话，只为听听她的声音。  
 They decided to call the project "Phoenix" after much discussion. ->> 经过反复讨论，他们决定把项目叫做“凤凰”。
 
-clavichord /ˈklævəˌkɔrd/ n. 击弦古钢琴  
+clavichord ->> /ˈklævəˌkɔrd/ n. 击弦古钢琴  
 He purchased a beautifully crafted clavichord for his collection. ->> 他为自己的收藏买了一架做工精美的击弦古钢琴。  
 The clavichord was a precursor to the pianoforte, favored in the Baroque period. ->> 击弦古钢琴是钢琴的前身，在巴洛克时期深受喜爱。
 
-Germany /ˈʤərməni/ n. 德国  
+Germany ->> /ˈʤərməni/ n. 德国  
 Germany is known for its contributions to automotive engineering. ->> 德国因其在汽车工程领域的贡献闻名。  
 I plan to visit Germany next summer to explore its rich history. ->> 我计划明年夏天去德国，探索那里的悠久历史。
 
-keep /kip/ vt. 保存  
+keep ->> /kip/ vt. 保存  
 Remember to keep the documents in a safe place. ->> 记得把这些文件放在安全的地方。  
 She tries to keep her schedule organized using a planner. ->> 她用日程本来保持时间安排井井有条。
 
-living-room /living-room*/ n. 客厅  
+living-room ->> /living-room*/ n. 客厅  
 They furnished the living-room with comfortable sofas and a fireplace. ->> 他们给客厅配了舒适的沙发和壁炉。  
 We gathered in the living-room to watch the family movie together. ->> 我们全家聚在客厅一起看电影。
 
-belong /bɪˈlɔŋ/ vi. 属于  
+belong ->> /bɪˈlɔŋ/ vi. 属于  
 He feels he truly belongs in this community. ->> 他觉得自己真正属于这个社区。  
 The book belongs to her; she lent it to me last week. ->> 这本书是她的，她上周借给我。
 
-recently /ˈrisəntli/ ad.最近  
+recently ->> /ˈrisəntli/ ad.最近  
 I recently finished reading an inspiring book about innovation. ->> 我最近读完了一本鼓舞人心的创新类书籍。  
 They have recently renovated their house to include more modern amenities. ->> 他们最近翻修了房子，加了更多现代化设施。
 
-damage /ˈdæmɪʤ/ vt. 损坏  
+damage ->> /ˈdæmɪʤ/ vt. 损坏  
 Strong winds can easily damage fragile structures. ->> 强风很容易破坏脆弱的结构。  
 He was concerned that the rain might damage the painting. ->> 他担心雨水会把这幅画弄坏。
 
-play /pleɪ/ vt. 弹奏  
+play ->> /pleɪ/ vt. 弹奏  
 She loves to play the piano every evening as a form of relaxation. ->> 她喜欢每天傍晚弹会儿钢琴放松一下。  
 They play their favorite songs from memory during the concert. ->> 他们在音乐会上凭记忆演奏最喜欢的曲目。
 
-key /ki/ n. 琴键  
+key ->> /ki/ n. 琴键  
 He needs to replace a broken key on the old piano. ->> 他得把旧钢琴上坏掉的琴键换掉。  
 The pianist's fingers danced gracefully across the keyboard, striking each key with precision. ->> 钢琴家的手指在键盘上优雅地舞动，精准地按下每一个琴键。
 
-strike /straɪk/ vt. 敲  
+strike ->> /straɪk/ vt. 敲  
 Workers decided to strike for better working conditions. ->> 工人们决定罢工以争取更好的工作条件。  
 He tends to strike the drums with great enthusiasm during performances. ->> 演出时他总是充满激情地敲击鼓面。
 
-hard /hɑrd/ ad.重重地  
+hard ->> /hɑrd/ ad.重重地  
 She hit the ball hard, sending it over the fence. ->> 她狠狠一击，把球打过了围栏。  
 He worked hard all year to achieve his academic goals. ->> 他整整一年刻苦用功，为实现学习目标。
 
-string /strɪŋ/ n. 弦  
+string ->> /strɪŋ/ n. 弦  
 The guitarist adjusted the tuning of each string before the performance. ->> 吉他手在演出前调好了每一根弦。  
 A broken string left the instrument unable to play correctly. ->> 一根弦断了，乐器就没法好好演奏。
 
-break /breɪk/ vt. 弄断  
+break ->> /breɪk/ vt. 弄断  
 Be careful not to break the fragile glass ornament. ->> 小心别把那件易碎的玻璃饰品弄断。  
 They didn't expect the rope to break under the weight. ->> 他们没想到那根绳子会被重量拉断。
 
-shock /ʃɑk/ vt. 震惊  
+shock ->> /ʃɑk/ vt. 震惊  
 The sudden announcement was enough to shock everyone in the room. ->> 这突如其来的宣布让屋里所有人都大吃一惊。  
 Her unexpected resignation shocked all her colleagues. ->> 她突然递交辞呈，令所有同事震惊。
 
-touch /təʧ/ vt. 碰  
+touch ->> /təʧ/ vt. 碰  
 He reached out to touch the cold surface of the metal. ->> 他伸手去触碰那冰冷的金属表面。  
 The artist aimed to touch the hearts of the audience with her performance. ->> 这位艺术家希望用演出打动观众的心。
 
-allow /əˈlaʊ/ vt. 允许  
+allow ->> /əˈlaʊ/ vt. 允许  
 Parents should allow their children to explore their creativity. ->> 父母应当允许孩子发挥创造力。  
 They were kind enough to allow us an extra day to complete the project. ->> 他们很体谅地又给了我们一天时间完成项目。
 
-repair /rɪˈpɛr/ vt. 修理  
+repair ->> /rɪˈpɛr/ vt. 修理  
 He needs to repair the leaky faucet as soon as possible. ->> 他得尽快把漏水的水龙头修好。  
 The technician was called to repair the damaged equipment. ->> 人们叫来技术员修理那台坏掉的设备。

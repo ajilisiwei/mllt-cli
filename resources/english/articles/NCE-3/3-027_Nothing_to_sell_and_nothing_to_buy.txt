@@ -18,62 +18,62 @@ He may hunt, beg, or steal occasionally to keep himself alive; he may even, in t
 We often speak of tramps with contempt and put them in the same class as beggars, but how many of us can honestly say that we have not felt a little envious of their simple way of life and their freedom from care? ->> 说起流浪汉，我们常常带有轻蔑，并把他们与乞丐归为一类，但我们中有多少人能够坦率地说，我们对流浪汉的简朴生活与无忧无虑的境况不感到有些羡慕呢？
 
 
-philosopher /fəˈlɑsəfər/ n. 哲学家  
+philosopher ->> /fəˈlɑsəfər/ n. 哲学家  
 The philosopher proposed a new perspective on the concept of justice. ->> 这位哲学家提出了一个关于正义概念的新视角。  
 Students gathered to hear the philosopher's lecture on existentialism. ->> 学生们聚集在一起聆听哲学家关于存在主义的演讲。  
 
-wisdom /ˈwɪzdəm/ n. 智慧  
+wisdom ->> /ˈwɪzdəm/ n. 智慧  
 Her wisdom shines through in every decision she makes. ->> 她的智慧在她的每一个决定中闪耀。  
 The wisdom passed down through generations should not be underestimated. ->> 代代相传的智慧不容小觑。  
 
-priest /prist/ n. 牧师  
+priest ->> /prist/ n. 牧师  
 The priest offered guidance to those in need. ->> 牧师为有需要的人提供指导。  
 During the ceremony, the priest delivered a moving sermon. ->> 在仪式上，牧师发表了一次感人的布道。  
 
-spiritual /ˈspɪrɪˌʧuəl/ adj. 精神上的  
+spiritual ->> /ˈspɪrɪˌʧuəl/ adj. 精神上的  
 She found peace in her spiritual practices. ->> 她在精神上的修行中找到了平静。  
 The concert was a spiritual experience for many of the attendees. ->> 音乐会对许多与会者来说是一种精神上的体验。  
 
-grudge /grəʤ/ v. 不愿给，舍不得给  
+grudge ->> /grəʤ/ v. 不愿给，舍不得给  
 He didn't grudge her the praise she deserved. ->> 他不舍不得给予她应得的赞美。  
 They grudge every penny they spend on unnecessary things. ->> 他们对花在不必要的事情上的每一分钱都舍不得给。  
 
-surgeon /ˈsərʤɪn/ n. 外科大夫  
+surgeon ->> /ˈsərʤɪn/ n. 外科大夫  
 The surgeon explained the procedure to the patient's family. ->> 外科大夫向病人的家属解释了手术程序。  
 After years of training, she finally became a skilled surgeon. ->> 经过多年的训练，她终于成为一名技术娴熟的外科大夫。  
 
-passer-by /passer-by*/ n. 过路人（复数 passers-by)  
+passer-by ->> /passer-by*/ n. 过路人（复数 passers-by)  
 A passer-by helped the tourist find her way to the museum. ->> 一位过路人帮助游客找到去博物馆的路。  
 The street performer attracted the attention of many passers-by. ->> 街头艺人吸引了许多过路人的注意。  
 
-dignity /ˈdɪgnəti/ n. 尊严  
+dignity ->> /ˈdɪgnəti/ n. 尊严  
 She handled the difficult situation with dignity. ->> 她有尊严地处理了困难的局面。  
 Maintaining dignity in the face of adversity is important. ->> 面对逆境保持尊严很重要。  
 
-deliberately /dɪˈlɪbərətli/ adv. 故意地  
+deliberately ->> /dɪˈlɪbərətli/ adv. 故意地  
 He deliberately chose words that would provoke a reaction. ->> 他故意选择会引起反应的词汇。  
 The artist deliberately left the painting unfinished. ->> 艺术家故意留下未完成的画。  
 
-consequence /ˈkɑnsəkwəns/ n. 后果，结果  
+consequence ->> /ˈkɑnsəkwəns/ n. 后果，结果  
 Every decision has its consequence, whether good or bad. ->> 每个决定都有其后果，无论好坏。  
 He didn't fully understand the consequences of his actions. ->> 他没有完全理解他行为的后果。  
 
-afflict /əˈflɪkt/ v. 使苦恼，折磨  
+afflict ->> /əˈflɪkt/ v. 使苦恼，折磨  
 The disease continues to afflict millions of people worldwide. ->> 这种疾病继续折磨着全世界数百万人。  
 Poverty can afflict even the wealthiest of nations. ->> 贫困可以折磨即便是最富裕的国家。  
 
-ease /iz/ n. 容易  
+ease ->> /iz/ n. 容易  
 The new software offers ease of use for beginners. ->> 新软件为初学者提供了使用的容易性。  
 She completed the puzzle with remarkable ease. ->> 她极其容易地完成了拼图。  
 
-nature /ˈneɪʧər/ n. 大自然  
+nature ->> /ˈneɪʧər/ n. 大自然  
 Nature has a way of healing the mind and body. ->> 大自然有一种治愈身心的方法。  
 They spent the weekend exploring the beauty of nature. ->> 他们度过了探索大自然美景的周末。  
 
-contempt /kənˈtɛmpt/ n. 蔑视  
+contempt ->> /kənˈtɛmpt/ n. 蔑视  
 He faced contempt from his peers for his controversial opinions. ->> 由于他的争议性意见，他受到同龄人的蔑视。  
 The judge warned that any contempt of court would be punished. ->> 法官警告说，任何对法庭的藐视都会受到处罚。  
 
-envious /ˈɛnviəs/ adj. 嫉妒的  
+envious ->> /ˈɛnviəs/ adj. 嫉妒的  
 She couldn't help but feel envious of her friend's success. ->> 她忍不住嫉妒她朋友的成功。  
 His envious nature made it hard for him to celebrate others' achievements. ->> 他的嫉妒性格使他难以庆祝他人的成就。

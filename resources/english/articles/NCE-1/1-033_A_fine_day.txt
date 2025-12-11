@@ -10,62 +10,62 @@ Tim is looking at an aeroplane. ->> 蒂姆正在看一架飞机。
 The aeroplane is flying over the river. ->> 飞机正飞过河面。
 
 
-day /deɪ/ n. 日子  
+day ->> /deɪ/ n. 日子  
 We have a busy day planned tomorrow.  
 She counts down the days until her birthday.
 
-cloud /klaʊd/ n. 云  
+cloud ->> /klaʊd/ n. 云  
 Dark clouds gathered, hinting at a coming storm.  
 The fluffy cloud cast a shadow on the field.
 
-sky /skaɪ/ n. 天空  
+sky ->> /skaɪ/ n. 天空  
 The night sky was filled with twinkling stars.  
 A rainbow stretched across the clear blue sky.
 
-sun /sʌn/ n. 太阳  
+sun ->> /sʌn/ n. 太阳  
 The sun set behind the mountains, painting the sky orange.  
 The bright sun warmed the chilly morning air.
 
-shine /ʃaɪn/ v. 照耀  
+shine ->> /ʃaɪn/ v. 照耀  
 Her shoes were so polished they shone like mirrors.  
 The moon shone softly on the sleeping town.
 
-with /wɪθ/ prep. 和……在一起  
+with ->> /wɪθ/ prep. 和……在一起  
 He shared his umbrella with his coworker.  
 I baked cookies with extra chocolate chips.
 
-family /ˈfæməli/ n. 家庭（成员）  
+family ->> /ˈfæməli/ n. 家庭（成员）  
 Their family tradition includes a big holiday dinner.  
 He comes from a large family with five siblings.
 
-walk /wɔk/ v. 走路, 步行  
+walk ->> /wɔk/ v. 走路, 步行  
 She loves to walk along the beach at sunset.  
 They decided to walk instead of taking the bus.
 
-over /ˈoʊvər/ prep. 跨越，在……之上  
+over ->> /ˈoʊvər/ prep. 跨越，在……之上  
 Rainbows formed over the misty waterfall.  
 She threw a blanket over the sleeping child.
 
-bridge /brɪʤ/ n. 桥  
+bridge ->> /brɪʤ/ n. 桥  
 Tourists admired the stunning view from the suspension bridge.  
 A wooden bridge connected the two gardens.
 
-boat /boʊt/ n. 船  
+boat ->> /boʊt/ n. 船  
 They rented a boat for a leisurely afternoon.  
 The little boat bobbed gently with the waves.
 
-river /ˈrɪvər/ n. 河  
+river ->> /ˈrɪvər/ n. 河  
 The river widened as it approached the sea.  
 Canoes glided silently down the gentle river.
 
-ship /ʃɪp/ n. 轮船  
+ship ->> /ʃɪp/ n. 轮船  
 The ancient shipwreck lay resting on the ocean floor.  
 They waved goodbye as the ship left the harbor.
 
-aeroplane /ˈerəpleɪn/ n. 飞机  
+aeroplane ->> /ˈerəpleɪn/ n. 飞机  
 An aeroplane flew overhead, leaving a white trail.  
 He caught a glimpse of the city lights from the aeroplane.
 
-fly /flaɪ/ v. 飞  
+fly ->> /flaɪ/ v. 飞  
 She watched the kite fly high above the park.  
 The pilot loved to fly through the open skies.

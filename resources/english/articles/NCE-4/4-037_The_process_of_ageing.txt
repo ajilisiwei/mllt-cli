@@ -17,58 +17,58 @@ We could, at one time, repair ourselves --well enough, at least, to overcome all
 Between twelve and eighty years we gradually lose this power; an illness which at twelve would knock us over, at eighty can knock us out. ->> 在12岁至80岁之间，我们逐渐丧失这种能力。能使我们12岁时病倒的疾病，到了80岁可能会让我们一蹶不振而进入坟墓。
 
 
-likelihood /ˈlaɪkliˌhʊd/ n. 可能性  
+likelihood ->> /ˈlaɪkliˌhʊd/ n. 可能性  
 The likelihood of rain tomorrow worries the farmers. ->> 明天下雨的可能性让农民们感到担忧。 
 Considering the current circumstances, the likelihood of success is quite high. ->> 考虑到目前的情况，成功的可能性非常高。
 
-infant /ˈɪnfənt/ n. 婴儿  
+infant ->> /ˈɪnfənt/ n. 婴儿  
 The infant cried softly in the crib. ->> 婴儿在婴儿床上轻声哭泣。  
 Parents are cautious about the infant's diet. ->> 父母对婴儿的饮食格外小心。
 
-vulnerable /ˈvəlnərəbəl/ adj. 脆弱  
+vulnerable ->> /ˈvəlnərəbəl/ adj. 脆弱  
 After the storm, the vulnerable coastal houses needed urgent repairs. ->> 风暴过后，脆弱的沿海房屋需要紧急修理。  
 Young animals are particularly vulnerable to predators. ->> 幼小的动物对捕食者尤其脆弱。
 
-imperceptible /ˌɪmpərˈsɛptɪbəl/ adj. 感觉不到的  
+imperceptible ->> /ˌɪmpərˈsɛptɪbəl/ adj. 感觉不到的  
 The changes in temperature were almost imperceptible. ->> 温度的变化几乎是感觉不到的。  
 Her smile was so subtle it was nearly imperceptible. ->> 她的微笑如此微妙，以至于几乎感觉不到。
 
-steep /stip/ adj. 急转直下  
+steep ->> /stip/ adj. 急转直下  
 The steep hill was challenging to climb. ->> 这个陡峭的山坡很难攀登。  
 The price increase was so steep that customers started complaining. ->> 价格上涨如此之快以致顾客开始抱怨。
 
-ageing /ˈeɪdʒɪŋ/ n. 老化  
+ageing ->> /ˈeɪdʒɪŋ/ n. 老化  
 The ageing of the population poses new challenges to policy makers. ->> 人口老化给政策制定者带来了新的挑战。  
 Scientists are studying the ageing process in different species. ->> 科学家们正在研究不同物种的老化过程。
 
-odds /ɑdz/ n. 可能性  
+odds ->> /ɑdz/ n. 可能性  
 The odds of winning the lottery are incredibly low. ->> 中六合彩的可能性非常低。  
 Despite the odds, she remained optimistic about the outcome. ->> 尽管可能性不大，她对结果仍然乐观。
 
-virtual /ˈvərʧuəl/ adj. 实际上的  
+virtual ->> /ˈvərʧuəl/ adj. 实际上的  
 The meeting has become virtual due to the pandemic. ->> 由于疫情，会议已变为实际上。  
 The company's virtual office allows employees to work from anywhere. ->> 公司的虚拟办公使员工可以在任何地方工作。
 
-robust /roʊˈbəst/ adj. 强健的  
+robust ->> /roʊˈbəst/ adj. 强健的  
 The robust economy showed signs of recovery. ->> 强健的经济显示出复苏的迹象。  
 She enjoys a robust health thanks to regular exercise. ->> 她因为经常锻炼而拥有强健的身体。
 
-organism /ˈɔrgəˌnɪzəm/ n. 有机体  
+organism ->> /ˈɔrgəˌnɪzəm/ n. 有机体  
 Every organism has a unique genetic code. ->> 每个有机体都有独特的基因代码。  
 Studying microorganisms helps us understand larger ecosystems. ->> 研究微生物有助于我们了解更大的生态系统。
 
-thermodynamics /ˌθɜrmoʊdaɪˈnæmɪks/ n. 热力学  
+thermodynamics ->> /ˌθɜrmoʊdaɪˈnæmɪks/ n. 热力学  
 Thermodynamics is a fundamental subject in engineering. ->> 热力学是工程学的一门基础课程。  
 The principles of thermodynamics apply to a wide range of systems. ->> 热力学原理适用于广泛的系统。
 
-moot /mut/ adj. 争论未决的  
+moot ->> /mut/ adj. 争论未决的  
 The point is moot since the decision has already been made. ->> 这一点是争论未决的，因为已经做出了决定。  
 In light of the new evidence, the previous debate seems moot. ->> 鉴于新的证据，以前的争论似乎没有意义。
 
-run-down /ˈrənˈdaʊn/ adj. 破旧的  
+run-down ->> /ˈrənˈdaʊn/ adj. 破旧的  
 The run-down building was scheduled for demolition. ->> 这栋破旧的建筑被计划拆除。  
 After years of neglect, the neighborhood looked run-down. ->> 多年无人照料后，这片街区显得破旧不堪。
 
-friction /ˈfrɪkʃən/ n. 摩擦  
+friction ->> /ˈfrɪkʃən/ n. 摩擦  
 Friction between the wheels and the rail slows the train down. ->> 车轮与铁轨之间的摩擦使火车减速。  
 To reduce friction, engineers applied lubricant to the parts. ->> 为了减少摩擦，工程师们给零件涂上润滑油。

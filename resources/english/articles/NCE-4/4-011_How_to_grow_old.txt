@@ -10,58 +10,58 @@ And if, with the decay of vitality, weariness increases, the thought of rest wil
 I should wish to die while still at work, knowing that others will carry on what I can no longer do, and content in the thought that what was possible has been done. ->> 我希望工作到死为止，明白有人会继续我的未竟事业，想到能做的事都做了，也就坦然了。
 
 
-oppress /əˈprɛs/ v. 忧郁，压抑  
+oppress ->> /əˈprɛs/ v. 忧郁，压抑  
 He felt oppressed by the weight of his responsibilities. ->> 他感到责任的重担使他压抑。  
 The oppressive atmosphere in the office was hard to ignore. ->> 办公室里的压抑气氛难以忽视。  
 
-justification /ˌʤəstəfəˈkeɪʃən/ n. 正当理由  
+justification ->> /ˌʤəstəfəˈkeɪʃən/ n. 正当理由  
 The project's delay was justified by unexpected weather conditions. ->> 项目的延迟因意外天气条件而有正当理由。  
 She presented a strong justification for her actions in the report. ->> 她在报告中为自己的行为提供了充分的正当理由。  
 
-justifiably /ˈʤəstəˌfaɪəbli/ adv. 无可非议地  
+justifiably ->> /ˈʤəstəˌfaɪəbli/ adv. 无可非议地  
 She was justifiably proud of her achievements. ->> 她对自己的成就无可非议地感到自豪。  
 The team celebrated justifiably after winning the championship. ->> 队伍在赢得冠军后无可非议地庆祝。
 
-cheat /ʧit/ v. 欺骗  
+cheat ->> /ʧit/ v. 欺骗  
 He was accused of cheating during the examination. ->> 他被指控在考试中作弊。  
 She felt cheated after discovering the hidden charges. ->> 她在发现隐藏费用后感到受骗。  
 
-abject /ˈæbʤɛkt/ adj. 可怜的  
+abject ->> /ˈæbʤɛkt/ adj. 可怜的  
 The abject poverty in the region stirred the volunteers to action. ->> 该地区的可怜贫穷激励了志愿者们采取行动。  
 He offered an abject apology for his past mistakes. ->> 他对过去的错误做出了可怜的道歉。
 
-ignoble /ˌɪgˈnoʊbəl/ adj. 不体面的，可耻的  
+ignoble ->> /ˌɪgˈnoʊbəl/ adj. 不体面的，可耻的  
 His ignoble actions led to a tarnished reputation. ->> 他不体面的行为导致了名声受损。  
 The ignoble deed was condemned by the entire community. ->> 这种可耻的行为受到了整个社区的谴责。
 
-impersonal /ˌɪmˈpərsənəl/ adj. 超脱个人感情影响的  
+impersonal ->> /ˌɪmˈpərsənəl/ adj. 超脱个人感情影响的  
 The email sounded impersonal and lacked warmth. ->> 这封电子邮件听起来超脱个人感情影响且缺乏温情。  
 She preferred an impersonal approach to handling conflicts. ->> 她更喜欢用超脱个人感情影响的方法来处理冲突。
 
-ego /ˈigoʊ/ n. 自我  
+ego ->> /ˈigoʊ/ n. 自我  
 His ego sometimes gets in the way of his relationships. ->> 他的自我有时会妨碍他的人际关系。  
 The discussion quickly became an ego contest between the two leaders. ->> 讨论很快就演变成了两位领导者之间的自我对抗。
 
-receded /rɪˈsidɪd/ v. 退去  
+receded ->> /rɪˈsidɪd/ v. 退去  
 The floodwaters have receded, leaving behind a devastated landscape. ->> 洪水退去，留下了一片被毁的景象。  
 As his anger receded, he found it easier to think clearly. ->> 随着他的怒火退去，他发现思绪更为清晰。
 
-increasing /ˌɪnˈkrisɪŋ/ adv. 日益，不断  
+increasing ->> /ˌɪnˈkrisɪŋ/ adv. 日益，不断  
 Increasingly, people are turning to online platforms for learning. ->> 人们越来越多地转向在线平台学习。  
 There is an increasing need for renewable energy sources. ->> 对可再生能源的需求日益增加。
 
-passionately /ˈpæʃənətli/ adv. 激昂地  
+passionately ->> /ˈpæʃənətli/ adv. 激昂地  
 She spoke passionately about her love for classical music. ->> 她激昂地谈论了自己对古典音乐的热爱。  
 The team worked passionately to meet the project's deadline. ->> 团队热情地工作以赶上项目的截止日期。
 
-painlessly /ˈpeɪnləsli/ adv. 毫无痛苦地  
+painlessly ->> /ˈpeɪnləsli/ adv. 毫无痛苦地  
 The procedure was completed painlessly and without complications. ->> 这个程序毫无痛苦地完成且无并发症。  
 He transitioned painlessly into his new role at the company. ->> 他毫无痛苦地过渡到公司里的新角色。
 
-vitality /vaɪˈtæləti/ n. 精力  
+vitality ->> /vaɪˈtæləti/ n. 精力  
 Her vitality and enthusiasm are contagious to those around her. ->> 她的精力和热情对周围的人产生了感染。  
 The vitality of the city's cultural scene attracted many artists. ->> 这座城市文化景象的活力吸引了许多艺术家。
 
-weariness /ˈwɪrinəs/ n. 疲惫感  
+weariness ->> /ˈwɪrinəs/ n. 疲惫感  
 The weariness from the long journey was evident on their faces. ->> 长途旅行的疲惫明显写在他们脸上。  
 Despite their weariness, the volunteers continued to work tirelessly. ->> 尽管疲惫，志愿者们依然不知疲倦地工作。

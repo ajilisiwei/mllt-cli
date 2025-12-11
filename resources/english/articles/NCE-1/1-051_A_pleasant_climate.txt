@@ -13,106 +13,106 @@ HANS: Is it very cold in winter? ->> 汉斯：冬季的天气很冷吗？
 DIMITRI: It's often cold in December, January and February. It snows sometimes. ->> 迪米特里：12月、1月和2月常常很冷，有时还下雪。
 
 
-Greece /gris/ n. 希腊  
+Greece ->> /gris/ n. 希腊  
 She has always been fascinated by the architecture of Greece.  
 They plan to explore the beautiful islands of Greece next summer.  
 
-climate /ˈklaɪmɪt/ n. 气候  
+climate ->> /ˈklaɪmɪt/ n. 气候  
 The tropical climate attracts many tourists to the region.  
 Farmers must adapt their crops to the changing climate.  
 
-country /ˈkəntri/ n. 国家  
+country ->> /ˈkəntri/ n. 国家  
 Japan is a country famous for its technology and culture.  
 He dreams of visiting every country in the world.  
 
-pleasant /ˈplɛzənt/ adj. 宜人的  
+pleasant ->> /ˈplɛzənt/ adj. 宜人的  
 A pleasant breeze blew through the open window.  
 We spent a pleasant afternoon picnicking in the park.  
 
-weather /ˈwɛðər/ n. 天气  
+weather ->> /ˈwɛðər/ n. 天气  
 Rainy weather can be a good excuse to stay indoors and read.  
 The forecast calls for sunny weather over the weekend.  
 
-spring /spərɪŋ/ n. 春季  
+spring ->> /spərɪŋ/ n. 春季  
 In spring, the days grow longer and the temperatures rise.  
 Spring is a time of renewal and hope for many people.  
 
-windy /ˈwɪndi/ adj. 有风的  
+windy ->> /ˈwɪndi/ adj. 有风的  
 It was a windy day, perfect for sailing on the lake.  
 The windy conditions made cycling quite challenging.  
 
-warm /wɔrm/ adj. 温暖的  
+warm ->> /wɔrm/ adj. 温暖的  
 The warm hospitality of the locals made us feel at home.  
 They enjoyed a warm afternoon stroll through the gardens.  
 
-rain /reɪn/ v. 下雨  
+rain ->> /reɪn/ v. 下雨  
 It might rain later, so don't forget your umbrella.  
 The forecast indicates it will rain throughout the night.  
 
-sometimes /ˈsəmˌtaɪmz/ adv. 有时  
+sometimes ->> /ˈsəmˌtaɪmz/ adv. 有时  
 Sometimes, the best moments happen when you least expect them.  
 He sometimes struggles to wake up early in the morning.  
 
-summer /ˈsəmər/ n. 夏天  
+summer ->> /ˈsəmər/ n. 夏天  
 Summer is when many people take their long-awaited vacations.  
 There's nothing like a barbecue in the backyard during summer.  
 
-autumn /ˈɔtəm/ n. 秋天  
+autumn ->> /ˈɔtəm/ n. 秋天  
 Autumn is the perfect season for cozy sweaters and warm drinks.  
 The crisp air of autumn is refreshing after a hot summer.  
 
-winter /ˈwɪntər/ n. 冬天  
+winter ->> /ˈwɪntər/ n. 冬天  
 Winter sports enthusiasts eagerly await the first snowfall.  
 They spent the winter months curled up by the fireplace.  
 
-snow /snoʊ/ v. 下雪  
+snow ->> /snoʊ/ v. 下雪  
 The forecast predicts it will snow heavily this afternoon.  
 The park transforms into a wonderland when it snows.  
 
-January /ˈʤænjuˌɛri/ n. 1月  
+January ->> /ˈʤænjuˌɛri/ n. 1月  
 Many people make New Year's resolutions in January.  
 January can be a particularly cold month in some areas.  
 
-February /ˈfɛbruˌɛri/ n. 2月  
+February ->> /ˈfɛbruˌɛri/ n. 2月  
 The Winter Olympics are often held in February.  
 In February, the city hosts an annual film festival.  
 
-March /mɑrʧ/ n. 3月  
+March ->> /mɑrʧ/ n. 3月  
 March can be unpredictable, with both snow and sun.  
 Many schools have spring break in March.  
 
-April /ˈeɪprəl/ n. 4月  
+April ->> /ˈeɪprəl/ n. 4月  
 April marks the beginning of the gardening season.  
 There's a saying that April showers bring May flowers.  
 
-May /meɪ/ n. 5月  
+May ->> /meɪ/ n. 5月  
 May is a wonderful time for a countryside walk.  
 The local fair is held every May.  
 
-June /ʤun/ n. 6月  
+June ->> /ʤun/ n. 6月  
 School is typically out for summer break by June.  
 June brings long days and plenty of sunshine.  
 
-July /ˌʤuˈlaɪ/ n. 7月  
+July ->> /ˌʤuˈlaɪ/ n. 7月  
 In July, the city hosts an annual music festival.  
 Fireworks are a common sight in July.  
 
-August /ˈɔgəst/ n. 8月  
+August ->> /ˈɔgəst/ n. 8月  
 The seaside town is bustling with tourists in August.  
 August means long days spent at the swimming pool.  
 
-September /sɛpˈtɛmbər/ n. 9月  
+September ->> /sɛpˈtɛmbər/ n. 9月  
 September is often the beginning of the new school year.  
 Harvest season starts in September for many farmers.  
 
-October /ɑkˈtoʊbər/ n. 10月  
+October ->> /ɑkˈtoʊbər/ n. 10月  
 October is a month of harvest and celebration.  
 The cool breeze of October signals the coming winter.  
 
-November /noʊˈvɛmbər/ n. 11月  
+November ->> /noʊˈvɛmbər/ n. 11月  
 Trees become bare as November progresses.  
 Families gather for Thanksgiving in November.  
 
-December /dɪˈsɛmbər/ n. 12月  
+December ->> /dɪˈsɛmbər/ n. 12月  
 Warming up by the fireplace is a favorite December pastime.  
 Holiday decorations light up the streets in December.

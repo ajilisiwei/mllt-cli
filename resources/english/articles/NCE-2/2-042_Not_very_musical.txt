@@ -8,11 +8,11 @@ The snake, however, continued to 'dance' slowly. ->> 然而，那蛇却依然缓
 It obviously could not tell the difference between Indian music and jazz! ->> 显然，它分辨不出印度音乐和爵士乐！
 
 
-musical /mˈjuzɪkəl/ adj. 精通音乐的  
+musical ->> /mˈjuzɪkəl/ adj. 精通音乐的  
 She has a natural musical talent that astounds her teachers. ->> 她天生的音乐天赋令她的老师们惊叹不已。  
 His musical abilities allow him to learn new instruments quickly. ->> 他的音乐能力使他能够快速学习新乐器。  
 
-market /ˈmɑrkɪt/ n. 市场，集市  
+market ->> /ˈmɑrkɪt/ n. 市场，集市  
 The market bustled with merchants selling colorful fruits and vegetables. ->> 市场上挤满了售卖色彩缤纷的水果和蔬菜的商贩。  
 She set her stall up in the market every Saturday morning. ->> 她每周六早上都会在市场摆摊。  
 
@@ -20,42 +20,42 @@ snake charmer 玩蛇者（通常借音乐控制）
 The snake charmer captivated the crowd with his mysterious melodies. ->> 耍蛇人用他神秘的旋律迷住了人群。  
 Tourists gathered around the snake charmer, fascinated by his skillful performance. ->> 游客们纷纷围观耍蛇人，被他精湛的表演所折服。  
 
-pipe /paɪp/ n. （吹奏的）管乐器  
+pipe ->> /paɪp/ n. （吹奏的）管乐器  
 The ancient pipe produced hauntingly beautiful sounds. ->> 古老的管子发出令人难以忘怀的优美声音。  
 He carefully carved the pipe from a piece of bamboo. ->> 他用一块竹子仔细地雕刻了烟斗。  
 
-tune /tun/ n. 曲调  
+tune ->> /tun/ n. 曲调  
 The tune was catchy and stayed in my head all day. ->> 这首曲子很动听，一整天都在我的脑海里。  
 She hummed a familiar tune as she worked in the garden. ->> 她在花园里干活时哼着熟悉的曲调。  
 
-glimpse /glɪmps/ n. 一瞥  
+glimpse ->> /glɪmps/ n. 一瞥  
 I caught a glimpse of the celebrity as she rushed out of the building. ->> 当这位名人冲出大楼时，我瞥见了她。  
 A glimpse into the future can be both exciting and daunting. ->> 展望未来既令人兴奋又令人畏惧。  
 
-snake /sneɪk/ n. 蛇  
+snake ->> /sneɪk/ n. 蛇  
 The snake slithered silently across the forest floor. ->> 蛇静静地滑过森林地面。  
 A snake can move quickly and strike with surprising speed. ->> 蛇可以快速移动并以惊人的速度进行攻击。  
 
-movement /ˈmuvmənt/ n. 动作  
+movement ->> /ˈmuvmənt/ n. 动作  
 The dance emphasized graceful movement and rhythm. ->> 舞蹈强调优美的动作和节奏。  
 His movement was fluid, every step carefully calculated. ->> 他的动作流畅，每一步都经过精心计算。  
 
-continue /kənˈtɪnju/ v. 继续  
+continue ->> /kənˈtɪnju/ v. 继续  
 We will continue our journey despite the adverse weather. ->> 尽管天气恶劣，我们仍将继续我们的旅程。  
 She decided to continue her education after taking a gap year. ->> 休学一年后，她决定继续学业。  
 
-dance /dæns/ v. 跳舞  
+dance ->> /dæns/ v. 跳舞  
 They love to dance to classic hits from the '80s. ->> 他们喜欢随着 80 年代的经典歌曲跳舞。  
 We watched as the couple began to dance under the stars. ->> 我们看着这对夫妇开始在星空下跳舞。  
 
-obviously /ˈɑbviəsli/ adv. 显然  
+obviously ->> /ˈɑbviəsli/ adv. 显然  
 She was obviously pleased with the outcome of the meeting. ->> 显然，她对这次会议的结果感到满意。  
 The improvements in the project were obviously noticeable. ->> 该项目的改进是显而易见的。  
 
-difference /ˈdɪfərəns/ n. 差别  
+difference ->> /ˈdɪfərəns/ n. 差别  
 Understanding the cultural difference is key to successful negotiation. ->> 了解文化差异是谈判成功的关键。  
 There's a significant difference in opinion between the two parties. ->> 两党之间的意见存在重大分歧。  
 
-Indian /ˈɪndiən/ adj. 印度的  
+Indian ->> /ˈɪndiən/ adj. 印度的  
 The Indian cuisine was rich with spices and flavors. ->> 印度菜充满了香料和风味。  
 Her Indian attire was vibrant and beautifully embroidered. ->> 她的印度服装充满活力，刺绣精美。  

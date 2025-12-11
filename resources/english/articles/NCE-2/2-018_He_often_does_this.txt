@@ -10,14 +10,14 @@ In a few minutes he returned with my bag and gave it back to me. ->> 一会儿�
 He often does this!' ->> 他常干这种事！”
 
 
-pub /pəb/ n. 小酒店  
+pub ->> /pəb/ n. 小酒店  
 The pub is a gathering place for locals every Friday night. ->> 酒吧是当地人每周五晚上的聚会场所。  
 After a long day at work, they often meet at the pub for a drink. ->> 经过一整天的工作后，他们经常在酒吧见面喝一杯。  
 
-landlord /ˈlænˌdlɔrd/ n. 店主  
+landlord ->> /ˈlænˌdlɔrd/ n. 店主  
 The landlord greeted every customer with a warm smile. ->> 房东用热情的微笑迎接每一位顾客。  
 She complained to the landlord about the leaky ceiling. ->> 她向房东抱怨天花板漏水。  
 
-bill /bɪl/ n. 帐单  
+bill ->> /bɪl/ n. 帐单  
 He checked the bill twice to ensure there were no mistakes. ->> 他把账单检查了两遍，以确保没有错误。  
 The waiter brought the bill just as they were finishing their desserts. ->> 正当他们吃完甜点时，服务员送来了账单。  

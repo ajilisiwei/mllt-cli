@@ -19,110 +19,110 @@ It is possible that there is a definite relation between these paintings and the
 It seems that man was making a real effort to understand the seasons 20,000 years earlier than has been supposed. ->> 看来人类在探索季节变化方面的努力比人们原本以为的要早20,000年。
 
 
-calendarn. /calendarn*./ 历法，日历
+calendarn. ->> /calendarn*./ 历法，日历
 I marked all my appointments on the calendarn. ->> 我把所有的约会都记在了历法上。
 The ancient calendarn. was essential for tracking agricultural seasons. ->> 古代历法对于追踪农业季节非常重要。
 
-historian /hɪˈstɔriən/ n. 历史学家
+historian ->> /hɪˈstɔriən/ n. 历史学家
 The historian's lecture on ancient civilizations was captivating. ->> 历史学家关于古文明的演讲很吸引人。
 Many historians have written extensively about the Roman Empire. ->> 许多历史学家对罗马帝国有广泛的著作。
 
-unique /juˈnik/ adj. 无与伦比的
+unique ->> /juˈnik/ adj. 无与伦比的
 Her unique perspective brought a fresh take on the issue. ->> 她无与伦比的视角为这一问题带来了新的看法。
 Each snowflake is said to be unique in its design. ->> 每一片雪花的设计据说都是无与伦比的。
 
-steadily /ˈstɛdəli/ adv. 不断地
+steadily ->> /ˈstɛdəli/ adv. 不断地
 The company's profits have been growing steadily over the years. ->> 多年来公司的利润一直在不断增长。
 He steadily improved his skills through practice. ->> 他通过不断练习提高了自己的技能。
 
-solely /ˈsoʊəli/ adv. 唯一地
+solely ->> /ˈsoʊəli/ adv. 唯一地
 The decision was based solely on the available data. ->> 这个决定是唯一地基于现有的数据。
 She is solely responsible for the project's success. ->> 她是该项目成功的唯一责任人。
 
-video /ˈvɪdioʊ/ n. 录像
+video ->> /ˈvɪdioʊ/ n. 录像
 I watched an interesting documentary video on climate change. ->> 我观看了一段关于气候变化的有趣纪录片录像。
 They recorded the concert on video for those who couldn't attend. ->> 他们把音乐会录制成录像，供未能参加的人观看。
 
-CD-ROM /ˌsiːdiˈrɒm/ n. （只读）光盘驱动器
+CD-ROM ->> /ˌsiːdiˈrɒm/ n. （只读）光盘驱动器
 The old computer uses a CD-ROM drive to access media content. ->> 那台旧电脑使用CD-ROM驱动器读取媒体内容。
 Finding a CD-ROM drive in new laptops is quite rare nowadays. ->> 现在在新款笔记本电脑中找到CD-ROM驱动器已经相当罕见。
 
-bewilder /bɪˈwɪldər/ v. 令……困惑
+bewilder ->> /bɪˈwɪldər/ v. 令……困惑
 The complex instructions bewildered the new employees. ->> 复杂的说明令新员工感到困惑。
 He was bewildered by the sudden change in plans. ->> 他对计划的突然变化感到困惑。
 
-deduce /dɪˈdus/ v. 推断，推理
+deduce ->> /dɪˈdus/ v. 推断，推理
 From the evidence presented, I can deduce that he was present at the scene. ->> 从所提供的证据来看，我可以推断他曾在现场。
 She was able to deduce the solution to the puzzle with critical thinking. ->> 她通过批判性思维推断出了谜题的答案。
 
-scanty /ˈskænti/ adj. 不足的，贫乏的
+scanty ->> /ˈskænti/ adj. 不足的，贫乏的
 The documentation provided was scanty and unhelpful. ->> 所提供的文件不足且无帮助。
 He managed to survive on a scanty diet for several weeks. ->> 他靠不足的饮食生存了好几个星期。
 
-clue /klu/ n. 线索
+clue ->> /klu/ n. 线索
 The detective found a crucial clue that led to solving the case. ->> 侦探找到了一个关键线索，进而破了案。
 She left a clue for him to discover the surprise. ->> 她给他留了个线索，让他发现惊喜。
 
-insignificant /ˌɪnsɪgnˈjɪfɪkənt/ adj. 不重要的
+insignificant ->> /ˌɪnsɪgnˈjɪfɪkənt/ adj. 不重要的
 Compared to the big picture, his role in the project was insignificant. ->> 与整个项目相比，他在项目中的角色无关紧要。
 The difference in cost between the two options was insignificant. ->> 两种选择的成本差异无关紧要。
 
-shed /ʃɛd/ v. 使流出，泻
+shed ->> /ʃɛd/ v. 使流出，泻
 Autumn is the season when trees shed their leaves. ->> 秋天是树叶飘零的季节。
 The candle shed a soft light across the room. ->> 蜡烛在房间里洒下一片柔和的光。
 
-advent /ˈædˌvɛnt/ n. 出现，到来，来临
+advent ->> /ˈædˌvɛnt/ n. 出现，到来，来临
 The advent of the internet transformed how we communicate. ->> 互联网的出现改变了我们的交流方式。
 With the advent of spring, the flowers began to bloom. ->> 随着春天的到来，花儿开始绽放。
 
-agriculture /ˈægrɪˌkəlʧər/ n. 农业
+agriculture ->> /ˈægrɪˌkəlʧər/ n. 农业
 Agriculture remains a vital part of the country's economy. ->> 农业仍然是该国经济的重要组成部分。
 Sustainable agriculture practices can help protect the environment. ->> 可持续农业实践可以帮助保护环境。
 
-assumption /əˈsəmpʃən/ n. 假定，设想
+assumption ->> /əˈsəmpʃən/ n. 假定，设想
 The plan was based on the assumption that funding would be approved. ->> 该计划是基于资金会获得批准的假设。
 It was a false assumption that led to the misunderstanding. ->> 是错误的假设导致了这场误会。
 
-dot /dɑt/ n. 小圆点
+dot ->> /dɑt/ n. 小圆点
 The map was marked with a red dot to indicate the location. ->> 地图上用一个红色的小圆点标出了位置。
 The artist used dots to create the painting’s texture. ->> 画家用小圆点来创造画作的质感。
 
-symbol /ˈsɪmbəl/ n. 符号
+symbol ->> /ˈsɪmbəl/ n. 符号
 The dove is a symbol of peace recognized worldwide. ->> 鸽子是全世界公认的和平符号。
 Each symbol on the map represents a different type of landmark. ->> 地图上的每个符号代表不同类型的地标。
 
-engrave /ɪnˈgreɪv/ v. 雕刻
+engrave ->> /ɪnˈgreɪv/ v. 雕刻
 He decided to engrave their names on the wedding ring. ->> 他决定在婚戒上刻上他们的名字。
 The artist used a chisel to engrave the intricate design into the metal. ->> 艺术家用凿子将复杂的图案雕刻在金属上。
 
-ivory /ˈaɪvəri/ n. 象牙制品
+ivory ->> /ˈaɪvəri/ n. 象牙制品
 The museum displayed a beautiful collection of carved ivory. ->> 博物馆展出了一件美丽的雕刻象牙制品收藏。
 Trade of ivory is restricted to protect endangered elephants. ->> 象牙交易受到限制，以保护濒危大象。
 
-mammoth /ˈmæməθ/ n. （古）长毛象
+mammoth ->> /ˈmæməθ/ n. （古）长毛象
 The fossilized remains of a mammoth were discovered in the Arctic. ->> 在北极发现了一个古长毛象的化石遗迹。
 Children are fascinated by the size of a mammoth when they learn about them. ->> 孩子们在学习关于长毛象时，对它们的体型感到惊奇。
 
-tusk /təsk/ n. 獠牙，长牙，象牙
+tusk ->> /təsk/ n. 獠牙，长牙，象牙
 Elephants use their tusks for digging and lifting objects. ->> 大象用它们的长牙挖掘和搬运物体。
 The poachers were arrested for illegally trading in ivory tusks. ->> 偷猎者因非法交易象牙而被捕。
 
-nomad /ˈnoʊˌmæd/ n. 游牧民
+nomad ->> /ˈnoʊˌmæd/ n. 游牧民
 The nomad tribe moved with the seasons in search of grazing lands. ->> 游牧部落随着季节移动，以寻找牧场。
 Life as a nomad taught her to adapt quickly to new environments. ->> 作为一名游牧民的生活教会了她快速适应新环境。
 
-correlate /ˈkɔrəˌleɪt/ v. 使相互联系
+correlate ->> /ˈkɔrəˌleɪt/ v. 使相互联系
 Researchers aim to correlate the data from various studies. ->> 研究人员致力于将不同研究中的数据相互联系起来。
 The increase in sales is likely to correlate with the new advertisement campaign. ->> 销售的增长很可能与新的广告活动相互联系。
 
-phase /feɪz/ n. 月相，天相
+phase ->> /feɪz/ n. 月相，天相
 The project will enter a new phase once the initial tests are completed. ->> 项目在完成初步测试后将进入新阶段。
 The moon was in its full phase, shining brightly in the night sky. ->> 月亮处于满月相，明亮地照耀在夜空中。
 
-primitive /ˈprɪmɪtɪv/ adj. 原始的
+primitive ->> /ˈprɪmɪtɪv/ adj. 原始的
 Primitive tools found in the cave give insight into early human life. ->> 在洞穴中发现的原始工具提供了关于早期人类生活的见解。
 The village still relies on primitive methods of agriculture. ->> 这个村庄依然依靠原始的农业方法。
 
-depict /dɪˈpɪkt/ v. 描画，描绘
+depict ->> /dɪˈpɪkt/ v. 描画，描绘
 The mural depicts a historical event from ancient times. ->> 壁画描绘了古代的一段历史事件。
 The novel vividly depicts life in the rural countryside. ->> 小说生动地描写了乡村生活。

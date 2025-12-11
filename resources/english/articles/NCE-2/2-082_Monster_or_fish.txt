@@ -10,30 +10,30 @@ The fish, which has since been sent to a museum where it is being examined by a 
 Such creatures have rarely been seen alive by man as they live at a depth of six hundred feet. ->> 人们很少能看到这类活着的动物，因为它们生活在600英尺深的水下。
 
 
-monster /ˈmɑnstər/ n. 怪物  
+monster ->> /ˈmɑnstər/ n. 怪物  
 The monster in the story scared the children. ->> 故事中的怪物吓坏了孩子们。  
 Many legends speak of a monster lurking in the lake. ->> 许多传说都提到湖中潜伏着一个怪物。  
 
-sailor /ˈseɪlər/ n. 海员  
+sailor ->> /ˈseɪlər/ n. 海员  
 The sailor navigated through the storm with great skill. ->> 海员凭借着高超的技艺在风暴中航行。  
 Every sailor has tales of adventure from the open sea. ->> 每位海员都有来自大海的冒险故事。  
 
-sight /saɪt/ v. 见到  
+sight ->> /saɪt/ v. 见到  
 We sighted a rare bird during our hike in the forest. ->> 我们在森林徒步旅行时见到了一只稀有的鸟。  
 After days at sea, the sailors finally sighted land. ->> 在海上航行了几天后，水手们终于见到了陆地。  
 
-creature /ˈkriʧər/ n. 动物 ，生物  
+creature ->> /ˈkriʧər/ n. 动物 ，生物  
 The creature fascinated the scientists with its unique abilities. ->> 这种生物以其独特的能力吸引了科学家的注意。  
 In the quiet forest, we spotted a shy creature peeking out. ->> 在宁静的森林中，我们发现了一只害羞的动物探出头来。  
 
-peculiar /pɪˈkjuljər/ adj. 奇怪的，不寻常的  
+peculiar ->> /pɪˈkjuljər/ adj. 奇怪的，不寻常的  
 She found his sense of humor to be rather peculiar. ->> 她觉得他的幽默感相当奇怪，不寻常。  
 There was a peculiar smell coming from the kitchen. ->> 厨房里传来一种奇怪的，不寻常的味道。  
 
-shining /ˈʃaɪnɪŋ/ adj. 闪闪发光的  
+shining ->> /ˈʃaɪnɪŋ/ adj. 闪闪发光的  
 The sun was shining brightly in the clear blue sky. ->> 阳光在晴朗的蓝天中闪闪发光。  
 Her shining eyes were filled with excitement and joy. ->> 她的眼睛闪闪发光，充满激动和喜悦。  
 
-oarfish /oarfish*/ n. 桨鱼  
+oarfish ->> /oarfish*/ n. 桨鱼  
 The oarfish is often mistaken for a sea serpent due to its long, slender body. ->> 桨鱼常因其细长的身体被误认为是海蛇。  
 Spotting an oarfish near the shore is considered an unusual event. ->> 在岸边见到桨鱼被认为是一件不寻常的事情。

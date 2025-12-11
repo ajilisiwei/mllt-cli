@@ -16,34 +16,34 @@ Is that tin of tobacco for me? ->> 那听烟丝是给我的吗？
 Well, it’s certainly not for me! ->> 噢，当然不会给我的！
 
 
-cheese /ʧiz/ n. 乳酪，干酪  
+cheese ->> /ʧiz/ n. 乳酪，干酪  
 The cheese platter at the party was a big hit. ->> 聚会上乳酪拼盘非常受欢迎。  
 She grated cheese over the salad for extra taste. ->> 她在沙拉上刨了一些乳酪以增加美味。  
 
-bread /brɛd/ n. 面包  
+bread ->> /brɛd/ n. 面包  
 He made fresh bread from scratch on Sunday. ->> 他在周日从零开始做了新鲜面包。  
 I like to toast my bread for breakfast. ->> 我喜欢把面包烤一下当早餐。  
 
-soap /soʊp/ n. 肥皂  
+soap ->> /soʊp/ n. 肥皂  
 The soap left a nice scent on her skin. ->> 肥皂在她的皮肤上留下了好闻的香味。  
 He bought a handmade soap from the local market. ->> 他从当地市场买了手工肥皂。  
 
-chocolate /ˈʧɔklət/ n. 巧克力  
+chocolate ->> /ˈʧɔklət/ n. 巧克力  
 The bakery's chocolate muffins are a customer favorite. ->> 烘焙店的巧克力玛芬是顾客的最爱。  
 She melted chocolate to make fondue. ->> 她融化了巧克力来做火锅。  
 
-sugar /ˈʃʊgər/ n. 糖  
+sugar ->> /ˈʃʊgər/ n. 糖  
 He stirred sugar into his coffee. ->> 他在咖啡中搅拌了糖。  
 The recipe calls for a cup of sugar. ->> 这个配方需要一杯糖。  
 
-coffee /ˈkɔfi/ n. 咖啡  
+coffee ->> /ˈkɔfi/ n. 咖啡  
 She ordered a latte from the coffee shop. ->> 她从咖啡店点了一杯拿铁。  
 The aroma of freshly brewed coffee filled the kitchen. ->> 新鲜煮好的咖啡香气充满了厨房。  
 
-tea /ti/ n. 茶  
+tea ->> /ti/ n. 茶  
 He brews a pot of tea every morning. ->> 他每天早上煮一壶茶。  
 They enjoyed tea time in the garden. ->> 他们在花园里享受茶歇时光。  
 
-tobacco /təˈbæˌkoʊ/ n. 烟草，烟丝  
+tobacco ->> /təˈbæˌkoʊ/ n. 烟草，烟丝  
 The antique store displayed old tobacco tins. ->> 古董店展示了旧的烟草罐。  
 He studies the effects of tobacco on health. ->> 他研究烟草对健康的影响。

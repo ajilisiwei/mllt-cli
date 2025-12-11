@@ -9,38 +9,38 @@ Once, however, it failed to give the correct time. ->> 然而，有一次，它�
 A painter who had been working on the tower hung a pot of paint on one of the hands and slowed it down! ->> 一位在钟塔上工作的油漆工把一桶油漆挂在了某个指针上，让钟走慢了！
 
 
-parliament /ˈpɑrləmɛnt/ n. 议会，国会  
+parliament ->> /ˈpɑrləmɛnt/ n. 议会，国会  
 The parliament has the authority to pass new laws. ->> 议会具有通过新法律的权力。  
 Debates in the parliament often grab national headlines. ->> 议会中的辩论经常成为国家头条新闻。  
 
-erect /ɪˈrɛkt/ v. 建起  
+erect ->> /ɪˈrɛkt/ v. 建起  
 They plan to erect a new office building downtown. ->> 他们计划在市中心建起一座新的办公大楼。  
 The statue was erected to honor the town's founder. ->> 这座雕像是为了纪念镇的创始人而建起的。  
 
-accurate /ˈækjərət/ adj. 准确的  
+accurate ->> /ˈækjərət/ adj. 准确的  
 Her calculations were accurate to the last decimal point. ->> 她的计算精确到最后一位小数。  
 The weather forecast was incredibly accurate this week. ->> 本周的天气预报出奇地准确。  
 
-official /əˈfɪʃəl/ n. 官员，行政人员  
+official ->> /əˈfɪʃəl/ n. 官员，行政人员  
 The official announced the new policy at the press conference. ->> 官员在新闻发布会上宣布了新政策。  
 Several officials attended the international summit on climate change. ->> 多位官员出席了国际气候变化峰会。  
 
-Greenwich /ˈgrɛnɪʧ/ n. 格林尼治  
+Greenwich ->> /ˈgrɛnɪʧ/ n. 格林尼治  
 Greenwich is known for being the location of the Prime Meridian. ->> 格林尼治以其本初子午线所在位置而闻名。  
 Tourists often visit Greenwich to set their watches by the official global time. ->> 游客常去格林尼治根据全球标准时间调整手表。  
 
-observatory /əbˈzərvəˌtɔri/ n. 天文台  
+observatory ->> /əbˈzərvəˌtɔri/ n. 天文台  
 The observatory provides valuable data on meteor showers. ->> 天文台提供了关于流星雨的重要数据。  
 Visitors can view the stars through powerful telescopes at the observatory. ->> 游客可以通过天文台的强力望远镜观测星星。  
 
-check /ʧɛk/ v. 检查  
+check ->> /ʧɛk/ v. 检查  
 Please check the report for any inaccuracies before submission. ->> 提交前请检查报告中是否有任何不准确之处。  
 He went to check if all the doors were locked before leaving. ->> 他出去检查所有门是否锁好后才离开。  
 
-microphone /ˈmaɪkrəˌfoʊn/ n. 扩音器，麦克风  
+microphone ->> /ˈmaɪkrəˌfoʊn/ n. 扩音器，麦克风  
 The singer adjusted the microphone before starting the performance. ->> 歌手在开始演出前调整了麦克风。  
 The microphone captured every detail of the orchestra's performance. ->> 麦克风捕捉到了乐团演出的每一个细节。  
 
-tower /taʊər/ n. 塔  
+tower ->> /taʊər/ n. 塔  
 The new tower offers a panoramic view of the entire city. ->> 新塔为整个城市提供了全景视野。  
 Engineers are working on plans to reinforce the old tower. ->> 工程师正在制定加固旧塔的计划。

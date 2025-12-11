@@ -13,26 +13,26 @@ Manager: Is this the man that you served, Miss Roberts? ->> 经理：罗伯茨�
 Miss Roberts: Yes, sir. I recognize him now. ->> 罗伯茨小姐：是他，我现在认出他来了。
 
 
-customer /ˈkʌstəmər/ n. 顾客  
+customer ->> /ˈkʌstəmər/ n. 顾客  
 The customer was impressed with the service. ->> 顾客对服务印象深刻。  
 Our store offers special discounts to loyal customers. ->> 我们店为忠实顾客提供特别折扣。  
 
-forget (forgot, forgotten) /fərˈɡɛt/ v. 忘记  
+forget (forgot, forgotten) ->> /fərˈɡɛt/ v. 忘记  
 I forgot to send the email this morning. ->> 我今天早上忘了发邮件。  
 She never forgets a birthday. ->> 她从不忘记生日。  
 
-manager /ˈmænɪdʒər/ n. 经理  
+manager ->> /ˈmænɪdʒər/ n. 经理  
 The manager approved the budget for the project. ->> 经理批准了项目预算。  
 As a manager, he leads by example. ->> 作为经理，他以身作则。  
 
-serve /sɜrv/ v. 照应，服务，接待  
+serve ->> /sɜrv/ v. 照应，服务，接待  
 Sarah served us the best coffee in town. ->> 萨拉为我们端上了镇上最好的咖啡。  
 They serve customers with a smile. ->> 他们微笑着为顾客服务。  
 
-counter /ˈkaʊntər/ n. 柜台  
+counter ->> /ˈkaʊntər/ n. 柜台  
 She leaned on the counter while waiting for her coffee. ->> 她靠在柜台上等咖啡。  
 You can pick up your order at the counter. ->> 您可以在柜台领取订单。  
 
-recognize /ˈrɛkəɡˌnaɪz/ v. 认出  
+recognize ->> /ˈrɛkəɡˌnaɪz/ v. 认出  
 I immediately recognized him from his distinctive hat. ->> 我从他那顶独特的帽子认出了他。  
 It took me a moment to recognize my old friend. ->> 我花了一会儿才认出我的老朋友。

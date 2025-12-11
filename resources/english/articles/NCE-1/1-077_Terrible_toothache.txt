@@ -19,14 +19,14 @@ Can't you wait till this afternoon? ->> 您就不能等到今天下午吗？
 Mr Croft: I can wait, but my toothache can't! ->> 我倒是可以等，可是我的牙痛等不了啊！
 
 
-appointment /əˈpɔɪntmənt/ n. 约会，预约  
+appointment ->> /əˈpɔɪntmənt/ n. 约会，预约  
 I have a haircut appointment at noon. ->> 我中午有个理发的预约。  
 He scheduled an appointment with his financial advisor. ->> 他预约了和他的财务顾问见面。
 
-urgent /ˈɜːrdʒənt/ adj. 紧急的，急迫的  
+urgent ->> /ˈɜːrdʒənt/ adj. 紧急的，急迫的  
 The doctor was called for an urgent case at the hospital. ->> 医生被叫去医院处理一件紧急情况。  
 We need an urgent response to this crisis. ->> 我们需要对这一危机作出紧急响应。
 
-till /tɪl/ prep. 直到……为止  
+till ->> /tɪl/ prep. 直到……为止  
 I'll wait for you till the last train leaves. ->> 我会等你到最后一班火车离开。  
 Keep the door open till the guests arrive. ->> 把门开着直到客人们到来。

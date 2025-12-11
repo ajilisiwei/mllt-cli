@@ -8,38 +8,38 @@ When I suggested that some villagers must have come in for a free drink, Mr.Thom
 The villagers have told him that they will not accept the pub even if he gives it away. ->> 村里的人已经告诉他，即使他把小酒馆白送人，他们也不要。
 
 
-thirsty /ˈθərsti/ adj. 贪杯的  
+thirsty ->> /ˈθərsti/ adj. 贪杯的  
 The thirsty traveler eagerly sought out the nearest tavern. ->> 这位贪杯的旅者急切地寻找离他最近的小酒馆。  
 She grew thirsty for adventure as the years passed. ->> 随着岁月的流逝，她对冒险的渴望愈发强烈。
 
-ghost /goʊst/ n. 鬼魂  
+ghost ->> /goʊst/ n. 鬼魂  
 The old castle is rumored to be haunted by a benevolent ghost. ->> 据说这座古老的城堡被一个友好的鬼魂所困扰。  
 He swears he saw a ghost wandering in the cemetery last night. ->> 他发誓昨晚在墓地看到了一个徘徊的鬼魂。
 
-haunt /hɔnt/ v. （鬼）来访，闹鬼  
+haunt ->> /hɔnt/ v. （鬼）来访，闹鬼  
 The mansion is said to be haunted by the spirit of its former owner. ->> 据说这座大宅被前任主人的灵魂所闹鬼。  
 These memories continue to haunt her, even after all these years. ->> 这些记忆即使在多年之后仍然在纠缠着她。
 
-block /blɑk/ v. 堵  
+block ->> /blɑk/ v. 堵  
 Fallen trees blocked the road after the storm. ->> 暴风雨过后，倒下的树木堵住了道路。  
 They used large stones to block the entrance. ->> 他们用大石头堵住了入口。
 
-furniture /ˈfərnɪʧər/ n. 家具  
+furniture ->> /ˈfərnɪʧər/ n. 家具  
 We need to buy new furniture for the living room. ->> 我们需要为客厅购买新家具。  
 The antique furniture added a touch of elegance to the room. ->> 古典家具为房间增添了一丝优雅。
 
-whisky /ˈwɪski/ n. 威士忌酒  
+whisky ->> /ˈwɪski/ n. 威士忌酒  
 He poured himself a glass of whisky to wind down after a long day. ->> 漫长的一天结束后，他倒了杯威士忌酒来放松一下。  
 The whisky tasting event was a hit among connoisseurs. ->> 威士忌酒品鉴会在鉴赏家中大受欢迎。
 
-suggest /səˈʤɛst/ v. 暗示  
+suggest ->> /səˈʤɛst/ v. 暗示  
 Her smile seemed to suggest that she knew more than she let on. ->> 她的微笑似乎暗示她知道的比她表现出来的要多。  
 The data suggests a correlation between the two variables. ->> 数据暗示着这两个变量之间存在相关性。
 
-shake /ʃeɪk/ v. 摇动  
+shake ->> /ʃeɪk/ v. 摇动  
 He shook the bottle before pouring the juice. ->> 他在倒果汁之前摇动了瓶子。  
 The rumbling earthquake made the ground shake violently. ->> 轰隆的地震使地面剧烈摇动。
 
-accept /əkˈsɛpt/ v. 接受  
+accept ->> /əkˈsɛpt/ v. 接受  
 She graciously accepted the award on behalf of the team. ->> 她代表团队优雅地接受了奖项。  
 He couldn't accept the fact that he was wrong. ->> 他无法接受自己错了这个事实。

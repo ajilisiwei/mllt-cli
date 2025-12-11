@@ -14,42 +14,42 @@ It’s running across the grass. ->> 它正在草地上跑。
 It’s running after a cat. ->> 它在追一只猫。
 
 
-garden /ˈgɑrdən/ n. 花园  
+garden ->> /ˈgɑrdən/ n. 花园  
 The children are playing hide and seek in the garden. ->> 孩子们在花园里玩捉迷藏。  
 Our garden is full of blooming roses in the spring. ->> 我们的花园里春天开满了玫瑰花。  
 
-under /ˈəndər/ prep. 在……下面  
+under ->> /ˈəndər/ prep. 在……下面  
 He hid the letter under his pillow. ->> 他把信藏在枕头下面。  
 The cat is hiding under the couch. ->> 猫躲在沙发下面。  
 
-tree /tri/ n. 树  
+tree ->> /tri/ n. 树  
 They planted a cherry tree in the front yard. ->> 他们在前院种了一棵樱桃树。  
 A bird built a nest in the tree by the window. ->> 一只鸟在窗边的树上筑了巢。  
 
-climb /klaɪm/ v. 爬，攀登  
+climb ->> /klaɪm/ v. 爬，攀登  
 The hikers planned to climb the tallest peak in the region. ->> 登山者计划攀登这个地区最高的山峰。  
 Watch out when you climb that rock; it can be slippery. ->> 你爬那块石头时要小心，它可能会滑。  
 
-who /hu/ pron. 谁  
+who ->> /hu/ pron. 谁  
 Who will be the guest speaker at the conference? ->> 谁会是会议的特邀演讲者？  
 Do you know who will attend the meeting from our team? ->> 你知道我们队里谁会参加会议吗？  
 
-run /rən/ v. 跑  
+run ->> /rən/ v. 跑  
 She decided to run a marathon next year. ->> 她决定明年跑一场马拉松。  
 The dog loves to run along the beach in the morning. ->> 狗喜欢早上沿着海滩跑。  
 
-grass /græs/ n. 草，草地  
+grass ->> /græs/ n. 草，草地  
 The gardener mowed the grass in the afternoon. ->> 园丁下午修剪了草坪。  
 We spread a blanket on the grass for the picnic. ->> 我们在草地上铺了条毯子野餐。  
 
-after /ˈæftər/ prep. 在……之后  
+after ->> /ˈæftər/ prep. 在……之后  
 Let's meet at the cafe after work. ->> 我们下班后在咖啡馆碰面吧。  
 She felt much better after taking a short nap. ->> 小睡一会儿后她感觉好多了。  
 
-across /əˈkrɔs/ prep. 横过，穿过  
+across ->> /əˈkrɔs/ prep. 横过，穿过  
 They built a new road across the valley. ->> 他们在山谷上修了一条新路。  
 We could see the castle across the lake. ->> 我们可以看到湖对面的城堡。  
 
-cat /kæt/ n. 猫  
+cat ->> /kæt/ n. 猫  
 My neighbor's cat always visits our garden. ->> 我邻居的猫总是来我们的花园。  
 The cat stretched lazily in the sunshine. ->> 猫在阳光下懒洋洋地伸展。

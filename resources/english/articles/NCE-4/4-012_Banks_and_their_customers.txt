@@ -10,58 +10,58 @@ For this reason there is no risk to the customer in the practice, adopted by ban
 If this facilitates forgery, it is the bank which will lose, not the customer. ->> 如果这便于伪造，损失的是银行，而不是储户。
 
 
-current /ˈkɑrənt/ adj. 通用的，流行的
+current ->> /ˈkɑrənt/ adj. 通用的，流行的
 The current technology is making life so much easier for everyone. ->> 这种通用的，流行的技术让每个人的生活变得更轻松。
 She always keeps up with current fashion trends. ->> 她总是跟上通用的，流行的时尚趋势。
 
-account /əˈkaʊnt/ n. 账户
+account ->> /əˈkaʊnt/ n. 账户
 He opened a savings account to start saving for a new car. ->> 他开了一个储蓄账户以开始为新车存钱。
 Her account has been compromised and her funds are missing. ->> 她的账户被入侵，资金失踪了。
 
-cash /kæʃ/ n. 现金
+cash ->> /kæʃ/ n. 现金
 I prefer to pay in cash to avoid credit card fees. ->> 我倾向于用现金支付以避免信用卡费用。
 He found a stash of cash hidden in the old drawer. ->> 他在旧抽屉里发现了一笔隐藏的现金。
 
-debtor /ˈdɛtər/ n. 支票
+debtor ->> /ˈdɛtər/ n. 支票
 He wrote a check, but the debtor bank bounced it. ->> 他开了张支票，但支票银行将其退回。
 The company resolved the issue with the debtor before the deadline. ->> 该公司在截止日期前解决了与支票方的纠纷。
 
-debtor /ˈdɛtər/ n. 借方
+debtor ->> /ˈdɛtər/ n. 借方
 The report clearly lists all amounts due from the debtor. ->> 报告清楚地列出了借方的所有应付款项。
 Negotiations with the debtor are ongoing to settle the debts. ->> 正在与借方进行谈判以结清债务。
 
-creditor /ˈkrɛdɪtər/ n. 贷方
+creditor ->> /ˈkrɛdɪtər/ n. 贷方
 The creditor was patient but finally demanded repayment. ->> 贷方很有耐心，但最终要求偿还。
 He felt relieved after settling the account with his creditor. ->> 偿清贷方的账目后，他感到如释重负。
 
-obligation /ˌɑbləˈgeɪʃən/ n. 义务
+obligation ->> /ˌɑbləˈgeɪʃən/ n. 义务
 He has a legal obligation to support his children. ->> 他有法律义务去抚养他的孩子们。
 She fulfilled her obligation by attending the mandatory meeting. ->> 她通过参加强制会议履行了她的义务。
 
-complication /ˌkɑmpləˈkeɪʃən/ n. 纠纷
+complication ->> /ˌkɑmpləˈkeɪʃən/ n. 纠纷
 The new law caused a lot of complication for small businesses. ->> 新法令给小型企业带来了许多纠纷。
 We encountered an unexpected complication during the project. ->> 我们在项目中遇到了一些意外的纠纷。
 
-debit /ˈdɛbɪt/ v. 把...记入借方
+debit ->> /ˈdɛbɪt/ v. 把...记入借方
 They will debit your account automatically at the end of each month. ->> 他们会在每个月底自动把款项记入借方。
 The bank debited a large sum from his account without explanation. ->> 银行无缘无故地从他的账户上把大笔金额记入了借方。
 
-specimen /ˈspɛsəmən/ n. 样本
+specimen ->> /ˈspɛsəmən/ n. 样本
 The scientist collected a specimen from the rare plant for further study. ->> 科学家从这种稀有植物中采集了样本以便进一步研究。
 They examined the blood specimen under a microscope. ->> 他们在显微镜下检查了血液样本。
 
-forge /fɔrʤ/ v. 伪造
+forge ->> /fɔrʤ/ v. 伪造
 He attempted to forge her signature on the legal document. ->> 他试图伪造她在法律文件上的签名。
 Authorities uncovered a plot to forge official documents. ->> 当局揭露了一项伪造官方文件的阴谋。
 
-forgery /ˈfɔrʤəri/ n. 伪造（文件，签名等）
+forgery ->> /ˈfɔrʤəri/ n. 伪造（文件，签名等）
 The document turned out to be a forgery, raising serious concerns. ->> 文件被证明是伪造的，引发了严重关注。
 She was arrested for forgery of financial records. ->> 她因伪造财务记录被捕。
 
-adopt /əˈdɑpt/ v. 采用
+adopt ->> /əˈdɑpt/ v. 采用
 The company decided to adopt a new strategy to increase sales. ->> 公司决定采用新战略以提高销售。
 He chose to adopt a healthier lifestyle after his scare. ->> 在经历一次惊吓后，他选择采用更健康的生活方式。
 
-facilitate /fəˈsɪləˌteɪt/ v. 使便利
+facilitate ->> /fəˈsɪləˌteɪt/ v. 使便利
 The new software will facilitate faster project management. ->> 新软件将使项目管理更便捷。
 Teachers use technology to facilitate learning in the classroom. ->> 教师们使用科技以使课堂学习更便利。

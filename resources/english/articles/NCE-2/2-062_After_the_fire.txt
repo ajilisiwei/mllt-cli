@@ -9,62 +9,62 @@ By then, however, in many places the grass had already taken root. ->> 然而，
 In place of the great trees which had been growing there for centuries patches of green had begun to appear in the blackened soil. ->> 多少世纪以来一直生长在那里的参天大树的地方，烧焦的土地上已经开始出现一片片绿草。
 
 
-control /kənˈtroʊl/ n. 控制  
+control ->> /kənˈtroʊl/ n. 控制  
 The control group was essential for verifying the results of the experiment. ->> 对照组对于验证实验结果至关重要。  
 Many companies aim to maintain control over their market share. ->> 许多公司的目标是保持对其市场份额的控制。  
 
-smoke /smoʊk/ n. 烟  
+smoke ->> /smoʊk/ n. 烟  
 The smoke from the wildfires affected air quality across the region. ->> 野火产生的烟雾影响了整个地区的空气质量。  
 The artist captured the delicate swirls of smoke rising from the incense. ->> 艺术家捕捉到了从香中升起的微妙烟雾漩涡。  
 
-desolate /ˈdɛzələt/ adj. 荒凉的  
+desolate ->> /ˈdɛzələt/ adj. 荒凉的  
 Walking through the desolate streets at night gave her an eerie feeling. ->> 夜里走在荒凉的街道上，她有一种毛骨悚然的感觉。  
 The desolate island stood as a testament to nature's raw beauty. ->> 这座荒凉的岛屿证明了大自然的原始之美。  
 
-threaten /θˈrɛtən/ v. 威胁  
+threaten ->> /θˈrɛtən/ v. 威胁  
 Environmental changes threaten the delicate balance of the ecosystem. ->> 环境变化威胁着生态系统的微妙平衡。  
 He felt that the manager's tone seemed to threaten his position at the company. ->> 他觉得经理的语气似乎威胁到了他在公司的地位。  
 
-surrounding /sərˈaʊndɪŋ/ adj. 周围的  
+surrounding ->> /sərˈaʊndɪŋ/ adj. 周围的  
 The surrounding hills are perfect for hiking and enjoying nature. ->> 周围的山丘非常适合远足和享受大自然。  
 She was engrossed in her book, oblivious to her surrounding environment. ->> 她全神贯注地看着书，没有注意到周围的环境。  
 
-destruction /dɪˈstrəkʃən/ n. 破坏，毁灭  
+destruction ->> /dɪˈstrəkʃən/ n. 破坏，毁灭  
 The destruction left by the hurricane was overwhelming. ->> 飓风造成的破坏是巨大的。  
 The film depicted the destruction of a once-great civilization. ->> 这部电影描绘了一个曾经伟大的文明的毁灭。  
 
-flood /fləd/ n. 洪水，水灾  
+flood ->> /fləd/ n. 洪水，水灾  
 The flood devastated many communities, leaving families homeless. ->> 洪水摧毁了许多社区，导致许多家庭无家可归。  
 During the flood, volunteers came together to provide emergency relief. ->> 洪水期间，志愿者们齐心协力，提供紧急救援。  
 
-authority /əˈθɔrəti/ n. （常用复数）当局  
+authority ->> /əˈθɔrəti/ n. （常用复数）当局  
 The local authorities issued a warning ahead of the severe weather. ->> 当地政府在恶劣天气来临之前发布了警告。  
 She has become an authority on ancient Roman history due to her extensive research. ->> 由于她广泛的研究，她已成为古罗马历史的权威。  
 
-grass-seed /grass-seed*/ n. 草籽  
+grass-seed ->> /grass-seed*/ n. 草籽  
 The grass-seed was carefully spread to ensure even growth in the new lawn. ->> 草籽经过精心撒播，以确保新草坪均匀生长。  
 Farmers often select a specific type of grass-seed suited to their climate. ->> 农民经常选择适合其气候的特定类型的草籽。  
 
-spray /spreɪ/ v. 喷撒  
+spray ->> /spreɪ/ v. 喷撒  
 The gardener used a spray to protect the plants from pests. ->> 园丁使用喷雾剂来保护植物免受害虫侵害。  
 They decided to spray the room with a light fragrance before the guests arrived. ->> 他们决定在客人到来之前在房间里喷洒淡淡的香味。  
 
-quantity /kˈwɑntəti/ n. 量  
+quantity ->> /kˈwɑntəti/ n. 量  
 The quantity of produce this year far exceeded expectations. ->> 今年的农产品产量远远超出预期。  
 He's more concerned with the quality of his work rather than the quantity. ->> 他更关心工作的质量而不是数量。  
 
-root /rut/ n. 根  
+root ->> /rut/ n. 根  
 The root of the problem lies in the lack of communication. ->> 问题的根源在于缺乏沟通。  
 She carefully removed the plant from the pot to examine its root structure. ->> 她小心翼翼地将植物从花盆中取出来检查其根部结构。  
 
-century /ˈsɛnʧəri/ n. 世纪  
+century ->> /ˈsɛnʧəri/ n. 世纪  
 The mansion's architecture is reminiscent of the 18th century style. ->> 这座豪宅的建筑风格让人想起18世纪的风格。  
 Over the century, the city has evolved into a bustling metropolis. ->> 一个世纪以来，这座城市已发展成为一座繁华的大都市。  
 
-patch /pæʧ/ n. 小片  
+patch ->> /pæʧ/ n. 小片  
 The farmer noticed a patch of weeds growing among the crops. ->> 农民注意到庄稼中间长出了一小片杂草。  
 She sewed a patch on her jeans to cover the tear. ->> 她在牛仔裤上缝了一块补丁来遮盖撕裂处。  
 
-blacken /ˈblækən/ v. 变黑，发暗  
+blacken ->> /ˈblækən/ v. 变黑，发暗  
 The bread left in the oven too long began to blacken. ->> 面包在烤箱里放得太久就开始变黑。  
 Smoke from the fire caused the walls of the old house to blacken. ->> 火灾产生的烟雾导致老房子的墙壁变黑。  

@@ -9,30 +9,30 @@ It contained $50. ->> 信封里面装着50美元。
 'Well,' I said to the manager, 'there is still some honesty in this world!' ->> “是啊，”我对经理说，“这世界上还是有诚实可言的！”
 
 
-manager /ˈmænɪʤər/ n. 经理  
+manager ->> /ˈmænɪʤər/ n. 经理  
 The manager is responsible for overseeing the entire project. ->> 经理负责监督整个项目。  
 We need to consult with the manager before making a decision. ->> 在做出决定之前我们需要咨询经理。  
 
-upset /ˈəpˌsɛt/ adj. 不安  
+upset ->> /ˈəpˌsɛt/ adj. 不安  
 She felt upset after hearing the news about the delay. ->> 听到延误的消息后，她感到很沮丧。  
 He seemed quite upset about the changes in the schedule. ->> 他似乎对日程的改变感到非常不安。  
 
-sympathetic /ˌsɪmpəˈθɛtɪk/ adj. 表示同情的  
+sympathetic ->> /ˌsɪmpəˈθɛtɪk/ adj. 表示同情的  
 She was very sympathetic when I told her about the problem. ->> 当我告诉她这个问题时，她非常同情。  
 He gave me a sympathetic smile as I explained my situation. ->> 当我解释我的情况时，他给了我一个同情的微笑。  
 
-complain /kəmˈpleɪn/ v. 抱怨  
+complain ->> /kəmˈpleɪn/ v. 抱怨  
 She tends to complain about the weather every time it rains. ->> 每次下雨她都会抱怨天气。  
 If the service is bad, customers will often complain to the manager. ->> 如果服务不好，顾客常常会向经理投诉。  
 
-wicked /ˈwɪkəd/ adj. 很坏的，邪恶的  
+wicked ->> /ˈwɪkəd/ adj. 很坏的，邪恶的  
 The villain in the movie was portrayed as truly wicked. ->> 电影中的反派被描绘成真正邪恶的人。  
 He has a wicked sense of humor that not everyone appreciates. ->> 他有一种并非所有人都欣赏的邪恶幽默感。  
 
-contain /kənˈteɪn/ v. 包含，内装  
+contain ->> /kənˈteɪn/ v. 包含，内装  
 This bottle contains 500 milliliters of water. ->> 这瓶装有 500 毫升水。  
 The bookcase can contain a large number of books. ->> 书柜可容纳大量书籍。  
 
-honesty /ˈɑnəsti/ n. 诚实  
+honesty ->> /ˈɑnəsti/ n. 诚实  
 Honesty is a quality that is highly valued in this company. ->> 诚实是这家公司高度重视的品质。  
 Children learn the importance of honesty from an early age. ->> 孩子们从小就知道诚实的重要性。  

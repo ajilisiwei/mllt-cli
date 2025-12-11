@@ -19,38 +19,38 @@ George: When's the next train? ->> 乔治：下一班车是什么时候？
 Porter: In five hours' time! ->> 收票员：5个小时以后！
 
 
-return /rɪˈtərn/ n. 往返  
+return ->> /rɪˈtərn/ n. 往返  
 She purchased a return ticket for her journey to Paris. ->> 她买了一张去巴黎的往返票。  
 The return flight was much smoother than the outgoing one. ->> 返回的航班比去程的要平稳得多。  
 
-train /treɪn/ n. 火车  
+train ->> /treɪn/ n. 火车  
 I prefer taking the train over driving for long distances. ->> 对于长途旅行，我更喜欢坐火车而不是开车。  
 The train was delayed due to heavy snowfall. ->> 火车因大雪延误了。  
 
-platform /ˈplætˌfɔrm/ n. 站台  
+platform ->> /ˈplætˌfɔrm/ n. 站台  
 Children stood eagerly on the platform to wave at the departing train. ->> 孩子们在站台上兴奋地站着，向即将离开的火车挥手。  
 Announcements are made regularly over the loudspeakers on the platform. ->> 站台上的扬声器定期进行广播。  
 
-plenty /ˈplɛnti/ n. 大量  
+plenty ->> /ˈplɛnti/ n. 大量  
 During the harvest season, there is plenty of fresh produce at the market. ->> 收获季节，市场上有很多新鲜农产品。  
 There are plenty of opportunities to volunteer in the community. ->> 在社区里有很多志愿服务的机会。  
 
-bar /bɑr/ n. 酒吧  
+bar ->> /bɑr/ n. 酒吧  
 After work, they headed to the bar for some relaxation. ->> 下班后，他们去酒吧放松一下。  
 The new bar in town is known for its vibrant atmosphere. ->> 小镇上的新酒吧以其充满活力的氛围而闻名。  
 
-station /ˈsteɪʃən/ n. 车站，火车站  
+station ->> /ˈsteɪʃən/ n. 车站，火车站  
 He usually reads a book while waiting at the train station. ->> 他经常在火车站等车时看书。  
 The police station is located on the corner of Main Street and 5th Avenue. ->> 警察局位于主街和第五大道的拐角处。  
 
-porter /ˈpɔrtər/ n. 收票员  
+porter ->> /ˈpɔrtər/ n. 收票员  
 The porter greeted the passengers with a friendly smile. ->> 收票员带着友好的微笑迎接乘客。  
 A porter will assist you with your baggage at the entrance. ->> 收票员会在入口处帮您提行李。  
 
-catch (caught, caught) /kæʧ/ v. 赶上  
+catch (caught, caught) ->> /kæʧ/ v. 赶上  
 She barely caught the flight before the gates closed. ->> 她在登机口关闭前勉强赶上了航班。  
 Let’s try to catch the early show at the theater tonight. ->> 今晚我们尽量赶上电影院的早场演出吧。  
 
-miss /mɪs/ v. 错过  
+miss ->> /mɪs/ v. 错过  
 We tried to get there on time but missed the beginning of the movie. ->> 我们尽量准时到达，但错过了电影的开头。  
 If you miss the last train, you’ll have to find another way home. ->> 如果你错过了最后一班火车，就得另找办法回家。

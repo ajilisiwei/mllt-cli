@@ -16,42 +16,42 @@ SOPHIE: What's your job? ->> 索菲娅：你是做什么工作的？
 ROBERT: I'm an engineer. ->> 罗伯特：我是工程师。
 
 
-I /aɪ/ pron. 我  
+I ->> /aɪ/ pron. 我  
 I love traveling. ->> 我热爱旅行。  
 I always drink coffee in the morning. ->> 我总是在早上喝咖啡。
 
-am /æm/ v. be 动词现在时第一人称单数  
+am ->> /æm/ v. be 动词现在时第一人称单数  
 I am excited about the trip. ->> 我对这次旅行感到兴奋。  
 I am good at playing the guitar. ->> 我擅长弹吉他。
 
-are /ər/ v. be 动词现在时复数  
+are ->> /ər/ v. be 动词现在时复数  
 The students are studying hard. ->> 学生们在努力学习。  
 These flowers are beautiful. ->> 这些花很美。
 
-name /neɪm/ n. 名字  
+name ->> /neɪm/ n. 名字  
 My cat's name is Whiskers. ->> 我猫的名字叫 Whiskers。  
 She forgot his name. ->> 她忘记了他的名字。
 
-what /wət/ adj. & pron. 什么  
+what ->> /wət/ adj. & pron. 什么  
 What time is the meeting? ->> 会议什么时候开始？  
 What did you say? ->> 你刚刚说了什么？
 
-nationality /ˌnæʃəˈnælɪti/ n. 国籍  
+nationality ->> /ˌnæʃəˈnælɪti/ n. 国籍  
 His nationality is Canadian. ->> 他的国籍是加拿大。  
 What is your nationality? ->> 你的国籍是什么？
 
-job /ʤɑb/ n. 工作  
+job ->> /ʤɑb/ n. 工作  
 She started a new job yesterday. ->> 她昨天开始了新工作。  
 Do you enjoy your job? ->> 你喜欢你的工作吗？
 
-keyboard /ˈkiˌbɔrd/ n. 电脑键盘  
+keyboard ->> /ˈkiˌbɔrd/ n. 电脑键盘  
 He spilled coffee on the keyboard. ->> 他把咖啡洒在键盘上。  
 I need to clean my keyboard. ->> 我需要清理我的键盘。
 
-operator /ˈɑpərˌeɪtər/ n. 操作人员  
+operator ->> /ˈɑpərˌeɪtər/ n. 操作人员  
 The factory operator knows all the machines. ->> 工厂操作人员熟悉所有的机器。  
 She communicated with the operator for technical support. ->> 她与操作人员沟通以获得技术支持。
 
-engineer /ˈɛnʤəˈnɪr/ n. 工程师  
+engineer ->> /ˈɛnʤəˈnɪr/ n. 工程师  
 My uncle is a software engineer. ->> 我叔叔是一名软件工程师。  
 The engineer designed a new bridge. ->> 工程师设计了一座新桥。

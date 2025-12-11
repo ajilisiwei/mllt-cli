@@ -18,26 +18,26 @@ Salesman: They are very uncomfortable. ->> 售货员：的确很不舒适。
 But women always wear uncomfortable shoes! ->> 可是女人们总是穿不舒适的鞋子！
 
 
-ago /əˈgoʊ/ adv. 以前  
+ago ->> /əˈgoʊ/ adv. 以前  
 He graduated from college five years ago.  
 We visited that museum a year ago.  
 
-buy /baɪ/ v. 买  
+buy ->> /baɪ/ v. 买  
 They decided to buy a new car this month.  
 Did you buy tickets for the concert yet?  
 
-pair /pɛr/ n. 双，对  
+pair ->> /pɛr/ n. 双，对  
 She found a pair of matching earrings.  
 Do you have a pair of scissors I could borrow?  
 
-fashion /ˈfæʃən/ n. （服装的）流行式样  
+fashion ->> /ˈfæʃən/ n. （服装的）流行式样  
 Vintage fashion is making a comeback.  
 She's always up to date with the latest fashion trends.  
 
-uncomfortable /ənˈkəmfərtəbəl/ adj. 不舒服的  
+uncomfortable ->> /ənˈkəmfərtəbəl/ adj. 不舒服的  
 The meeting room chairs are quite uncomfortable.  
 He felt uncomfortable discussing his personal life.  
 
-wear /wɛr/ v. 穿着  
+wear ->> /wɛr/ v. 穿着  
 He likes to wear his favorite sweater during winter.  
 Do you plan to wear the same dress to the party?

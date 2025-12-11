@@ -18,74 +18,74 @@ It was rather like an exhibition of prehistoric electronic equipment. ->> 这儿
 These peculiar forms not only seemed designed to shock people emotionally, but to give them electric shocks as well! ->> 好像设计这些奇形怪状的展品不仅是为了给人强烈的情感冲击，而且还想给人以电击似的！
 
 
-currentn. /currentn*./ 电流  
+currentn. ->> /currentn*./ 电流  
 Electricians need to understand currentn. to ensure safe installations.  
 Studying physics helps students comprehend how currentn. affects circuits.  
 
-sculpture /ˈskəlpʧər/ n. 雕塑  
+sculpture ->> /ˈskəlpʧər/ n. 雕塑  
 The museum's new sculpture attracted many art enthusiasts.  
 She spent years crafting a sculpture that captured the essence of movement.  
 
-mistaken /mɪˈsteɪkən/ adj. 错误的  
+mistaken ->> /mɪˈsteɪkən/ adj. 错误的  
 If you think she isn't coming, you'd be mistaken.  
 His mistaken identity led to a case of misunderstanding at the event.  
 
-gallery /ˈgæləri/ n. 美术馆  
+gallery ->> /ˈgæləri/ n. 美术馆  
 The local gallery hosts international art exhibitions annually.  
 We spent the afternoon admiring paintings at the new gallery downtown.  
 
-exhibit /ɪgˈzɪbɪt/ n. 展品，陈列品  
+exhibit ->> /ɪgˈzɪbɪt/ n. 展品，陈列品  
 The dinosaur skeleton is the most popular exhibit in the museum.  
 Each exhibit tells a different story about the region's history.  
 
-oddly /ˈɑdli/ adv. 古怪的  
+oddly ->> /ˈɑdli/ adv. 古怪的  
 The room was oddly silent as everyone anticipated the announcement.  
 Oddly, the cat seemed to prefer playing with water instead of avoiding it.  
 
-attach /əˈtæʧ/ v. 连，系  
+attach ->> /əˈtæʧ/ v. 连，系  
 Please attach the documents to your email before sending.  
 He used a nail to securely attach the picture frame to the wall.  
 
-sphere /sfɪr/ n. 球体  
+sphere ->> /sfɪr/ n. 球体  
 The artist crafted a large sphere entirely out of recycled materials.  
 Our project involves calculating the volume of various spheres.  
 
-magnetize /magnetize*/ v. 使磁化  
+magnetize ->> /magnetize*/ v. 使磁化  
 Using a strong magnet, they were able to magnetize the metal rod.  
 She learned how to magnetize objects during her physics class.  
 
-repel /rɪˈpɛl/ v. 排斥  
+repel ->> /rɪˈpɛl/ v. 排斥  
 The new coating helps repel water and prevent rust.  
 Certain materials naturally repel one another at the molecular level.  
 
-flicker /ˈflɪkər/ v. 闪烁  
+flicker ->> /ˈflɪkər/ v. 闪烁  
 Candles flicker gently in the breeze during evening dinner.  
 The old bulb's flicker indicated it was time for a replacement.  
 
-emit /ɪˈmɪt/ v. 放射  
+emit ->> /ɪˈmɪt/ v. 放射  
 Many electronic devices emit a small amount of heat.  
 The flowers in bloom emit a pleasant fragrance throughout the garden.  
 
-flash /flæʃ/ v. 闪光  
+flash ->> /flæʃ/ v. 闪光  
 The camera's flash temporarily blinded us during the photo.  
 Lightning would flash across the sky, followed by deep rumbles of thunder.  
 
-prehistoric /ˌprihɪˈstɔrɪk/ adj. 史前的，老掉牙的  
+prehistoric ->> /ˌprihɪˈstɔrɪk/ adj. 史前的，老掉牙的  
 Archaeologists discovered prehistoric artifacts at the site.  
 The fossilized remains were linked to a prehistoric creature once thought extinct.  
 
-electronic /ˌɪˌlɛkˈtrɑnɪk/ adj. 电子的  
+electronic ->> /ˌɪˌlɛkˈtrɑnɪk/ adj. 电子的  
 Most homes today rely on electronic devices for daily tasks.  
 The electronic components were carefully assembled in the lab.  
 
-peculiar /pɪˈkjuljər/ adj. 奇异的  
+peculiar ->> /pɪˈkjuljər/ adj. 奇异的  
 She has a peculiar habit of collecting old maps.  
 There's something peculiarly intriguing about that painting.  
 
-shock /ʃɑk/ v. 令人震惊，刺激人  
+shock ->> /ʃɑk/ v. 令人震惊，刺激人  
 The unexpected news about the merger greatly shocked the employees.  
 He was shocked by the realism of the virtual reality game.  
 
-emotionally /ˈiˌmoʊʃnəli/ adv. 感情上  
+emotionally ->> /ˈiˌmoʊʃnəli/ adv. 感情上  
 She reacted emotionally to the dramatic ending of the film.  
 The speech was emotionally charged, leaving many in tears.

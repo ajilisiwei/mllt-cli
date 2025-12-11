@@ -36,62 +36,62 @@ It was from the study of these that so much was learnt about the interior of the
 The third, or main wave, is the slowest and has travelled round the earth through the surface rocks. ->> 第三种波，即主波，是最慢的，是围绕地球通过表面岩石传来的。
 
 
-earthquake /ˈərθkˌweɪk/ n. 地震  
+earthquake ->> /ˈərθkˌweɪk/ n. 地震  
 The earthquake caused significant damage to the city. ->> 地震对城市造成了重大损害。  
 Many scientists study the patterns of earthquakes to understand their frequency. ->> 许多科学家研究地震模式以了解它们的频率。  
 
-slumber /sˈləmbər/ v. 睡眠  
+slumber ->> /sˈləmbər/ v. 睡眠  
 He fell into a deep slumber after a long day at work. ->> 他在工作了一天后陷入深度睡眠。  
 During the afternoon, the cat lay in slumber on the sunny windowsill. ->> 下午时分，那只猫在阳光明媚的窗台上安然入睡。  
 
-ninepin /ninepin*/ n. 九柱戏中的木柱  
+ninepin ->> /ninepin*/ n. 九柱戏中的木柱  
 The children set up a makeshift game of ninepin in the backyard. ->> 孩子们在后院临时搭起了一局九柱戏。  
 Learning to knock down a single ninepin requires precision and skill. ->> 击倒一个九柱戏中的木柱需要精准和技巧。  
 
-rigid /ˈrɪʤɪd/ adj. 坚硬的  
+rigid ->> /ˈrɪʤɪd/ adj. 坚硬的  
 His rigid demeanor made it hard for others to approach him. ->> 他严肃的举止让人难以接近。  
 The metal framework of the structure remained rigid under pressure. ->> 结构的金属框架在压力下保持坚硬。  
 
-delicate /ˈdɛləkət/ adj. 灵感的  
+delicate ->> /ˈdɛləkət/ adj. 灵感的  
 The delicate fabric needed to be handled with care. ->> 那种细致的织物需要小心处理。  
 Her delicate features were highlighted by the soft lighting. ->> 柔和的灯光衬托出她精致的五官。  
 
-seismometer /seismometer*/ n. 地震仪  
+seismometer ->> /seismometer*/ n. 地震仪  
 The seismometer detected the tremors long before they were felt by humans. ->> 地震仪在震动被人类感知前就检测到了。  
 Installing a new seismometer can improve our ability to predict earthquakes. ->> 安装新的地震仪可以提高我们预测地震的能力。  
 
-penholder /penholder*/ n. 笔杆  
+penholder ->> /penholder*/ n. 笔杆  
 She admired the intricate design of the antique penholder. ->> 她赞赏那支古董笔杆的精美设计。  
 The penholder felt comfortable in his hand, aiding in his writing. ->> 笔杆握在他手中感觉舒适，帮助提升了写作感受。  
 
-legibly /legibly*/ adv. 字迹清楚地  
+legibly ->> /legibly*/ adv. 字迹清楚地  
 Please ensure that your name is written legibly on the form. ->> 请确保你的名字在表格上书写清楚。  
 The student took notes legibly so they could be easily reviewed later. ->> 那名学生清楚地记下笔记，方便之后复习。  
 
-drum /drəm/ n. 鼓状物  
+drum ->> /drəm/ n. 鼓状物  
 He learned to play the drum while attending music school. ->> 他在音乐学校学习打鼓。  
 The rain fell heavily, creating a rhythmic drum on the roof. ->> 大雨倾盆而下，在屋顶上敲出节奏明快的鼓声。  
 
-wriggle /ˈrɪgəl/ v. 扭动  
+wriggle ->> /ˈrɪgəl/ v. 扭动  
 The baby began to wriggle in his crib as he woke up. ->> 婴儿醒来后开始在小床里扭动。  
 She managed to wriggle free from the tight spot. ->> 她设法从困境中扭动出来。  
 
-bluebottle /ˈbluˌbɔtəl/ n. 绿头苍蝇  
+bluebottle ->> /ˈbluˌbɔtəl/ n. 绿头苍蝇  
 The bluebottle buzzed loudly as it flew around the kitchen. ->> 绿头苍蝇在厨房飞来飞去，嗡嗡作响。  
 They swatted at the persistent bluebottle that had entered the room. ->> 他们拍打进屋来的那只顽固的绿头苍蝇。  
 
-graph /græf/ n. 图表  
+graph ->> /græf/ n. 图表  
 The graph illustrates the changes in temperature over the decade. ->> 图表展示了十年来温度的变化。  
 Using a graph can help make complex data more understandable. ->> 使用图表可以帮助简化复杂数据的理解。  
 
-graphic /ˈgræfɪk/ adj. 图示的  
+graphic ->> /ˈgræfɪk/ adj. 图示的  
 The book contains graphic descriptions of the historical events. ->> 这本书包含对历史事件的生动描述。  
 He has a talent for graphic design, which is evident in his portfolio. ->> 他在图示设计方面很有天赋，这在他的作品集中有所体现。  
 
-longitudinal /ˌlɑnʤəˈtudənəl/ adj. 纵向的  
+longitudinal ->> /ˌlɑnʤəˈtudənəl/ adj. 纵向的  
 The study involved longitudinal data collected over several years. ->> 该研究涉及多年来收集的纵向数据。  
 Longitudinal waves move parallel to the direction of the wave. ->> 纵向波平行于波的方向移动。  
 
-transverse /trænzˈvərs/ adj. 横向的  
+transverse ->> /trænzˈvərs/ adj. 横向的  
 The scientist explained the concept of transverse waves during the lecture. ->> 科学家在讲座中解释了横向波的概念。  
 The bridge features transverse beams to provide extra support. ->> 桥梁安装了横向梁以提供额外支持。

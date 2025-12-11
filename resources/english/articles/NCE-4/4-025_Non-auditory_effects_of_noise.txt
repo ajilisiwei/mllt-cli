@@ -14,66 +14,66 @@ This result merely confirms earlier American and British studies: if there is an
 That does not prove that it does exist: but it does mean that noise is less dangerous than, say, being brought up in an orphanage -- which really is mental health hazard. ->> 这并不是证实噪音对健康的影响不存在，但这确实意味着与在孤儿院长大这种对心理健康的真正威胁相比，噪音要少得多。
 
 
-auditory /ˈɔdɪˌtɔri/ adj. 听觉的  
+auditory ->> /ˈɔdɪˌtɔri/ adj. 听觉的  
 The auditory nerves are vital for our sense of hearing. ->> 听觉神经对于我们的听觉至关重要。  
 Her research focuses on the auditory processing of musical tones. ->> 她的研究集中在音乐音调的听觉处理上。
 
-inadequate /ˌɪˈnædəkwət/ adj. 不适当的  
+inadequate ->> /ˌɪˈnædəkwət/ adj. 不适当的  
 His explanation was inadequate for the complex problem at hand. ->> 他的解释对于手头的复杂问题来说不够充分。  
 The resources provided were inadequate to complete the project on time. ->> 提供的资源不足以按时完成项目。
 
-plea /pli/ n. 要求  
+plea ->> /pli/ n. 要求  
 His plea for understanding touched everyone in the room. ->> 他对理解的请求感动了在场的每一个人。  
 She made a heartfelt plea for more funding at the meeting. ->> 她在会议上发出真诚的请求，希望获得更多的资金。
 
-abatement /əˈbeɪtmənt/ n. 减少  
+abatement ->> /əˈbeɪtmənt/ n. 减少  
 There has been a significant abatement in noise pollution recently. ->> 最近噪音污染有了显著减少。  
 The council is working on the abatement of traffic congestion in the city. ->> 委员会正在努力减少城市交通拥堵。
 
-discredit /dɪˈskrɛdət/ v. 怀疑  
+discredit ->> /dɪˈskrɛdət/ v. 怀疑  
 The scandal served to discredit the organization's clean image. ->> 丑闻破坏了该组织的清白形象。  
 She was determined to discredit her opponent during the debate. ->> 她决心在辩论中质疑她的对手。
 
-allegation /ˌæləˈgeɪʃən/ n. 断言  
+allegation ->> /ˌæləˈgeɪʃən/ n. 断言  
 The company faced serious allegations regarding their business practices. ->> 这家公司面临有关其商业行为的严重指控。  
 He denied all allegations made against him in the trial. ->> 他否认了在审判中对他提出的所有指控。
 
-caption /ˈkæpʃən/ n. 插图说明  
+caption ->> /ˈkæpʃən/ n. 插图说明  
 Every picture in the book came with a detailed caption. ->> 书中的每张图片都有详细的插图说明。  
 The caption under the photograph provided context to the image. ->> 照片下面的说明为图像提供了背景信息。
 
-wreck /rɛk/ n. 残废人  
+wreck ->> /rɛk/ n. 残废人  
 After the accident, he felt like a physical and emotional wreck. ->> 在事故后，他感到身体和情感都像是个残废人。  
 The enduring stress of his job turned him into a nervous wreck. ->> 工作中长期的压力使他变得非常紧张。
 
-snag /snæg/ n. 疑难之处，障碍  
+snag ->> /snæg/ n. 疑难之处，障碍  
 They encountered a snag in the plans that delayed the project. ->> 他们在计划中遇到了一个障碍，推迟了项目进度。  
 Finding a suitable venue proved to be a major snag in the planning. ->> 找到合适的场地成为计划中的一个主要难题。
 
-anecdote /ˈænɪkˌdoʊt/ n. 轶闻  
+anecdote ->> /ˈænɪkˌdoʊt/ n. 轶闻  
 He began his speech with a humorous anecdote. ->> 他的演讲以一个幽默的轶事开始。  
 The book is full of interesting anecdotes from the author's life. ->> 这本书充满了作者生活中的有趣轶事。
 
-slander /ˈslændər/ v. 诽谤  
+slander ->> /ˈslændər/ v. 诽谤  
 He threatened to sue the magazine for slander. ->> 他威胁要起诉该杂志诽谤。  
 The politician claimed that his opponent had slandered him. ->> 这位政治家声称他的对手诽谤了他。
 
-persecute /ˈpɜrsəˌkjut/ v. 迫害  
+persecute ->> /ˈpɜrsəˌkjut/ v. 迫害  
 Many people have been persecuted for their religious beliefs throughout history. ->> 历史上有许多人因为宗教信仰而受到迫害。  
 He felt persecuted at work due to his outspoken views. ->> 由于他直言不讳的观点，他觉得在工作中受到了迫害。
 
-squadron /ˈskwɑdrən/ n. 中队  
+squadron ->> /ˈskwɑdrən/ n. 中队  
 The squadron was deployed to the region as part of the peacekeeping mission. ->> 该中队被部署到该地区，作为维和任务的一部分。  
 They belonged to an elite squadron known for its precision strikes. ->> 他们属于一个以精确打击而闻名的精英中队。
 
-psychiatric /ˌsaɪkiˈætrɪk/ adj. 精神病学的  
+psychiatric ->> /ˌsaɪkiˈætrɪk/ adj. 精神病学的  
 She works in a psychiatric hospital specializing in adolescent care. ->> 她在一家专门照顾青少年的精神病医院工作。  
 The study explores the psychiatric effects of long-term isolation. ->> 该研究探讨了长期隔离的精神病学效应。
 
-diagnosis /ˌdaɪəgˈnoʊsəs/ n. 诊断  
+diagnosis ->> /ˌdaɪəgˈnoʊsəs/ n. 诊断  
 Early diagnosis of the disease can significantly improve recovery chances. ->> 早期诊断该疾病可以显著提高康复机会。  
 She was relieved to finally receive a diagnosis after months of uncertainty. ->> 在几个月的不确定之后，她终于得到诊断，这让她如释重负。
 
-orphanage /ˈɔrfənɪdʒ/ n. 孤儿院  
+orphanage ->> /ˈɔrfənɪdʒ/ n. 孤儿院  
 She spent her early years growing up in an orphanage. ->> 她在孤儿院度过了早年的时光。  
 The orphanage is looking for volunteers to help with daily activities. ->> 这家孤儿院正在寻找志愿者来帮助日常活动。

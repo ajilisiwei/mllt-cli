@@ -10,78 +10,78 @@ The party then searched the whole cave thoroughly but did not find anything exce
 In spite of this, many people are confident that 'The Revealer' may reveal something of value fairly soon. ->> 尽管如此，很多人仍然相信“探宝器”很快就会探出值钱的东西来。
 
 
-gold /goʊld/ n. 金子
+gold ->> /goʊld/ n. 金子
 The gold has been stored in the vault for centuries. ->> 黄金已经在金库中储存了几个世纪。  
 Investors often seek the gold during economic uncertainty. ->> 投资者经常在经济不确定的情况下寻求黄金。  
 
-mine /maɪn/ n. 矿
+mine ->> /maɪn/ n. 矿
 The mine was closed due to environmental concerns. ->> 由于环境问题，该矿被关闭。  
 Visitors often enjoy tours of the mine to learn about its history. ->> 游客经常参观矿山以了解其历史。  
 
-treasure /ˈtrɛʒər/ n. 财宝
+treasure ->> /ˈtrɛʒər/ n. 财宝
 The treasure was hidden deep within the old castle. ->> 宝藏隐藏在古堡深处。  
 Adventurers often dream about discovering treasure on deserted islands. ->> 冒险家常常梦想在荒岛上发现宝藏。  
 
-revealer /revealer*/ n. 探测器
+revealer ->> /revealer*/ n. 探测器
 The revealer helped the scientists locate the ancient artifacts. ->> 揭秘者帮助科学家找到了古代文物。  
 Many treasure hunters rely on a revealer for successful expeditions. ->> 许多寻宝者依靠揭秘者来成功探险。  
 
-invent /ˌɪnˈvɛnt/ v. 发明
+invent ->> /ˌɪnˈvɛnt/ v. 发明
 He hopes to invent a device that could change the world. ->> 他希望发明一种可以改变世界的设备。  
 Scientists often invent new technologies to improve people's lives. ->> 科学家经常发明新技术来改善人们的生活。  
 
-detect /dɪˈtɛkt/ v. 探测
+detect ->> /dɪˈtɛkt/ v. 探测
 The device is able to detect even the smallest changes in temperature. ->> 该设备甚至能够检测最小的温度变化。  
 Scientists have developed a new method to detect early signs of disease. ->> 科学家们开发出了一种检测疾病早期迹象的新方法。  
 
-bury /ˈbɛri/ v. 埋藏
+bury ->> /ˈbɛri/ v. 埋藏
 They decided to bury the time capsule near the oak tree. ->> 他们决定将时间胶囊埋在橡树附近。  
 People often bury valuable items for safekeeping during uncertain times. ->> 人们经常在不确定的时期埋葬贵重物品以确保安全。  
 
-cave /keɪv/ n. 山洞
+cave ->> /keɪv/ n. 山洞
 The cave was explored by a team of expert climbers. ->> 该洞穴由一群专家登山者进行了探索。  
 Visitors to the cave are amazed by the ancient drawings on the walls. ->> 参观洞穴的游客会对墙壁上的古老图画感到惊讶。  
 
-seashore /ˈsiˌʃɔr/ n. 海岸
+seashore ->> /ˈsiˌʃɔr/ n. 海岸
 The children spent the afternoon collecting shells along the seashore. ->> 孩子们花了整个下午沿着海边收集贝壳。  
 The seashore offers spectacular views of the sunset every evening. ->> 每天晚上，海滨都可以欣赏到壮丽的日落景色。  
 
-pirate /ˈpaɪrət/ n. 海盗
+pirate ->> /ˈpaɪrət/ n. 海盗
 The pirate sailed the seas in search of riches and adventure. ->> 海盗在海上航行寻找财富和冒险。  
 Legends of the pirate still circulate among local fishermen. ->> 当地渔民中至今仍流传着海盗的传说。  
 
-arm /ɑrm/ v. 武装
+arm ->> /ɑrm/ v. 武装
 They decided to arm the security team with the latest equipment. ->> 他们决定为安全团队配备最新的设备。  
 Soldiers must arm themselves efficiently before a mission. ->> 士兵在执行任务之前必须有效武装自己。  
 
-soil /sɔɪl/ n. 泥土
+soil ->> /sɔɪl/ n. 泥土
 The quality of the soil is crucial for agricultural success. ->> 土壤质量对于农业成功至关重要。  
 Farmers work tirelessly to prevent the soil from eroding. ->> 农民们不知疲倦地工作，以防止土壤受到侵蚀。  
 
-entrance /ˈɛntrəns/ n. 入口
+entrance ->> /ˈɛntrəns/ n. 入口
 The entrance to the museum is adorned with beautiful sculptures. ->> 博物馆的入口处装饰着美丽的雕塑。  
 Visitors often gather at the entrance before the gates open. ->> 大门打开之前，游客经常聚集在入口处。  
 
-finally /ˈfaɪnəli/ adv. 最后
+finally ->> /ˈfaɪnəli/ adv. 最后
 He finally achieved his lifelong dream after years of persistence. ->> 经过多年的坚持，他终于实现了毕生的梦想。  
 After much debate, they finally reached a decision. ->> 经过一番争论，他们最终做出了决定。  
 
-worthless /ˈwərθləs/ adj. 毫无价值的
+worthless ->> /ˈwərθləs/ adj. 毫无价值的
 The old coins were discovered to be worthless. ->> 旧硬币被发现毫无价值。  
 Many people consider the stock to be worthless after the company's collapse. ->> 许多人认为该公司倒闭后该股票一文不值。  
 
-thoroughly /ˈθəroʊli/ adv. 彻底地
+thoroughly ->> /ˈθəroʊli/ adv. 彻底地
 She thoroughly enjoyed the book from start to finish. ->> 她从头到尾都非常喜欢这本书。  
 The team thoroughly examined the evidence before reaching a conclusion. ->> 该团队在得出结论之前彻底检查了证据。  
 
-trunk /trəŋk/ n. 行李箱
+trunk ->> /trəŋk/ n. 行李箱
 He packed his clothes into the trunk before the long journey. ->> 在长途旅行之前，他把衣服装进了行李箱。  
 The old trunk in the attic contained forgotten family heirlooms. ->> 阁楼上的旧箱子里装着被遗忘的传家宝。  
 
-confident /ˈkɑnfədənt/ adj. 有信心的
+confident ->> /ˈkɑnfədənt/ adj. 有信心的
 She felt confident about the outcome of the game. ->> 她对比赛的结果充满信心。  
 His confident demeanor impressed everyone at the meeting. ->> 他自信的举止给与会者留下了深刻的印象。  
 
-value /ˈvælju/ n. 价值
+value ->> /ˈvælju/ n. 价值
 The value of the antique vase has increased over time. ->> 古董花瓶的价值随着时间的推移而增加。  
 People often debate the true value of art in society. ->> 人们经常争论艺术在社会中的真正价值。  

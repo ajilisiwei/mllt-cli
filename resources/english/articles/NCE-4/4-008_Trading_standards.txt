@@ -14,50 +14,50 @@ The Americans would happily reach one accord on standards for medical devices an
 The EU -- following fine continental traditions -- wants agreement on general principles, which could be applied to many types of products and perhaps extended to other countries. ->> 欧洲人遵循优良的大陆传统，希望就普遍原则达成一致，这些原则适用于许多不同产品，同时可能延伸到其它国家。
 
 
-slaughter /sˈlɔtər/ v. 屠宰  
+slaughter ->> /sˈlɔtər/ v. 屠宰  
 The process of slaughter is crucial to understanding the local meat industry's dynamics. ->> 对当地肉类产业的动态，屠宰过程是至关重要的。  
 Many debates about ethics arise around the topic of animal slaughter. ->> 围绕动物屠宰的话题，许多关于伦理的辩论浮现。
 
-fit /fɪt/ adj. 适合  
+fit ->> /fɪt/ adj. 适合  
 The fit of the equipment determines the efficiency of the assembly line. ->> 设备的适合度决定了装配线的效率。  
 When designing the product, the fit of each part is meticulously scrutinized. ->> 在设计产品时，每个部分的适合性都经过仔细检查。
 
-grace /greɪs/ v. 给...增光  
+grace ->> /greɪs/ v. 给...增光  
 The way she graced the event with her presence was unforgettable. ->> 她以她的到来为活动增添光彩的方式令人难忘。  
 The awards ceremony was graced by several notable figures from the industry. ->> 颁奖典礼因多位业界知名人士的出席而增色不少。
 
-tariff /ˈtɛrəf/ n. 关税  
+tariff ->> /ˈtɛrəf/ n. 关税  
 The new tariff policy is expected to have a significant impact on trade negotiations. ->> 新的关税政策预计会对贸易谈判产生重大影响。  
 In discussions about international trade, the tariff is often a contentious issue. ->> 在国际贸易的讨论中，关税常常是个有争议的问题。
 
-standard /ˈstændərd/ n. 标准  
+standard ->> /ˈstændərd/ n. 标准  
 The standard for safety protocols has been updated to enhance security measures. ->> 为增强安全措施，安全协议的标准已更新。  
 In their meetings, they frequently address the standard that should be maintained. ->> 在他们的会议中，他们经常讨论应保持的标准。
 
-dialysis /daɪˈælɪsɪs/ n. 分离，分解；透析，渗析  
+dialysis ->> /daɪˈælɪsɪs/ n. 分离，分解；透析，渗析  
 Advancements in dialysis have greatly improved treatment options for kidney patients. ->> 透析技术的进步极大改善了肾脏病患者的治疗选择。  
 The dialysis process is a central topic in medical research for chronic kidney disease. ->> 透析过程是慢性肾病医学研究中的核心话题。
 
-electrocute /ˌɪˈlɛktrəˌkjut/ v. 使触电身亡  
+electrocute ->> /ˌɪˈlɛktrəˌkjut/ v. 使触电身亡  
 Safety measures are vital to prevent workers from being accidentally electrocuted. ->> 为防止工人意外触电身亡，安全措施至关重要。  
 Accident reports often highlight cases where individuals have been electrocuted due to faulty wiring. ->> 事故报告中常常突出因电线故障而触电身亡的案例。
 
-eliminate /ɪˈlɪməˌneɪt/ v. 消灭  
+eliminate ->> /ɪˈlɪməˌneɪt/ v. 消灭  
 The team's primary goal is to eliminate all known threats before they can cause harm. ->> 团队的主要目标是在威胁造成伤害之前消灭所有已知威胁。  
 During discussions, many strategies are proposed to effectively eliminate the source of pollution. ->> 在讨论中，提出了许多战略来有效消除污染源。
 
-accord /əˈkɔrd/ n. 协议  
+accord ->> /əˈkɔrd/ n. 协议  
 The environmental accord signed last year set ambitious goals for reducing emissions. ->> 去年签署的环境协议设定了减少排放的雄心勃勃的目标。  
 When discussing international relations, the accord between countries is often mentioned. ->> 讨论国际关系时，国家间的协议常被提及。
 
-device /dɪˈvaɪs/ n. 仪器，器械  
+device ->> /dɪˈvaɪs/ n. 仪器，器械  
 The new device has potential applications in various medical fields, particularly in diagnostics. ->> 这种新仪器在各个医学领域，尤其是诊断学中，有潜在应用。  
 In modern healthcare, the integration of devices enhances patient monitoring significantly. ->> 在现代医疗保健中，集成设备显著增强了患者监测。
 
-hammer out /ˈhæmər aʊt/ v. 推敲  
+hammer out ->> /ˈhæmər aʊt/ v. 推敲  
 It took months for the team to hammer out the final details of the project. ->> 团队花费数月时间推敲项目的最终细节。  
 Negotiators worked late into the night to hammer out an agreement acceptable to both parties. ->> 谈判者工作到深夜，推敲出双方都能接受的协议。
 
-pact /pækt/ n. 合同，条约，公约  
+pact ->> /pækt/ n. 合同，条约，公约  
 The peace pact signed by both nations was a historic milestone in diplomacy. ->> 两国签署的和平条约是外交史上的一座里程碑。  
 Economic discussions often involve revisiting the trade pact terms. ->> 经济讨论中常涉及重新审视贸易协定条款。

@@ -12,14 +12,14 @@ Mr. Sawyer usually reads his newspaper at night, but he is not reading his newsp
 At the moment, he is reading an interesting book. ->> 此刻，他正在看一本有趣的书。
 
 
-o'clock /əˈklɑk/ adv. 点钟  
+o'clock ->> /əˈklɑk/ adv. 点钟  
 Dinner is served at 7 o'clock. ->> 晚餐在七点钟供应。  
 The train departs at 6 o'clock sharp. ->> 火车在六点整离开。
 
-shop /ʃɑp/ n. 商店  
+shop ->> /ʃɑp/ n. 商店  
 He visited the antique shop downtown. ->> 他去了市中心的古董店。  
 The bakery shop always smells delicious. ->> 面包店总是香味扑鼻。
 
-moment /ˈmoʊmənt/ n. 片刻，瞬间  
+moment ->> /ˈmoʊmənt/ n. 片刻，瞬间  
 I'll be with you in a moment. ->> 我马上来找你。  
 The car started after a moment of hesitation. ->> 汽车在犹豫片刻后启动。

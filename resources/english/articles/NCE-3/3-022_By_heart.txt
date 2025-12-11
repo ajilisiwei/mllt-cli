@@ -18,58 +18,58 @@ Finding that he could not remember a word of the letter either, the gaoler repli
 Much to the aristocrat's amusement, the gaoler returned a few moments later with a pair of glasses and the usual copy of the letter which he proceeded to read to the prisoner. ->> 贵族感到非常好笑的是：一会儿工夫，狱卒重新登台，拿来一副眼镜以及平时使用的那封信，然后为那囚犯念了起来。
 
 
-run (ran, run) /rən/ v. （戏剧，电影等）连演，连映  
+run (ran, run) ->> /rən/ v. （戏剧，电影等）连演，连映  
 The new production is scheduled to run for six months at the downtown theater.  
 Critics are hopeful that the show's extended run will attract international attention.  
 
-lines /laɪnz/ n. （剧本中的）台词  
+lines ->> /laɪnz/ n. （剧本中的）台词  
 Learning the lines took longer than expected but was crucial for the performance.  
 Actors spent weeks rehearsing their lines to ensure a flawless opening night.  
 
-part /pɑrt/ n. 剧中的角色，台词  
+part ->> /pɑrt/ n. 剧中的角色，台词  
 She landed the part of the lead character in the upcoming drama.  
 He practiced his part diligently, focusing on delivering the lines with emotion.  
 
-falter /ˈfɔltər/ v. 支吾，结巴说  
+falter ->> /ˈfɔltər/ v. 支吾，结巴说  
 During the audition, he began to falter, losing the confidence he displayed earlier.  
 Her voice began to falter under the pressure of the large audience.  
 
-cast (cast, cast) /kæst/ v. 扮演角色  
+cast (cast, cast) ->> /kæst/ v. 扮演角色  
 The director decided to cast an unknown actress in the leading role.  
 They cast him as the villain due to his imposing presence and strong voice.  
 
-role /roʊl/ n. 角色  
+role ->> /roʊl/ n. 角色  
 She embraced her role with enthusiasm, bringing depth to the character.  
 The role of the mentor was pivotal in the protagonist's journey.   
 
-aristocrat /ərˈɪstəˌkræt/ n. 贵族  
+aristocrat ->> /ərˈɪstəˌkræt/ n. 贵族  
 The aristocrat used his influence to sway political decisions in his favor.  
 Despite the lavish lifestyle, the aristocrat longed for a simpler life.  
 
-imprison /ˌɪmˈprɪzən/ v. 关押  
+imprison ->> /ˌɪmˈprɪzən/ v. 关押  
 The criminal was imprisoned for ten years after a lengthy trial.  
 Many political dissidents were imprisoned without a fair trial during the regime.  
 
-Bastille /ˌbæˈstɪl/ n. 巴士底狱  
+Bastille ->> /ˌbæˈstɪl/ n. 巴士底狱  
 The fall of the Bastille is a significant event in French history.  
 Tourists often visit the site where the Bastille once stood to learn about its impact.   
 
-gaoler /ˈdʒeɪlər/ n. 监狱长，看守  
+gaoler ->> /ˈdʒeɪlər/ n. 监狱长，看守  
 The gaoler maintained strict discipline among the prisoners.  
 He bribed the gaoler for better living conditions inside the prison.  
 
-colleague /ˈkɑlig/ n. 同事  
+colleague ->> /ˈkɑlig/ n. 同事  
 Her colleague offered great support during the stressful project phase.  
 We organized a farewell party for a colleague who was leaving the company.  
 
-curtain /ˈkərtən/ n. （舞台上的）幕布  
+curtain ->> /ˈkərtən/ n. （舞台上的）幕布  
 The curtain rose slowly, revealing the beautifully crafted set.  
 As the curtain fell, the audience erupted into applause for the actors' performance.  
 
-reveal /rɪˈvil/ v. 使显露  
+reveal ->> /rɪˈvil/ v. 使显露  
 The magician’s final trick was to reveal the hidden card in the deck.  
 The investigation aims to reveal the truth behind the mysterious incident.  
 
-cell /sɛl/ n. 单人监房，监号  
+cell ->> /sɛl/ n. 单人监房，监号  
 He spent most of his days reading alone in his cell.  
 The prisoner decorated his cell with family photos and letters.

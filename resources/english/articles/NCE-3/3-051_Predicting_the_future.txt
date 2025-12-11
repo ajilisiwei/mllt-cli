@@ -22,74 +22,74 @@ This is what makes Leon Bagrit's predictions particularly remarkable. ->> 这就
 If he, or someone like him, were alive today, he might be able to tell us what to expect in the next fifty years. ->> 如果他或是像他这样的人今天还活着，他大概可以告诉我们未来五十年可能会发生什么事情。
 
 
-notoriously /noʊˈtɔriəsli/ adv. （尤指因坏事）众所周知地  
+notoriously ->> /noʊˈtɔriəsli/ adv. （尤指因坏事）众所周知地  
 His notoriously bold statements during the press conference shocked everyone.  
 The project was notoriously mishandled by the previous administration.  
 
-full-time /ˈfʊlˌtaɪm/ adj. 专职的  
+full-time ->> /ˈfʊlˌtaɪm/ adj. 专职的  
 He accepted a full-time position at the company last month.  
 Being a full-time student requires a lot of dedication and discipline.  
 
-technician /tɛkˈnɪʃən/ n. 技师  
+technician ->> /tɛkˈnɪʃən/ n. 技师  
 The technician fixed the issue with the computer within minutes.  
 Every successful lab needs a skilled technician to manage the equipment.  
 
-software /ˈsɔfˌwɛr/ n. 软件  
+software ->> /ˈsɔfˌwɛr/ n. 软件  
 We need to update the software on all company computers.  
 This new software has significantly improved productivity.  
 
-IBM /ibm*/ （美国）国际商用机器公司  
+IBM ->> /ibm*/ （美国）国际商用机器公司  
 IBM has been a leader in the tech industry for decades.  
 Many graduates aspire to work for IBM due to its reputation.  
 
-DOS /dɔs/ 磁盘操作系统（Disk Operating System）  
+DOS ->> /dɔs/ 磁盘操作系统（Disk Operating System）  
 DOS was widely used in the early days of personal computing.  
 He learned DOS commands to troubleshoot old computer systems.  
 
-Microsoft /ˈmaɪˌkroʊˈsɔft/ n. （美国）微软公司  
+Microsoft ->> /ˈmaɪˌkroʊˈsɔft/ n. （美国）微软公司  
 Microsoft has launched a new version of its popular operating system.  
 Many businesses rely on Microsoft Office for their daily operations.  
 
-user-friendly /user-friendly*/ adj. 容易操作的，好用的  
+user-friendly ->> /user-friendly*/ adj. 容易操作的，好用的  
 The new app is extremely user-friendly and intuitive.  
 This user-friendly device is perfect for beginners.  
 
-mainframe /ˈmeɪnˌfreɪm/ n. 主机，中央处理机  
+mainframe ->> /ˈmeɪnˌfreɪm/ n. 主机，中央处理机  
 The mainframe in their data center processes complex computations.  
 Banks often rely on mainframes for their data-heavy operations.  
 
-multimedia /ˌməltiˈmidiə/ adj. 多媒体的  
+multimedia ->> /ˌməltiˈmidiə/ adj. 多媒体的  
 She created a multimedia presentation for her marketing project.  
 The school has a multimedia room equipped with the latest technology.  
 
-alternative /ɔlˈtərnətɪv/ adj. 选择的  
+alternative ->> /ɔlˈtərnətɪv/ adj. 选择的  
 They proposed an alternative solution to the problem.  
 Her alternative approach to therapy has proven effective.  
 
-diagnose /ˌdaɪəgˈnoʊs/ v. 诊断  
+diagnose ->> /ˌdaɪəgˈnoʊs/ v. 诊断  
 The doctor was able to diagnose the illness quickly.  
 They used a new method to diagnose the patient's condition.  
 
-relieve /rɪˈliv/ v. 减轻  
+relieve ->> /rɪˈliv/ v. 减轻  
 The medicine helped relieve his chronic back pain.  
 We are implementing measures to relieve the team of excessive workload.  
 
-accountant /əˈkaʊntənt/ n. 会计  
+accountant ->> /əˈkaʊntənt/ n. 会计  
 The accountant reviewed the financial statements before the audit.  
 She hired an accountant to help with her taxes.  
 
-repetitive /rɪˈpɛtɪtɪv/ adj. 重复的  
+repetitive ->> /rɪˈpɛtɪtɪv/ adj. 重复的  
 The job was tedious and highly repetitive.  
 He found the repetitive nature of the task monotonous.  
 
-clerical /ˈklɛrɪkəl/ adj. 办公室工作的  
+clerical ->> /ˈklɛrɪkəl/ adj. 办公室工作的  
 She was hired to perform clerical duties in the finance department.  
 The clerical staff ensures that all paperwork is processed efficiently.  
 
-Internet /ˈɪntərˌnɛt/ n. 国际交互网  
+Internet ->> /ˈɪntərˌnɛt/ n. 国际交互网  
 The Internet has revolutionized the way we communicate and access information.  
 He spent hours researching on the Internet for his thesis.  
 
-network /ˈnɛtˌwərk/ n. 网络  
+network ->> /ˈnɛtˌwərk/ n. 网络  
 The company upgraded its network to improve security and speed.  
 She used her professional network to find new job opportunities.

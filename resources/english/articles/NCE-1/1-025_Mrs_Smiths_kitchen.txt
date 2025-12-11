@@ -12,46 +12,46 @@ There is a cup on the table, too. ->> 桌子上还有一个杯子。
 The cup is clean. ->> 杯子很干净。
 
 
-Mrs. /ˈmɪsɪz./ 夫人  
+Mrs. ->> /ˈmɪsɪz./ 夫人  
 Mrs. Johnson is planning the school event. ->> 约翰逊夫人正在策划学校活动。  
 The letter was addressed to Mrs. Brown. ->> 信件是寄给布朗夫人的。  
 
-kitchen /ˈkɪʧən/ n. 厨房  
+kitchen ->> /ˈkɪʧən/ n. 厨房  
 The kitchen smells like freshly baked bread. ->> 厨房里有新烤面包的香味。  
 They renovated their kitchen last year. ->> 他们去年装修了厨房。  
 
-refrigerator /rɪˈfrɪʤərˌeɪtər/ n. 电冰箱  
+refrigerator ->> /rɪˈfrɪʤərˌeɪtər/ n. 电冰箱  
 Don't forget to check the refrigerator for leftovers. ->> 别忘了检查冰箱里的剩菜。  
 The refrigerator needs to be cleaned regularly. ->> 冰箱需要定期清洁。  
 
-right /raɪt/ n. 右边  
+right ->> /raɪt/ n. 右边  
 The museum is just past the coffee shop on the right. ->> 博物馆就在咖啡店过去的右边。  
 Look to the right to see the mountain view. ->> 向右看可以看到山景。  
 
-electric /ɪˈlɛktrɪk/ adj. 带电的，可通电的  
+electric ->> /ɪˈlɛktrɪk/ adj. 带电的，可通电的  
 This electric fan is perfect for the summer. ->> 这个电风扇非常适合夏天。  
 They hired an electrician to fix the electric heater. ->> 他们找了一位电工来修理电热器。  
 
-left /lɛft/ n. 左边  
+left ->> /lɛft/ n. 左边  
 The post office is on the left after the bridge. ->> 邮局在桥后的左边。  
 To reach the cinema, take the second left. ->> 要到电影院，往第二个左边转。  
 
-cooker /ˈkʊkər/ n. 炉子，炊具  
+cooker ->> /ˈkʊkər/ n. 炉子，炊具  
 I'm learning how to cook with a pressure cooker. ->> 我在学习如何用压力锅做饭。  
 The kitchen has a gas cooker. ->> 厨房有一个燃气炉。  
 
-middle /ˈmɪdəl/ n. 中间  
+middle ->> /ˈmɪdəl/ n. 中间  
 The statue stands in the middle of the garden. ->> 雕像屹立在花园的中间。  
 He found himself in the middle of an interesting conversation. ->> 他发现自己正处于一个有趣的谈话中。  
 
-of /əv/ prep. （属于）……的  
+of ->> /əv/ prep. （属于）……的  
 The texture of the fabric is smooth. ->> 面料的质地光滑。  
 The history of the city is fascinating. ->> 这个城市的历史很迷人。  
 
-room /rum/ n. 房间  
+room ->> /rum/ n. 房间  
 There's plenty of light in this room. ->> 这个房间里有充足的光线。  
 She rearranged the furniture in her room. ->> 她重新布置了她房间的家具。  
 
-cup /kəp/ n. 杯子  
+cup ->> /kəp/ n. 杯子  
 He poured a cup of coffee before work. ->> 他在上班前倒了一杯咖啡。  
 The gold cup was awarded to the winner. ->> 金杯被颁给了获胜者。

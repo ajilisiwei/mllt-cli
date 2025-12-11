@@ -21,18 +21,18 @@ It is a very modern house, so it looks strange to some people. ->> 它是一栋�
 It must be the only modern house in the district. ->> 它肯定是这个地区唯一的一栋现代化住宅。
 
 
-complete /kəmˈplit/ v. 完成  
+complete ->> /kəmˈplit/ v. 完成  
 He managed to complete the project on time. ->> 他设法按时完成了项目。  
 After several months, they finally complete the training program. ->> 几个月后，他们终于完成了培训计划。
 
-modern /ˈmɑdərn/ adj. 新式的，与以往不同的  
+modern ->> /ˈmɑdərn/ adj. 新式的，与以往不同的  
 The modern design of the building attracted many architecture enthusiasts. ->> 这座建筑的新式设计吸引了许多建筑爱好者。  
 She prefers modern art over classical paintings. ->> 她更喜欢新式艺术而不是古典绘画。
 
-strange /streɪnʤ/ adj. 奇怪的  
+strange ->> /streɪnʤ/ adj. 奇怪的  
 I found it strange that the store was closed during normal hours. ->> 我发现商店在正常营业时间关闭是件怪事。  
 The strange sound in the night kept me awake for hours. ->> 夜晚的奇怪声音让我醒了好几个小时。
 
-district /ˈdɪstrɪkt/ n. 地区  
+district ->> /ˈdɪstrɪkt/ n. 地区  
 The city decided to invest in developing the business district. ->> 这座城市决定投资开发商业区。  
 We explored the historic district during our vacation. ->> 我们在度假期间探索了历史地区。

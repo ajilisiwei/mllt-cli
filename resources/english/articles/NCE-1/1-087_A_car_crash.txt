@@ -18,30 +18,30 @@ Attendant: Well, they're trying to repair it, sir. ->> 服务员：嗯，他们�
 But to tell you the truth, you need a new car. ->> 不过说实在的，您需要一辆新车了。
 
 
-attendant /əˈtɛndənt/ n. 接待员  
+attendant ->> /əˈtɛndənt/ n. 接待员  
 The parking lot attendant directed us to an available spot. ->> 停车场的接待员指引我们到一个空位。  
 At the hotel, the attendant carried our bags to the room. ->> 在酒店，接待员把我们的行李提到房间。
 
-bring (brought, brought) /brɪŋ/ v. 带来，送来  
+bring (brought, brought) ->> /brɪŋ/ v. 带来，送来  
 Can you bring some milk when you come back? ->> 你回来的时候能带些牛奶吗？  
 He brought flowers to surprise her. ->> 他带了花来给她一个惊喜。
 
-garage /gərɑʒ/ n. 车库，汽车修理厂  
+garage ->> /gərɑʒ/ n. 车库，汽车修理厂  
 She keeps her gardening tools in the garage. ->> 她把园艺工具放在车库里。  
 The mechanic at the garage is very knowledgeable. ->> 修理厂的技工经验丰富。
 
-crash /kræʃ/ n. 碰撞  
+crash ->> /kræʃ/ n. 碰撞  
 The loud crash startled everyone in the office. ->> 巨大的碰撞声让办公室里的每个人都吓了一跳。  
 Due to the crash, the road was closed for hours. ->> 由于碰撞事故，公路关闭了数小时。
 
-lamp-post /ˈlæmp poʊst/ 灯杆  
+lamp-post ->> /ˈlæmp poʊst/ 灯杆  
 She tied her dog to the lamp-post while she went into the store. ->> 她把狗拴在灯杆上，然后进了商店。  
 The lamp-post flickered as the evening set in. ->> 夜幕降临时，灯杆闪烁着。
 
-repair /rɪˈpɛr/ v. 修理  
+repair ->> /rɪˈpɛr/ v. 修理  
 The landlord promised to repair the leaky sink. ->> 房东答应修理漏水的水槽。  
 We need to repair the fence before winter. ->> 我们需要在冬天前修理篱笆。
 
-try /traɪ/ v. 努力，设法  
+try ->> /traɪ/ v. 努力，设法  
 I'll try to call you later today. ->> 我稍后会试着给你打电话。  
 Despite being tired, he tried to stay awake during the meeting. ->> 尽管很累，他还是努力在会议期间保持清醒。

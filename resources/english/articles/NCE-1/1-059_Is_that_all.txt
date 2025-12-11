@@ -19,34 +19,34 @@ Stationer: What else do you want? ->> 售货员：您还要别的吗？
 LADY: I want my change. ->> 女士：请找给我零钱。
 
 
-envelope /ˈɛnvəˌloʊp/ n. 信封  
+envelope ->> /ˈɛnvəˌloʊp/ n. 信封  
 She placed the invitation in an envelope and mailed it. ->> 她把邀请函放在信封里并寄出了。  
 Could you pass me an envelope for this document? ->> 你能把一个信封递给我来装这份文件吗？
 
-writing /ˈraɪtɪŋ/ paper 信纸  
+writing ->> /ˈraɪtɪŋ/ paper 信纸  
 She prefers to use eco-friendly writing paper. ->> 她更喜欢用环保信纸。  
 I always write letters on personalized writing paper. ->> 我总是在个性化的信纸上写信。
 
-shop /ʃɑp/ assistant 售货员  
+shop ->> /ʃɑp/ assistant 售货员  
 The shop assistant offered me a discount on the shoes. ->> 售货员给我提供了鞋子的折扣。  
 We asked the shop assistant where the changing rooms were. ->> 我们询问了售货员更衣室在哪里。
 
-size /saɪz/ n. 尺寸，尺码，大小  
+size ->> /saɪz/ n. 尺寸，尺码，大小  
 Do you have this jacket in a smaller size? ->> 这件夹克有小一号的吗？  
 The cake size is perfect for a birthday party of ten people. ->> 这个蛋糕的大小非常适合十个人的生日聚会。
 
-pad /pæd/ n. 信纸簿  
+pad ->> /pæd/ n. 信纸簿  
 He tore a sheet from the pad to make a quick list. ->> 他从信纸簿上撕下一页来快速列清单。  
 She doodled on the pad during the meeting. ->> 她在会议期间在信纸簿上涂鸦。
 
-glue /glu/ n. 胶水  
+glue ->> /glu/ n. 胶水  
 I accidentally spilled glue on the table. ->> 我不小心把胶水洒在桌子上了。  
 They used glue to assemble the model airplane. ->> 他们用胶水拼装飞机模型。
 
-chalk /ʧɔk/ n. 粉笔  
+chalk ->> /ʧɔk/ n. 粉笔  
 There was no chalk left in the classroom. ->> 教室里没有粉笔了。  
 We used chalk to mark the starting line for the race. ->> 我们用粉笔标记了比赛的起跑线。
 
-change /ʧeɪnʤ/ n. 零钱，找给的钱  
+change ->> /ʧeɪnʤ/ n. 零钱，找给的钱  
 She counted her change to make sure it was correct. ->> 她数了数她的零钱以确保无误。  
 Can you break a ten-dollar bill into change? ->> 你能把十美元纸币换成零钱吗？

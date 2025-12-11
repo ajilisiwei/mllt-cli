@@ -18,30 +18,30 @@ Peggy: I haven't got much. ->> 佩奇：我的钱不多了。
 Tom: Well, I haven't got much either! ->> 汤姆：好吧，我也没啥钱！
 
 
-shopping /ˈʃɑpɪŋ/ n. 购物  
+shopping ->> /ˈʃɑpɪŋ/ n. 购物  
 We went shopping for new clothes yesterday. ->> 我们昨天去买新衣服了。  
 Shopping online can be very convenient. ->> 网上购物可以非常方便。  
 
-list /lɪst/ n. 单子  
+list ->> /lɪst/ n. 单子  
 He lost the list of phone numbers. ->> 他丢了电话号码的单子。  
 The grocery list is on the fridge. ->> 购物单在冰箱上。  
 
-vegetable /ˈvɛʤtəbəl/ n. 蔬菜  
+vegetable ->> /ˈvɛʤtəbəl/ n. 蔬菜  
 Broccoli is a healthy vegetable. ->> 西兰花是一种健康的蔬菜。  
 She grows her own vegetables in the garden. ->> 她在花园里种自己的蔬菜。  
 
-need /nid/ v. 需要  
+need ->> /nid/ v. 需要  
 We need more time to finish the project. ->> 我们需要更多时间来完成项目。  
 You need to call him back as soon as possible. ->> 你需要尽快给他回电话。  
 
-hope /hoʊp/ v. 希望  
+hope ->> /hoʊp/ v. 希望  
 We hope to see you at the party. ->> 我们希望能在派对上见到你。  
 He hopes that everything goes well. ->> 他希望一切顺利。  
 
-thing /θɪŋ/ n. 事情  
+thing ->> /θɪŋ/ n. 事情  
 She left her things in the car. ->> 她把东西留在了车里。  
 What's your favorite thing to do on weekends? ->> 你周末最喜欢做的事情是什么？  
 
-money /ˈməni/ n. 钱  
+money ->> /ˈməni/ n. 钱  
 He donated money to the charity. ->> 他向慈善机构捐了钱。  
 They're saving money for a vacation. ->> 他们在存钱去度假。

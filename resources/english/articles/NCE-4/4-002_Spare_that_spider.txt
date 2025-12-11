@@ -12,18 +12,18 @@ It is impossible to make more than the wildest guess at how many they kill, but 
 It has been estimated that the weight of all the insects destroyed by spiders in Britain in one year would be greater than the total weight of all the human beings in the country. ->> 据估计，在英国，蜘蛛一年里所消灭的昆虫的重量超过该国人口的总重量。
 
 
-Beast n. 野兽
-The Beast plays an important role in this mythical tale.  
-People often talk about the Beast as a symbol of inner fear.
+Beast ->> n. 野兽
+The Beast plays an important role in this mythical tale. ->> 这只野兽在这个神话故事中扮演着重要角色。
+People often talk about the Beast as a symbol of inner fear. ->> 人们常把这只野兽视为内心恐惧的象征。
 
-Census n. 统计数字
-The Census provides crucial data for government planning.  
-Researchers often reference the Census when analyzing demographic trends.
+Census ->> n. 统计数字
+The Census provides crucial data for government planning. ->> 人口普查为政府规划提供了关键数据。
+Researchers often reference the Census when analyzing demographic trends. ->> 研究人员在分析人口趋势时常参考人口普查数据。
 
-Acre n. 英亩
-The Acre is a standard measure in agricultural reports.  
-Farmers often discuss the Acre when planning their crop layouts.
+Acre ->> n. 英亩
+The Acre is a standard measure in agricultural reports. ->> 英亩是农业报告中的标准计量单位。
+Farmers often discuss the Acre when planning their crop layouts. ->> 农民在规划作物布局时常按英亩来计算。
 
-Content adj. 满足的
-The Content child smiled warmly at everyone.  
-After a long day, she felt Content and at peace with the world.
+Content ->> adj. 满足的
+The Content child smiled warmly at everyone. ->> 那个满足的孩子对每个人都报以温暖的微笑。
+After a long day, she felt Content and at peace with the world. ->> 忙碌一天后，她感到满足，与世界和谐。

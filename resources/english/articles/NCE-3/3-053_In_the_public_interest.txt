@@ -25,70 +25,70 @@ The policeman in question was severely reprimanded and was informed that if any 
 The Ombudsman's prompt action at once put an end to an unpleasant practice which might have gone unnoticed. ->> 司法特派员迅速采取行动，立刻制止了这一不愉快的行为，否则这件事可能会被忽视而不了了之。
 
 
-evolve /ɪˈvɑlv/ v. 逐渐形成  
+evolve ->> /ɪˈvɑlv/ v. 逐渐形成  
 Over time, her art style began to evolve into something truly unique.  
 The company's policies need to evolve to better meet the needs of its employees.  
 
-high-handed /high-handed*/ adj. 高压的，专横的  
+high-handed ->> /high-handed*/ adj. 高压的，专横的  
 The boss's high-handed decisions led to a lot of discontent among the team.  
 Her high-handed approach to leadership often upset her colleagues.  
 
-incompetent /ˌɪnˈkɑmpətənt/ adj. 不够格的，不称职的  
+incompetent ->> /ˌɪnˈkɑmpətənt/ adj. 不够格的，不称职的  
 The project was delayed due to the manager's incompetent handling of resources.  
 He was deemed incompetent and was eventually replaced by someone more qualified.  
 
-over-zealously /over-zealously*/ adv. 过分热情地  
+over-zealously ->> /over-zealously*/ adv. 过分热情地  
 She cleaned the house over-zealously, rearranging everything without asking.  
 The intern tackled his first task over-zealously, which sometimes disrupted the workflow.  
 
-safeguard /ˈseɪfˌgɑrd/ v. 保护  
+safeguard ->> /ˈseɪfˌgɑrd/ v. 保护  
 Laws are in place to safeguard citizens' rights.  
 We must take steps to safeguard our personal information online.  
 
-parliamentary /ˌpɑrləˈmɛntəri/ adj. 国会的  
+parliamentary ->> /ˌpɑrləˈmɛntəri/ adj. 国会的  
 The new legislation will be debated in the next parliamentary session.  
 He has been involved in parliamentary affairs for over a decade.  
 
-qalified /qalified*/ adj. 合格的  
+qalified ->> /qalified*/ adj. 合格的  
 The job requires a highly qualified candidate.  
 Only qualified individuals should attempt this complex procedure.  
 
-grievance /ˈgrivəns/ n. 不平，冤屈  
+grievance ->> /ˈgrivəns/ n. 不平，冤屈  
 The union has filed a grievance against the company for unfair labor practices.  
 He aired his grievances at the team meeting, hoping for a resolution.  
 
-Justiteombudsman /justiteombudsman*/ n. （瑞典的）司法特派员  
+Justiteombudsman ->> /justiteombudsman*/ n. （瑞典的）司法特派员  
 The Justiteombudsman reviewed the case to ensure fairness and transparency.  
 Citizens often rely on the Justiteombudsman to address their legal concerns.  
 
-ombudsman /ˈɑmbədzmən/ n. （瑞典和英国的）司法特派员  
+ombudsman ->> /ˈɑmbədzmən/ n. （瑞典和英国的）司法特派员  
 The ombudsman investigated the complaints thoroughly before making a recommendation.  
 The role of the ombudsman is crucial in maintaining public trust in the system.  
 
-secretive /ˈsikrətɪv/ adj. 保密的  
+secretive ->> /ˈsikrətɪv/ adj. 保密的  
 The new project was developed behind closed doors in a very secretive manner.  
 He was known for his secretive nature, sharing very little about his personal life.  
 
-correspondence /ˌkɔrəˈspɑndəns/ n. 来往信件  
+correspondence ->> /ˌkɔrəˈspɑndəns/ n. 来往信件  
 The correspondence between the two leaders was leaked to the press.  
 He discovered a box of old correspondence in the attic, revealing pieces of family history.  
 
-alter /ˈɔltər/ v. 改变  
+alter ->> /ˈɔltər/ v. 改变  
 She decided to alter her travel plans due to unforeseen events.  
 The tailor will alter the dress to better fit her.  
 
-accusation /ˌækjəˈzeɪʃən/ n. 谴责，指控  
+accusation ->> /ˌækjəˈzeɪʃən/ n. 谴责，指控  
 He faced multiple accusations after the audit revealed financial discrepancies.  
 The accusation was serious enough to damage his reputation significantly.  
 
-ascertain /ˌæsərˈteɪn/ v. 查出，查明  
+ascertain ->> /ˌæsərˈteɪn/ v. 查出，查明  
 The detective worked tirelessly to ascertain the facts of the case.  
 Please ascertain the availability of the meeting room before scheduling.  
 
-prejudiced /ˈprɛʤədəst/ adj. 有偏见的，不公平的  
+prejudiced ->> /ˈprɛʤədəst/ adj. 有偏见的，不公平的  
 Her comments were clearly prejudiced against the new policy changes.  
 He faced many challenges due to the prejudiced attitudes in the industry.  
 
-prompt /prɑmpt/ adj. 即时的  
+prompt ->> /prɑmpt/ adj. 即时的  
 She received a prompt reply to her inquiry from the customer service team.  
 The prompt action by the firefighter saved the building from complete destruction.

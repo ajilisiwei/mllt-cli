@@ -12,30 +12,30 @@ DOCTOR: Where's Mr Williams this evening? ->> 医生：威廉斯先生今晚在�
 MRS WILLIAMS: He's in bed, doctor. Can you see him, please? He has a bad cold, too! ->> 威廉斯夫人：他也在床上，医生。您能看看他吗？他也得了重感冒！
 
 
-better /ˈbɛtər/ adj. 形容词well的比较级  
+better ->> /ˈbɛtər/ adj. 形容词well的比较级  
 Her performance is better this year than last year. ->> 她今年的表现比去年更好。  
 It's better to arrive early than to be late. ->> 提前到比迟到要好。
 
-certainly /ˈsɜːrtənli/ adv. 当然  
+certainly ->> /ˈsɜːrtənli/ adv. 当然  
 I will certainly call you as soon as I arrive. ->> 我一到就肯定会给你打电话。  
 Certainly, she will be delighted with the surprise party. ->> 她当然会对这个惊喜派对感到高兴。
 
-get /gɪt/ up 起床  
+get ->> /gɪt/ up 起床  
 She had to get up at five this morning for her flight. ->> 她今天早上必须五点起床去赶飞机。  
 The children always get up early on Christmas morning. ->> 孩子们总是圣诞节早上早早起床。
 
-yet /jɛt/ adv. 还，仍  
+yet ->> /jɛt/ adv. 还，仍  
 He hasn't replied to my message yet. ->> 他还没有回复我的信息。  
 Are you ready to leave yet? ->> 你准备好要走了吗？
 
-rich /rɪʧ/ adj. 富有的  
+rich ->> /rɪʧ/ adj. 富有的  
 She dreams of becoming rich and famous one day. ->> 她梦想有一天能变得富有和出名。  
 The soup had a rich, hearty flavor. ->> 这汤味道浓郁、让人满足。
 
-food /fuːd/ n. 食物  
+food ->> /fuːd/ n. 食物  
 They donated canned food to the local shelter. ->> 他们向当地收容所捐赠了罐头食品。  
 He believes that homemade food is healthier than fast food. ->> 他认为自制食品比快餐更健康。
 
-remain /rɪˈmeɪn/ v. 保持，继续  
+remain ->> /rɪˈmeɪn/ v. 保持，继续  
 Many questions remain unanswered after the meeting. ->> 会议后还有很多问题未得到解答。  
 Even after the storm, the town remained calm and organized. ->> 即使在暴风雨之后，镇上仍然保持冷静有序。

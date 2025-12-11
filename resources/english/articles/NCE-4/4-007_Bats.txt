@@ -12,54 +12,54 @@ It has been found that certain bats emit squeaks and by receiving the echoes, th
 This echo-location in bats is often compared with radar, the principle of which is similar. ->> 蝙蝠的回声定位常被拿来与雷达比较，两者的原理相似。
 
 
-bat /bæt/ n. 蝙蝠  
+bat ->> /bæt/ n. 蝙蝠  
 Researchers monitored the bat to better understand its echolocation abilities. ->> 研究人员监测蝙蝠以更好地理解其回声定位能力。  
 At dusk, bats begin to emerge from their roosts, searching for food. ->> 黄昏时分，蝙蝠开始从栖息地出来寻找食物。  
 
-strictly /ˈstrɪktli/ adv. 明确地  
+strictly ->> /ˈstrɪktli/ adv. 明确地  
 The guidelines were strictly enforced to ensure everyone's safety. ->> 为了确保每个人的安全，指南被明确地执行。  
 She strictly adheres to her diet plan, never straying from it. ->> 她明确地遵循她的饮食计划，从不偏离。  
 
-utilitarian /juˌtɪləˈtɛriən/ adj. 实用的  
+utilitarian ->> /juˌtɪləˈtɛriən/ adj. 实用的  
 The new office furniture was chosen for its utilitarian design. ->> 新的办公室家具是因为其实用的设计而被选择的。  
 His clothing style is more utilitarian than fashionable, focusing on comfort. ->> 他的着装风格更实用而不是时尚，注重舒适性。  
 
-appreciation /əˌpriʃiˈeɪʃən/ n. 理解  
+appreciation ->> /əˌpriʃiˈeɪʃən/ n. 理解  
 His appreciation of the arts grew after taking a few classes on art history. ->> 在上了几节艺术史课程后，他对艺术的理解增加了。  
 The teacher's appreciation of individual learning styles helped each student succeed. ->> 老师对个体学习风格的理解帮助每位学生成功。  
 
-elapse /ɪˈlæps/ v. 消逝  
+elapse ->> /ɪˈlæps/ v. 消逝  
 As the days elapse, the temperature steadily increases. ->> 随着日子的消逝，气温稳步上升。  
 Five years elapsed before they met again, yet it felt like no time had passed at all. ->> 在他们再次相遇之前五年就这样消逝了，但感觉好像时间根本没有流逝。  
 
-hull /hʌl/ n. 船体  
+hull ->> /hʌl/ n. 船体  
 The hull was inspected for any damage before the voyage began. ->> 在航程开始之前，船体被检查是否有损坏。  
 Barnacles covered the hull of the old fishing boat. ->> 年老渔船的船体覆盖着藤壶。  
 
-interval /ˈɪntərvəl/ n. 间隔  
+interval ->> /ˈɪntərvəl/ n. 间隔  
 The concert had a fifteen-minute interval halfway through. ->> 演唱会在中途有一个十五分钟的间隔。  
 She practiced the piano at regular intervals every day. ->> 她每天都有规律地间隔练习钢琴。   
 
-receipt /rɪˈsit/ n. 收据  
+receipt ->> /rɪˈsit/ n. 收据  
 Please keep your receipt in case you need to return the item. ->> 请保留您的收据以防需要退货。  
 The cashier handed me a receipt for my purchase. ->> 收银员给了我一张购买收据。  
 
-apparatus /ˌæpəˈrætəs/ n. 仪器  
+apparatus ->> /ˌæpəˈrætəs/ n. 仪器  
 The laboratory was well-equipped with various scientific apparatus for the experiments. ->> 实验室配备了各种科学仪器用于实验。  
 Firefighters quickly set up the breathing apparatus before entering the smoky building. ->> 消防员在进入烟雾弥漫的建筑之前迅速安装了呼吸器。  
 
-shoal /ʃoʊl/ n. 鱼群  
+shoal ->> /ʃoʊl/ n. 鱼群  
 A shoal of small fish darted around the coral reef. ->> 一群小鱼在珊瑚礁周围快速游动。  
 The fisherman cast his net, hoping to catch a large shoal. ->> 渔夫撒网，希望捕到一群大鱼。  
 
-herring /ˈhɛrɪŋ/ n. 鲱鱼  
+herring ->> /ˈhɛrɪŋ/ n. 鲱鱼  
 The fishing boats returned with a large haul of herring. ->> 渔船满载大量鲱鱼归来。  
 Herring is commonly used in various pickled dish recipes. ->> 鲱鱼通常用于各种腌制菜肴的食谱中。  
 
-cod /kɒd/ n. 鳕鱼  
+cod ->> /kɒd/ n. 鳕鱼  
 The price of cod has increased due to dwindling fish stocks. ->> 由于鱼群数量减少，鳕鱼的价格已上涨。  
 He prepared a delicious cod dish for dinner. ->> 他为晚餐准备了一道美味的鳕鱼菜肴。  
 
-squeak /skwik/ n. 吱吱声  
+squeak ->> /skwik/ n. 吱吱声  
 The floorboards gave a loud squeak as she tiptoed across the room. ->> 当她踮脚穿过房间时，地板发出了很大的吱吱声。  
 The door hinge needs some oil, hence the annoying squeak. ->> 门铰链需要一些油，以免发出恼人的吱吱声。

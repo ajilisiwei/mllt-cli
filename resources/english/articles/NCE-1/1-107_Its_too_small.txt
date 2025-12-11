@@ -18,22 +18,22 @@ Assistant: I'm afraid I haven't got a larger dress. ->> 售货员：恐怕没有
 This is the largest dress in the shop. ->> 这是店里最大的一件。
 
 
-madam /ˈmædəm/ n. 夫人，女士（对妇女的尊称）  
+madam ->> /ˈmædəm/ n. 夫人，女士（对妇女的尊称）  
 The madam offered us a seat and some tea. ->> 这位女士给我们提供了座位和茶水。  
 In the shop, the madam was busy attending to customers. ->> 在商店里，这位女士忙于接待客户。  
 
-smart /smɑrt/ adj. 漂亮的  
+smart ->> /smɑrt/ adj. 漂亮的  
 He always wears smart shoes for business meetings. ->> 他总是穿着漂亮的鞋子参加商务会议。  
 The living room was decorated in a smart and modern style. ->> 客厅装饰得既漂亮又现代。  
 
-as /ɛz/ well 同样  
+as ->> /ɛz/ well 同样  
 My brother plays basketball, and he's good at soccer as well. ->> 我哥哥打篮球，同样擅长踢足球。  
 They invited her to the dinner, and she was asked to give a speech as well. ->> 他们邀请她参加晚宴，同时也邀请她发表演讲。  
 
-suit /sut/ v. 适于  
+suit ->> /sut/ v. 适于  
 These colors suit your style. ->> 这些颜色适合你的风格。  
 The schedule suits my availability perfectly. ->> 这份时间表完全适合我的空闲时间。  
 
-pretty /ˈprɪti/ adj. 漂亮的  
+pretty ->> /ˈprɪti/ adj. 漂亮的  
 The sunset was a pretty sight over the ocean. ->> 海洋上的日落是一幅漂亮的景象。  
 She painted a pretty picture of the mountains. ->> 她画了一幅漂亮的山景画。

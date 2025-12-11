@@ -15,46 +15,46 @@ Then they go to bed. ->> 然后他们去睡觉。
 Mr Sawyer usually reads his newspaper, but sometimes he and his wife watch television. ->> 索耶先生通常读报纸，但有时和他的妻子一起看电视。
 
 
-live /lɪv/ v. 住，生活  
+live ->> /lɪv/ v. 住，生活  
 She lives in the city center with her roommate. ->> 她和室友住在市中心。  
 He wants to live abroad for a few years. ->> 他想在国外生活几年。  
 
-stay /steɪ/ v. 呆在，停留  
+stay ->> /steɪ/ v. 呆在，停留  
 I'm going to stay at my friend's house this weekend. ->> 这个周末我会呆在朋友家。  
 Can we stay a bit longer at the party? ->> 我们可以在派对上多呆一会儿吗？  
 
-home /hoʊm/ n. 家； adv. 到家  
+home ->> /hoʊm/ n. 家； adv. 到家  
 He always looks forward to going home after work. ->> 他总是期待下班回家。  
 Are you already home or still at the office? ->> 你到家了吗，还是还在办公室？  
 
-housework /ˈhaʊsˌwərk/ n. 家务  
+housework ->> /ˈhaʊsˌwərk/ n. 家务  
 He finds housework relaxing and often cleans on Sundays. ->> 他觉得做家务很放松，经常在周日打扫。  
 Doing housework is not my favorite activity. ->> 做家务不是我最喜欢的活动。  
 
-lunch /lənʧ/ n. 午饭  
+lunch ->> /lənʧ/ n. 午饭  
 Let's meet for lunch next week. ->> 下周我们约个午饭吧。  
 She packed a healthy lunch for the trip. ->> 她为旅行准备了一顿健康的午饭。  
 
-afternoon /ˌæftərˈnun/ n. 下午  
+afternoon ->> /ˌæftərˈnun/ n. 下午  
 I'll call you in the afternoon to discuss the plans. ->> 我下午给你打电话商量计划。  
 My afternoons are usually free on weekends. ->> 我周末的下午通常是空闲的。  
 
-usually /ˈjuʒəwəli/ adv. 通常  
+usually ->> /ˈjuʒəwəli/ adv. 通常  
 He usually drinks coffee in the morning. ->> 他通常早上喝咖啡。  
 We usually have a family dinner on Sundays. ->> 我们通常在周日吃家庭晚餐。  
 
-together /təˈgɛðər/ adv. 一起  
+together ->> /təˈgɛðər/ adv. 一起  
 The team practices together every Friday. ->> 团队每周五一起练习。  
 Let's put this furniture together after dinner. ->> 晚饭后我们一起组装这个家具吧。  
 
-evening /ˈivnɪŋ/ n. 晚上  
+evening ->> /ˈivnɪŋ/ n. 晚上  
 She goes jogging every evening. ->> 她每晚都会去慢跑。  
 We're planning a movie night tomorrow evening. ->> 我们计划明晚看电影。  
 
-arrive /əraɪv/ v. 到达  
+arrive ->> /əraɪv/ v. 到达  
 Our guests are expected to arrive at 7 p.m. ->> 我们的客人预计晚上七点到达。  
 When does the train arrive in New York? ->> 火车什么时候到达纽约？  
 
-night /naɪt/ n. 夜间  
+night ->> /naɪt/ n. 夜间  
 He prefers working at night when it's quiet. ->> 他喜欢在安静的夜间工作。  
 We enjoyed a night under the stars by the campfire. ->> 我们享受了一次篝火旁的星空夜。

@@ -14,10 +14,10 @@ MRS YOUNG: Do you want one? ->> YOUNG：你想要一块吗？
 MRS PRICE: Yes, please. ->> PRICE：好的，请来一块。
 
 
-like /laɪk/ v. 喜欢，想要  
+like ->> /laɪk/ v. 喜欢，想要  
 He likes to travel to new countries every year. ->> 他喜欢每年去新的国家旅行。  
 We like having dinner together on Sundays. ->> 我们喜欢在星期天一起吃晚饭。  
 
-want /wɔnt/ v. 想  
+want ->> /wɔnt/ v. 想  
 She wants to learn how to play the guitar. ->> 她想学会弹吉他。  
 Do you want to join us for coffee later? ->> 你想待会和我们一起喝咖啡吗？

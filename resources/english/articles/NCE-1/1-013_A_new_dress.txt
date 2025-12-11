@@ -10,34 +10,34 @@ ANNA: It's the same colour. It's green, too. ->> 安娜：一样的颜色，也�
 LOUISE: That is a lovely hat! ->> 路易丝：真是一顶可爱的帽子！
 
 
-colour /ˈkələr/ n. 颜色  
+colour ->> /ˈkələr/ n. 颜色  
 The autumn leaves change colour to a beautiful orange. ->> 秋天的叶子变成了美丽的橙色。  
 My favourite colour is blue because it reminds me of the ocean. ->> 我最喜欢的颜色是蓝色，因为它让我想起海洋。  
 
-green /grin/ adj. 绿色  
+green ->> /grin/ adj. 绿色  
 The traffic light turned green, and we started to drive. ->> 红绿灯变绿后，我们开始开车。  
 Her garden is filled with green plants and flowers. ->> 她的花园里满是绿色的植物和花朵。  
 
-come /kəm/ v. 来  
+come ->> /kəm/ v. 来  
 She promised to come and see us during the holidays. ->> 她答应在假期来看看我们。  
 When the rain stopped, he decided to come outside. ->> 雨停后，他决定出来。  
 
-upstairs /əpˈstɛrz/ adv. 楼上  
+upstairs ->> /əpˈstɛrz/ adv. 楼上  
 I left my keys upstairs in my bedroom. ->> 我把钥匙忘在了楼上的卧室里。  
 The kids ran upstairs to play in their rooms. ->> 孩子们跑到楼上他们的房间里玩。  
 
-smart /smɑrt/ adj. 时髦的，巧妙的  
+smart ->> /smɑrt/ adj. 时髦的，巧妙的  
 She wore a smart dress to the interview, making a great impression. ->> 她穿了一件时髦的连衣裙去面试，给人留下了深刻的印象。  
 His solution to the problem was very smart and effective. ->> 他对问题的解决方案既巧妙又有效。  
 
-hat /hæt/ n. 帽子  
+hat ->> /hæt/ n. 帽子  
 During the cold winter, he always wears a warm hat. ->> 在寒冷的冬天，他总是戴着一顶温暖的帽子。  
 She made a hat from wool as a gift for her friend. ->> 她用羊毛做了一顶帽子送给朋友。  
 
-same /seɪm/ adj. 相同的  
+same ->> /seɪm/ adj. 相同的  
 They both reached the same conclusion independently. ->> 他们两人独立得出了相同的结论。  
 We arrived at the same time, despite taking different routes. ->> 尽管我们选了不同的路线，但还是同时到达。  
 
-lovely /ˈləvli/ adj. 可爱的，秀丽的  
+lovely ->> /ˈləvli/ adj. 可爱的，秀丽的  
 The lovely cottage is surrounded by rolling hills. ->> 那个秀丽的小屋被连绵起伏的山丘所环绕。  
 Her lovely voice captivated everyone in the room. ->> 她可爱的声音吸引了房间里的每一个人。

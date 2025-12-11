@@ -24,90 +24,90 @@ A tiny asterisk conducted me to a footnote at the bottom of the page. ->> 一个
 It said: 'This service has been suspended.' ->> 上面写着：“此趟列车暂停运行。”
 
 
-expressn. 快车；/expressn*. 快车；*/ adj. 高速的  
+expressn. 快车 ->> /expressn*. 快车；*/ adj. 高速的  
 The express train zoomed past the station, leaving passengers in awe. ->> 快车飞快地通过车站，让乘客们惊叹不已。  
 She sent the package via express delivery to ensure it arrived on time. ->> 她通过快递发送包裹以确保它按时到达。  
 
-punctual /ˈpəŋkʧuəl/ adj. 准时的  
+punctual ->> /ˈpəŋkʧuəl/ adj. 准时的  
 He is always punctual for meetings, which his colleagues appreciate. ->> 他总是准时参加会议，他的同事们很欣赏这一点。  
 The train's punctual arrival helped everyone reach their destinations on time. ->> 火车的准时到达帮助每个人按时到达目的地。  
 
-condition /kənˈdɪʃən/ v. 使习惯于  
+condition ->> /kənˈdɪʃən/ v. 使习惯于  
 Living in the city conditioned her to the sounds of traffic. ->> 生活在都市让她习惯了交通的声音。  
 The athlete was conditioned to handle high-pressure situations through rigorous training. ->> 这位运动员通过严格训练习惯于处理高压情况。  
 
-unshakableadj. /unshakableadj*./ 不可动摇的  
+unshakableadj. ->> /unshakableadj*./ 不可动摇的  
 Her unshakable confidence inspired her team to tackle the project head-on. ->> 她不可动摇的信心激励团队全力以赴地攻克项目。  
 He maintained an unshakable belief in his ability to succeed, despite the odds. ->> 尽管困难重重，他始终坚定地相信自己能成功。  
 
-faith /feɪθ/ n. 信任  
+faith ->> /feɪθ/ n. 信任  
 She put her faith in her team to deliver the project on time. ->> 她信任她的团队能按时完成项目。  
 His faith in the company's vision never wavered, even during tough times. ->> 即使在困难时期，他对公司愿景的信任也从未动摇。  
 
-cancel /ˈkænsəl/ v. 取消  
+cancel ->> /ˈkænsəl/ v. 取消  
 The concert was canceled due to unforeseen circumstances. ->> 音乐会由于不可预见的情况而被取消。  
 They had to cancel their vacation plans at the last minute. ->> 他们不得不在最后一刻取消假期计划。  
 
-exceptionally /ɪkˈsɛpʃənəli/ adv. 例外地  
+exceptionally ->> /ɪkˈsɛpʃənəli/ adv. 例外地  
 The student performed exceptionally well in their final exams. ->> 这名学生在期末考试中表现得异常出色。  
 The weather was exceptionally warm for this time of year. ->> 这个季节的天气异常暖和。  
 
-dislocate /ˈdɪsloʊkeɪt/ v. 打乱（计划等）  
+dislocate ->> /ˈdɪsloʊkeɪt/ v. 打乱（计划等）  
 The sudden storm dislocated their travel itinerary completely. ->> 突如其来的暴风雨彻底打乱了他们的旅行计划。  
 His unexpected resignation dislocated the company's operations. ->> 他意外的辞职打乱了公司的运作。  
 
-blame /bleɪm/ v. 责怪  
+blame ->> /bleɪm/ v. 责怪  
 She did not blame her friend for the disagreement. ->> 她没有因为分歧而责怪她的朋友。  
 It's important to focus on solutions rather than place blame. ->> 重要的是关注解决方案而不是责怪。  
 
-consult /kənˈsəlt/ v. 请教，查阅  
+consult ->> /kənˈsəlt/ v. 请教，查阅  
 Before making a decision, it's wise to consult with experts. ->> 在做决定之前，咨询专家是明智的。  
 He decided to consult the manual before attempting the repair. ->> 他在修理之前决定查阅手册。  
 
-direct /dɪˈrɛkt/ adv. 径直地  
+direct ->> /dɪˈrɛkt/ adv. 径直地  
 She went direct to the manager to voice her concerns. ->> 她径直去找经理表达她的担忧。  
 He headed direct to the airport after receiving the urgent call. ->> 收到紧急电话后，他径直赶往机场。  
 
-odd /ɑd/ adj. 奇怪的，异常的  
+odd ->> /ɑd/ adj. 奇怪的，异常的  
 He noticed an odd pattern in the data that needed further investigation. ->> 他注意到数据中有一个奇怪的模式，需要进一步调查。  
 The odd noise coming from the engine worried the mechanic. ->> 发动机发出的奇怪噪声让机械师感到担忧。  
 
-reflect /rɪˈflɛkt/ v. 细想  
+reflect ->> /rɪˈflɛkt/ v. 细想  
 After the meeting, she took some time to reflect on the feedback received. ->> 会议结束后，她花了一些时间细想收到的反馈。  
 He asked for a moment to reflect before answering the challenging question. ->> 他要求稍等片刻，以便在回答棘手问题前细想。  
 
-advantage /ædˈvæntɪʤ/ n. 优势  
+advantage ->> /ædˈvæntɪʤ/ n. 优势  
 Her bilingual skills gave her an advantage in the job market. ->> 她的双语能力在就业市场上给她带来了优势。  
 The team's home-field advantage contributed to their victory. ->> 队伍的主场优势促成了他们的胜利。  
 
-mighty /ˈmaɪti/ adj. 强大的，有力的  
+mighty ->> /ˈmaɪti/ adj. 强大的，有力的  
 The mighty river carved through the landscape, a sight to behold. ->> 这条强大的河流穿过景观，令人惊叹。  
 His mighty efforts did not go unnoticed by his colleagues. ->> 他强大的努力没有被同事们忽视。  
 
-dawdle /ˈdɔdəl/ v. 慢吞吞地动或做  
+dawdle ->> /ˈdɔdəl/ v. 慢吞吞地动或做  
 He tends to dawdle in the mornings, always running late. ->> 他倾向于在早晨慢吞吞地动，所以总是迟到。  
 The teacher warned the students not to dawdle on their way to class. ->> 老师告诫学生不要在上课的路上慢慢腾腾。  
 
-chug /ʧəg/ v. 咔嚓咔嚓地响  
+chug ->> /ʧəg/ v. 咔嚓咔嚓地响  
 The old train chugged along the tracks, each sound echoing in the still air. ->> 老火车沿着轨道咔嚓咔嚓地行驶，每一声响都在寂静的空气中回响。  
 The car engine chugged before finally stalling. ->> 汽车引擎咔嚓作响后最终停了下来。  
 
-lodge /lɑʤ/ v. 提出  
+lodge ->> /lɑʤ/ v. 提出  
 She decided to lodge a formal complaint with the management. ->> 她决定向管理层提出正式投诉。  
 They lodged an appeal against the court's decision. ->> 他们对法院的判决提出了上诉。  
 
-complaint /kəmˈpleɪnt/ n. 抱怨  
+complaint ->> /kəmˈpleɪnt/ n. 抱怨  
 The customer filed a complaint regarding the poor service. ->> 顾客对服务质量差提出了抱怨。  
 Despite the complaints, the project continued on schedule. ->> 尽管有抱怨，该项目仍按计划进行。  
 
-triumph /traɪəmf/ n. 胜利  
+triumph ->> /traɪəmf/ n. 胜利  
 The team's triumph was celebrated with a party. ->> 队伍的胜利被一场庆祝会所庆祝。  
 Her personal triumph over adversity inspired many. ->> 她战胜逆境的个人胜利激励了许多人。  
 
-asterisk /ˈæstərɪsk/ n. 星号（*）  
+asterisk ->> /ˈæstərɪsk/ n. 星号（*）  
 The footnote was marked with an asterisk in the document. ->> 文档中的脚注用星号标记。  
 She placed an asterisk next to the highlighted term for emphasis. ->> 她在突出显示的术语旁边加上星号以示强调。  
 
-conduct /ˈkɑndəkt/ v. 引向，引导  
+conduct ->> /ˈkɑndəkt/ v. 引向，引导  
 The guide conducted the tourists through the historic site. ->> 导游引导游客游览历史遗址。  
 He will conduct the research team throughout the project timeline. ->> 他将在整个项目时间内引导研究团队。

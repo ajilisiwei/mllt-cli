@@ -8,42 +8,42 @@ Then Dr. Millington asked the caller if he was a relative of the patient. ->> �
 'No,' the patient answered, 'I am Mr. John Gilbert.' ->> “不是，”病人回答说，“我就是约翰·吉尔伯特先生。”
 
 
-operation /ˌɑpərˈeɪʃən/ n. 手术  
+operation ->> /ˌɑpərˈeɪʃən/ n. 手术  
 The operation was scheduled for early Monday morning. ->> 手术安排在周一早上进行。  
 After the operation, she felt much better and was on the road to recovery. ->> 手术后，她感觉好多了，并开始康复。
 
-successful /səkˈsɛsfəl/ adj. 成功的  
+successful ->> /səkˈsɛsfəl/ adj. 成功的  
 The successful launch of the satellite was celebrated by the entire team. ->> 卫星的成功发射得到了全队的庆祝。  
 His presentation was so successful that he received a standing ovation. ->> 他的演讲非常成功，观众给予了热烈的掌声。
 
-following /ˈfɑloʊɪŋ/ adj. 下一个  
+following ->> /ˈfɑloʊɪŋ/ adj. 下一个  
 The following day, they continued their journey through the mountains. ->> 第二天，他们继续穿越山脉的旅程。  
 We will discuss the following steps in our meeting tomorrow. ->> 我们将在明天的会议上讨论下一个步骤。
 
-patient /ˈpeɪʃənt/ n. 病人  
+patient ->> /ˈpeɪʃənt/ n. 病人  
 The patient was advised to rest and take medication as prescribed. ->> 医生建议病人按照规定休息并服药。  
 Patients were lined up outside the clinic waiting for their appointments. ->> 病人在诊所外面排队等待预约。
 
-alone /əˈloʊn/ adj. 独自的  
+alone ->> /əˈloʊn/ adj. 独自的  
 Walking alone in the park helped him clear his mind. ->> 独自在公园里散步帮助他理清思绪。  
 She enjoyed the peaceful feeling of being alone in the early morning. ->> 她喜欢清晨独处时的宁静感觉。
 
-exchange /ɪksˈʧeɪnʤ/ n. （电话的）交换台  
+exchange ->> /ɪksˈʧeɪnʤ/ n. （电话的）交换台  
 The call was routed through the local exchange before reaching its destination. ->> 通话经过本地交换台后到达目的地。  
 There was a temporary malfunction at the exchange center, causing delays in communication. ->> 交换中心出现临时故障，导致通信延迟。
 
-inquire /ˌɪnkˈwaɪr/ v. 询问，打听  
+inquire ->> /ˌɪnkˈwaɪr/ v. 询问，打听  
 I called the hospital to inquire about visiting hours. ->> 我打电话给医院询问探视时间。  
 She decided to inquire whether the position was still available. ->> 她决定询问这个职位是否仍然空缺。
 
-certain /ˈsərtən/ adj. 某个  
+certain ->> /ˈsərtən/ adj. 某个  
 She was certain that she had locked the door before leaving. ->> 她确信离开前锁好了门。  
 There is a certain charm about the old town that attracts many tourists. ->> 老城某种魅力吸引着许多游客。
 
-caller /ˈkɔlər/ n. 打电话的人  
+caller ->> /ˈkɔlər/ n. 打电话的人  
 The caller on the other end of the line seemed very agitated. ->> 电话那头的人似乎很激动。  
 As soon as the caller hung up, he wrote down the important details. ->> 打电话的人一挂断，他立刻写下了重要细节。
 
-relative /ˈrɛlətɪv/ n. 亲戚  
+relative ->> /ˈrɛlətɪv/ n. 亲戚  
 They visited their relatives during the holiday season. ->> 他们在节日期间拜访了亲戚。  
 His relative from overseas sent him a thoughtful gift. ->> 他海外的亲戚寄给了他一份贴心的礼物。

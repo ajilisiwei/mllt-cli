@@ -19,98 +19,98 @@ This, however, means nothing. ->> 但这其实没有什么意义。
 Snakes did not acquire their poison for use against man but for use against prey such as rats and mice, and the effects on these of viperine poison is almost immediate. ->> 因为蛇产生毒液不是为了对付人类，而是为了捕捉鼠类等猎物，毒液对这些猎物的作用几乎是立竿见影的。
 
 
-saliva /səˈlaɪvə/ n. 唾液  
+saliva ->> /səˈlaɪvə/ n. 唾液  
 The saliva contains enzymes that aid digestion.  
 Doctors collected saliva samples for testing.  
 
-digestive /daɪˈʤɛstɪv/ adj. 助消化的  
+digestive ->> /daɪˈʤɛstɪv/ adj. 助消化的  
 Certain teas are known for their digestive properties.  
 She took a digestive supplement after the heavy meal.  
 
-defy /dɪˈfaɪ/ v. 使不可能  
+defy ->> /dɪˈfaɪ/ v. 使不可能  
 The stunt defies gravity and leaves spectators amazed.  
 She defied expectations by completing the marathon.  
 
-analysis /æˈnælɪsɪs/ n. 分析  
+analysis ->> /æˈnælɪsɪs/ n. 分析  
 The analysis revealed significant differences in the data.  
 Experts conducted a detailed analysis of the results.  
 
-prey /preɪ/ n. 被捕食的动物  
+prey ->> /preɪ/ n. 被捕食的动物  
 The lion stalked its prey through the tall grass.  
 Owls silently hunt their prey at night.  
 
-fierce /fɪrs/ adj. 凶猛的  
+fierce ->> /fɪrs/ adj. 凶猛的  
 The fierce storm caused widespread damage.  
 He had a fierce determination to succeed.  
 
-tussle /ˈtəsəl/ n. 扭打  
+tussle ->> /ˈtəsəl/ n. 扭打  
 The players got into a tussle on the field.  
 There was a tussle over the last piece of cake.  
 
-carnivore /ˈkɑrnɪˌvɔr/ n. 食肉动物  
+carnivore ->> /ˈkɑrnɪˌvɔr/ n. 食肉动物  
 The tiger is a solitary carnivore found in Asia.  
 Carnivores like lions are at the top of the food chain.  
 
-vertebrate /ˈvərtəˌbreɪt/ n. 脊椎动物  
+vertebrate ->> /ˈvərtəˌbreɪt/ n. 脊椎动物  
 Birds are a diverse group of vertebrates.  
 Vertebrates have a backbone and an internal skeleton.  
 
-lizard /ˈlɪzərd/ n. 蜥蜴  
+lizard ->> /ˈlɪzərd/ n. 蜥蜴  
 The lizard basked on the warm rock.  
 Lizards can often be found in the desert.  
 
-concoct /kənˈkɑkt/ v. 调制  
+concoct ->> /kənˈkɑkt/ v. 调制  
 She concocted a new recipe using leftover ingredients.  
 He likes to concoct elaborate stories for his friends.  
 
-potency /ˈpoʊtənsi/ n. 效力  
+potency ->> /ˈpoʊtənsi/ n. 效力  
 The potency of the drug was tested in the laboratory.  
 It's important to measure the potency of herbal remedies.  
 
-conversion /kənˈvərʒən/ n. 转变  
+conversion ->> /kənˈvərʒən/ n. 转变  
 The conversion from analog to digital was seamless.  
 His conversion to a healthier lifestyle was inspiring.  
 
-arsenic /ˈɑrsənɪk/ n. 砒霜  
+arsenic ->> /ˈɑrsənɪk/ n. 砒霜  
 Arsenic is a toxic element often found in groundwater.  
 The old pesticide contained traces of arsenic.  
 
-strychnine /ˈstrɪkˌnaɪn/ n. 马钱子碱  
+strychnine ->> /ˈstrɪkˌnaɪn/ n. 马钱子碱  
 Strychnine is a powerful poison used in rat control.  
 The mystery novel involved poisoning with strychnine.  
 
-mamba /ˈmɑmbə/ n. 树眼镜蛇  
+mamba ->> /ˈmɑmbə/ n. 树眼镜蛇  
 The black mamba is one of the fastest snakes in the world.  
 Mambas are highly venomous and should be avoided.  
 
-cobra /ˈkoʊbrə/ n. 眼镜蛇  
+cobra ->> /ˈkoʊbrə/ n. 眼镜蛇  
 The snake charmer played music to coax the cobra.  
 Cobras are known for their hooded appearance.  
 
-venom /ˈvɛnəm/ n. 毒液  
+venom ->> /ˈvɛnəm/ n. 毒液  
 The snake's venom can be deadly to its prey.  
 Researchers are studying the potential beneficial uses of venom.  
 
-neurotoxic /neurotoxic*/ adj. 毒害神经的  
+neurotoxic ->> /neurotoxic*/ adj. 毒害神经的  
 The neurotoxic effect of the chemical raised concerns.  
 Certain snake venoms are neurotoxic, affecting the nervous system.  
 
-viper /ˈvaɪpər/ n. 蝰蛇  
+viper ->> /ˈvaɪpər/ n. 蝰蛇  
 The viper lay camouflaged among the leaves.  
 Vipers have long, hinged fangs for delivering venom.  
 
-adder /ˈædər/ n. 蝮蛇  
+adder ->> /ˈædər/ n. 蝮蛇  
 The adder is the only venomous snake native to Britain.  
 Adders are generally shy and will avoid humans.  
 
-rattlesnake /ˈrætəlsˌneɪk/ n. 响尾蛇  
+rattlesnake ->> /ˈrætəlsˌneɪk/ n. 响尾蛇  
 The rattlesnake warned hikers with its distinct rattle.  
 Rattlesnakes are found in various regions across the Americas.  
 
-haemolytic /haemolytic*/ adj. 溶血性的  
+haemolytic ->> /haemolytic*/ adj. 溶血性的  
 The haemolytic reaction destroyed the red blood cells.  
 Certain toxins are haemolytic, leading to anemia.  
 
-viperine /viperine*/ adj. 毒蛇  
+viperine ->> /viperine*/ adj. 毒蛇  
 The viperine look of the snake intimidated the onlookers.  
 Viperine species can be found in various habitats worldwide.

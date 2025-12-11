@@ -12,27 +12,27 @@ It was raining heavily and they found that a stream had formed in the field. ->>
 The stream wound its way across the field and then flowed right under their tent! ->> 那小溪弯弯曲曲穿过田野，然后正好从他们的帐篷底下流过去。
 
 
-tent /tɛnt/ n. 帐篷  
+tent ->> /tɛnt/ n. 帐篷  
 We set up the tent before nightfall. ->> 我们在夜幕降临前搭起了帐篷。  
 Camping without a tent can be quite challenging. ->> 没有帐篷露营可能会非常具有挑战性。  
 
-field /fild/ n. 田地，田野  
+field ->> /fild/ n. 田地，田野  
 The farmer walked through the field carefully. ->> 农夫小心翼翼地走过田地。  
 Children were playing in the open field. ->> 孩子们在空旷的田野上玩耍。  
 
-smell /smɛl/ v. 闻起来  
+smell ->> /smɛl/ v. 闻起来  
 The flowers smell lovely in the garden. ->> 花园里的花闻起来很香。  
 Doesn't that pie smell delicious? ->> 那个馅饼闻起来不香吗？  
 
-wonderful /ˈwəndərfəl/ adj. 极好的  
+wonderful ->> /ˈwəndərfəl/ adj. 极好的  
 We had a wonderful time at the party. ->> 我们在聚会上度过了一段美好的时光。  
 Her performance was absolutely wonderful. ->> 她的表演绝对精彩。  
 
-campfire /ˈkæmpˌfaɪər/ n. 营火，篝火  
+campfire ->> /ˈkæmpˌfaɪər/ n. 营火，篝火  
 We gathered around the campfire, singing songs. ->> 我们围坐在篝火旁，唱着歌。  
 The campfire kept us warm during the chilly night. ->> 篝火让我们在寒冷的夜晚保持温暖。  
 
-creep /krip/ v. 爬行  
+creep ->> /krip/ v. 爬行  
 The caterpillar began to creep across the leaf. ->> 毛毛虫开始在叶子上爬行。  
 As the sun set, shadows began to creep along the wall. ->> 夕阳西下，影子开始沿着墙壁蔓延。  
 
@@ -40,34 +40,34 @@ sleeping bag n. 睡袋
 He zipped up his sleeping bag to stay warm. ->> 他拉上睡袋的拉链以保暖。  
 It's important to pack a quality sleeping bag for a camping trip. ->> 为露营旅行准备一个优质的睡袋非常重要。  
 
-comfortable /ˈkəmfərtəbəl/ adj. 舒适的，安逸的  
+comfortable ->> /ˈkəmfərtəbəl/ adj. 舒适的，安逸的  
 The bed was incredibly comfortable after the long hike. ->> 经过长途徒步旅行后，床非常舒服。  
 She felt comfortable in her new surroundings. ->> 她在新环境中感到很舒服。  
 
-soundly /ˈsaʊndli/ adv. 香甜地  
+soundly ->> /ˈsaʊndli/ adv. 香甜地  
 He slept soundly after a day of hiking. ->> 经过一天的徒步旅行，他睡得很香。  
 The baby was snoring soundly in her crib. ->> 婴儿床上的婴儿正在打鼾。  
 
-leap /lip/ v. 跳跃，跳起  
+leap ->> /lip/ v. 跳跃，跳起  
 The cat made a leap from the sofa to the windowsill. ->> 猫从沙发上跳到窗台上。  
 She felt a sense of joy as she watched the deer leap gracefully. ->> 看着小鹿优雅的跳跃，她感到一种喜悦。  
 
-heavily /ˈhɛvəli/ adv. 大量地  
+heavily ->> /ˈhɛvəli/ adv. 大量地  
 It was raining heavily when we left the house. ->> 我们离开家时，雨下得很大。  
 The trees swayed heavily in the strong wind. ->> 树木在强风中剧烈摇晃。  
 
-stream /strim/ n. 小溪  
+stream ->> /strim/ n. 小溪  
 We followed the stream until we reached the river. ->> 我们顺着小溪一直走到河边。  
 The clear stream reflected the blue sky. ->> 清澈的溪水倒映着蔚蓝的天空。  
 
-form /fɔrm/ v. 形成  
+form ->> /fɔrm/ v. 形成  
 Clouds began to form in the afternoon sky. ->> 下午的天空开始出现云彩。  
 The plan started to form in his mind. ->> 这个计划开始在他的脑海中形成。  
 
-wind /wɪnd/ v. 蜿蜒  
+wind ->> /wɪnd/ v. 蜿蜒  
 The trail began to wind through the forest. ->> 小路开始蜿蜒穿过森林。  
 The river winds its way through the valley. ->> 河流蜿蜒流过山谷。  
 
-right /raɪt/ adv. 正好  
+right ->> /raɪt/ adv. 正好  
 She arrived right at noon. ->> 她中午就到了。  
 The key was right where she had left it. ->> 钥匙就在她原来放的地方。  
