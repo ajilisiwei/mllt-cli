@@ -24,7 +24,7 @@ A tiny asterisk conducted me to a footnote at the bottom of the page. ->> 一个
 It said: 'This service has been suspended.' ->> 上面写着：“此趟列车暂停运行。”
 
 
-expressn. 快车 ->> /expressn*. 快车；*/ adj. 高速的  
+expressn.  ->>  快车/expressn*. 快车；*/ adj. 高速的  
 The express train zoomed past the station, leaving passengers in awe. ->> 快车飞快地通过车站，让乘客们惊叹不已。  
 She sent the package via express delivery to ensure it arrived on time. ->> 她通过快递发送包裹以确保它按时到达。  
 
