@@ -192,6 +192,75 @@ func TestIsInputCorrect(t *testing.T) {
 	}
 }
 
+func TestIsInputCorrectForItem(t *testing.T) {
+	setupPracticeSessionTest(t)
+
+	session := &PracticeSession{}
+	item := "People often use the phrase '2' in conversation. ->> In everyday conversations, people frequently mention 'a great number of' when they want to emphasize quantity."
+
+	config.AppConfig.CorrectnessMatchMode = "exact_match"
+	exactMatchCases := []struct {
+		name  string
+		input string
+		want  bool
+	}{
+		{
+			name:  "只输入原文",
+			input: "People often use the phrase '2' in conversation.",
+			want:  true,
+		},
+		{
+			name:  "输入原文和翻译",
+			input: "People often use the phrase '2' in conversation. In everyday conversations, people frequently mention 'a great number of' when they want to emphasize quantity.",
+			want:  true,
+		},
+		{
+			name:  "输入带箭头的完整原始行",
+			input: "People often use the phrase '2' in conversation. ->> In everyday conversations, people frequently mention 'a great number of' when they want to emphasize quantity.",
+			want:  true,
+		},
+		{
+			name:  "仅输入翻译",
+			input: "In everyday conversations, people frequently mention 'a great number of' when they want to emphasize quantity.",
+			want:  false,
+		},
+	}
+
+	for _, tt := range exactMatchCases {
+		t.Run(tt.name, func(t *testing.T) {
+			if got := session.isInputCorrectForItem(tt.input, item); got != tt.want {
+				t.Errorf("isInputCorrectForItem() = %v, want %v", got, tt.want)
+			}
+		})
+	}
+
+	config.AppConfig.CorrectnessMatchMode = "word_match"
+	wordMatchCases := []struct {
+		name  string
+		input string
+		want  bool
+	}{
+		{
+			name:  "忽略标点仍判定正确",
+			input: "People often use the phrase 2 in conversation In everyday conversations people frequently mention a great number of when they want to emphasize quantity",
+			want:  true,
+		},
+		{
+			name:  "单词错误仍判定错误",
+			input: "People often use the phrase two in chat. In common talks, folks often mention a great number when they want to emphasize quantity.",
+			want:  false,
+		},
+	}
+
+	for _, tt := range wordMatchCases {
+		t.Run(tt.name, func(t *testing.T) {
+			if got := session.isInputCorrectForItem(tt.input, item); got != tt.want {
+				t.Errorf("isInputCorrectForItem() = %v, want %v", got, tt.want)
+			}
+		})
+	}
+}
+
 // 测试normalizeForWordMatch方法
 func TestNormalizeForWordMatch(t *testing.T) {
 	// 创建测试会话

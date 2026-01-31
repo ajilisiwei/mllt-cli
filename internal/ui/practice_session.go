@@ -341,7 +341,7 @@ func (m *PracticeSession) handleAnswerSubmission() (tea.Model, tea.Cmd) {
 	originalItem := m.getCurrentRawItem()
 	expectedInput := m.getExpectedInput(originalItem)
 
-	isCorrect := m.isInputCorrect(userInput, expectedInput)
+	isCorrect := m.isInputCorrectForItem(userInput, originalItem)
 	m.recordSpacedRepetition(originalItem, isCorrect)
 
 	if isCorrect {
@@ -971,6 +971,55 @@ func (m PracticeSession) getExpectedInput(item string) string {
 		return content
 	}
 	return item
+}
+
+func (m PracticeSession) isInputCorrectForItem(userInput, item string) bool {
+	acceptedInputs := m.getAcceptedInputs(item)
+	for _, expected := range acceptedInputs {
+		if expected == "" {
+			continue
+		}
+		if m.isInputCorrect(userInput, expected) {
+			return true
+		}
+	}
+	return false
+}
+
+func (m PracticeSession) getAcceptedInputs(item string) []string {
+	expected := strings.TrimSpace(m.getExpectedInput(item))
+	trimmedItem := strings.TrimSpace(item)
+	_, translation := practice.ParseLine(item)
+	translation = strings.TrimSpace(translation)
+
+	acceptedSet := make(map[string]struct{})
+	if expected != "" {
+		acceptedSet[expected] = struct{}{}
+	}
+	if trimmedItem != "" {
+		acceptedSet[trimmedItem] = struct{}{}
+	}
+
+	if expected != "" && translation != "" {
+		withSpace := strings.TrimSpace(expected + " " + translation)
+		if withSpace != "" {
+			acceptedSet[withSpace] = struct{}{}
+		}
+		withArrow := strings.TrimSpace(expected + " ->> " + translation)
+		if withArrow != "" {
+			acceptedSet[withArrow] = struct{}{}
+		}
+	}
+
+	if len(acceptedSet) == 0 && trimmedItem != "" {
+		return []string{trimmedItem}
+	}
+
+	result := make([]string, 0, len(acceptedSet))
+	for candidate := range acceptedSet {
+		result = append(result, candidate)
+	}
+	return result
 }
 
 // 检查输入是否正确
