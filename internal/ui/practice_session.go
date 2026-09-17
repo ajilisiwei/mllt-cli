@@ -89,6 +89,7 @@ type PracticeSession struct {
 	lastInputWrong bool   // 上次输入是否错误
 	wrongInput     string // 错误的输入内容
 	expectedText   string // 期望的正确文本
+	exampleItems   []bool // 与 items 等长，标记哪些是展开出来的例句项
 	// v0.2 新增：随机顺序支持
 	practiceOrder    []int // 练习顺序索引列表
 	completedCount   int   // 已完成的项目数量
@@ -126,11 +127,6 @@ func NewPracticeSession(resourceType, fileName string) *PracticeSession {
 	// 过滤已标记或收藏的内容（特殊列表除外）
 	if !bookmark.IsSpecialList(fileName) && len(normalizedItems) > 0 {
 		normalizedItems = filterExcludedItems(resourceType, normalizedItems)
-	}
-
-	// 把例句也变成练习项：先打短语，再打用到它的整句
-	if config.AppConfig.PracticeExamples {
-		normalizedItems = practice.ExpandEntries(normalizedItems)
 	}
 
 	// 创建文本输入
@@ -184,6 +180,12 @@ func NewPracticeSession(resourceType, fileName string) *PracticeSession {
 		}
 	}
 
+	// 排好条目顺序之后再展开例句，保证例句紧跟在它的短语后面
+	var exampleItems []bool
+	if config.AppConfig.PracticeExamples {
+		normalizedItems, exampleItems, practiceOrder = expandInPracticeOrder(normalizedItems, practiceOrder)
+	}
+
 	sessionOptions := sessionCommandOptions(resourceType)
 
 	session := &PracticeSession{
@@ -197,6 +199,7 @@ func NewPracticeSession(resourceType, fileName string) *PracticeSession {
 		orderMode:               orderMode,
 		state:                   "practicing",
 		practiceOrder:           practiceOrder,
+		exampleItems:            exampleItems,
 		completedCount:          0,
 		initialItemCount:        len(practiceOrder),
 		srsEnabled:              srsEnabled,
@@ -618,6 +621,10 @@ func (m *PracticeSession) recordSpacedRepetition(item string, correct bool) {
 	if !m.srsEnabled || m.srsSchedule == nil || item == "" {
 		return
 	}
+	// 例句跟着它的短语一起复习，不单独排记忆计划
+	if m.currentIsExample() {
+		return
+	}
 	_ = m.srsSchedule.RecordResult(item, correct)
 }
 
@@ -999,6 +1006,40 @@ func (m PracticeSession) formatEntryItem(item string) string {
 	}
 
 	return strings.Join(lines, "\n")
+}
+
+// currentIsExample 判断当前练习项是不是展开出来的例句项。
+func (m PracticeSession) currentIsExample() bool {
+	if m.completedCount < 0 || m.completedCount >= len(m.exampleItems) {
+		return false
+	}
+	return m.exampleItems[m.completedCount]
+}
+
+// expandInPracticeOrder 按既定的条目顺序展开练习块，返回展开后的练习项、
+// 每项是否为例句，以及新的（恒等）练习顺序。
+func expandInPracticeOrder(items []string, order []int) ([]string, []bool, []int) {
+	blocks := practice.ExpandEntryBlocks(items)
+
+	expanded := make([]string, 0, len(items)*2)
+	isExample := make([]bool, 0, len(items)*2)
+
+	for _, idx := range order {
+		if idx < 0 || idx >= len(blocks) {
+			continue
+		}
+		for i, item := range blocks[idx] {
+			expanded = append(expanded, item)
+			isExample = append(isExample, i > 0)
+		}
+	}
+
+	newOrder := make([]int, len(expanded))
+	for i := range newOrder {
+		newOrder[i] = i
+	}
+
+	return expanded, isExample, newOrder
 }
 
 func (m PracticeSession) getCurrentRawItem() string {

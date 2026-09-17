@@ -41,27 +41,38 @@ func ParseEntryLine(line string) Entry {
 	return entry
 }
 
-// ExpandEntries 把带例句的条目展开成两个练习项：条目本身，以及它的例句。
+// ExpandEntryBlocks 把每个条目展开成一个练习块：条目本身，以及（如果有）它的例句。
 //
-// 例句项本身就是一条合法的「正文 ->> 翻译」条目，所以打字判定、标记收藏、
-// 记忆计划都能按普通条目处理，不需要额外的特殊分支。
-func ExpandEntries(items []string) []string {
-	expanded := make([]string, 0, len(items)*2)
+// 同一个块里的项必须连续出题——先打短语、紧接着打用到它的那句话，例句才有
+// 上下文。所以打乱顺序要在块这一层做，不能打乱展开之后的练习项。
+//
+// 例句项本身就是一条合法的「正文 ->> 翻译」条目，所以打字判定、标记收藏都能
+// 按普通条目处理，不需要额外的特殊分支。
+func ExpandEntryBlocks(items []string) [][]string {
+	blocks := make([][]string, 0, len(items))
 
 	for _, item := range items {
-		expanded = append(expanded, item)
+		block := []string{item}
 
-		entry := ParseEntryLine(item)
-		if entry.Example == "" {
-			continue
+		if entry := ParseEntryLine(item); entry.Example != "" {
+			example := entry.Example
+			if entry.ExampleNote != "" {
+				example += Separator + entry.ExampleNote
+			}
+			block = append(block, example)
 		}
 
-		example := entry.Example
-		if entry.ExampleNote != "" {
-			example += Separator + entry.ExampleNote
-		}
-		expanded = append(expanded, example)
+		blocks = append(blocks, block)
 	}
 
+	return blocks
+}
+
+// ExpandEntries 按条目顺序展平所有练习块。
+func ExpandEntries(items []string) []string {
+	expanded := make([]string, 0, len(items)*2)
+	for _, block := range ExpandEntryBlocks(items) {
+		expanded = append(expanded, block...)
+	}
 	return expanded
 }

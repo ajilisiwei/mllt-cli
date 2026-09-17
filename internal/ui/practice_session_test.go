@@ -489,3 +489,43 @@ func TestExpandedExamplePracticesAsSentence(t *testing.T) {
 		t.Errorf("短语项答案 = %q", got)
 	}
 }
+
+// 打乱顺序后，例句仍必须紧跟在它的短语后面，否则打整句时已经没有上下文
+func TestExpandInPracticeOrderKeepsPairsTogether(t *testing.T) {
+	items := []string{
+		"be tone-deaf ->> 五音不全 ->> I'm completely tone-deaf. ->> 我完全五音不全。",
+		"apple ->> 苹果",
+		"go viral ->> 爆火 ->> That clip went viral overnight. ->> 那段视频一夜爆火。",
+	}
+
+	expanded, isExample, order := expandInPracticeOrder(items, []int{2, 0, 1})
+
+	want := []string{
+		"go viral ->> 爆火 ->> That clip went viral overnight. ->> 那段视频一夜爆火。",
+		"That clip went viral overnight. ->> 那段视频一夜爆火。",
+		"be tone-deaf ->> 五音不全 ->> I'm completely tone-deaf. ->> 我完全五音不全。",
+		"I'm completely tone-deaf. ->> 我完全五音不全。",
+		"apple ->> 苹果",
+	}
+	if len(expanded) != len(want) {
+		t.Fatalf("展开后 %d 项，期望 %d 项: %q", len(expanded), len(want), expanded)
+	}
+	for i := range want {
+		if expanded[i] != want[i] {
+			t.Errorf("第 %d 项 = %q\n期望 %q", i, expanded[i], want[i])
+		}
+	}
+
+	wantExample := []bool{false, true, false, true, false}
+	for i := range wantExample {
+		if isExample[i] != wantExample[i] {
+			t.Errorf("第 %d 项 isExample = %v, 期望 %v", i, isExample[i], wantExample[i])
+		}
+	}
+
+	for i := range order {
+		if order[i] != i {
+			t.Fatalf("展开后练习顺序应为恒等，第 %d 项 = %d", i, order[i])
+		}
+	}
+}

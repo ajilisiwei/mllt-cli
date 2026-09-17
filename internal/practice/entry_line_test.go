@@ -147,3 +147,50 @@ func TestExpandedExampleIsPracticeable(t *testing.T) {
 		t.Errorf("ParseLine 与 ParseEntryLine 不一致: %q vs %q", primary, entry.Text)
 	}
 }
+
+func TestExpandEntryBlocksKeepsExampleWithItsPhrase(t *testing.T) {
+	items := []string{
+		"be tone-deaf ->> 五音不全 ->> I'm completely tone-deaf. ->> 我完全五音不全。",
+		"apple ->> 苹果",
+		"go viral ->> 爆火 ->> That clip went viral overnight. ->> 那段视频一夜爆火。",
+	}
+
+	blocks := ExpandEntryBlocks(items)
+	if len(blocks) != len(items) {
+		t.Fatalf("%d 个块，期望 %d 个", len(blocks), len(items))
+	}
+
+	wantSizes := []int{2, 1, 2}
+	for i, want := range wantSizes {
+		if len(blocks[i]) != want {
+			t.Errorf("第 %d 个块有 %d 项，期望 %d 项", i, len(blocks[i]), want)
+		}
+		if blocks[i][0] != items[i] {
+			t.Errorf("第 %d 个块的首项应是原条目，实际 %q", i, blocks[i][0])
+		}
+	}
+
+	if blocks[0][1] != "I'm completely tone-deaf. ->> 我完全五音不全。" {
+		t.Errorf("例句项 = %q", blocks[0][1])
+	}
+
+	// 无论条目顺序怎么打乱，例句都必须紧跟它的短语
+	for _, order := range [][]int{{2, 0, 1}, {1, 2, 0}} {
+		var flat []string
+		for _, idx := range order {
+			flat = append(flat, blocks[idx]...)
+		}
+		for i, line := range flat {
+			entry := ParseEntryLine(line)
+			if entry.Example == "" {
+				continue
+			}
+			if i+1 >= len(flat) {
+				t.Fatalf("顺序 %v：%q 的例句缺失", order, entry.Text)
+			}
+			if next, _ := ParseLine(flat[i+1]); next != entry.Example {
+				t.Errorf("顺序 %v：%q 的下一项是 %q，期望它的例句 %q", order, entry.Text, next, entry.Example)
+			}
+		}
+	}
+}
