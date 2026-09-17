@@ -37,7 +37,8 @@ func SentencePractice(fileName string) error {
 	for {
 		// 获取当前句子
 		sentenceLine := sentences[index]
-		sentence, translation := ParseLine(sentenceLine)
+		entry := ParseEntryLine(sentenceLine)
+		sentence, translation := entry.Text, entry.Meaning
 
 		// 显示句子
 		fmt.Printf("请输入: %s\n", sentence)
@@ -55,8 +56,16 @@ func SentencePractice(fileName string) error {
 		// 检查输入是否正确
 		if input == sentence {
 			fmt.Println("正确！")
-			if showTranslation && translation != "" {
-				fmt.Printf("翻译: %s\n", translation)
+			if showTranslation {
+				if translation != "" {
+					fmt.Printf("翻译: %s\n", translation)
+				}
+				if entry.Example != "" {
+					fmt.Printf("例句: %s\n", entry.Example)
+				}
+				if entry.ExampleNote != "" {
+					fmt.Printf("译文: %s\n", entry.ExampleNote)
+				}
 			}
 			// 获取下一个句子的索引
 			index = GetNextIndex(index, len(sentences), nextOneOrder)

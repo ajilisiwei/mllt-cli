@@ -929,6 +929,10 @@ func (m PracticeSession) getCurrentItem() string {
 		return m.formatWordItem(item)
 	}
 
+	if m.resourceType == practice.Phrases || m.resourceType == practice.Sentences {
+		return m.formatEntryItem(item)
+	}
+
 	primary, translation := practice.ParseLine(item)
 	primary = strings.TrimSpace(primary)
 	translation = strings.TrimSpace(translation)
@@ -962,6 +966,30 @@ func (m PracticeSession) formatWordItem(item string) string {
 		}
 		if meaning != "" {
 			lines = append(lines, "翻译: "+meaning)
+		}
+	}
+
+	return strings.Join(lines, "\n")
+}
+
+// formatEntryItem 按「正文 / 翻译 / 例句 / 译文」分行展示短语和句子条目。
+func (m PracticeSession) formatEntryItem(item string) string {
+	entry := practice.ParseEntryLine(item)
+	text := entry.Text
+	if text == "" {
+		text = item
+	}
+
+	lines := []string{text}
+	if m.getShowTranslationConfig() {
+		for _, field := range []struct{ label, value string }{
+			{"翻译", entry.Meaning},
+			{"例句", entry.Example},
+			{"译文", entry.ExampleNote},
+		} {
+			if field.value != "" {
+				lines = append(lines, field.label+": "+field.value)
+			}
 		}
 	}
 

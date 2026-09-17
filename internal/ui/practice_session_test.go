@@ -410,3 +410,49 @@ func TestGetCurrentItemSplitsPhonetic(t *testing.T) {
 		t.Errorf("隐藏翻译时 getCurrentItem() = %q, want %q", got, "fool")
 	}
 }
+
+// 短语条目应把释义、例句、例句翻译分行展示
+func TestGetCurrentItemSplitsExample(t *testing.T) {
+	setupPracticeSessionTest(t)
+
+	session := &PracticeSession{
+		resourceType:   practice.Phrases,
+		items:          []string{"look into ->> 调查；了解一下 ->> I'll look into it and get back to you. ->> 我查一下再回复你。"},
+		practiceOrder:  []int{0},
+		completedCount: 0,
+	}
+
+	config.AppConfig.ShowTranslation = true
+	want := "look into\n翻译: 调查；了解一下\n例句: I'll look into it and get back to you.\n译文: 我查一下再回复你。"
+	if got := session.getCurrentItem(); got != want {
+		t.Errorf("getCurrentItem() = %q\nwant %q", got, want)
+	}
+
+	// 打字答案只取正文，不受例句影响
+	if got := session.getExpectedInput(session.items[0]); got != "look into" {
+		t.Errorf("getExpectedInput() = %q, want %q", got, "look into")
+	}
+
+	config.AppConfig.ShowTranslation = false
+	if got := session.getCurrentItem(); got != "look into" {
+		t.Errorf("隐藏翻译时 getCurrentItem() = %q, want %q", got, "look into")
+	}
+}
+
+// 旧的两段格式必须原样兼容
+func TestGetCurrentItemKeepsLegacyTwoFieldEntries(t *testing.T) {
+	setupPracticeSessionTest(t)
+
+	session := &PracticeSession{
+		resourceType:   practice.Sentences,
+		items:          []string{"I'll check and let you know. ->> 我查一下再告知你。"},
+		practiceOrder:  []int{0},
+		completedCount: 0,
+	}
+
+	config.AppConfig.ShowTranslation = true
+	want := "I'll check and let you know.\n翻译: 我查一下再告知你。"
+	if got := session.getCurrentItem(); got != want {
+		t.Errorf("getCurrentItem() = %q\nwant %q", got, want)
+	}
+}

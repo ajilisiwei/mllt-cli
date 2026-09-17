@@ -37,7 +37,8 @@ func PhrasePractice(fileName string) error {
 	for {
 		// 获取当前短语
 		phraseLine := phrases[index]
-		phrase, translation := ParseLine(phraseLine)
+		entry := ParseEntryLine(phraseLine)
+		phrase, translation := entry.Text, entry.Meaning
 
 		// 显示短语
 		fmt.Printf("请输入: %s\n", phrase)
@@ -55,8 +56,16 @@ func PhrasePractice(fileName string) error {
 		// 检查输入是否正确
 		if input == phrase {
 			fmt.Println("正确！")
-			if showTranslation && translation != "" {
-				fmt.Printf("翻译: %s\n", translation)
+			if showTranslation {
+				if translation != "" {
+					fmt.Printf("翻译: %s\n", translation)
+				}
+				if entry.Example != "" {
+					fmt.Printf("例句: %s\n", entry.Example)
+				}
+				if entry.ExampleNote != "" {
+					fmt.Printf("译文: %s\n", entry.ExampleNote)
+				}
 			}
 			// 获取下一个短语的索引
 			index = GetNextIndex(index, len(phrases), nextOneOrder)
