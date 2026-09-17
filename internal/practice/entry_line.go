@@ -40,3 +40,28 @@ func ParseEntryLine(line string) Entry {
 
 	return entry
 }
+
+// ExpandEntries 把带例句的条目展开成两个练习项：条目本身，以及它的例句。
+//
+// 例句项本身就是一条合法的「正文 ->> 翻译」条目，所以打字判定、标记收藏、
+// 记忆计划都能按普通条目处理，不需要额外的特殊分支。
+func ExpandEntries(items []string) []string {
+	expanded := make([]string, 0, len(items)*2)
+
+	for _, item := range items {
+		expanded = append(expanded, item)
+
+		entry := ParseEntryLine(item)
+		if entry.Example == "" {
+			continue
+		}
+
+		example := entry.Example
+		if entry.ExampleNote != "" {
+			example += Separator + entry.ExampleNote
+		}
+		expanded = append(expanded, example)
+	}
+
+	return expanded
+}

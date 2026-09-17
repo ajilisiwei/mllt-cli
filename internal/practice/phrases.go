@@ -30,6 +30,11 @@ func PhrasePractice(fileName string) error {
 	nextOneOrder := config.AppConfig.NextOneOrder
 	showTranslation := config.AppConfig.ShowTranslation
 
+	// 例句也作为练习项：先打短语，再打用到它的整句
+	if config.AppConfig.PracticeExamples {
+		phrases = ExpandEntries(phrases)
+	}
+
 	// 开始练习
 	index := 0
 	reader := bufio.NewReader(os.Stdin)

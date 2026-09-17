@@ -128,6 +128,11 @@ func NewPracticeSession(resourceType, fileName string) *PracticeSession {
 		normalizedItems = filterExcludedItems(resourceType, normalizedItems)
 	}
 
+	// 把例句也变成练习项：先打短语，再打用到它的整句
+	if config.AppConfig.PracticeExamples {
+		normalizedItems = practice.ExpandEntries(normalizedItems)
+	}
+
 	// 创建文本输入
 	ti := textinput.New()
 	ti.Placeholder = "输入这里..."

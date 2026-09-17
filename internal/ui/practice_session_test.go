@@ -456,3 +456,36 @@ func TestGetCurrentItemKeepsLegacyTwoFieldEntries(t *testing.T) {
 		t.Errorf("getCurrentItem() = %q\nwant %q", got, want)
 	}
 }
+
+// 展开出来的例句项要能像普通句子一样练：显示正文+翻译，答案就是例句本身
+func TestExpandedExamplePracticesAsSentence(t *testing.T) {
+	setupPracticeSessionTest(t)
+
+	items := practice.ExpandEntries([]string{
+		"sing along ->> 跟着唱 ->> Everyone was singing along. ->> 全场都跟着唱。",
+	})
+	if len(items) != 2 {
+		t.Fatalf("展开后 %d 项，期望 2 项", len(items))
+	}
+
+	session := &PracticeSession{
+		resourceType:   practice.Phrases,
+		items:          items,
+		practiceOrder:  []int{0, 1},
+		completedCount: 1, // 第二项就是例句
+	}
+
+	config.AppConfig.ShowTranslation = true
+	want := "Everyone was singing along.\n翻译: 全场都跟着唱。"
+	if got := session.getCurrentItem(); got != want {
+		t.Errorf("例句项显示 = %q\nwant %q", got, want)
+	}
+	if got := session.getExpectedInput(items[1]); got != "Everyone was singing along." {
+		t.Errorf("例句项答案 = %q", got)
+	}
+
+	// 短语项本身不变
+	if got := session.getExpectedInput(items[0]); got != "sing along" {
+		t.Errorf("短语项答案 = %q", got)
+	}
+}

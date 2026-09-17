@@ -30,6 +30,8 @@ type Config struct {
 	InputKeyboardSound bool `mapstructure:"input_keyboard_sound"`
 	// v0.3 新增：全局是否显示翻译
 	ShowTranslation bool `mapstructure:"show_translation"`
+	// v0.4 新增：短语的例句是否也作为练习内容，而不只是展示
+	PracticeExamples bool `mapstructure:"practice_examples"`
 }
 
 // WordsConfig 表示单词练习的配置
@@ -61,6 +63,9 @@ func LoadConfig() error {
 	// 设置配置文件的名称和路径
 	viper.SetConfigName("config")
 	viper.SetConfigType("yaml")
+
+	// 老版本的配置文件里没有这个键，缺省按「例句也要练」处理
+	viper.SetDefault("practice_examples", true)
 
 	// 判断是否为开发环境
 	isDevMode := isInDevelopmentMode()
@@ -128,6 +133,7 @@ func SaveConfig() error {
 		"next_one_order":          AppConfig.NextOneOrder,
 		"input_keyboard_sound":    AppConfig.InputKeyboardSound,
 		"show_translation":        AppConfig.ShowTranslation,
+		"practice_examples":       AppConfig.PracticeExamples,
 	} {
 		viper.Set(k, v)
 	}

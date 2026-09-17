@@ -56,6 +56,13 @@ func NewSettingMenu() *SettingMenu {
 				return NewShowTranslationMenu(), nil
 			},
 		},
+		SettingMenuItem{
+			title:       "例句练习设置",
+			description: "设置短语的例句是否也作为练习内容",
+			action: func() (tea.Model, error) {
+				return NewPracticeExamplesMenu(), nil
+			},
+		},
 		MenuItem{
 			title:       "返回主菜单",
 			description: "返回到主菜单",

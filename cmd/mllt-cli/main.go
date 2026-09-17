@@ -470,6 +470,51 @@ var settingTranslationCmd = &cobra.Command{
 	ValidArgs: []string{"show", "hide"},
 }
 
+// settingExamplesCmd 表示setting examples子命令
+var settingExamplesCmd = &cobra.Command{
+	Use:   "examples [on|off]",
+	Short: "设置例句是否参与练习",
+	Long:  `设置短语的例句是否也作为练习内容，可选值：on（也练例句）、off（只练短语）。`,
+	Args:  cobra.MaximumNArgs(1),
+	Run: func(cmd *cobra.Command, args []string) {
+		if len(args) == 0 {
+			status := "只练短语"
+			if config.AppConfig.PracticeExamples {
+				status = "也练例句"
+			}
+			fmt.Printf("当前例句练习设置: %s\n", status)
+			fmt.Println("可用的设置:")
+			fmt.Println("  on  - 先打短语，再打用到它的整句")
+			fmt.Println("  off - 例句仅作展示，不进入练习")
+			return
+		}
+
+		var enable bool
+		switch args[0] {
+		case "on":
+			enable = true
+		case "off":
+			enable = false
+		default:
+			fmt.Printf("无效的设置: %s\n", args[0])
+			fmt.Println("可用的设置: on, off")
+			return
+		}
+
+		config.AppConfig.PracticeExamples = enable
+		if err := config.SaveConfig(); err != nil {
+			fmt.Printf("保存配置失败: %s\n", err)
+			return
+		}
+		status := "只练短语"
+		if enable {
+			status = "也练例句"
+		}
+		fmt.Printf("例句练习已设置为: %s\n", status)
+	},
+	ValidArgs: []string{"on", "off"},
+}
+
 func init() {
 	// 确保默认资源与配置已初始化
 	if err := mlltcli.EnsureAssets(); err != nil {
@@ -507,6 +552,7 @@ func init() {
 	settingCmd.AddCommand(settingOrderCmd)
 	settingCmd.AddCommand(settingKeyboardSoundCmd)
 	settingCmd.AddCommand(settingTranslationCmd)
+	settingCmd.AddCommand(settingExamplesCmd)
 }
 
 func main() {

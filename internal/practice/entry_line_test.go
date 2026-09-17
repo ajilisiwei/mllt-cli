@@ -81,3 +81,69 @@ func TestParseEntryLineKeepsExpectedInput(t *testing.T) {
 		t.Fatalf("ParseEntryLine 正文 = %q，与 ParseLine 不一致", entry.Text)
 	}
 }
+
+func TestExpandEntries(t *testing.T) {
+	cases := []struct {
+		name  string
+		items []string
+		want  []string
+	}{
+		{
+			name:  "带例句的条目展开成短语和例句两项",
+			items: []string{"sing along ->> 跟着唱 ->> Everyone was singing along. ->> 全场都跟着唱。"},
+			want: []string{
+				"sing along ->> 跟着唱 ->> Everyone was singing along. ->> 全场都跟着唱。",
+				"Everyone was singing along. ->> 全场都跟着唱。",
+			},
+		},
+		{
+			name:  "例句没有翻译时只带正文",
+			items: []string{"hang up ->> 挂断电话 ->> Don't hang up on me."},
+			want: []string{
+				"hang up ->> 挂断电话 ->> Don't hang up on me.",
+				"Don't hang up on me.",
+			},
+		},
+		{
+			name:  "没有例句的条目保持不变",
+			items: []string{"apple ->> 苹果", "I'll check and let you know. ->> 我查一下再告知你。"},
+			want:  []string{"apple ->> 苹果", "I'll check and let you know. ->> 我查一下再告知你。"},
+		},
+		{
+			name:  "空列表",
+			items: nil,
+			want:  []string{},
+		},
+	}
+
+	for _, tc := range cases {
+		t.Run(tc.name, func(t *testing.T) {
+			got := ExpandEntries(tc.items)
+			if len(got) != len(tc.want) {
+				t.Fatalf("展开后 %d 项，期望 %d 项: %q", len(got), len(tc.want), got)
+			}
+			for i := range got {
+				if got[i] != tc.want[i] {
+					t.Errorf("第 %d 项 = %q, 期望 %q", i, got[i], tc.want[i])
+				}
+			}
+		})
+	}
+}
+
+// 展开出来的例句项必须是合法条目：打字答案就是例句本身
+func TestExpandedExampleIsPracticeable(t *testing.T) {
+	items := ExpandEntries([]string{"sing along ->> 跟着唱 ->> Everyone was singing along. ->> 全场都跟着唱。"})
+
+	example := items[1]
+	entry := ParseEntryLine(example)
+	if entry.Text != "Everyone was singing along." {
+		t.Errorf("例句项正文 = %q", entry.Text)
+	}
+	if entry.Meaning != "全场都跟着唱。" {
+		t.Errorf("例句项翻译 = %q", entry.Meaning)
+	}
+	if primary, _ := ParseLine(example); primary != entry.Text {
+		t.Errorf("ParseLine 与 ParseEntryLine 不一致: %q vs %q", primary, entry.Text)
+	}
+}
