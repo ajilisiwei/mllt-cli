@@ -125,3 +125,27 @@ func TestSyncBundledResourcesDoesNotBackUpVersionMarker(t *testing.T) {
 		t.Fatalf("不应产生备份目录，err = %v", err)
 	}
 }
+
+func TestShouldRefresh(t *testing.T) {
+	cases := []struct {
+		name      string
+		installed string
+		bundled   string
+		want      bool
+	}{
+		{"版本更新则刷新", "3", "4", true},
+		{"版本相同不刷新", "4", "4", false},
+		{"旧版本的二进制不得回退资源", "4", "3", false},
+		{"首次安装没有版本标记", "", "3", true},
+		{"从日期式旧版本号平滑升级", "2026-09-17.2", "3", true},
+		{"无法解析且内容相同则不刷新", "2026-09-17.2", "2026-09-17.2", false},
+	}
+
+	for _, tc := range cases {
+		t.Run(tc.name, func(t *testing.T) {
+			if got := shouldRefresh(tc.installed, tc.bundled); got != tc.want {
+				t.Errorf("shouldRefresh(%q, %q) = %v, want %v", tc.installed, tc.bundled, got, tc.want)
+			}
+		})
+	}
+}

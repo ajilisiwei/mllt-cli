@@ -6,6 +6,7 @@ import (
 	"io/fs"
 	"os"
 	"path/filepath"
+	"strconv"
 	"strings"
 	"time"
 )
@@ -24,7 +25,7 @@ func syncBundledResources(baseDir string) error {
 		return copyEmbeddedTree(resourcesDir, dest)
 	}
 
-	if installedResourceVersion(dest) == want {
+	if !shouldRefresh(installedResourceVersion(dest), want) {
 		return copyEmbeddedTree(resourcesDir, dest)
 	}
 
@@ -39,6 +40,18 @@ func syncBundledResources(baseDir string) error {
 	}
 
 	return nil
+}
+
+// shouldRefresh 判断是否需要覆盖式刷新。版本号是单调递增的整数，只有内置版本
+// 更新时才刷新，这样运行一个旧版本的二进制不会把资源回退到旧内容。
+// 版本号无法解析时（例如更早的日期式版本号）退回到「不同就刷新」，以便平滑升级。
+func shouldRefresh(installed, bundled string) bool {
+	current, currentErr := strconv.Atoi(installed)
+	next, nextErr := strconv.Atoi(bundled)
+	if currentErr != nil || nextErr != nil {
+		return installed != bundled
+	}
+	return next > current
 }
 
 func embeddedResourceVersion() (string, error) {
