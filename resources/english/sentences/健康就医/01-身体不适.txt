@@ -1,0 +1,101 @@
+I'm not feeling well today. ->> 我今天不太舒服。
+I think I'm coming down with something. ->> 我好像要生病了。
+I've been feeling under the weather. ->> 我最近有点不舒服。
+I've had a headache all morning. ->> 我头疼一上午了。
+My throat is killing me. ->> 我嗓子疼死了。
+I've got a bit of a cough. ->> 我有点咳嗽。
+My nose has been running all day. ->> 我一天都在流鼻涕。
+I'm completely stuffed up. ->> 我鼻子全塞住了。
+I think I have a fever. ->> 我好像发烧了。
+Can you check if I'm warm? ->> 你摸摸我烫不烫？
+I feel achy all over. ->> 我浑身酸痛。
+I'm really dizzy when I stand up. ->> 我一站起来就头晕。
+I feel a little nauseous. ->> 我有点想吐。
+I threw up twice last night. ->> 我昨晚吐了两次。
+My stomach's been upset since lunch. ->> 我从午饭后就闹肚子。
+I think it was something I ate. ->> 我觉得是吃坏了。
+I haven't been sleeping well. ->> 我一直睡不好。
+I'm exhausted all the time. ->> 我一直觉得很累。
+My back has been bothering me. ->> 我背一直不舒服。
+I pulled something at the gym. ->> 我在健身房拉伤了。
+I sprained my ankle playing basketball. ->> 我打篮球扭到脚踝了。
+It swelled up overnight. ->> 一夜之间肿了。
+It hurts when I put weight on it. ->> 一踩上去就疼。
+I can't move my arm properly. ->> 我胳膊动不了。
+I cut my finger chopping vegetables. ->> 我切菜割到手指了。
+It won't stop bleeding. ->> 一直止不住血。
+Do you have a bandage? ->> 你有创可贴吗？
+I banged my head pretty hard. ->> 我头撞得挺厉害。
+I've got a rash on my arm. ->> 我手臂上起疹子了。
+I'm allergic to peanuts. ->> 我对花生过敏。
+I had a reaction to that medication. ->> 我对那个药有反应。
+My allergies always act up in spring. ->> 我的过敏一到春天就犯。
+My knee is bothering me again. ->> 我膝盖老毛病又犯了。
+This has been going on for about a week. ->> 这情况大概持续一周了。
+It comes and goes. ->> 时好时坏。
+It's been getting worse. ->> 越来越严重了。
+It's a sharp pain right here. ->> 就这里刺痛。
+It's more of a dull ache. ->> 更像是隐隐作痛。
+On a scale of one to ten, maybe a six. ->> 一到十分的话，大概六分。
+I think you should see a doctor. ->> 我觉得你该去看医生。
+Maybe it's nothing, but get it checked. ->> 也许没事，但还是查一下。
+I'd like to make an appointment. ->> 我想预约。
+Do you have anything available today? ->> 今天还有号吗？
+What's the earliest you have? ->> 最早能约到什么时候？
+I'd like to see Dr. Lee if possible. ->> 可以的话我想看李医生。
+Is this covered by my insurance? ->> 我的保险能报吗？
+Do I need a referral? ->> 需要转诊单吗？
+Should I go to urgent care? ->> 我该去急诊吗？
+I think we should call an ambulance. ->> 我觉得该叫救护车。
+How long have you had these symptoms? ->> 这些症状持续多久了？
+Have you taken anything for it? ->> 你吃过什么药吗？
+I took some painkillers this morning. ->> 我今早吃了点止痛药。
+It didn't really help. ->> 没什么用。
+Are you on any other medication? ->> 你还在吃别的药吗？
+Do you have any allergies? ->> 你有过敏史吗？
+Does this run in your family? ->> 你家里有这方面的遗传吗？
+Let me take your temperature. ->> 我给你量下体温。
+I'm going to check your blood pressure. ->> 我给你量下血压。
+Take a deep breath for me. ->> 深吸一口气。
+Does it hurt when I press here? ->> 我按这里疼吗？
+We'll need to run a few tests. ->> 我们需要做些检查。
+I'm sending you for an X-ray. ->> 我给你开个片子。
+The results should be back tomorrow. ->> 结果明天出。
+It's nothing serious. ->> 不是什么严重的问题。
+It should clear up on its own. ->> 应该会自己好。
+I'll prescribe you some antibiotics. ->> 我给你开点抗生素。
+Take one pill twice a day. ->> 一天两次，每次一片。
+Take it with food. ->> 饭后吃。
+Don't take it on an empty stomach. ->> 别空腹吃。
+Finish the whole course. ->> 要吃完整个疗程。
+Are there any side effects? ->> 有副作用吗？
+It might make you drowsy. ->> 可能会让你犯困。
+Can I drink while taking this? ->> 吃这个能喝酒吗？
+Where's the nearest pharmacy? ->> 最近的药店在哪？
+I'm here to pick up a prescription. ->> 我来取药。
+Can I get this over the counter? ->> 这个不用处方能买吗？
+Do you have anything for a sore throat? ->> 有治嗓子疼的药吗？
+Get plenty of rest. ->> 多休息。
+Make sure you stay hydrated. ->> 记得多喝水。
+Take it easy for a few days. ->> 这几天悠着点。
+You should stay home today. ->> 你今天该待在家。
+Come back if it doesn't improve. ->> 没好转就再来。
+Follow up with me in two weeks. ->> 两周后来复诊。
+I'd like to get a second opinion. ->> 我想再看一个医生。
+I'm feeling much better, thanks. ->> 我好多了，谢谢。
+I'm on the mend. ->> 我在恢复了。
+It took me a week to get over it. ->> 我花了一周才好。
+I'm back on my feet. ->> 我恢复了。
+I need to call in sick today. ->> 我今天得请病假。
+I'm taking a sick day tomorrow. ->> 我明天请一天病假。
+Sorry, I won't be able to make it in. ->> 抱歉，我今天来不了了。
+I don't want to get anyone else sick. ->> 我不想传染给别人。
+Is it contagious? ->> 会传染吗？
+Feel better soon. ->> 早日康复。
+Hope you feel better. ->> 希望你快点好起来。
+Get well soon. ->> 早日康复。
+Do you want me to pick up anything from the pharmacy? ->> 要我从药店帮你带什么吗？
+I should really get a checkup. ->> 我真该去体检了。
+I go once a year just to be safe. ->> 我一年查一次以防万一。
+I need to watch my diet. ->> 我得注意饮食。
+I'm trying to cut back on sugar. ->> 我在减少糖的摄入。

@@ -1,0 +1,78 @@
+open an account ->> 开户 ->> I'd like to open an account. ->> 我想开个账户。
+close an account ->> 销户 ->> I need to close my old account. ->> 我要把旧账户销掉。
+a checking account ->> 活期账户 ->> Is this a checking or savings account? ->> 这是活期还是储蓄账户？
+a savings account ->> 储蓄账户 ->> I put it in my savings account. ->> 我存进储蓄账户了。
+deposit money ->> 存钱 ->> I need to deposit a check. ->> 我要存一张支票。
+withdraw money ->> 取钱 ->> Can I withdraw cash here? ->> 我能在这取现吗？
+take out cash ->> 取现金 ->> I took out two hundred. ->> 我取了两百。
+check one's balance ->> 查余额 ->> Let me check my balance first. ->> 我先查下余额。
+be low on cash ->> 手头紧 ->> I'm a bit low on cash. ->> 我手头有点紧。
+be short on money ->> 钱不够 ->> I'm short on money this month. ->> 我这个月钱不够。
+make ends meet ->> 勉强度日 ->> It's hard to make ends meet. ->> 日子过得挺紧。
+live paycheck to paycheck ->> 月光 ->> I'm living paycheck to paycheck. ->> 我基本月光。
+set money aside ->> 存一笔钱 ->> I set some money aside every month. ->> 我每月存一点。
+save up for ->> 攒钱买 ->> I'm saving up for a new laptop. ->> 我在攒钱买新电脑。
+dip into one's savings ->> 动用存款 ->> I had to dip into my savings. ->> 我只好动了存款。
+transfer money ->> 转账 ->> Can you transfer it to my account? ->> 你能转到我账户吗？
+wire money ->> 电汇 ->> I wired the money yesterday. ->> 我昨天电汇了。
+send sb money ->> 给某人转钱 ->> I'll send you the money tonight. ->> 我今晚把钱转你。
+pay sb back ->> 还钱给某人 ->> I'll pay you back on Friday. ->> 我周五还你。
+owe sb money ->> 欠某人钱 ->> I still owe you twenty bucks. ->> 我还欠你二十块。
+lend sb money ->> 借钱给某人 ->> Could you lend me some cash? ->> 你能借我点现金吗？
+borrow money from sb ->> 向某人借钱 ->> I borrowed it from my brother. ->> 我从我哥那借的。
+chip in ->> 凑钱 ->> Everyone chipped in for the gift. ->> 大家凑钱买了礼物。
+split the cost ->> 分摊费用 ->> Let's split the cost. ->> 我们分摊吧。
+pay in cash ->> 付现金 ->> Do you want to pay in cash? ->> 您要付现金吗？
+pay by card ->> 刷卡 ->> I'll pay by card. ->> 我刷卡。
+tap to pay ->> 碰一下支付 ->> You can just tap to pay. ->> 你碰一下就能付。
+swipe a card ->> 刷卡 ->> Swipe your card here. ->> 在这里刷卡。
+enter one's PIN ->> 输密码 ->> Please enter your PIN. ->> 请输入密码。
+scan a code ->> 扫码 ->> Just scan the code to pay. ->> 扫码付款就行。
+go through ->> （支付）成功 ->> The payment didn't go through. ->> 这笔支付没成功。
+be declined ->> 被拒付 ->> My card was declined. ->> 我的卡被拒了。
+charge sb for sth ->> 收某人费用 ->> They charged me twice. ->> 他们收了我两次钱。
+be charged a fee ->> 被收手续费 ->> I was charged a service fee. ->> 我被收了服务费。
+waive a fee ->> 免除费用 ->> They waived the transfer fee. ->> 他们免了转账手续费。
+get a refund ->> 退款 ->> Can I get a refund? ->> 我能退款吗？
+issue a refund ->> 办理退款 ->> They issued a refund this morning. ->> 他们今早办了退款。
+dispute a charge ->> 申诉扣款 ->> I want to dispute this charge. ->> 我要对这笔扣款申诉。
+be on one's statement ->> 出现在账单上 ->> There's a charge on my statement I don't recognize. ->> 我账单上有笔不认识的扣款。
+pay a bill ->> 交账单 ->> I paid the electricity bill online. ->> 我在网上交了电费。
+come out of one's account ->> 从账户扣走 ->> It comes out of my account on the fifth. ->> 每月五号从我账户扣。
+be overdue ->> 逾期 ->> The payment is two weeks overdue. ->> 这笔钱逾期两周了。
+pay off ->> 还清 ->> I finally paid off my loan. ->> 我终于把贷款还清了。
+be in debt ->> 负债 ->> He's deep in debt. ->> 他欠了不少债。
+set up autopay ->> 设置自动扣款 ->> I set up autopay for my bills. ->> 我给账单设了自动扣款。
+cancel a subscription ->> 取消订阅 ->> I need to cancel that subscription. ->> 我得取消那个订阅。
+be billed monthly ->> 按月扣费 ->> You'll be billed monthly. ->> 会按月扣费。
+a free trial ->> 免费试用 ->> The free trial ends tomorrow. ->> 免费试用明天结束。
+apply for a card ->> 申请信用卡 ->> I applied for a credit card. ->> 我申请了张信用卡。
+activate a card ->> 激活卡片 ->> Did you activate your new card? ->> 你新卡激活了吗？
+report a card lost ->> 挂失 ->> I need to report my card lost. ->> 我要挂失我的卡。
+freeze a card ->> 冻结卡片 ->> I froze my card in the app. ->> 我在 App 里冻结了卡。
+a credit limit ->> 信用额度 ->> My credit limit is pretty low. ->> 我的额度挺低的。
+max out a card ->> 刷爆卡 ->> I maxed out my card last month. ->> 我上个月把卡刷爆了。
+build credit ->> 积累信用 ->> Using it responsibly builds credit. ->> 合理使用能积累信用。
+take out a loan ->> 贷款 ->> We took out a loan for the car. ->> 我们贷款买了车。
+pay in installments ->> 分期付 ->> Can I pay in installments? ->> 我能分期付吗？
+interest rate ->> 利率 ->> What's the interest rate? ->> 利率是多少？
+exchange money ->> 换汇 ->> Where can I exchange money? ->> 哪里能换钱？
+the exchange rate ->> 汇率 ->> The exchange rate isn't great today. ->> 今天汇率不太好。
+be a waste of money ->> 白花钱 ->> Honestly, it was a waste of money. ->> 说实话，那钱白花了。
+be a good deal ->> 划算 ->> That's actually a good deal. ->> 这其实挺划算的。
+be on sale ->> 打折中 ->> It's on sale this week. ->> 这周在打折。
+get a discount ->> 打折优惠 ->> Do students get a discount? ->> 学生有折扣吗？
+haggle over the price ->> 讲价 ->> You can haggle a bit at the market. ->> 在市场可以讲讲价。
+shop around ->> 货比三家 ->> Shop around before you buy. ->> 买之前多比几家。
+save up ->> 攒钱 ->> We're saving up for a trip. ->> 我们在攒钱去旅行。
+cut back on spending ->> 减少开支 ->> I need to cut back on spending. ->> 我得少花点钱。
+stick to a budget ->> 守住预算 ->> I'm trying to stick to a budget. ->> 我在努力控制预算。
+go over budget ->> 超预算 ->> We went way over budget. ->> 我们严重超预算了。
+be worth every penny ->> 每分钱都值 ->> It was worth every penny. ->> 这钱花得太值了。
+break the bank ->> 花光积蓄 ->> It won't break the bank. ->> 花不了多少钱。
+be out of one's price range ->> 超出预算范围 ->> That's out of my price range. ->> 那超出我预算了。
+keep the receipt ->> 留好小票 ->> Keep the receipt just in case. ->> 小票留着以防万一。
+return sth ->> 退货 ->> Can I return this? ->> 这个能退吗？
+exchange sth for sth ->> 换货 ->> Can I exchange it for a larger size? ->> 能换成大一号的吗？
+a warranty ->> 保修 ->> Is there a warranty on this? ->> 这个有保修吗？
+be covered ->> 在保障范围内 ->> Is the screen covered? ->> 屏幕在保修范围吗？

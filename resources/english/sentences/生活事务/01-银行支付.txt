@@ -1,0 +1,101 @@
+I'd like to open an account. ->> 我想开个账户。
+What do I need to bring? ->> 我需要带什么材料？
+Do you have my ID and proof of address? ->> 需要身份证和住址证明吗？
+Is there a monthly fee? ->> 有月费吗？
+What's the minimum balance? ->> 最低余额要求是多少？
+I'd like to close my account. ->> 我想销户。
+Can I check my balance? ->> 我能查下余额吗？
+I need to deposit this check. ->> 我要存这张支票。
+How long until it clears? ->> 多久到账？
+I'd like to withdraw two hundred. ->> 我要取两百。
+Is there an ATM nearby? ->> 附近有取款机吗？
+The ATM ate my card. ->> 取款机把我的卡吞了。
+My card was declined. ->> 我的卡被拒了。
+Could you try it again? ->> 能再刷一次吗？
+Do you have another card? ->> 您有别的卡吗？
+Do you take cards here? ->> 你们收卡吗？
+Can I pay with my phone? ->> 能手机支付吗？
+Just tap here to pay. ->> 在这里碰一下付款。
+Please enter your PIN. ->> 请输入密码。
+Would you like a receipt? ->> 需要小票吗？
+Can I get a receipt, please? ->> 麻烦给我张小票。
+I think you charged me twice. ->> 我觉得你们收了我两次钱。
+There's a charge I don't recognize. ->> 有笔扣款我不认识。
+I'd like to dispute this charge. ->> 我想对这笔扣款申诉。
+How long does the investigation take? ->> 调查要多久？
+I need to report my card lost. ->> 我要挂失我的卡。
+Can you freeze my card? ->> 能冻结我的卡吗？
+When will I get the replacement? ->> 新卡什么时候能到？
+I haven't activated the new card yet. ->> 新卡我还没激活。
+Can I transfer money to another account? ->> 我能转账到别的账户吗？
+Is there a fee for transfers? ->> 转账有手续费吗？
+How long does a transfer take? ->> 转账多久到？
+I'll send you the money tonight. ->> 我今晚把钱转你。
+Did you get the transfer? ->> 你收到转账了吗？
+It hasn't come through yet. ->> 还没到账。
+I'll pay you back on Friday. ->> 我周五还你。
+I still owe you twenty. ->> 我还欠你二十。
+Don't worry about it. ->> 不用还了。
+Can you spot me? I'll get you back. ->> 你先垫一下，我回头还你。
+Let's just split it evenly. ->> 我们平分吧。
+Everyone chipped in for the gift. ->> 大家凑钱买了礼物。
+How much do I owe you? ->> 我该给你多少？
+I'll send it over now. ->> 我现在就转过去。
+The rent is due on the first. ->> 房租一号到期。
+Did you pay the electricity bill? ->> 电费交了吗？
+This bill seems higher than usual. ->> 这个账单比平时高。
+I set up autopay for the utilities. ->> 我给水电设了自动扣款。
+I forgot to pay it and got a late fee. ->> 我忘了交，被收了滞纳金。
+The payment is two weeks overdue. ->> 这笔钱逾期两周了。
+I need to cancel that subscription. ->> 我得取消那个订阅。
+The free trial ends tomorrow. ->> 免费试用明天结束。
+I keep forgetting I'm paying for it. ->> 我老忘了我还在付这个钱。
+You'll be billed monthly. ->> 会按月扣费。
+Can I get a refund? ->> 我能退款吗？
+How long does the refund take? ->> 退款要多久？
+It should be back in three to five days. ->> 三到五天会退回。
+They issued the refund this morning. ->> 他们今早办了退款。
+I'd like to return this. ->> 我想退这个。
+Do you have the receipt? ->> 有小票吗？
+Can I exchange it for a different size? ->> 能换个尺码吗？
+Is there a warranty on this? ->> 这个有保修吗？
+How long is the warranty? ->> 保修多久？
+Is that covered under warranty? ->> 这个在保修范围内吗？
+How much is this? ->> 这个多少钱？
+Is this on sale? ->> 这个在打折吗？
+Do students get a discount? ->> 学生有折扣吗？
+That's actually a pretty good deal. ->> 这其实挺划算的。
+That's way out of my price range. ->> 这远超我的预算。
+It's a bit steep for what it is. ->> 就这东西来说有点贵。
+Let me shop around first. ->> 我先货比三家。
+I'll think about it. ->> 我考虑一下。
+Can you do any better on the price? ->> 价格还能便宜点吗？
+Is that your best price? ->> 这是最低价了吗？
+I'll take it. ->> 我要了。
+Do you deliver? ->> 你们送货吗？
+How much is shipping? ->> 运费多少？
+Is shipping free over a certain amount? ->> 满多少免运费？
+When will it arrive? ->> 什么时候到？
+It says it's out for delivery. ->> 显示正在派送。
+My package hasn't arrived yet. ->> 我的包裹还没到。
+Can you track it for me? ->> 你能帮我查下物流吗？
+It says delivered but I didn't get it. ->> 显示已签收但我没收到。
+Can you leave it at the door? ->> 能放门口吗？
+I'll pick it up from the locker. ->> 我去快递柜取。
+I need to send this package. ->> 我要寄这个包裹。
+How much to send it overseas? ->> 寄到国外多少钱？
+How long does it usually take? ->> 一般要多久？
+Is there a faster option? ->> 有更快的方式吗？
+I'm saving up for a new laptop. ->> 我在攒钱买新电脑。
+I set aside a bit every month. ->> 我每月存一点。
+I need to cut back on spending. ->> 我得少花点钱。
+I went way over budget this month. ->> 我这个月严重超预算。
+I'm trying to stick to a budget. ->> 我在努力控制预算。
+Money's a bit tight right now. ->> 我最近手头有点紧。
+I'm basically living paycheck to paycheck. ->> 我基本是月光。
+It was expensive but worth every penny. ->> 贵是贵，但太值了。
+Where can I exchange money? ->> 哪里能换钱？
+What's the exchange rate today? ->> 今天汇率是多少？
+Is there a commission? ->> 收手续费吗？
+I'd like smaller bills, please. ->> 请给我小面额的。
+Do you have change for a hundred? ->> 一百的能换开吗？

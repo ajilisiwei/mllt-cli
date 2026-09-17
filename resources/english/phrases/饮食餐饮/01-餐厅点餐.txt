@@ -1,0 +1,78 @@
+book a table ->> 订位 ->> I'd like to book a table for four. ->> 我想订一张四人桌。
+make a reservation ->> 预订 ->> Do we need to make a reservation? ->> 我们需要预订吗？
+have a reservation ->> 有预订 ->> Hi, we have a reservation under Dave. ->> 你好，我们用 Dave 的名字订了位。
+walk in ->> 不预约直接去 ->> Can we just walk in on a weekday? ->> 工作日能直接去吗？
+put one's name down ->> 登记排队 ->> Let me put my name down for a table. ->> 我登记排个队。
+wait for a table ->> 等位 ->> How long is the wait for a table? ->> 等位要多久？
+be seated ->> 入座 ->> We were seated right away. ->> 我们马上就被带位了。
+sit at the bar ->> 坐吧台 ->> Do you mind sitting at the bar? ->> 你介意坐吧台吗？
+look over the menu ->> 看一下菜单 ->> Could we have a minute to look over the menu? ->> 能给我们一分钟看下菜单吗？
+be ready to order ->> 准备好点餐 ->> Are you ready to order? ->> 您可以点餐了吗？
+go with ->> 就要（某道菜） ->> I'll go with the salmon. ->> 我要三文鱼。
+have the same ->> 要一样的 ->> I'll have the same, please. ->> 我要一样的，谢谢。
+start with ->> 先来（前菜、饮料） ->> Can we start with some drinks? ->> 我们先点些饮料好吗？
+share sth ->> 合点一份 ->> Should we share a starter? ->> 我们合点一个前菜？
+split sth ->> 分着吃/分摊 ->> Let's split the dessert. ->> 甜点我们分着吃。
+be out of sth ->> （某菜）卖完了 ->> Sorry, we're out of the ribeye tonight. ->> 抱歉，今晚肋眼牛排卖完了。
+the special ->> 今日特餐 ->> What's the special today? ->> 今天的特餐是什么？
+recommend ->> 推荐 ->> What would you recommend? ->> 你推荐什么？
+be known for ->> 以……闻名 ->> This place is known for its dumplings. ->> 这家店以饺子出名。
+on the side ->> 另外单放 ->> Could I get the dressing on the side? ->> 酱汁能单独放吗？
+hold the sth ->> 不要放某样 ->> A burger, hold the onions, please. ->> 一个汉堡，不要洋葱。
+no sth, please ->> 不要某样 ->> No ice, please. ->> 请不要加冰。
+go easy on ->> 少放一点 ->> Go easy on the salt, please. ->> 盐请少放点。
+be allergic to ->> 对……过敏 ->> I'm allergic to peanuts. ->> 我对花生过敏。
+food allergy ->> 食物过敏 ->> Do you have any food allergies? ->> 您有食物过敏吗？
+be vegetarian ->> 吃素 ->> Is this dish vegetarian? ->> 这道菜是素的吗？
+how would you like it ->> 要几分熟 ->> How would you like your steak? ->> 您的牛排要几分熟？
+medium rare ->> 三分熟 ->> Medium rare, please. ->> 请要三分熟。
+well done ->> 全熟 ->> I like my steak well done. ->> 我牛排喜欢全熟。
+for here or to go ->> 堂食还是外带 ->> Is that for here or to go? ->> 堂食还是外带？
+take out ->> 外带 ->> I'd like to order takeout. ->> 我想点外带。
+eat in ->> 堂食 ->> Are we eating in or taking it home? ->> 我们在这吃还是带回去？
+order in ->> 叫外卖回家吃 ->> Let's just order in tonight. ->> 我们今晚叫外卖吧。
+grab a bite ->> 随便吃点 ->> Want to grab a bite after work? ->> 下班后要不要随便吃点？
+eat out ->> 出去吃 ->> We eat out twice a week. ->> 我们一周出去吃两次。
+be starving ->> 饿坏了 ->> I'm starving, let's order. ->> 我饿死了，点菜吧。
+have a big appetite ->> 胃口大 ->> He's got a big appetite. ->> 他胃口很大。
+be full ->> 吃饱了 ->> I'm so full, I can't finish this. ->> 我太饱了，吃不完。
+help oneself ->> 自己随意取用 ->> Help yourself to the bread. ->> 面包随便吃。
+dig in ->> 开动吧 ->> Everything's here, dig in! ->> 都上齐了，开动吧！
+pass sth ->> 递一下 ->> Could you pass the salt? ->> 能把盐递给我吗？
+top sth up ->> 添满（饮料） ->> Can I top up your water? ->> 要给你加点水吗？
+be on the house ->> 店家请客 ->> The dessert is on the house. ->> 甜点是店里送的。
+get the check ->> 结账 ->> Could we get the check, please? ->> 麻烦买单。
+split the bill ->> AA 制 ->> Should we split the bill? ->> 我们 AA 吗？
+go halves ->> 一人一半 ->> Let's go halves on this. ->> 这顿我们一人一半。
+pick up the tab ->> 买单请客 ->> Dinner's on me, I'll pick up the tab. ->> 这顿我请，我来买单。
+be on me ->> 我请客 ->> Lunch is on me today. ->> 今天午饭我请。
+treat sb ->> 请某人吃 ->> Let me treat you this time. ->> 这次我请你。
+leave a tip ->> 给小费 ->> Don't forget to leave a tip. ->> 别忘了给小费。
+separate checks ->> 分开结账 ->> Could we have separate checks? ->> 我们能分开结账吗？
+put it on one card ->> 一张卡一起结 ->> Can you put it all on one card? ->> 能用一张卡一起结吗？
+box sth up ->> 打包 ->> Could you box this up for me? ->> 能帮我打包吗？
+a doggy bag ->> 打包袋 ->> Can I get a doggy bag? ->> 能给我个打包袋吗？
+leftovers ->> 剩菜 ->> I'll have the leftovers for lunch. ->> 剩菜我中午吃。
+be worth it ->> 值得 ->> It's pricey but totally worth it. ->> 有点贵但很值。
+be overpriced ->> 价格虚高 ->> The drinks are a bit overpriced. ->> 酒水有点贵得离谱。
+be a rip-off ->> 宰客 ->> Forty dollars for that? What a rip-off. ->> 这要四十块？太宰人了。
+be reasonable ->> 价格合理 ->> The prices here are pretty reasonable. ->> 这里价格挺合理的。
+be packed ->> 人很多 ->> This place is packed on weekends. ->> 这地方周末爆满。
+be dead ->> 没什么人 ->> It's pretty dead tonight. ->> 今晚没什么人。
+grab a coffee ->> 喝杯咖啡 ->> Want to grab a coffee? ->> 要不要去喝杯咖啡？
+to go ->> 带走 ->> One latte to go, please. ->> 一杯拿铁带走。
+for here ->> 在这儿喝 ->> Is that for here? ->> 在这儿喝吗？
+a refill ->> 续杯 ->> Can I get a refill? ->> 能续杯吗？
+be on tap ->> 有扎啤/桶装 ->> What do you have on tap? ->> 你们有什么扎啤？
+last call ->> 最后点单 ->> It's last call, anyone want anything? ->> 最后点单了，还有人要吗？
+run a tab ->> 记账最后一起付 ->> Can I run a tab? ->> 我能先记账最后一起结吗？
+be undercooked ->> 没熟 ->> Sorry, the chicken is a bit undercooked. ->> 抱歉，鸡肉有点没熟。
+be overcooked ->> 煮过头 ->> The pasta is a little overcooked. ->> 意面有点煮过了。
+send sth back ->> 退回厨房 ->> I had to send it back. ->> 我只好让他们退回去。
+taste off ->> 味道不对 ->> This tastes a bit off. ->> 这个味道有点不对。
+be bland ->> 味道很淡 ->> It's a bit bland for me. ->> 对我来说有点没味。
+be too greasy ->> 太油 ->> It's a little too greasy. ->> 有点太油了。
+have a sweet tooth ->> 爱吃甜食 ->> I have a real sweet tooth. ->> 我特别爱吃甜的。
+be an acquired taste ->> 需要慢慢适应的味道 ->> Blue cheese is an acquired taste. ->> 蓝纹奶酪得慢慢才吃得惯。
+be to one's taste ->> 合某人口味 ->> It's not really to my taste. ->> 不太合我口味。
+hit the spot ->> 正好解馋 ->> That soup really hit the spot. ->> 那碗汤真是太解馋了。

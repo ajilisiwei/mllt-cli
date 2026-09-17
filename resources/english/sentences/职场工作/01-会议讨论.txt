@@ -1,0 +1,101 @@
+Can we set up a quick call this afternoon? ->> 今天下午我们能快速通个电话吗？
+I've sent you a calendar invite. ->> 我给你发了日历邀请。
+Does Thursday at ten work for you? ->> 周四十点你方便吗？
+Sorry, I'm double-booked at that time. ->> 抱歉，那个时间我撞会了。
+Could we push it back an hour? ->> 我们能往后推一小时吗？
+Let's move it up to Tuesday if possible. ->> 可以的话我们提前到周二。
+I'm running about five minutes late. ->> 我大概会晚到五分钟。
+Go ahead and start without me. ->> 你们先开始，不用等我。
+Sorry, I just joined. What did I miss? ->> 抱歉我刚进来，错过了什么？
+You're on mute. ->> 你静音了。
+I can't hear you, can you say that again? ->> 我听不到，你能再说一遍吗？
+Your audio keeps cutting out. ->> 你的声音一直断。
+Let me share my screen. ->> 我共享一下屏幕。
+Can everyone see my screen? ->> 大家都能看到我的屏幕吗？
+Let's give it another minute for people to join. ->> 我们再等一分钟让大家进来。
+Let's get started, we have a lot to cover. ->> 我们开始吧，内容挺多的。
+Here's the agenda for today. ->> 这是今天的议程。
+Let's do a quick round of updates. ->> 我们快速过一轮进展。
+Who wants to kick us off? ->> 谁先开始？
+Let me walk you through what we've done so far. ->> 我带大家看一下目前的进展。
+I'll keep this brief. ->> 我长话短说。
+To give you some context, this started last month. ->> 交代一下背景，这事是上个月开始的。
+Let me back up for a second. ->> 我稍微往回说一点。
+Does that make sense so far? ->> 到这里能理解吗？
+Feel free to stop me if you have questions. ->> 有问题随时打断我。
+Sorry, can I jump in here? ->> 抱歉，我能插一句吗？
+I'd like to add something to that. ->> 我想补充一点。
+Building on what Anna said... ->> 顺着 Anna 刚才说的……
+I see it a bit differently. ->> 我的看法有点不一样。
+I'm not sure I agree with that. ->> 我不太同意这一点。
+Can you help me understand your thinking? ->> 你能说说你是怎么考虑的吗？
+What's the reasoning behind that? ->> 这么做的理由是什么？
+Just to play devil's advocate for a second... ->> 我故意唱个反调……
+That's a fair point. ->> 这个说得有道理。
+I hadn't thought of it that way. ->> 我没从这个角度想过。
+I'd push back on that a little. ->> 这一点我有点不同意。
+Let's not go down that road right now. ->> 这个方向我们先不展开。
+Can we park that and come back to it? ->> 这个能先放放，回头再聊吗？
+Let's take this offline. ->> 这个我们会后聊。
+I think we're getting off track. ->> 我觉得我们跑题了。
+Let's bring it back to the main question. ->> 我们回到主要问题上。
+So where do we stand on this? ->> 那这件事现在什么情况？
+What's the current status? ->> 目前进展如何？
+Are we still on track for Friday? ->> 我们周五还来得及吗？
+What's blocking us right now? ->> 现在卡在哪里？
+Is there anything you need from me? ->> 需要我配合什么吗？
+Let me know if you get stuck. ->> 卡住了跟我说。
+I'll take care of that. ->> 这个我来处理。
+I can own that piece. ->> 这块我来负责。
+Who's taking this one? ->> 这个谁来跟？
+Can I leave that with you? ->> 这个交给你可以吗？
+I'd rather not commit to a date yet. ->> 我暂时还不想定死日期。
+Let me check and get back to you. ->> 我确认一下再回复你。
+I'll look into it and follow up. ->> 我了解一下再跟进。
+Can I get back to you by end of day? ->> 我今天下班前回复你可以吗？
+Let's set a deadline for this. ->> 我们给这个定个截止时间。
+Realistically, that's going to take two weeks. ->> 实际来看，这得花两周。
+That timeline feels a bit tight. ->> 这个时间有点紧。
+I don't think we can make that work. ->> 我觉得这个做不到。
+Is there any flexibility on the deadline? ->> 截止时间有商量余地吗？
+We might need to push the launch. ->> 上线可能得往后推。
+What are our options here? ->> 我们有哪些选择？
+Let's narrow it down to two. ->> 我们缩到两个方案。
+I'd lean toward the second option. ->> 我更倾向第二个方案。
+What does everyone think? ->> 大家怎么看？
+Is everyone comfortable with that? ->> 大家都能接受吗？
+Any objections? ->> 有人反对吗？
+Let's go with that then. ->> 那就这么定了。
+I think we have a decision. ->> 我觉得我们有结论了。
+Let's document that so it doesn't get lost. ->> 我们记下来，别回头忘了。
+Who's writing this up? ->> 谁来整理成文？
+I'll send out notes afterwards. ->> 会后我发纪要。
+Can you share the deck with everyone? ->> 你能把材料发给大家吗？
+I'll drop the link in the chat. ->> 我把链接发聊天框里。
+Let's give ourselves a week and check back in. ->> 我们给一周时间，之后再碰一次。
+Let's schedule a follow-up. ->> 我们约个后续会议。
+Same time next week? ->> 下周同一时间？
+Do we actually need a meeting for this? ->> 这事真的需要开会吗？
+This could have been an email. ->> 这事发封邮件就行了。
+Let's keep this one to thirty minutes. ->> 这次我们控制在半小时。
+We're coming up on time. ->> 时间快到了。
+Let's wrap up. ->> 我们收尾吧。
+Quick recap before we close. ->> 结束前快速总结一下。
+So, three action items: ->> 那么，三个待办事项：
+Just to confirm, you're handling the data, right? ->> 确认一下，数据那块你来，对吧？
+Anything else before we finish? ->> 结束前还有别的吗？
+Any last questions? ->> 还有最后的问题吗？
+Thanks everyone, that was productive. ->> 谢谢大家，这次很有收获。
+I'll let you go, thanks for your time. ->> 不耽误大家了，谢谢。
+Sorry to cut this short, I have another meeting. ->> 抱歉得提前结束，我还有个会。
+Let's pick this up tomorrow. ->> 我们明天接着聊。
+Give me a heads-up if anything changes. ->> 有变动提前跟我说一声。
+Keep me posted. ->> 有进展告诉我。
+Loop me in if you need a decision. ->> 需要拍板的时候叫我。
+I'll be out Thursday, so please copy Tom. ->> 我周四不在，麻烦抄送 Tom。
+Can someone take notes today? ->> 今天谁做个记录？
+Let's hear from the people who haven't spoken yet. ->> 我们听听还没发言的同事。
+I want to make sure everyone's heard. ->> 我想确保每个人都说上话。
+Honestly, I don't have enough context to weigh in. ->> 老实说，我了解不够，不好发表意见。
+Can we get someone from legal on this? ->> 能让法务的人也看看吗？
+I'd like to sleep on it. ->> 我想再考虑一晚。

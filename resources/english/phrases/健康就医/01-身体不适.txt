@@ -1,0 +1,79 @@
+not feel well ->> 不舒服 ->> I'm not feeling well today. ->> 我今天不太舒服。
+feel under the weather ->> 有点不舒服 ->> I'm feeling a bit under the weather. ->> 我有点不舒服。
+come down with ->> 得了（小病） ->> I think I'm coming down with a cold. ->> 我好像感冒了。
+catch a cold ->> 感冒 ->> I caught a cold on the flight. ->> 我在飞机上感冒了。
+have a fever ->> 发烧 ->> She's had a fever since last night. ->> 她从昨晚开始就发烧。
+run a temperature ->> 发烧 ->> He's running a temperature. ->> 他在发烧。
+have a headache ->> 头疼 ->> I've had a headache all day. ->> 我头疼一整天了。
+have a sore throat ->> 嗓子疼 ->> I've got a sore throat. ->> 我嗓子疼。
+have a runny nose ->> 流鼻涕 ->> My nose has been running all morning. ->> 我一上午都在流鼻涕。
+be stuffed up ->> 鼻塞 ->> I'm all stuffed up. ->> 我鼻子完全塞住了。
+have a cough ->> 咳嗽 ->> I've had a cough for a week. ->> 我咳了一周了。
+be achy ->> 浑身酸痛 ->> I feel achy all over. ->> 我浑身酸痛。
+throw up ->> 呕吐 ->> I threw up twice last night. ->> 我昨晚吐了两次。
+feel nauseous ->> 想吐 ->> I feel a little nauseous. ->> 我有点想吐。
+have an upset stomach ->> 肠胃不舒服 ->> I've got an upset stomach. ->> 我肠胃不舒服。
+have food poisoning ->> 食物中毒 ->> I think I had food poisoning. ->> 我可能是食物中毒了。
+feel dizzy ->> 头晕 ->> I felt dizzy when I stood up. ->> 我站起来时头晕。
+pass out ->> 昏倒 ->> He almost passed out. ->> 他差点晕过去。
+be short of breath ->> 喘不上气 ->> I get short of breath going upstairs. ->> 我上楼会喘不上气。
+have trouble sleeping ->> 睡不好 ->> I've been having trouble sleeping. ->> 我最近睡不好。
+be exhausted ->> 筋疲力尽 ->> I'm completely exhausted. ->> 我累到不行。
+be run-down ->> 身体虚弱疲惫 ->> I've been feeling run-down lately. ->> 我最近一直很虚。
+hurt ->> 疼 ->> My back really hurts. ->> 我背很疼。
+be in pain ->> 疼痛 ->> She's in a lot of pain. ->> 她很疼。
+have a sharp pain ->> 刺痛 ->> I get a sharp pain here. ->> 我这里会刺痛。
+be sore ->> 酸痛 ->> My legs are sore from running. ->> 我腿跑步跑酸了。
+pull a muscle ->> 拉伤肌肉 ->> I pulled a muscle at the gym. ->> 我在健身房拉伤了肌肉。
+sprain one's ankle ->> 扭到脚踝 ->> I sprained my ankle playing basketball. ->> 我打篮球扭到脚踝了。
+twist one's knee ->> 扭到膝盖 ->> He twisted his knee. ->> 他膝盖扭了。
+break one's arm ->> 手臂骨折 ->> She broke her arm last year. ->> 她去年手臂骨折了。
+bang one's head ->> 撞到头 ->> I banged my head on the shelf. ->> 我头撞到架子上了。
+cut oneself ->> 划伤自己 ->> I cut myself chopping vegetables. ->> 我切菜时划到手了。
+get a bruise ->> 淤青 ->> I got a nasty bruise on my knee. ->> 我膝盖淤青得挺厉害。
+swell up ->> 肿起来 ->> My ankle swelled up overnight. ->> 我脚踝一夜之间肿了。
+get a rash ->> 起疹子 ->> I got a rash on my arm. ->> 我手臂上起了疹子。
+lose one's appetite ->> 没胃口 ->> I've completely lost my appetite. ->> 我一点胃口都没有。
+have a reaction to ->> 对……有反应 ->> I had a reaction to the medication. ->> 我对那个药有反应。
+act up ->> （旧伤）又犯了 ->> My knee is acting up again. ->> 我膝盖老毛病又犯了。
+flare up ->> 发作 ->> My allergies always flare up in spring. ->> 我的过敏一到春天就发作。
+run in the family ->> 家族遗传 ->> High blood pressure runs in my family. ->> 我家有高血压遗传。
+be contagious ->> 会传染 ->> Is it contagious? ->> 这个会传染吗？
+get over sth ->> 病好起来 ->> It took me a week to get over the flu. ->> 我花了一周才好。
+be on the mend ->> 正在康复 ->> She's on the mend now. ->> 她在慢慢康复了。
+feel better ->> 好点了 ->> I'm feeling much better, thanks. ->> 我好多了，谢谢。
+be back on one's feet ->> 康复了 ->> He's back on his feet already. ->> 他已经恢复了。
+take it easy ->> 悠着点 ->> Take it easy for a few days. ->> 这几天悠着点。
+get some rest ->> 好好休息 ->> You should get some rest. ->> 你该好好休息。
+stay hydrated ->> 多喝水 ->> Make sure you stay hydrated. ->> 记得多喝水。
+call in sick ->> 请病假 ->> I called in sick this morning. ->> 我今早请了病假。
+take a sick day ->> 休一天病假 ->> I'm taking a sick day tomorrow. ->> 我明天请一天病假。
+see a doctor ->> 看医生 ->> You should see a doctor about that. ->> 这个你该去看看医生。
+make an appointment ->> 预约 ->> I made an appointment for Tuesday. ->> 我约了周二。
+book in with ->> 预约（某医生） ->> I booked in with my GP. ->> 我约了我的家庭医生。
+go to urgent care ->> 去急诊/门急诊 ->> Maybe we should go to urgent care. ->> 也许我们该去趟急诊。
+call an ambulance ->> 叫救护车 ->> Someone call an ambulance! ->> 快叫救护车！
+run some tests ->> 做检查 ->> They want to run some tests. ->> 他们想做些检查。
+get a checkup ->> 做体检 ->> I get a checkup once a year. ->> 我每年体检一次。
+take one's temperature ->> 量体温 ->> Let me take your temperature. ->> 我给你量下体温。
+check one's blood pressure ->> 测血压 ->> The nurse checked my blood pressure. ->> 护士给我量了血压。
+get an X-ray ->> 拍片子 ->> They sent me for an X-ray. ->> 他们让我去拍片。
+prescribe sth ->> 开药 ->> The doctor prescribed antibiotics. ->> 医生开了抗生素。
+fill a prescription ->> 抓药 ->> I need to fill this prescription. ->> 我得去抓这个药。
+pick up a prescription ->> 取药 ->> I'm picking up a prescription. ->> 我来取药。
+take medication ->> 吃药 ->> Are you taking any medication? ->> 你在吃什么药吗？
+take sth twice a day ->> 一天两次 ->> Take one pill twice a day. ->> 一天两次，每次一片。
+on an empty stomach ->> 空腹 ->> Don't take it on an empty stomach. ->> 别空腹吃。
+side effects ->> 副作用 ->> Are there any side effects? ->> 有副作用吗？
+over-the-counter ->> 非处方的 ->> You can get it over the counter. ->> 这个非处方就能买。
+painkillers ->> 止痛药 ->> I took some painkillers. ->> 我吃了点止痛药。
+kick in ->> （药）起效 ->> The medicine hasn't kicked in yet. ->> 药还没起效。
+wear off ->> 药效过去 ->> The numbing is starting to wear off. ->> 麻药开始失效了。
+follow up with ->> 复诊 ->> Follow up with me in two weeks. ->> 两周后来复诊。
+be referred to ->> 被转诊给 ->> I was referred to a specialist. ->> 我被转诊给专科医生了。
+get a second opinion ->> 再看一个医生 ->> I'd like to get a second opinion. ->> 我想再看一个医生。
+be covered by insurance ->> 医保能报 ->> Is this covered by insurance? ->> 这个医保能报吗？
+out of pocket ->> 自费 ->> I had to pay out of pocket. ->> 我只能自费。
+watch one's diet ->> 注意饮食 ->> I'm watching my diet. ->> 我在注意饮食。
+cut back on ->> 减少（摄入） ->> I need to cut back on sugar. ->> 我得少吃糖。
+work out ->> 健身锻炼 ->> I work out three times a week. ->> 我一周锻炼三次。

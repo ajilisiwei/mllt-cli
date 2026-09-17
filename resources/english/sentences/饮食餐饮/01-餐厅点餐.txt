@@ -1,0 +1,100 @@
+Do you want to grab something to eat? ->> 要不要去吃点东西？
+I'm starving. ->> 我快饿死了。
+Where do you want to go? ->> 你想去哪吃？
+I'm not picky, you choose. ->> 我不挑，你定。
+Any place you'd recommend? ->> 有推荐的地方吗？
+I've been wanting to try that new place. ->> 我一直想试试那家新店。
+Do we need a reservation? ->> 需要预订吗？
+I'd like to book a table for two at seven. ->> 我想订七点的两人桌。
+Hi, we have a reservation under Chen. ->> 你好，我们用 Chen 的名字订了位。
+Do you have a table for three? ->> 有三人桌吗？
+How long is the wait? ->> 要等多久？
+We'll wait, that's fine. ->> 我们等，没关系。
+Could we sit by the window? ->> 我们能坐窗边吗？
+Is it okay if we sit outside? ->> 我们坐外面可以吗？
+Could we have a menu, please? ->> 麻烦给份菜单。
+Do you have an English menu? ->> 有英文菜单吗？
+Can we have another minute? ->> 能再给我们一分钟吗？
+We're ready to order. ->> 我们可以点菜了。
+What do you recommend? ->> 你推荐什么？
+What's this place known for? ->> 这家店什么最有名？
+What's the special today? ->> 今天的特色菜是什么？
+What's in this dish? ->> 这道菜里有什么？
+Is this dish spicy? ->> 这道菜辣吗？
+Is it very sweet? ->> 很甜吗？
+How big is the portion? ->> 分量有多大？
+Is that enough for two people? ->> 两个人够吃吗？
+I'll have the chicken, please. ->> 我要鸡肉，谢谢。
+I'll go with the pasta. ->> 我要意面。
+I'll have the same. ->> 我要一样的。
+Can we share a starter? ->> 我们合点一个前菜好吗？
+Could I get that without onions? ->> 这个能不要洋葱吗？
+Can I have the sauce on the side? ->> 酱能单独放吗？
+No ice, please. ->> 不要加冰，谢谢。
+Could you go easy on the salt? ->> 盐能少放点吗？
+I'm allergic to nuts. ->> 我对坚果过敏。
+Does this contain dairy? ->> 这个含奶制品吗？
+Do you have any vegetarian options? ->> 有素食选择吗？
+How would you like your steak? ->> 您的牛排要几分熟？
+Medium rare, please. ->> 三分熟，谢谢。
+Can I get a glass of water? ->> 能来杯水吗？
+Just tap water is fine. ->> 自来水就行。
+What do you have on tap? ->> 你们有什么扎啤？
+I'll just have a Coke. ->> 我要杯可乐就行。
+Could we get some more napkins? ->> 能再给点纸巾吗？
+Excuse me, could we get some chopsticks? ->> 不好意思，能给双筷子吗？
+Sorry, this isn't what I ordered. ->> 抱歉，这不是我点的。
+I think there's been a mix-up. ->> 我想是搞错了。
+The chicken is a bit undercooked. ->> 鸡肉有点没熟。
+Could you heat this up a little? ->> 这个能加热一下吗？
+Our food hasn't come out yet. ->> 我们的菜还没上。
+How much longer will it be? ->> 还要多久？
+This tastes amazing. ->> 这个太好吃了。
+This is really good, you should try it. ->> 这个很好吃，你尝尝。
+Do you want to try a bite? ->> 你要尝一口吗？
+It's a little too salty for me. ->> 对我来说有点咸。
+It's a bit bland. ->> 有点没味道。
+It's pretty greasy. ->> 挺油的。
+I wasn't expecting it to be this spicy. ->> 我没想到这么辣。
+I'm getting full. ->> 我有点饱了。
+I can't finish this. ->> 我吃不完。
+That really hit the spot. ->> 这个真解馋。
+Should we get dessert? ->> 我们要甜点吗？
+I don't have room for dessert. ->> 我吃不下甜点了。
+Let's split the dessert. ->> 甜点我们分着吃。
+Could we get the check, please? ->> 麻烦买单。
+Can we pay separately? ->> 我们能分开付吗？
+Let's split the bill. ->> 我们 AA 吧。
+This one's on me. ->> 这顿我请。
+You got it last time, let me get this one. ->> 上次你请了，这次我来。
+Do you take cards? ->> 你们收卡吗？
+Is there a service charge? ->> 收服务费吗？
+Is the tip included? ->> 含小费吗？
+Keep the change. ->> 不用找了。
+Could we box this up? ->> 这个能打包吗？
+Can I get a box for the rest? ->> 剩下的能给个盒子吗？
+I'll take the leftovers home. ->> 剩的我带回家。
+That was a great meal, thank you. ->> 这顿很棒，谢谢。
+We should come back here. ->> 我们该再来这家。
+I'd go there again. ->> 我还会再去那家。
+It's a bit pricey but worth it. ->> 有点贵但值。
+Forty for that? That's a rip-off. ->> 这要四十？太宰人了。
+The service was really slow. ->> 服务太慢了。
+The staff were super friendly. ->> 服务员特别友好。
+This place is always packed. ->> 这家店总是爆满。
+Let's go somewhere quieter. ->> 我们去个安静点的地方。
+Want to grab a coffee? ->> 要不要喝杯咖啡？
+One large latte to go, please. ->> 一杯大杯拿铁带走，谢谢。
+Is that for here or to go? ->> 堂食还是带走？
+Could I get that iced? ->> 能做成冰的吗？
+With oat milk, please. ->> 请用燕麦奶。
+Can I get a refill? ->> 能续杯吗？
+Do you have any decaf? ->> 有低因咖啡吗？
+Let's just order in tonight. ->> 我们今晚叫外卖吧。
+What should we order? ->> 我们点什么？
+I could go for pizza. ->> 我想吃披萨。
+I'm in the mood for something light. ->> 我想吃点清淡的。
+Anything but Chinese food tonight. ->> 今晚除了中餐什么都行。
+Delivery is going to take an hour. ->> 外卖要一小时。
+Let's just cook something at home. ->> 我们在家做点吃的吧。
+I'll make dinner tonight. ->> 今晚我做饭。

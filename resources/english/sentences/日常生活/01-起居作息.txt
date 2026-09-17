@@ -1,0 +1,100 @@
+I'm usually up by seven on weekdays. ->> 工作日我一般七点前起。
+My alarm goes off at six thirty. ->> 我的闹钟六点半响。
+I hit snooze way too many times. ->> 我按了太多次贪睡键。
+I slept through my alarm. ->> 我没听见闹钟。
+I could barely get out of bed this morning. ->> 我今早根本起不来。
+I'm not a morning person. ->> 我不是早起型的人。
+I need coffee before I can talk to anyone. ->> 我不喝咖啡没法跟人说话。
+Did you sleep well? ->> 你睡得好吗？
+I tossed and turned all night. ->> 我整晚翻来覆去。
+I only got about four hours of sleep. ->> 我大概只睡了四小时。
+I'm going to sleep in tomorrow. ->> 我明天要睡个懒觉。
+I stayed up way too late last night. ->> 我昨晚熬得太晚了。
+I fell asleep on the couch. ->> 我在沙发上睡着了。
+I was out like a light. ->> 我倒头就睡着了。
+Let me jump in the shower real quick. ->> 我快速冲个澡。
+Give me ten minutes to get ready. ->> 给我十分钟准备。
+I'm still in my pajamas. ->> 我还穿着睡衣呢。
+I just need to throw on a jacket. ->> 我套件外套就行。
+Have you seen my keys? ->> 你看见我钥匙了吗？
+I can never find my phone in the morning. ->> 我早上总是找不到手机。
+I'm heading out now. ->> 我现在出门了。
+Don't forget to lock the door. ->> 别忘了锁门。
+Did you turn off the stove? ->> 你关炉子了吗？
+I think I left the lights on. ->> 我好像灯没关。
+I'll be back around six. ->> 我六点左右回来。
+What time do you get home usually? ->> 你一般几点到家？
+Traffic was terrible this morning. ->> 今早堵得厉害。
+I just missed the bus. ->> 我刚好没赶上公交。
+I'm running late, don't wait for me. ->> 我要迟到了，别等我。
+Take your time, we're not in a rush. ->> 慢慢来，不着急。
+I need to run a few errands after work. ->> 下班后我得去办点事。
+Can you pick up some milk on your way back? ->> 你回来时能顺便买点牛奶吗？
+We're out of coffee again. ->> 咖啡又喝完了。
+I'll stop by the pharmacy. ->> 我顺路去趟药店。
+I'm just going to grab something quick. ->> 我就随便买点吃的。
+What do you want for dinner? ->> 晚饭想吃什么？
+I'll cook if you do the dishes. ->> 你洗碗我就做饭。
+Whose turn is it to take out the trash? ->> 该谁倒垃圾了？
+I need to do laundry tonight. ->> 我今晚得洗衣服。
+Could you hang up your coat? ->> 你能把外套挂起来吗？
+The place is a mess, let me tidy up. ->> 屋里挺乱的，我收拾一下。
+I'll clean up after dinner. ->> 饭后我来收拾。
+Did anyone feed the cat? ->> 有人喂猫了吗？
+I need to water the plants. ->> 我得浇花了。
+Can you walk the dog tonight? ->> 今晚你能遛狗吗？
+My phone's about to die. ->> 我手机快没电了。
+I forgot to charge my phone. ->> 我忘了给手机充电。
+Do you have a charger I can borrow? ->> 你有充电器能借我吗？
+Can you turn the AC down a bit? ->> 你能把空调调低点吗？
+It's freezing in here. ->> 这里冷死了。
+Could you open a window? ->> 你能开下窗吗？
+Let me draw the curtains. ->> 我把窗帘拉上。
+The hot water's not working again. ->> 热水又坏了。
+I'll call someone to fix it. ->> 我找人来修。
+The wifi keeps dropping. ->> 网络老是断。
+Have you tried restarting the router? ->> 你试过重启路由器吗？
+I'm completely wiped out. ->> 我累垮了。
+I just want to lie down for a bit. ->> 我就想躺一会儿。
+I need a nap. ->> 我得睡个午觉。
+I'm going to take it easy tonight. ->> 我今晚打算放松一下。
+Let's just stay in tonight. ->> 我们今晚就在家吧。
+I don't feel like going out. ->> 我不太想出门。
+Do you want to order in? ->> 要不要叫外卖？
+Let's watch something and relax. ->> 我们看点东西放松一下。
+I usually read for a bit before bed. ->> 我睡前一般会看会儿书。
+I try not to look at my phone in bed. ->> 我尽量不躺床上玩手机。
+I'm going to turn in early tonight. ->> 我今晚早点睡。
+I'm heading to bed. ->> 我去睡了。
+Goodnight, see you in the morning. ->> 晚安，早上见。
+Sleep well. ->> 好好睡。
+Set an alarm for seven, would you? ->> 帮我定个七点的闹钟好吗？
+Wake me up if I oversleep. ->> 我要是睡过头了叫我。
+Let me sleep another ten minutes. ->> 让我再睡十分钟。
+I really need to fix my sleep schedule. ->> 我真得调整下作息了。
+I've been sleeping badly lately. ->> 我最近一直睡不好。
+I need to catch up on sleep this weekend. ->> 这周末我得补个觉。
+What's the weather like today? ->> 今天天气怎么样？
+It's supposed to rain later. ->> 一会儿好像要下雨。
+You might want to bring an umbrella. ->> 你最好带把伞。
+It's warmer than I expected. ->> 比我想的暖和。
+I should have worn a jacket. ->> 我应该穿件外套的。
+It gets dark so early now. ->> 现在天黑得真早。
+The days are getting longer. ->> 白天越来越长了。
+What time is it? ->> 几点了？
+We should leave in about ten minutes. ->> 我们大概十分钟后出发。
+We've got plenty of time. ->> 我们时间很充裕。
+We're cutting it close. ->> 时间挺赶的。
+I'll be there in five. ->> 我五分钟后到。
+I'm on my way. ->> 我在路上了。
+Sorry, something came up. ->> 抱歉，临时有事。
+Can we do it another day? ->> 我们能改天吗？
+What are you up to this weekend? ->> 你这周末干嘛？
+Nothing much, just staying home. ->> 没什么，就待家里。
+I've got errands to run. ->> 我有些杂事要办。
+Let's do something this weekend. ->> 这周末我们出去玩吧。
+My week's been pretty hectic. ->> 我这周挺忙乱的。
+Things should calm down next week. ->> 下周应该会消停点。
+I'm looking forward to the weekend. ->> 我很期待周末。
+Same time tomorrow? ->> 明天同一时间？
+Have a good night. ->> 晚上愉快。

@@ -1,0 +1,100 @@
+What classes are you taking this semester? ->> 你这学期选了什么课？
+I signed up for three electives. ->> 我选了三门选修课。
+Is this class hard? ->> 这门课难吗？
+I heard the professor is tough. ->> 听说这位教授要求很严。
+How's the workload? ->> 作业量大吗？
+The reading load is pretty heavy. ->> 阅读量挺大的。
+I might drop this class. ->> 我可能要退这门课。
+Can I still add a class? ->> 我还能加课吗？
+Is it too late to switch sections? ->> 现在换班还来得及吗？
+Do you mind if I sit here? ->> 我坐这里可以吗？
+Is this seat taken? ->> 这个位子有人吗？
+Could you save me a seat? ->> 你能帮我占个位吗？
+Did I miss anything important? ->> 我错过什么重要的了吗？
+Could I borrow your notes? ->> 我能借下你的笔记吗？
+I couldn't keep up with the lecture. ->> 我跟不上讲课节奏。
+He talks way too fast. ->> 他讲得太快了。
+Could you go over that part again? ->> 那部分能再讲一遍吗？
+Sorry, I'm a bit lost. ->> 抱歉，我有点跟不上。
+Can you explain that in simpler terms? ->> 能讲得简单点吗？
+I have a quick question. ->> 我有个小问题。
+Sorry, could you repeat the question? ->> 抱歉，问题能再说一遍吗？
+I'm not sure I understand. ->> 我不太确定我懂了。
+That makes sense now. ->> 现在明白了。
+Is this going to be on the exam? ->> 这个会考吗？
+Do we need to memorize this? ->> 这个需要背吗？
+What chapters should we review? ->> 我们该复习哪几章？
+When is the assignment due? ->> 作业什么时候交？
+Is it due at midnight or in class? ->> 是半夜前交还是课上交？
+Do we submit it online? ->> 是线上提交吗？
+How long does it need to be? ->> 要写多长？
+Is there a word limit? ->> 有字数限制吗？
+Can we work in pairs? ->> 我们能两人一组吗？
+Do you want to be partners? ->> 你想跟我一组吗？
+Let's divide up the work. ->> 我们分下工。
+I can handle the research part. ->> 调研部分我来。
+Can you put the slides together? ->> 你能做一下幻灯片吗？
+When should we meet to go over it? ->> 我们什么时候碰一下？
+I haven't started mine yet. ->> 我还没开始写。
+I've been putting it off all week. ->> 我拖了一整周。
+I pulled an all-nighter to finish it. ->> 我熬了个通宵写完的。
+I finished it with ten minutes to spare. ->> 我提前十分钟写完的。
+I turned it in late. ->> 我迟交了。
+Do you know if he accepts late work? ->> 你知道他收迟交的作业吗？
+I'm going to ask for an extension. ->> 我打算申请延期。
+Could I have two more days? ->> 我能再多要两天吗？
+I fell behind after I got sick. ->> 我生病后就落下了。
+I need to catch up on the readings. ->> 我得把阅读补上。
+Did you do the reading for today? ->> 今天的阅读你读了吗？
+I just skimmed it. ->> 我就大概翻了翻。
+There's no way I can read all this. ->> 这些我根本读不完。
+Let's study together this weekend. ->> 这周末我们一起复习吧。
+Do you want to go to the library? ->> 你想去图书馆吗？
+I booked a study room for two hours. ->> 我订了两小时的自习室。
+It's packed during finals. ->> 期末的时候全是人。
+I need to check out a few books. ->> 我要借几本书。
+When is this due back? ->> 这本什么时候还？
+Can I renew it online? ->> 能在线续借吗？
+I'm going to office hours tomorrow. ->> 我明天去答疑时间。
+Do you know when his office hours are? ->> 你知道他什么时候答疑吗？
+I want to ask about my grade. ->> 我想问问我的成绩。
+I got my paper back today. ->> 我今天拿回论文了。
+I did better than I expected. ->> 比我想的考得好。
+I bombed that quiz. ->> 那个小测我考砸了。
+The average was pretty low. ->> 平均分挺低的。
+Is he going to curve it? ->> 他会调分吗？
+Participation counts for twenty percent. ->> 课堂参与占百分之二十。
+Attendance is mandatory. ->> 出勤是强制的。
+I've already used all my absences. ->> 我的缺勤次数用完了。
+Can I make up the lab? ->> 实验课能补吗？
+Let me know if there's a pop quiz. ->> 有突击测验告诉我。
+Are you going to class tomorrow? ->> 你明天去上课吗？
+I might skip it, I'm exhausted. ->> 我可能翘掉，我太累了。
+I'd rather not miss this one. ->> 这节课我还是别缺了。
+Can you sign me in? ->> 你能帮我签个到吗？
+What's the professor's email? ->> 教授的邮箱是什么？
+I emailed her but she hasn't replied. ->> 我给她发邮件了但没回。
+Should I CC the TA? ->> 我该抄送助教吗？
+Could you proofread my essay? ->> 你能帮我校对下论文吗？
+Does this paragraph make sense? ->> 这段说得通吗？
+I need to cite this properly. ->> 这个我得规范引用。
+What citation style does she want? ->> 她要什么引用格式？
+I'm presenting on Thursday. ->> 我周四做报告。
+I'm so nervous about presenting. ->> 我做报告紧张死了。
+How long should the presentation be? ->> 报告要做多长？
+Can we practice it together? ->> 我们能一起练一遍吗？
+I went completely blank up there. ->> 我上去脑子一片空白。
+That went better than I expected. ->> 比我想的顺利。
+Finals start in two weeks. ->> 两周后开始期末考。
+I haven't started studying. ->> 我还没开始复习。
+I'm going to cram this weekend. ->> 我这周末突击复习。
+Is the exam open book? ->> 考试能带书吗？
+Can we bring a cheat sheet? ->> 能带小抄纸吗？
+Is it multiple choice or essay? ->> 是选择题还是论述题？
+How many questions are there? ->> 一共多少题？
+Good luck on the exam. ->> 考试加油。
+How did it go? ->> 考得怎么样？
+I think I passed. ->> 我应该过了。
+I have no idea how I did. ->> 我完全不知道考得怎么样。
+When do grades come out? ->> 成绩什么时候出？
+I just want this semester to be over. ->> 我只想这学期赶紧结束。
