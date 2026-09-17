@@ -45,3 +45,10 @@ __debug_bin*
 
 # Binary files
 lang-cli
+mllt-cli
+mllt-cli-darwin-*
+mllt-cli-linux-*
+mllt-cli-windows-*
+
+# Release artifacts
+dist/
