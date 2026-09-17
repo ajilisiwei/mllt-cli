@@ -1,0 +1,100 @@
+Thanks for taking the time to meet with us. ->> 感谢您抽时间与我们会面。
+Let me introduce the team. ->> 我来介绍一下团队。
+I'll be your main point of contact. ->> 我是您的主要对接人。
+Before we start, tell us about your goals. ->> 开始之前，先说说您的目标。
+What problem are you trying to solve? ->> 您想解决的是什么问题？
+What does success look like for you? ->> 对您来说怎样算成功？
+How are you handling this today? ->> 你们现在是怎么做的？
+What's not working with your current setup? ->> 现在的方案哪里不合适？
+What's your timeline? ->> 您的时间安排是怎样的？
+Who else is involved in the decision? ->> 还有谁参与决策？
+Is there a budget range in mind? ->> 预算大概在什么区间？
+Let me make sure I understand. ->> 我确认一下我的理解。
+So what I'm hearing is... ->> 我听到的是……
+Correct me if I've got that wrong. ->> 如果我理解有误请指正。
+That's a common challenge. ->> 这是很常见的挑战。
+We've worked with similar companies. ->> 我们跟类似的公司合作过。
+Let me show you how this would work. ->> 我给您看看这是怎么运作的。
+Here's what we'd recommend. ->> 这是我们的建议。
+I'd suggest starting with a pilot. ->> 我建议先做个试点。
+We can start small and scale up. ->> 我们可以先小范围做，再扩大。
+That's definitely something we can do. ->> 这个我们完全可以做。
+I'm afraid that's not something we support. ->> 恐怕这个我们不支持。
+That's not on our roadmap right now. ->> 这个目前不在我们的规划里。
+Let me check whether that's possible. ->> 我确认一下这是否可行。
+I don't want to promise something we can't deliver. ->> 我不想承诺做不到的事。
+I'd rather be upfront with you. ->> 我更愿意跟您说实话。
+Here's what's realistic. ->> 实际能做到的是这些。
+We could do that, but it would add time. ->> 可以做，但会增加时间。
+That would be a custom piece of work. ->> 那属于定制开发。
+It's included in the standard package. ->> 这个包含在标准套餐里。
+Let me put together a proposal. ->> 我来准备一份方案。
+I'll send over a quote by Friday. ->> 我周五前发报价给您。
+The quote is valid for thirty days. ->> 报价三十天内有效。
+Does the pricing work for you? ->> 价格您能接受吗？
+That's higher than we budgeted. ->> 这比我们的预算高。
+Is there any flexibility on price? ->> 价格有商量余地吗？
+What can you do on the price? ->> 价格上您能给到什么？
+I can't go lower than that. ->> 我不能再低了。
+I'd need to get approval for that. ->> 这个我需要审批。
+Let me see what I can do. ->> 我看看能做到什么程度。
+If we commit to two years, what changes? ->> 如果我们签两年，会有什么不同？
+We could offer a discount for annual billing. ->> 年付我们可以给折扣。
+I can throw in onboarding support. ->> 我可以附送上线支持。
+What matters most to you here? ->> 您最看重的是什么？
+Is it price or timeline that's the constraint? ->> 限制是价格还是时间？
+Let's find something that works for both sides. ->> 我们找个双方都合适的方案。
+I think we can make that work. ->> 我觉得这个可以。
+That's about as far as I can go. ->> 我最多只能到这里了。
+Let's meet in the middle. ->> 我们各让一步。
+I'll need to think about it. ->> 我需要考虑一下。
+Take your time. ->> 您慢慢考虑。
+When would you need an answer? ->> 您什么时候需要答复？
+There's no pressure from our side. ->> 我们这边不着急。
+I'd like to talk it over with my team. ->> 我想跟团队商量一下。
+Happy to jump on another call if helpful. ->> 需要的话我们可以再聊一次。
+I'll follow up next week. ->> 我下周跟进。
+I've sent over the contract. ->> 我把合同发过去了。
+Our legal team is reviewing it. ->> 我们法务在审。
+There are a couple of clauses we'd like to change. ->> 有几条条款我们想改。
+Could you walk me through the terms? ->> 能给我讲一下条款吗？
+What's the cancellation policy? ->> 退订政策是怎样的？
+What happens if we need to scale down? ->> 如果我们要缩减规模会怎样？
+Is there an auto-renewal clause? ->> 有自动续约条款吗？
+Payment is net thirty. ->> 账期是三十天。
+When can we get started? ->> 我们什么时候能开始？
+We can kick off as soon as it's signed. ->> 签完就能启动。
+Here's what onboarding looks like. ->> 上线流程是这样的。
+Who will be our day-to-day contact? ->> 日常对接人是谁？
+I'll set up a shared channel. ->> 我建个共享沟通渠道。
+Let's schedule a monthly check-in. ->> 我们定个月度沟通。
+How has everything been going? ->> 一切都还顺利吗？
+Is there anything we could be doing better? ->> 有什么我们可以改进的吗？
+I want to make sure you're getting value. ->> 我想确保您确实有收获。
+Thanks for the honest feedback. ->> 谢谢您坦诚的反馈。
+I'm sorry you've had that experience. ->> 很抱歉让您有这样的体验。
+That shouldn't have happened. ->> 这本不该发生。
+Let me find out what went wrong. ->> 我来查清楚问题出在哪。
+I'll get back to you within the hour. ->> 我一小时内回复您。
+We're treating this as a priority. ->> 我们把这个当成最高优先级。
+Here's what we're doing to fix it. ->> 我们是这样处理的。
+Here's how we'll prevent it going forward. ->> 我们会这样防止再次发生。
+I understand your frustration. ->> 我理解您的不满。
+You're right to push back on this. ->> 您提出质疑是对的。
+I'd be frustrated too. ->> 换我也会不高兴。
+I take full responsibility. ->> 我承担全部责任。
+What would make this right for you? ->> 怎么做您才觉得合理？
+We'd like to offer a credit for the downtime. ->> 停机期间我们想给予补偿。
+I hope we can rebuild your trust. ->> 希望我们能重建您的信任。
+Thanks for sticking with us. ->> 谢谢您的信任和坚持。
+I'm glad we got that sorted. ->> 很高兴问题解决了。
+Please reach out any time. ->> 随时联系我。
+It's been a pleasure working with you. ->> 与您合作很愉快。
+We really value the partnership. ->> 我们很珍视这段合作。
+Would you be open to being a reference? ->> 您愿意做我们的推荐客户吗？
+Do you know anyone else who might benefit? ->> 您还认识谁可能需要吗？
+Thanks for the introduction. ->> 谢谢您的引荐。
+I'll copy my colleague who handles that. ->> 我抄送负责那块的同事。
+Let me connect you with the right person. ->> 我帮您对接合适的人。
+Looking forward to working together. ->> 期待合作。
+Let's put a time on the calendar before we lose momentum. ->> 趁热打铁，我们先把时间定下来。

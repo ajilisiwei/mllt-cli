@@ -1,0 +1,99 @@
+Morning! How was your weekend? ->> 早！周末过得怎么样？
+Pretty quiet, just stayed home. ->> 挺清静的，就待家里了。
+How's your week going so far? ->> 这周到目前为止怎么样？
+Busy, but it's almost Friday. ->> 挺忙的，不过快周五了。
+Is it just me or is this week dragging? ->> 是我的错觉还是这周特别难熬？
+Monday already, where did the weekend go? ->> 又周一了，周末去哪了？
+Any plans for the weekend? ->> 周末有安排吗？
+We're going hiking if the weather holds. ->> 天气好的话我们去爬山。
+Long weekend coming up. ->> 马上有个长周末。
+Are you taking time off over the holiday? ->> 假期你休假吗？
+I'm taking Friday off. ->> 我周五请假。
+I'm off next week, back on the fifteenth. ->> 我下周休假，十五号回来。
+Welcome back! How was the trip? ->> 欢迎回来！旅行怎么样？
+You picked a good week to be away. ->> 你挑了个好时候休假。
+You missed a lot while you were out. ->> 你不在的时候发生了不少事。
+Let me catch you up. ->> 我跟你说说最近的情况。
+Have you met Anna? She just joined. ->> 你见过 Anna 吗？她刚入职。
+Welcome to the team. ->> 欢迎加入团队。
+How's your first week going? ->> 第一周感觉怎么样？
+It's a lot to take in at first. ->> 一开始信息量确实很大。
+Feel free to ask me anything, even the basics. ->> 什么都可以问我，再基础的问题也没关系。
+I'm still figuring out where everything is. ->> 我还在摸清各种东西在哪。
+Who should I talk to about getting access? ->> 申请权限该找谁？
+I'll add you to the group chat. ->> 我把你加到群里。
+Do you want to grab lunch? ->> 要不要一起吃午饭？
+What are you thinking for lunch? ->> 午饭想吃什么？
+I brought lunch today. ->> 我今天带饭了。
+There's a decent place around the corner. ->> 拐角有家不错的。
+Want anything while I'm out? ->> 我出去，要帮你带什么吗？
+I'm doing a coffee run, who wants one? ->> 我去买咖啡，谁要？
+A flat white would be great, thanks. ->> 来杯馥芮白，谢谢。
+Let me get this one. ->> 这次我请。
+You got it last time. ->> 上次是你请的。
+There's cake in the kitchen. ->> 茶水间有蛋糕。
+Someone brought snacks. ->> 有人带了零食。
+The coffee machine is broken again. ->> 咖啡机又坏了。
+Did anyone report it? ->> 有人报修了吗？
+Are you using this desk today? ->> 你今天用这个工位吗？
+Mind if I sit here? ->> 我坐这儿可以吗？
+Sorry, am I interrupting? ->> 抱歉，打扰你了吗？
+Do you have a minute? ->> 你有空吗？
+Is now a good time? ->> 现在方便吗？
+Can it wait ten minutes? ->> 能等十分钟吗？
+I'm just finishing something up. ->> 我手上的事马上做完。
+Sorry, I'm on a call. ->> 抱歉，我在通话。
+I'll come find you after. ->> 我一会儿去找你。
+Could you keep it down a bit? ->> 能小声一点吗？
+Sorry, were we being loud? ->> 抱歉，我们太吵了吗？
+Is anyone using this room? ->> 这个会议室有人用吗？
+I think it's booked at two. ->> 我记得两点被订了。
+Can we swap rooms? ->> 我们能换个会议室吗？
+The wifi is down on this floor. ->> 这层楼网断了。
+Is it working for you? ->> 你那边能用吗？
+My laptop is being really slow today. ->> 我电脑今天特别慢。
+Have you tried restarting it? ->> 你试过重启吗？
+IT said they'd look at it tomorrow. ->> IT 说明天来看。
+Is it always this cold in here? ->> 这里一直这么冷吗？
+Someone keeps turning the AC up. ->> 有人一直调高空调。
+I'm going to work from home tomorrow. ->> 我明天在家办公。
+Are you coming in on Friday? ->> 你周五来公司吗？
+The office is pretty empty today. ->> 今天办公室没什么人。
+Most people work from home on Mondays. ->> 大部分人周一在家办公。
+I'll be in around ten. ->> 我大概十点到。
+I'm heading out, see you tomorrow. ->> 我先走了，明天见。
+Have a good evening. ->> 晚上愉快。
+Don't work too late. ->> 别加班太晚。
+Are you still here? ->> 你还没走呢？
+I'm just wrapping up. ->> 我马上收尾。
+Go home, it can wait until tomorrow. ->> 回家吧，这个明天再说。
+Congratulations on the promotion! ->> 恭喜升职！
+Well deserved, you've worked hard for it. ->> 实至名归，你付出了很多。
+I heard you're moving to the other team. ->> 听说你要去另一个团队了。
+We'll miss you around here. ->> 我们会想你的。
+Today's my last day. ->> 今天是我最后一天。
+Let's keep in touch. ->> 保持联系。
+Here's my personal email. ->> 这是我的私人邮箱。
+Good luck with everything. ->> 祝一切顺利。
+We should do a team lunch. ->> 我们该聚个餐。
+Are you coming to the team dinner? ->> 你来团建晚餐吗？
+I might drop by for a bit. ->> 我可能去待一会儿。
+I can't make it, I have plans. ->> 我去不了，有别的安排。
+Is it okay if I bring my partner? ->> 我能带家属吗？
+It was nice to finally meet in person. ->> 终于能当面见到真好。
+You look different from your video calls. ->> 你跟视频里看起来不太一样。
+How long have you been with the company? ->> 你在公司多久了？
+About three years now. ->> 差不多三年了。
+What team are you on? ->> 你在哪个团队？
+What do you do here? ->> 你在这做什么的？
+Oh, so you're the one who built that. ->> 哦，原来那个是你做的。
+I've heard good things about your team. ->> 我听说你们团队很不错。
+Hope you feel better soon. ->> 希望你早点好起来。
+Take care of yourself. ->> 照顾好自己。
+Don't push yourself too hard. ->> 别太拼了。
+You've been working nonstop lately. ->> 你最近一直连轴转。
+Make sure you take a break. ->> 记得休息一下。
+How are you holding up? ->> 你还撑得住吗？
+Honestly, it's been a rough week. ->> 说实话，这周挺难的。
+Let me know if I can help. ->> 需要帮忙跟我说。
+Thanks, that means a lot. ->> 谢谢，这对我很重要。

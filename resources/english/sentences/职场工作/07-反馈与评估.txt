@@ -1,0 +1,99 @@
+Do you have time for a quick one-on-one? ->> 你有时间一对一聊聊吗？
+Let's make this a regular thing. ->> 我们定期聊吧。
+How have things been going for you? ->> 你最近感觉怎么样？
+Is there anything on your mind? ->> 有什么想说的吗？
+What's working well right now? ->> 目前哪些是顺利的？
+What's not working? ->> 哪些不太顺？
+Is there anything I can do to support you? ->> 有什么我能支持你的吗？
+What would make your job easier? ->> 什么能让你的工作更轻松？
+Do you feel like you have enough context? ->> 你觉得掌握的信息够吗？
+Are you clear on what's expected of you? ->> 对你的要求你清楚吗？
+I want to give you some feedback. ->> 我想给你一些反馈。
+Is now a good time for that? ->> 现在方便说吗？
+This is meant to be helpful, not critical. ->> 这是想帮你，不是批评。
+I really appreciated how you handled that. ->> 你处理那件事的方式我很欣赏。
+You did a great job on the launch. ->> 上线这事你做得很好。
+That was above and beyond. ->> 这远超预期了。
+The client specifically mentioned your work. ->> 客户特别提到了你的工作。
+You've grown a lot this year. ->> 你今年成长很多。
+I've noticed real improvement there. ->> 我看到了明显的进步。
+Keep doing what you're doing. ->> 保持现在的做法。
+There's one thing I'd like you to work on. ->> 有一点我希望你改进。
+I'd like to see you speak up more in meetings. ->> 我希望你在会上多发言。
+Sometimes the updates come too late. ->> 有时候进展汇报得太晚。
+I'd rather hear about problems early. ->> 我希望问题能早点知道。
+Try to loop people in sooner. ->> 试着更早让相关人知情。
+The work is solid, the communication needs work. ->> 活干得扎实，沟通还需要加强。
+I'm not questioning your effort at all. ->> 我完全不是在质疑你的投入。
+Here's a specific example of what I mean. ->> 我举个具体例子。
+How does that land for you? ->> 你听了感觉怎么样？
+Does that seem fair? ->> 你觉得公平吗？
+Do you see it differently? ->> 你的看法不一样吗？
+I hadn't looked at it that way. ->> 我没从那个角度想过。
+That's fair, I'll take that on board. ->> 有道理，我会记住。
+Thanks for being direct with me. ->> 谢谢你这么直接。
+I'd rather know than not know. ->> 我宁可知道也不想被瞒着。
+Can we set a goal around that? ->> 我们能就这点定个目标吗？
+Let's revisit this in a month. ->> 我们一个月后再看。
+What support do you need to get there? ->> 你需要什么支持才能做到？
+I'd like some feedback on my work. ->> 我想听听对我工作的反馈。
+Is there anything I should be doing differently? ->> 有什么我该改进的吗？
+Where do you think I could improve? ->> 你觉得我哪里可以提升？
+Am I on the right track? ->> 我方向对吗？
+I'd like to understand how I'm being evaluated. ->> 我想了解我是怎么被评估的。
+What would it take to get to the next level? ->> 升到下一级需要什么？
+Is a promotion realistic this cycle? ->> 这个周期升职现实吗？
+I'd like to talk about my career path. ->> 我想聊聊我的职业发展。
+I'm interested in moving toward management. ->> 我对走管理路线有兴趣。
+I'd rather stay on the technical track. ->> 我更想走技术路线。
+I want more exposure to the product side. ->> 我想多接触产品那边。
+Are there any projects I could take on? ->> 有什么项目我可以接吗？
+I'd like to stretch a bit more. ->> 我想挑战更难一点的事。
+I feel a bit stuck lately. ->> 我最近感觉有点停滞。
+I'm not learning as much as I used to. ->> 我没有以前学得多了。
+I'm feeling pretty burnt out. ->> 我感觉挺倦怠的。
+The workload has been unsustainable. ->> 这个工作量撑不下去。
+I need to protect my evenings. ->> 我需要保住晚上的时间。
+Can we talk about my workload? ->> 我们能聊聊我的工作量吗？
+I think I'm spread too thin. ->> 我觉得我被分散得太开了。
+Something needs to come off my plate. ->> 我手上得减掉一些事。
+Let's look at what we can drop. ->> 我们看看哪些可以放掉。
+I hear you, let's fix that. ->> 我听到了，我们来解决。
+It's time for your annual review. ->> 到年度评估的时候了。
+Please fill out the self-assessment. ->> 请填一下自评表。
+What are you most proud of this year? ->> 今年你最自豪的是什么？
+What was your biggest challenge? ->> 你最大的挑战是什么？
+Your rating this cycle is "exceeds expectations". ->> 你这轮的评级是"超出预期"。
+You met expectations across the board. ->> 你各方面都达到了预期。
+I know that's not the outcome you wanted. ->> 我知道这不是你想要的结果。
+Let me explain how we got there. ->> 我解释一下是怎么得出的。
+The bar went up this year. ->> 今年的标准提高了。
+I advocated for you in the calibration. ->> 我在评审会上为你争取了。
+There's a pay adjustment effective next month. ->> 下个月起有薪资调整。
+I'd like to discuss my compensation. ->> 我想谈谈我的薪酬。
+I feel I'm below market for this role. ->> 我觉得我低于这个岗位的市场水平。
+Can you help me understand the decision? ->> 能帮我理解这个决定吗？
+Is there room to revisit this mid-year? ->> 年中还有调整的余地吗？
+What would need to change for that? ->> 需要什么改变才行？
+I appreciate you raising it. ->> 谢谢你提出来。
+Let me look into it and come back to you. ->> 我了解一下再回复你。
+I want to be honest with you about this. ->> 这件事我想对你坦诚。
+This conversation is a difficult one. ->> 这次谈话不太好开口。
+Performance hasn't been where it needs to be. ->> 表现没有达到应有的水平。
+Let's put together a concrete plan. ->> 我们制定一个具体计划。
+I want you to succeed here. ->> 我希望你在这里做成。
+We'll check in every two weeks. ->> 我们每两周碰一次。
+I know this is a lot to hear. ->> 我知道这些话不好听。
+Take some time to process it. ->> 给自己一点时间消化。
+Let's talk again on Thursday. ->> 我们周四再聊。
+Thanks for giving me a straight answer. ->> 谢谢你给我明确的答复。
+I'd like to give you some upward feedback. ->> 我想给你一些向上反馈。
+It would help if decisions came faster. ->> 决策能快一点会很有帮助。
+I sometimes don't know what the priority is. ->> 我有时不知道优先级是什么。
+More context on the why would help. ->> 多说说为什么会很有帮助。
+Thank you, that's useful to hear. ->> 谢谢，这对我很有用。
+I'll try to do better on that. ->> 这点我会努力改进。
+Please keep telling me things like this. ->> 这类话请继续跟我说。
+Let's keep this conversation going. ->> 我们保持这种沟通。
+I value your honesty. ->> 我很看重你的坦诚。
+Same time next month? ->> 下个月同一时间？

@@ -1,0 +1,100 @@
+I'm currently looking for a new role. ->> 我目前在找新工作。
+I'm open to opportunities. ->> 我对机会持开放态度。
+I came across your job posting. ->> 我看到了你们的招聘信息。
+I'd like to apply for the engineering position. ->> 我想申请工程师的职位。
+I'm very interested in this role. ->> 我对这个职位很感兴趣。
+I've attached my resume and cover letter. ->> 我附上了简历和求职信。
+Could you tell me more about the role? ->> 能多介绍一下这个职位吗？
+Is this position still open? ->> 这个职位还在招吗？
+What does the interview process look like? ->> 面试流程是怎样的？
+How many rounds are there? ->> 一共几轮？
+I'd love to schedule a call. ->> 我想约个电话聊聊。
+Thanks for reaching out. ->> 谢谢你联系我。
+I'm not looking right now, but thanks. ->> 我目前不考虑，但还是谢谢你。
+Could you send me the job description? ->> 你能把职位描述发我吗？
+Thanks for taking the time to meet me. ->> 谢谢您抽时间见我。
+It's great to finally meet you. ->> 很高兴终于见到您。
+Tell me a bit about yourself. ->> 介绍一下你自己。
+I've been working in backend development for six years. ->> 我做后端开发六年了。
+I started my career at a small startup. ->> 我职业生涯从一家小创业公司开始。
+Most recently I led a team of five. ->> 最近我带了一个五人团队。
+I'm responsible for the payment system. ->> 我负责支付系统。
+My day-to-day is mostly architecture and code review. ->> 我日常主要做架构和代码评审。
+Why are you interested in this role? ->> 你为什么对这个职位感兴趣？
+What attracted me was the scale of the problem. ->> 吸引我的是这个问题的规模。
+I'm looking for more ownership. ->> 我希望有更多主导权。
+I want to work closer to the product. ->> 我希望离产品更近一些。
+Why are you leaving your current job? ->> 你为什么离开现在的工作？
+I've learned a lot, but I'm ready for the next step. ->> 我学到很多，但准备好迈下一步了。
+The team was restructured. ->> 团队做了重组。
+I'm looking for a better fit. ->> 我在找更合适的地方。
+Tell me about a challenging project. ->> 讲一个有挑战的项目。
+Walk me through how you solved it. ->> 说说你是怎么解决的。
+The main difficulty was the legacy system. ->> 主要难点是遗留系统。
+I broke it down into three phases. ->> 我把它拆成三个阶段。
+We shipped it two weeks ahead of schedule. ->> 我们提前两周上线了。
+What would you do differently? ->> 你会怎么改进？
+Looking back, I'd involve QA earlier. ->> 现在回头看，我会更早让测试介入。
+Tell me about a time you failed. ->> 讲一次你失败的经历。
+I underestimated the timeline. ->> 我低估了所需时间。
+I learned to flag risks much earlier. ->> 我学会了更早预警风险。
+How do you handle conflict on a team? ->> 团队有冲突你怎么处理？
+I try to understand their reasoning first. ->> 我会先理解对方的思路。
+I focus on the problem, not the person. ->> 我对事不对人。
+How do you prioritize your work? ->> 你怎么排优先级？
+I look at impact versus effort. ->> 我看影响和投入的比值。
+I check in with my manager when it's unclear. ->> 不清楚的时候我会问经理。
+What are your strengths? ->> 你的优势是什么？
+I'm good at breaking down ambiguous problems. ->> 我擅长拆解模糊的问题。
+What's your biggest weakness? ->> 你最大的弱点是什么？
+I used to take on too much myself. ->> 我以前什么都自己扛。
+I've been working on delegating more. ->> 我在练习多分派任务。
+Where do you see yourself in five years? ->> 你五年后想成为什么样？
+I'd like to be leading a team. ->> 我希望能带团队。
+I'm more focused on depth than titles. ->> 比起头衔我更在意深度。
+Do you prefer working independently or in a team? ->> 你更喜欢独立工作还是团队合作？
+It depends on the task, honestly. ->> 老实说要看任务。
+How do you handle tight deadlines? ->> 你怎么应对紧张的截止时间？
+I communicate early if something's at risk. ->> 有风险我会尽早沟通。
+Do you have any questions for us? ->> 你有什么问题想问我们吗？
+What does success look like in this role? ->> 这个职位怎样算做得好？
+What's the team structure like? ->> 团队结构是怎样的？
+Who would I be reporting to? ->> 我向谁汇报？
+What's the biggest challenge the team faces? ->> 团队目前最大的挑战是什么？
+How would you describe the culture here? ->> 你怎么形容这里的文化？
+What does a typical week look like? ->> 典型的一周是什么样的？
+Is the team remote or in office? ->> 团队是远程还是坐班？
+How does the company handle work-life balance? ->> 公司怎么看待工作生活平衡？
+What are the next steps? ->> 接下来是什么流程？
+When can I expect to hear back? ->> 什么时候能收到消息？
+Is there anything that concerns you about my background? ->> 我的背景有什么让您顾虑的吗？
+I'd like to reiterate my interest in the role. ->> 我想再次表达对这个职位的兴趣。
+Thank you again for your time today. ->> 再次感谢您今天的时间。
+I really enjoyed our conversation. ->> 我们聊得很愉快。
+I look forward to hearing from you. ->> 期待您的回复。
+I wanted to follow up on my interview. ->> 我想跟进一下面试的事。
+Is there any update on my application? ->> 我的申请有进展吗？
+I'm still very interested in the position. ->> 我对这个职位依然很感兴趣。
+I've received another offer. ->> 我收到了另一个 offer。
+Could you let me know your timeline? ->> 能告诉我你们的时间安排吗？
+I'd appreciate a few more days to decide. ->> 希望能多给我几天考虑。
+Thank you for the offer. ->> 谢谢你们的 offer。
+I'm excited to accept. ->> 我很高兴接受。
+Could we discuss the compensation? ->> 我们能谈一下薪酬吗？
+What's the salary range for this role? ->> 这个职位的薪资范围是多少？
+I was hoping for something closer to this number. ->> 我期望能接近这个数字。
+Is there flexibility on the base? ->> 基本工资有商量余地吗？
+What does the total package include? ->> 整体待遇包含哪些？
+Are there bonuses or equity? ->> 有奖金或股权吗？
+How much vacation time is there? ->> 有多少假期？
+When would you need me to start? ->> 你们希望我什么时候入职？
+I need to give a month's notice. ->> 我需要提前一个月离职通知。
+Could we push the start date by two weeks? ->> 入职日期能推迟两周吗？
+After careful thought, I've decided to decline. ->> 慎重考虑后，我决定婉拒。
+It wasn't an easy decision. ->> 这个决定不容易。
+I hope we can stay in touch. ->> 希望我们能保持联系。
+Unfortunately we're moving forward with another candidate. ->> 很遗憾我们选择了另一位候选人。
+Could I get some feedback on my interview? ->> 能给我一些面试反馈吗？
+I'd love to be considered for future openings. ->> 希望以后有机会还能考虑我。
+Thanks for letting me know. ->> 谢谢告知。
+I appreciate the update either way. ->> 不管结果如何都谢谢你们的回复。

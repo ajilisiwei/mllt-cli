@@ -1,0 +1,100 @@
+Who's leading this project? ->> 这个项目谁负责？
+I'm taking point on this one. ->> 这个我来牵头。
+Can you own this piece? ->> 这块你能负责吗？
+I'll handle the backend side. ->> 后端这块我来。
+Let's split this into smaller tasks. ->> 我们把这个拆成小任务。
+How should we divide this up? ->> 我们怎么分工？
+I'll take the first half, you take the second. ->> 我做前半部分，你做后半部分。
+Can you cover for me while I'm out? ->> 我不在的时候你能顶一下吗？
+I'm happy to pick up the slack. ->> 我可以补上缺的部分。
+Where are we with the design? ->> 设计做到哪一步了？
+What's left to do? ->> 还剩什么要做？
+We're about halfway through. ->> 我们大概做了一半。
+It's mostly done, just needs review. ->> 基本做完了，就差评审。
+I'm still waiting on the data. ->> 我还在等数据。
+I'm blocked until they respond. ->> 他们不回复我就卡住了。
+That's blocking three other tasks. ->> 这卡住了另外三个任务。
+Let me know what's blocking you. ->> 告诉我你卡在哪。
+I'll unblock you on that today. ->> 我今天帮你解掉这个阻碍。
+Is there anything I can take off your plate? ->> 有什么我能帮你分担的吗？
+I've got too much on my plate right now. ->> 我现在手上事情太多了。
+I don't have the bandwidth this week. ->> 我这周没精力。
+Can this wait until next sprint? ->> 这个能等到下个迭代吗？
+Let's deprioritize that for now. ->> 这个先降优先级。
+What's the highest priority here? ->> 这里面什么最优先？
+If we can only do one, which one? ->> 只能做一个的话，选哪个？
+Let's focus on the critical path. ->> 我们先专注在关键路径上。
+That's a nice-to-have, not a must-have. ->> 那是锦上添花，不是必须的。
+Let's keep the scope tight. ->> 我们把范围控制住。
+This is starting to creep in scope. ->> 这个范围开始扩散了。
+That wasn't part of the original plan. ->> 这不在原计划里。
+We'd need more time for that. ->> 那样的话我们需要更多时间。
+Something has to give. ->> 总得舍弃点什么。
+We can do it fast or do it well, not both. ->> 要快还是要好，不能两全。
+What's the realistic timeline here? ->> 实际需要多久？
+I'd estimate about two weeks. ->> 我估计大概两周。
+That's optimistic. ->> 这估得有点乐观。
+Let's add some buffer. ->> 我们留点缓冲时间。
+We're tracking ahead of schedule. ->> 我们进度提前了。
+We're slightly behind. ->> 我们稍微落后了一点。
+We're going to miss the deadline. ->> 我们要赶不上截止日了。
+We need to flag this early. ->> 这个要早点提出来。
+I'd rather raise it now than surprise you later. ->> 我宁愿现在提，也不想到时候让你措手不及。
+Let's set a checkpoint for Wednesday. ->> 我们周三设个检查点。
+Can we do a quick sync tomorrow? ->> 明天能快速同步一下吗？
+Let's do a fifteen-minute standup. ->> 我们开个十五分钟的站会。
+Keep the updates in the channel. ->> 进展都发在群里。
+I'll post an update at the end of each day. ->> 我每天下班前发一次进展。
+Please update the ticket when you're done. ->> 做完了请更新工单。
+Is this tracked anywhere? ->> 这个有记录在哪吗？
+Can you create a ticket for it? ->> 你能建个工单吗？
+I'll assign it to you. ->> 我把它分给你。
+Move it to in progress. ->> 把它移到进行中。
+It's ready for review. ->> 可以评审了。
+Could you review my changes? ->> 你能看一下我的改动吗？
+I left a few comments. ->> 我留了几条评论。
+I've addressed your comments. ->> 我已经处理了你的意见。
+Looks good to me. ->> 我这边没问题。
+Just a couple of minor things. ->> 就几个小问题。
+Nothing blocking, feel free to merge. ->> 没有阻碍，可以合并了。
+Let's get a second pair of eyes on this. ->> 找人再看一遍。
+Could you double-check this before it ships? ->> 上线前你能再核一遍吗？
+We should test this properly first. ->> 我们该先好好测一下。
+Did anyone test the edge cases? ->> 有人测边界情况吗？
+It works on my machine. ->> 我这边是好的。
+I can't reproduce the issue. ->> 我复现不了这个问题。
+Can you send me the steps to reproduce? ->> 你能把复现步骤发我吗？
+I'll take a look this afternoon. ->> 我下午看一下。
+I found the root cause. ->> 我找到根本原因了。
+It was a config issue. ->> 是配置的问题。
+I've pushed a fix. ->> 我提交了修复。
+Can you verify on your end? ->> 你那边能验证一下吗？
+Confirmed, it's working now. ->> 确认了，现在好了。
+Let's roll it back for now. ->> 我们先回滚。
+We'll ship it tomorrow morning. ->> 我们明天上午上线。
+Let's not deploy on a Friday. ->> 我们别周五上线。
+Who's on call this week? ->> 这周谁值班？
+Ping me if anything breaks. ->> 出问题随时找我。
+I'll be around if you need me. ->> 需要我我都在。
+Sorry, I dropped the ball on that. ->> 抱歉，那件事我没跟上。
+That one slipped through the cracks. ->> 那个漏掉了。
+It's on me, I'll fix it today. ->> 是我的问题，我今天修好。
+Let's make sure that doesn't happen again. ->> 我们确保这种事不再发生。
+What can we do differently next time? ->> 下次我们可以怎么改进？
+Let's do a quick retro on this. ->> 我们简单复盘一下。
+What went well? ->> 哪些做得好？
+What would you change? ->> 你会改什么？
+Overall I think it went smoothly. ->> 总体我觉得挺顺利的。
+Great work, everyone. ->> 大家辛苦了，做得很好。
+Couldn't have done it without you. ->> 没有你我做不成。
+Thanks for jumping in on short notice. ->> 谢谢你临时救场。
+I really appreciate the extra effort. ->> 非常感谢你的额外付出。
+Let's celebrate when this ships. ->> 上线了我们庆祝一下。
+Who do I talk to about this? ->> 这事我该找谁？
+Is there a doc for this somewhere? ->> 这个有文档吗？
+Can you point me to the right person? ->> 你能告诉我该找谁吗？
+I'll ask around and find out. ->> 我问问看。
+Let's write this down so we don't forget. ->> 我们记下来免得忘了。
+I'll document the process. ->> 我来把流程写成文档。
+Let's keep everything in one place. ->> 我们把东西都放一处。
+Does everyone have access? ->> 大家都有权限吗？
