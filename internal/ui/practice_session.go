@@ -925,6 +925,10 @@ func (m PracticeSession) getCurrentItem() string {
 		return ""
 	}
 
+	if m.resourceType == practice.Words {
+		return m.formatWordItem(item)
+	}
+
 	primary, translation := practice.ParseLine(item)
 	primary = strings.TrimSpace(primary)
 	translation = strings.TrimSpace(translation)
@@ -942,6 +946,26 @@ func (m PracticeSession) getCurrentItem() string {
 
 	translationLine := "翻译: " + translation
 	return primary + "\n" + translationLine
+}
+
+// formatWordItem 按「单词 / 音标 / 释义」分行展示单词条目，音标不混入正文。
+func (m PracticeSession) formatWordItem(item string) string {
+	word, phonetic, meaning := practice.ParseWordLine(item)
+	if word == "" {
+		word = item
+	}
+
+	lines := []string{word}
+	if m.getShowTranslationConfig() {
+		if phonetic != "" {
+			lines = append(lines, "音标: "+phonetic)
+		}
+		if meaning != "" {
+			lines = append(lines, "翻译: "+meaning)
+		}
+	}
+
+	return strings.Join(lines, "\n")
 }
 
 func (m PracticeSession) getCurrentRawItem() string {
@@ -965,7 +989,12 @@ func (m PracticeSession) getShowTranslationConfig() bool {
 
 // 获取期望输入
 func (m PracticeSession) getExpectedInput(item string) string {
-	// 对于所有资源类型，使用ParseLine函数正确解析多种分隔符，只返回正文部分
+	// 单词资源需要额外剥离音标，避免用户被迫输入 "fool/fuːl/" 这类脏数据
+	if m.resourceType == practice.Words {
+		return practice.WordPrimaryText(item)
+	}
+
+	// 其余资源类型按通用分隔符取正文部分
 	content, _ := practice.ParseLine(item)
 	if content != "" {
 		return content

@@ -358,3 +358,55 @@ func TestGetCurrentItem(t *testing.T) {
 		t.Errorf("超出范围 getCurrentItem() = %v, want empty string", result)
 	}
 }
+
+// 单词与音标黏连时，期望输入必须只包含单词本身（回归 "fool/fuːl/" 问题）
+func TestGetExpectedInputStripsPhonetic(t *testing.T) {
+	setupPracticeSessionTest(t)
+
+	words := &PracticeSession{resourceType: practice.Words}
+	sentences := &PracticeSession{resourceType: practice.Sentences}
+
+	tests := []struct {
+		name     string
+		session  *PracticeSession
+		item     string
+		expected string
+	}{
+		{"缺少制表符", words, "fool/fuːl/\tn. 傻瓜，愚人", "fool"},
+		{"空格代替制表符", words, "gay /ɡeɪ/\tadj. 快乐的", "gay"},
+		{"规范三列格式", words, "abandon\t/əˈbændən/\tv. 遗弃", "abandon"},
+		{"词条本身含斜杠", words, "CI/CD\t/siː aɪ siː diː/\tn. 持续集成", "CI/CD"},
+		{"句子不受音标规则影响", sentences, "Are you kidding me?", "Are you kidding me?"},
+	}
+
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			if got := tt.session.getExpectedInput(tt.item); got != tt.expected {
+				t.Errorf("getExpectedInput(%q) = %q, want %q", tt.item, got, tt.expected)
+			}
+		})
+	}
+}
+
+// 单词条目应把音标单独成行展示，而不是混在正文或翻译里
+func TestGetCurrentItemSplitsPhonetic(t *testing.T) {
+	setupPracticeSessionTest(t)
+
+	session := &PracticeSession{
+		resourceType:   practice.Words,
+		items:          []string{"fool/fuːl/\tn. 傻瓜，愚人"},
+		practiceOrder:  []int{0},
+		completedCount: 0,
+	}
+
+	config.AppConfig.ShowTranslation = true
+	want := "fool\n音标: /fuːl/\n翻译: n. 傻瓜，愚人"
+	if got := session.getCurrentItem(); got != want {
+		t.Errorf("显示翻译时 getCurrentItem() = %q, want %q", got, want)
+	}
+
+	config.AppConfig.ShowTranslation = false
+	if got := session.getCurrentItem(); got != "fool" {
+		t.Errorf("隐藏翻译时 getCurrentItem() = %q, want %q", got, "fool")
+	}
+}

@@ -37,10 +37,13 @@ func WordPractice(fileName string) error {
 	for {
 		// 获取当前单词
 		wordLine := words[index]
-		word, translation := ParseLine(wordLine)
+		word, phonetic, translation := ParseWordLine(wordLine)
 
 		// 显示单词
 		fmt.Printf("请输入: %s\n", word)
+		if showTranslation && phonetic != "" {
+			fmt.Printf("音标: %s\n", phonetic)
+		}
 
 		// 读取用户输入
 		input, _ := reader.ReadString('\n')

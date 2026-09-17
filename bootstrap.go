@@ -16,6 +16,11 @@ const (
 	resourcesDir    = "resources"
 	assetsDir       = "assets"
 	userDataDirName = "user-data"
+
+	// resourceVersionFile 标记内置资源的版本，内容变化时触发一次覆盖式同步。
+	resourceVersionFile = "VERSION"
+	// resourceBackupDirName 存放覆盖前的旧资源，避免用户导入的内容被冲掉。
+	resourceBackupDirName = "resources-backup"
 )
 
 //go:embed config/config.yaml
@@ -50,7 +55,7 @@ func EnsureAssets() error {
 		return err
 	}
 
-	if err := copyEmbeddedTree(resourcesDir, filepath.Join(baseDir, resourcesDir)); err != nil {
+	if err := syncBundledResources(baseDir); err != nil {
 		return err
 	}
 

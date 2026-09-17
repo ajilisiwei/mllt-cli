@@ -34,8 +34,9 @@ type ItemState struct {
 
 // Schedule 表示某个资源文件的记忆计划。
 type Schedule struct {
-	Items    map[string]ItemState `json:"items"`
-	filePath string               `json:"-"`
+	Items        map[string]ItemState `json:"items"`
+	filePath     string               `json:"-"`
+	resourceType string               `json:"-"`
 }
 
 // Load 根据资源类型和文件名加载记忆计划，并确保所有条目存在。
@@ -52,8 +53,9 @@ func Load(resourceType, fileName string, items []string) (*Schedule, error) {
 	path = filepath.Join(path, safeFileName+".json")
 
 	schedule := &Schedule{
-		Items:    make(map[string]ItemState),
-		filePath: path,
+		Items:        make(map[string]ItemState),
+		filePath:     path,
+		resourceType: resourceType,
 	}
 
 	if data, err := os.ReadFile(path); err == nil {
@@ -63,6 +65,7 @@ func Load(resourceType, fileName string, items []string) (*Schedule, error) {
 			}
 		}
 		schedule.filePath = path
+		schedule.resourceType = resourceType
 	}
 
 	schedule.ensureItems(items)
@@ -207,6 +210,14 @@ func (s *Schedule) ensureItems(items []string) {
 }
 
 func (s *Schedule) keyFor(item string) string {
+	// 单词条目以剥离音标后的单词为键，避免同一个词因脏数据产生两条记忆记录
+	if s.resourceType == practice.Words {
+		if key := strings.TrimSpace(practice.WordPrimaryText(item)); key != "" {
+			return key
+		}
+		return strings.TrimSpace(item)
+	}
+
 	primary, _ := practice.ParseLine(item)
 	key := strings.TrimSpace(primary)
 	if key == "" {
