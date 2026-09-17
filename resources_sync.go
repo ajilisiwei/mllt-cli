@@ -88,8 +88,11 @@ func refreshEmbeddedTree(root, dest, backupDir string) error {
 			if bytes.Equal(current, bundled) {
 				return nil
 			}
-			if err := backupFile(filepath.Join(backupDir, rel), current); err != nil {
-				return err
+			// 版本标记不含用户内容，备份它只会产生一堆无意义的目录
+			if rel != resourceVersionFile {
+				if err := backupFile(filepath.Join(backupDir, rel), current); err != nil {
+					return err
+				}
 			}
 		case !os.IsNotExist(err):
 			return err

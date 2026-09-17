@@ -104,3 +104,24 @@ func findBackup(t *testing.T, backupRoot string) []byte {
 	}
 	return data
 }
+
+// 版本标记文件本身不应产生备份，否则每次升级都会留下一个只含版本号的空目录
+func TestSyncBundledResourcesDoesNotBackUpVersionMarker(t *testing.T) {
+	baseDir := t.TempDir()
+	if err := syncBundledResources(baseDir); err != nil {
+		t.Fatalf("首次同步失败: %v", err)
+	}
+
+	// 只改版本标记，其余资源保持一致
+	if err := os.WriteFile(filepath.Join(baseDir, resourcesDir, resourceVersionFile), []byte("0\n"), 0o644); err != nil {
+		t.Fatal(err)
+	}
+
+	if err := syncBundledResources(baseDir); err != nil {
+		t.Fatalf("升级同步失败: %v", err)
+	}
+
+	if _, err := os.Stat(filepath.Join(baseDir, resourceBackupDirName)); !os.IsNotExist(err) {
+		t.Fatalf("不应产生备份目录，err = %v", err)
+	}
+}
