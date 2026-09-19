@@ -1,0 +1,101 @@
+aspect	/ˈæspekt/	n. 方面；视角	The technical aspect is the easy part.	技术层面反而是容易的部分。	in every aspect｜a key aspect of
+assumption	/əˈsʌmpʃn/	n. 假设，前提；承担	The whole plan rests on one assumption.	整个计划建立在一个假设之上。	make an assumption｜a safe assumption	assume v. 假定
+basis	/ˈbeɪsɪs/	n. 基础，依据；方式	We meet on a weekly basis.	我们每周碰一次。	on a regular basis｜the basis for	basic adj. 基本的 · baseline n. 基准
+capacity	/kəˈpæsəti/	n. 容量；能力；身份	We're running near full capacity.	我们快满负荷了。	at full capacity｜in one's capacity as	capable adj. 有能力的
+circumstance	/ˈsɜːrkəmstæns/	n. 情况，情形；境况	Under normal circumstances it takes a day.	正常情况下要一天。	under the circumstances｜in no circumstances
+component	/kəmˈpoʊnənt/	n. 组成部分，部件	Each component can be tested on its own.	每个组件都能单独测试。	a key component｜component parts
+consensus	/kənˈsensəs/	n. 共识，一致意见	We reached a consensus after an hour.	一小时后我们达成了共识。	reach a consensus｜build consensus
+consequence	/ˈkɑːnsəkwens/	n. 后果，结果；重要性	Nobody thought about the consequences.	没人考虑过后果。	as a consequence｜face the consequences	consequent adj. 随之发生的 · consequently adv. 因此
+constraint	/kənˈstreɪnt/	n. 限制，约束条件	Time is our biggest constraint here.	时间是我们最大的限制。	a major constraint｜budget constraints	constrain v. 限制 · constrained adj. 受限的
+context	/ˈkɑːntekst/	n. 背景，语境；上下文	That quote is meaningless without context.	脱离上下文那句话毫无意义。	in this context｜out of context	contextual adj. 上下文的
+criterion	/kraɪˈtɪriən/	n. 标准，准则（复数 criteria）	What are the criteria for approval?	批准的标准是什么？	meet the criteria｜selection criteria
+dimension	/dɪˈmenʃn/	n. 维度，方面；尺寸	There's a political dimension to this too.	这件事还有政治层面。	a new dimension｜in three dimensions
+discipline	/ˈdɪsəplɪn/	n. 学科；纪律，自律 v. 训练；惩戒	It takes discipline to write tests first.	先写测试是需要自律的。	self-discipline｜a different discipline	disciplined adj. 有纪律的
+dispute	/dɪˈspjuːt/	n. 争议，纠纷 v. 质疑；争论	The dispute is about who owns the data.	争议在于数据归谁。	a dispute over｜settle a dispute	disputed adj. 有争议的
+domain	/doʊˈmeɪn/	n. 领域；范围；域名	That's outside my domain, honestly.	说实话那不是我的领域。	in the public domain｜domain knowledge
+element	/ˈelɪmənt/	n. 要素，成分；元素	Trust is the key element here.	信任是这里的关键要素。	a key element｜the human element	elementary adj. 基本的
+emphasis	/ˈemfəsɪs/	n. 重点，强调	The emphasis has shifted to quality.	重点已经转向质量了。	place emphasis on｜with emphasis	emphasize v. 强调 · emphatic adj. 强调的
+evidence	/ˈevɪdəns/	n. 证据，迹象	Is there any evidence this actually works?	有证据表明这真的有用吗？	evidence of｜hard evidence｜in evidence	evident adj. 明显的 · evidently adv. 显然
+extent	/ɪkˈstent/	n. 程度，范围	To some extent I agree with you.	某种程度上我同意你。	to what extent｜to some extent｜the full extent
+factor	/ˈfæktər/	n. 因素 v. 把……计入	Cost wasn't the deciding factor.	成本不是决定因素。	a key factor｜factor in（把……考虑进去）
+feature	/ˈfiːtʃər/	n. 特点；功能 v. 以……为特色	The best feature is how fast it starts.	最好的一点是启动快。	a key feature｜feature prominently	featured adj. 特色的
+framework	/ˈfreɪmwɜːrk/	n. 框架，体系	We need a framework for making these calls.	做这类决策我们需要一套框架。	a legal framework｜within the framework of
+hypothesis	/haɪˈpɑːθəsɪs/	n. 假说，假设	The hypothesis turned out to be wrong.	这个假设最后被证明是错的。	test a hypothesis｜a working hypothesis	hypothetical adj. 假设的
+implication	/ˌɪmplɪˈkeɪʃn/	n. 影响，后果；言外之意	Have we thought through the implications?	我们把影响想清楚了吗？	the implications of｜by implication	implicit adj. 含蓄的 · imply v. 暗示
+incentive	/ɪnˈsentɪv/	n. 激励，动机	There's no incentive to fix it properly.	没有动力去把它彻底修好。	an incentive to do｜financial incentive
+initiative	/ɪˈnɪʃətɪv/	n. 倡议，举措；主动性	She took the initiative and just fixed it.	她主动把问题解决了。	take the initiative｜on one's own initiative
+insight	/ˈɪnsaɪt/	n. 洞察，见解；领悟	That interview gave us a real insight.	那次访谈让我们看到了关键。	insight into｜valuable insight	insightful adj. 有见地的
+instance	/ˈɪnstəns/	n. 例子，实例；实例（程序）	For instance, look at what happened in March.	举个例子，看看三月发生了什么。	for instance｜in this instance
+integrity	/ɪnˈteɡrəti/	n. 完整性；正直	The migration must preserve data integrity.	迁移必须保证数据完整性。	data integrity｜personal integrity
+interval	/ˈɪntərvl/	n. 间隔，间歇；幕间休息	We poll at five-second intervals.	我们每五秒轮询一次。	at regular intervals｜a short interval
+mechanism	/ˈmekənɪzəm/	n. 机制；机械装置	There's no mechanism for rolling this back.	没有回滚这个的机制。	a mechanism for｜a defence mechanism
+norm	/nɔːrm/	n. 常态；规范	Remote work is the norm here now.	远程办公在这里已成常态。	the norm｜social norms	normal adj. 正常的 · normalize v. 使正常化
+notion	/ˈnoʊʃn/	n. 观念，想法；概念	I have no notion of how long it'll take.	我完全不知道要多久。	the notion that｜have no notion
+objective	/əbˈdʒektɪv/	n. 目标 adj. 客观的	What's the objective of this meeting?	这次会的目标是什么？	meet an objective｜be objective about	objectivity n. 客观性
+obligation	/ˌɑːblɪˈɡeɪʃn/	n. 义务，责任	We're under no obligation to accept it.	我们没有义务接受。	under an obligation｜meet an obligation	obligatory adj. 强制的 · oblige v. 迫使；施恩
+outcome	/ˈaʊtkʌm/	n. 结果，成果	The outcome was better than anyone expected.	结果比所有人预期的都好。	the outcome of｜a positive outcome
+parameter	/pəˈræmɪtər/	n. 参数；界限，范围	Let's agree on the parameters first.	我们先把范围定下来。	set parameters｜within the parameters of
+perspective	/pərˈspektɪv/	n. 视角，看法；透视	From a user's perspective this is confusing.	从用户视角看这很让人困惑。	from one's perspective｜put sth in perspective
+phase	/feɪz/	n. 阶段 v. 分阶段进行	We're still in the early phase.	我们还在早期阶段。	in phases｜phase out（逐步淘汰）
+phenomenon	/fəˈnɑːmɪnən/	n. 现象（复数 phenomena）	This is a well-documented phenomenon.	这是有充分记载的现象。	a common phenomenon｜a natural phenomenon	phenomenal adj. 非凡的
+policy	/ˈpɑːləsi/	n. 政策，方针；保单	What's the company policy on this?	公司对这个的规定是什么？	a policy on｜company policy
+potential	/pəˈtenʃl/	n. 潜力 adj. 潜在的	This has real potential if we invest.	如果投入，这个很有潜力。	realize one's potential｜a potential risk	potentially adv. 可能地
+precedent	/ˈpresɪdənt/	n. 先例，前例	That would set a bad precedent.	那会开一个坏头。	set a precedent｜without precedent	unprecedented adj. 前所未有的
+premise	/ˈpremɪs/	n. 前提，假定	The whole argument rests on a false premise.	整个论证建立在错误的前提上。	on the premise that｜a false premise
+principle	/ˈprɪnsəpl/	n. 原则，准则；原理	It's a matter of principle for her.	对她来说这是原则问题。	in principle（原则上）｜on principle｜a guiding principle
+procedure	/prəˈsiːdʒər/	n. 程序，步骤；手术	Is there a standard procedure for this?	这个有标准流程吗？	follow a procedure｜standard procedure	procedural adj. 程序上的
+prospect	/ˈprɑːspekt/	n. 前景，可能性；潜在客户	The prospect of another rewrite is depressing.	一想到又要重构就难受。	the prospect of｜good prospects	prospective adj. 潜在的
+rationale	/ˌræʃəˈnæl/	n. 理由，依据；原理	Can you explain the rationale behind this?	你能说说这么做的依据吗？	the rationale for｜explain the rationale	rational adj. 理性的
+scope	/skoʊp/	n. 范围；余地 v. 界定范围	That's out of scope for this release.	这个不在本次发布范围内。	in scope｜out of scope｜scope creep
+sequence	/ˈsiːkwəns/	n. 顺序，序列 v. 排序	The steps have to run in sequence.	这些步骤必须按顺序执行。	in sequence｜out of sequence	sequential adj. 顺序的
+significance	/sɪɡˈnɪfɪkəns/	n. 重要性，意义	I don't think we grasped its significance.	我觉得我们没意识到它的重要性。	the significance of｜statistical significance	significant adj. 重大的 · signify v. 表示
+stake	/steɪk/	n. 利害关系；股份；赌注	There's a lot at stake for both sides.	双方都有很大的利害关系。	at stake｜a stake in｜stakeholder	stakeholder n. 利益相关方
+status	/ˈsteɪtəs/	n. 状态；地位，身份	What's the status of the migration?	迁移现在什么状态？	status update｜marital status｜status quo
+strategy	/ˈstrætədʒi/	n. 策略，战略	Our strategy for this quarter is retention.	本季度的策略是做留存。	a strategy for｜adopt a strategy	strategic adj. 战略的 · strategically adv. 战略上
+structure	/ˈstrʌktʃər/	n. 结构 v. 组织，安排	The structure of the doc makes it hard to read.	文档的结构让人读不下去。	organizational structure｜structure a plan	structural adj. 结构上的 · structured adj. 有条理的
+substance	/ˈsʌbstəns/	n. 实质，要点；物质	There's not much substance to the proposal.	这份方案没什么实质内容。	in substance｜lack substance	substantial adj. 大量的；实质的 · substantive adj. 实质性的
+tendency	/ˈtendənsi/	n. 倾向，趋势	I have a tendency to over-plan.	我有过度规划的倾向。	a tendency to do｜a growing tendency	tend v. 倾向于
+threshold	/ˈθreʃhoʊld/	n. 门槛，临界值；门口	We set the alert threshold too low.	我们把告警阈值设得太低了。	cross a threshold｜a low threshold
+trait	/treɪt/	n. 特征，特点（尤指性格）	Patience is a useful trait in this job.	这份工作里耐心是个有用的特质。	a personality trait｜a common trait
+trend	/trend/	n. 趋势，动向 v. 走向；上热门	The trend has been flat for three months.	这个趋势已经平了三个月。	a downward trend｜buck the trend	trending adj. 热门的
+variable	/ˈveriəbl/	n. 变量 adj. 可变的，多变的	There are too many variables to be sure.	变量太多，无法确定。	a key variable｜highly variable	variability n. 可变性 · vary v. 变化
+virtue	/ˈvɜːrtʃuː/	n. 优点；美德	Its main virtue is that it's simple.	它最大的优点就是简单。	by virtue of（凭借）｜a virtue of	virtuous adj. 有德行的
+bias	/ˈbaɪəs/	n. 偏见，偏向 v. 使有偏见	We need to control for selection bias.	我们得控制选择偏差。	a bias toward｜unconscious bias	biased adj. 有偏见的
+bottleneck	/ˈbɑːtlnek/	n. 瓶颈	Review is the bottleneck, not coding.	瓶颈在评审，不在写代码。	a bottleneck in｜remove a bottleneck
+compromise	/ˈkɑːmprəmaɪz/	n. 折中，妥协 v. 妥协；损害	Every design is a compromise somewhere.	任何设计都是某处的折中。	reach a compromise｜compromise on｜compromise quality
+conflict	/ˈkɑːnflɪkt/	n. 冲突，矛盾 v. 抵触	These two requirements conflict with each other.	这两个要求互相矛盾。	a conflict of interest｜conflict with	conflicting adj. 相互矛盾的
+contrast	/ˈkɑːntræst/	n. 对比，反差 v. 形成对照	In contrast, the old version was much slower.	相比之下，旧版本慢多了。	in contrast｜by contrast｜contrast with
+controversy	/ˈkɑːntrəvɜːrsi/	n. 争议，争论	The decision caused a lot of controversy.	这个决定引发了很大争议。	cause controversy｜a matter of controversy	controversial adj. 有争议的
+correlation	/ˌkɔːrəˈleɪʃn/	n. 相关性，关联	Correlation isn't causation.	相关不等于因果。	a strong correlation｜correlation between	correlate v. 相关
+crisis	/ˈkraɪsɪs/	n. 危机（复数 crises）	We handled the outage like a crisis.	我们把那次故障当危机来处理。	a crisis of confidence｜in a crisis	critical adj. 危急的；关键的
+discrepancy	/dɪsˈkrepənsi/	n. 差异，不一致	There's a discrepancy between the two reports.	两份报告之间有出入。	a discrepancy in｜account for a discrepancy
+estimate	/ˈestɪmət/	n. 估计，估算 v. 估计	That estimate was off by a factor of two.	那个估算差了一倍。	a rough estimate｜underestimate｜overestimate	estimation n. 估计
+exception	/ɪkˈsepʃn/	n. 例外	With one exception, everything went fine.	除了一个例外，一切顺利。	with the exception of｜make an exception	exceptional adj. 卓越的；例外的
+expertise	/ˌekspɜːrˈtiːz/	n. 专业知识，专长	We don't have the expertise in-house.	我们内部没有这方面的专长。	expertise in｜technical expertise	expert n. 专家
+exposure	/ɪkˈspoʊʒər/	n. 接触；曝光；风险敞口	I want more exposure to the product side.	我想多接触产品那边。	exposure to｜media exposure	expose v. 使接触；暴露
+hierarchy	/ˈhaɪərɑːrki/	n. 层级，等级体系	The hierarchy here is pretty flat.	这里的层级挺扁平的。	a flat hierarchy｜at the top of the hierarchy	hierarchical adj. 分层的
+impact	/ˈɪmpækt/	n. 影响，冲击 v. 影响	What's the impact on existing users?	对现有用户有什么影响？	have an impact on｜high impact	impactful adj. 有影响力的
+infrastructure	/ˈɪnfrəstrʌktʃər/	n. 基础设施	Half the cost is infrastructure.	一半成本花在基础设施上。	build infrastructure｜critical infrastructure
+insurance	/ɪnˈʃʊrəns/	n. 保险；保障措施	The backup is our insurance.	备份就是我们的保障。	take out insurance｜insurance against	insure v. 投保
+liability	/ˌlaɪəˈbɪləti/	n. 责任，债务；累赘	That old system is becoming a liability.	那套老系统正在变成负担。	limit liability｜a liability to	liable adj. 有责任的；易于……的
+margin	/ˈmɑːrdʒɪn/	n. 利润率；余地；页边	We have very little margin for error.	我们几乎没有容错余地。	profit margin｜by a wide margin｜margin for error	marginal adj. 微小的；边缘的
+metric	/ˈmetrɪk/	n. 指标，度量	We're tracking the wrong metric.	我们盯错指标了。	a key metric｜vanity metrics
+momentum	/moʊˈmentəm/	n. 势头，冲劲；动量	We lost momentum over the holidays.	假期里我们失去了势头。	gain momentum｜lose momentum
+obstacle	/ˈɑːbstəkl/	n. 障碍，阻碍	The main obstacle is getting approval.	主要障碍是拿到审批。	an obstacle to｜overcome an obstacle
+overhead	/ˈoʊvərhed/	n. 管理成本；开销 adj. 头顶上的	The coordination overhead is huge.	协调成本非常高。	reduce overhead｜administrative overhead
+paradigm	/ˈpærədaɪm/	n. 范式，模式	That was a real paradigm shift.	那是一次真正的范式转变。	a paradigm shift｜under this paradigm
+pitfall	/ˈpɪtfɔːl/	n. 陷阱，易犯的错误	The classic pitfall is optimizing too early.	典型的坑是过早优化。	a common pitfall｜avoid a pitfall
+proportion	/prəˈpɔːrʃn/	n. 比例；部分；均衡	A large proportion of tickets are duplicates.	很大一部分工单是重复的。	in proportion to｜out of proportion	proportional adj. 成比例的
+rationality	/ˌræʃəˈnæləti/	n. 理性，合理性	Don't expect perfect rationality from users.	别指望用户完全理性。	bounded rationality｜question the rationality	rational adj. 理性的
+remedy	/ˈremədi/	n. 补救办法；疗法 v. 补救	There's no quick remedy for this.	这个没有速效办法。	a remedy for｜remedy a situation	remedial adj. 补救的
+resemblance	/rɪˈzembləns/	n. 相似，相像	It bears a strong resemblance to the old design.	它和老设计非常像。	bear a resemblance to｜a striking resemblance	resemble v. 像
+residue	/ˈrezɪduː/	n. 残留，剩余物	There's still some residue from the old config.	旧配置还留了点残余。	leave a residue｜chemical residue	residual adj. 残余的
+revenue	/ˈrevənuː/	n. 收入，营收	Revenue grew 12% year over year.	营收同比增长百分之十二。	generate revenue｜revenue stream
+scenario	/səˈnærioʊ/	n. 情景，设想；方案	What's the worst-case scenario?	最坏的情况是什么？	a worst-case scenario｜in this scenario
+sector	/ˈsektər/	n. 部门，行业；扇区	She moved from the public sector.	她是从公共部门过来的。	the private sector｜the tech sector
+spectrum	/ˈspektrəm/	n. 范围，谱系；光谱	Opinions covered the whole spectrum.	各种意见都有。	across the spectrum｜at the other end of the spectrum
+terminology	/ˌtɜːrməˈnɑːlədʒi/	n. 术语，专业词汇	The terminology here confuses newcomers.	这里的术语让新人很困惑。	technical terminology｜agree on terminology	term n. 术语
+trade-off	/ˈtreɪd ɔːf/	n. 权衡，取舍	It's a trade-off between speed and safety.	这是速度和安全之间的取舍。	a trade-off between｜make a trade-off
+transition	/trænˈzɪʃn/	n. 过渡，转变 v. 过渡	The transition took about three months.	过渡期大概三个月。	a smooth transition｜transition to	transitional adj. 过渡的
+uncertainty	/ʌnˈsɜːrtnti/	n. 不确定性	There's a lot of uncertainty around the date.	日期上有很大不确定性。	reduce uncertainty｜in the face of uncertainty	uncertain adj. 不确定的
+velocity	/vəˈlɑːsəti/	n. 速度，速率	Our velocity dropped after the reorg.	重组之后我们的速度下来了。	increase velocity｜at high velocity

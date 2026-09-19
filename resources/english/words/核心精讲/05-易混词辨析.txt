@@ -1,0 +1,103 @@
+principal	/ˈprɪnsəpl/	adj. 主要的 n. 校长；本金（≠ principle 原则）	The principal reason is cost.	主要原因是成本。	the principal cause｜principal and interest	principally adv. 主要地
+affect	/əˈfekt/	v. 影响；感动（动词；≠ effect 作名词指效果）	Does this affect existing users?	这会影响现有用户吗？	affect sb/sth｜be affected by	affected adj. 受影响的
+effect	/ɪˈfekt/	n. 效果，影响 v. 实现（≠ affect 作动词指影响）	The change had no effect at all.	这次改动完全没效果。	have an effect on｜take effect｜in effect	effective adj. 有效的 · effectively adv. 实际上
+accept	/əkˈsept/	v. 接受，认可（≠ except 除……之外）	They accepted our proposal.	他们接受了我们的方案。	accept an offer｜accept responsibility	acceptance n. 接受 · acceptable adj. 可接受的
+except	/ɪkˈsept/	prep. 除……之外 conj. 只是（≠ accept 接受）	Everything works except the export.	除了导出，其他都正常。	except for｜except that	exception n. 例外
+access	/ˈækses/	n. 访问权限 v. 访问，存取（≠ excess 过量）	I don't have access to that folder.	我没有那个目录的权限。	have access to｜grant access	accessible adj. 可访问的
+excess	/ɪkˈses/	n. 过量，超出 adj. 过多的（≠ access 访问）	Anything in excess of ten is charged extra.	超过十个的部分要另外收费。	in excess of｜to excess	excessive adj. 过度的
+advice	/ədˈvaɪs/	n. 建议（名词，不可数；≠ advise 动词）	That's good advice, thanks.	这个建议很好，谢谢。	take sb's advice｜a piece of advice
+advise	/ədˈvaɪz/	v. 建议，劝告（动词；≠ advice 名词）	I'd advise waiting another week.	我建议再等一周。	advise sb to do｜advise against	adviser n. 顾问 · advisory adj. 咨询的
+device	/dɪˈvaɪs/	n. 设备，装置（名词；≠ devise 动词）	It works on every device we tested.	我们测过的每台设备上都正常。	a mobile device｜a safety device
+devise	/dɪˈvaɪz/	v. 想出，设计（动词；≠ device 名词）	They devised a clever workaround.	他们想出了一个巧妙的变通办法。	devise a plan｜devise a method
+complement	/ˈkɑːmplɪment/	v. 补充，与……相配 n. 补充物（≠ compliment 称赞）	The two tools complement each other.	这两个工具互为补充。	complement each other｜a full complement	complementary adj. 互补的
+compliment	/ˈkɑːmplɪment/	n. 称赞 v. 赞美（≠ complement 补充）	She paid him a real compliment.	她着实夸了他一句。	pay sb a compliment｜with compliments	complimentary adj. 赞美的；免费的
+conscious	/ˈkɑːnʃəs/	adj. 有意识的，察觉到的（≠ conscience 良心）	I made a conscious decision to stop.	我是有意识地决定停下来的。	be conscious of｜a conscious effort	consciously adv. 有意识地 · consciousness n. 意识
+conscience	/ˈkɑːnʃəns/	n. 良心，良知（名词；≠ conscious 形容词）	My conscience is clear on this.	这件事我问心无愧。	a clear conscience｜in good conscience	conscientious adj. 认真负责的
+continual	/kənˈtɪnjuəl/	adj. 频繁反复的，时断时续（≠ continuous 不间断）	The continual interruptions killed my focus.	不断被打断让我没法专注。	continual interruptions｜continual changes	continually adv. 不断地
+continuous	/kənˈtɪnjuəs/	adj. 连续不断的，中间无间断（≠ continual 反复的）	We need continuous monitoring, not spot checks.	我们要持续监控，不是抽查。	continuous integration｜a continuous process	continuously adv. 持续地
+council	/ˈkaʊnsl/	n. 委员会，理事会（≠ counsel 建议或律师）	The council meets twice a year.	理事会一年开两次会。	a city council｜a council member	councillor n. 议员
+counsel	/ˈkaʊnsl/	n. 建议；法律顾问 v. 劝告（≠ council 委员会）	We sought outside counsel.	我们请了外部法律顾问。	seek counsel｜legal counsel	counsellor n. 顾问
+credible	/ˈkredəbl/	adj. 可信的，有说服力的（≠ credulous 轻信的）	That's a credible explanation.	那是个可信的解释。	a credible source｜credible evidence	credibility n. 可信度
+credulous	/ˈkredʒələs/	adj. 轻信的，易受骗的（≠ credible 可信的）	Don't be so credulous about vendor claims.	别那么轻信供应商的说法。	overly credulous｜a credulous audience
+defer	/dɪˈfɜːr/	v. 推迟；听从（≠ differ 不同）	Let's defer this to next quarter.	这个推到下个季度。	defer a decision｜defer to sb	deferral n. 延期
+differ	/ˈdɪfər/	v. 不同；意见相左（≠ defer 推迟）	The two versions differ in one place.	两个版本只有一处不同。	differ from｜differ on｜agree to differ	difference n. 差异 · different adj. 不同的
+discreet	/dɪˈskriːt/	adj. 谨慎的，不张扬的（≠ discrete 离散的）	Please be discreet about the numbers.	这些数字请你别声张。	be discreet about｜a discreet inquiry	discretion n. 谨慎；自行决定权
+discrete	/dɪˈskriːt/	adj. 离散的，分立的（≠ discreet 谨慎的）	Break it into discrete steps.	把它拆成一个个独立的步骤。	discrete values｜discrete units	discretely adv. 分立地
+eminent	/ˈemɪnənt/	adj. 杰出的，著名的（≠ imminent 迫近的）	She's an eminent figure in the field.	她是这个领域的知名人物。	an eminent scholar｜eminently suitable	eminence n. 卓越
+imminent	/ˈɪmɪnənt/	adj. 迫在眉睫的，即将发生的（≠ eminent 杰出的）	A release is imminent.	发布马上就要开始了。	imminent danger｜an imminent deadline	imminently adv. 即将
+ensure	/ɪnˈʃʊr/	v. 确保某事做到（≠ insure 投保，≠ assure 向人保证）	Please ensure the backup runs nightly.	请确保备份每晚执行。	ensure that｜ensure safety
+insure	/ɪnˈʃʊr/	v. 给……投保（≠ ensure 确保）	The equipment is insured against theft.	设备投了失窃险。	insure against｜fully insured	insurance n. 保险
+especially	/ɪˈspeʃəli/	adv. 尤其，特别是，强调程度（≠ specially 专门地）	It's slow, especially on mobile.	它很慢，手机上尤其明显。	especially when｜not especially
+specially	/ˈspeʃəli/	adv. 专门地，为某目的特地（≠ especially 尤其）	This build was made specially for testing.	这个版本是专门为测试做的。	specially designed｜specially made
+farther	/ˈfɑːrðər/	adv. 更远，用于物理距离（≠ further 更进一步）	The office is farther than I thought.	办公室比我想的远。	farther away｜farther down the road
+further	/ˈfɜːrðər/	adv. 进一步 adj. 更多的 v. 推进（抽象距离；≠ farther 物理更远）	We'll discuss it further tomorrow.	我们明天进一步讨论。	further discussion｜until further notice	furthermore adv. 此外
+formally	/ˈfɔːrməli/	adv. 正式地（≠ formerly 以前）	It hasn't been formally approved yet.	还没有正式批准。	formally announce｜formally approved	formal adj. 正式的
+formerly	/ˈfɔːrmərli/	adv. 以前，从前（≠ formally 正式地）	She was formerly on the design team.	她以前在设计团队。	formerly known as｜formerly of	former adj. 以前的
+historic	/hɪˈstɔːrɪk/	adj. 有历史意义的，重大的（≠ historical 历史上的）	That was a historic decision for the company.	那对公司来说是有历史意义的决定。	a historic moment｜a historic agreement
+historical	/hɪˈstɔːrɪkl/	adj. 历史的，与历史有关的（≠ historic 有重大意义的）	We pulled the historical data for comparison.	我们调了历史数据做对比。	historical data｜historical records	historically adv. 历史上
+elicit	/ɪˈlɪsɪt/	v. 引出，探出回应或信息（≠ illicit 非法的）	The survey elicited very few responses.	这次问卷没收到多少回复。	elicit a response｜elicit information
+illicit	/ɪˈlɪsɪt/	adj. 非法的，违禁的（≠ elicit 引出）	They found illicit use of the API keys.	他们发现了密钥的违规使用。	illicit access｜illicit trade	illicitly adv. 非法地
+emigrate	/ˈemɪɡreɪt/	v. 移居国外，从本国出去（≠ immigrate 移入）	They emigrated in the nineties.	他们九十年代移居国外。	emigrate from｜emigrate to	emigration n. 移出
+immigrate	/ˈɪmɪɡreɪt/	v. 移民进入，到本国来（≠ emigrate 移出）	Her parents immigrated when she was two.	她两岁时父母移民过来。	immigrate to｜immigrate into	immigration n. 移民 · immigrant n. 移民
+industrial	/ɪnˈdʌstriəl/	adj. 工业的，产业的（≠ industrious 勤奋的）	This is an industrial-grade solution.	这是工业级的方案。	industrial design｜an industrial scale	industry n. 行业
+industrious	/ɪnˈdʌstriəs/	adj. 勤奋的，刻苦的（≠ industrial 工业的）	He's quiet but industrious.	他话不多但很勤奋。	an industrious worker｜industrious habits	industriously adv. 勤奋地
+ingenious	/ɪnˈdʒiːniəs/	adj. 巧妙的，别出心裁的（≠ ingenuous 天真的）	That's an ingenious solution.	那个方案真是巧妙。	an ingenious idea｜ingenious design	ingenuity n. 巧思
+ingenuous	/ɪnˈdʒenjuəs/	adj. 天真直率的，不设防的（≠ ingenious 巧妙的）	His question was ingenuous, not sarcastic.	他那个问题是真心问的，不是讽刺。	an ingenuous remark｜ingenuous charm
+later	/ˈleɪtər/	adv. 后来，稍后 adj. 较晚的（时间；≠ latter 后者）	Let's talk about it later.	这个我们稍后聊。	sooner or later｜see you later
+latter	/ˈlætər/	adj. 后者的 n. 后者，两者中的后一个（≠ later 稍后）	Of the two options, I prefer the latter.	两个方案里我更倾向后者。	the former … the latter｜the latter half
+lay	/leɪ/	v. 放置，铺设，及物要带宾语（≠ lie 躺，不及物）	Lay the cable along the wall.	把线沿着墙铺。	lay sth down｜lay the groundwork
+lie	/laɪ/	v. 躺；位于；在于，不及物（≠ lay 放置）	The problem lies in the config.	问题出在配置上。	lie in｜lie ahead｜lie down
+lose	/luːz/	v. 丢失；失去；输，动词（≠ loose 松的，形容词）	We can't afford to lose that data.	那些数据我们丢不起。	lose track of｜lose sight of	loss n. 损失
+loose	/luːs/	adj. 松的；宽松的 v. 释放（≠ lose 丢失）	The definition here is a bit loose.	这里的定义有点宽泛。	come loose｜a loose interpretation	loosely adv. 宽松地
+moral	/ˈmɔːrəl/	adj. 道德的 n. 寓意（≠ morale 士气）	There's a moral argument here too.	这里还有道德层面的考量。	a moral obligation｜the moral of the story	morality n. 道德
+morale	/məˈræl/	n. 士气，斗志（≠ moral 道德的）	Morale took a hit after the layoffs.	裁员之后士气受挫。	boost morale｜low morale
+personal	/ˈpɜːrsənl/	adj. 个人的，私人的（≠ personnel 人员）	Don't use your personal account for this.	这个别用你的私人账号。	personal data｜take sth personally	personally adv. 就个人而言
+personnel	/ˌpɜːrsəˈnel/	n. 人员，员工，集体名词（≠ personal 个人的）	We don't have the personnel for this.	我们没有足够人手做这个。	personnel costs｜trained personnel
+prospective	/prəˈspektɪv/	adj. 潜在的，未来的（≠ perspective 视角）	We talked to five prospective customers.	我们和五个潜在客户聊过。	a prospective client｜prospective employees
+practicable	/ˈpræktɪkəbl/	adj. 行得通的，可实施的（≠ practical 实用的）	It's practicable, just not worth it.	做是做得到，只是不划算。	as soon as practicable｜technically practicable
+proceed	/prəˈsiːd/	v. 继续进行；着手（≠ precede 先于）	Shall we proceed with the launch?	我们继续推进上线吗？	proceed with｜proceed to do	procedure n. 程序 · proceedings n. 会议记录
+quiet	/ˈkwaɪət/	adj. 安静的 n. 安静（≠ quite 相当）	It's been quiet since the fix.	修复之后一直很平静。	keep quiet｜a quiet week	quietly adv. 安静地
+quite	/kwaɪt/	adv. 相当；完全（≠ quiet 安静的）	That's quite a big change.	那是个相当大的改动。	quite a few｜not quite
+rise	/raɪz/	v. 上升，增长，不及物不带宾语 n. 上涨（≠ raise 提高，及物）	Costs rose sharply last quarter.	上季度成本大幅上涨。	rise sharply｜give rise to	rising adj. 上升的
+respective	/rɪˈspektɪv/	adj. 各自的（≠ respectful 恭敬的）	They went back to their respective teams.	他们各自回到自己的团队。	respective roles｜their respective fields	respectively adv. 分别地
+respectful	/rɪˈspektfl/	adj. 恭敬的，有礼貌的（≠ respective 各自的）	Keep the tone respectful, even when disagreeing.	就算不同意，语气也要保持尊重。	be respectful of｜a respectful tone	respectfully adv. 恭敬地
+sensible	/ˈsensəbl/	adj. 明智的，合情理的（≠ sensitive 敏感的）	That's a sensible default.	这个默认值很合理。	a sensible choice｜sensible advice	sensibly adv. 明智地
+sensitive	/ˈsensətɪv/	adj. 敏感的；体贴的；机密的（≠ sensible 明智的）	This field holds sensitive data.	这个字段存的是敏感数据。	sensitive data｜be sensitive to	sensitivity n. 敏感度
+stationary	/ˈsteɪʃəneri/	adj. 静止的，不动的（≠ stationery 文具）	The counter stayed stationary for an hour.	那个计数一小时都没动。	remain stationary｜a stationary object
+stationery	/ˈsteɪʃəneri/	n. 文具，信纸（≠ stationary 静止的）	Order the stationery from the same vendor.	文具从同一家供应商订。	office stationery｜stationery supplies
+statute	/ˈstætʃuːt/	n. 法规，成文法（≠ stature 声望）	The statute requires seven years of records.	法规要求保存七年记录。	under the statute｜a statute of limitations	statutory adj. 法定的
+stature	/ˈstætʃər/	n. 声望，地位；身高（≠ statute 法规）	His stature in the team grew quickly.	他在团队里的地位很快提升。	gain stature｜of considerable stature
+than	/ðæn/	conj. 比，用于比较（≠ then 然后）	It took longer than expected.	花的时间比预期长。	more than｜rather than｜other than
+then	/ðen/	adv. 然后；那时；那么（≠ than 比）	Run the tests, then deploy.	先跑测试，然后部署。	and then｜back then｜if … then
+through	/θruː/	prep. 穿过；通过；完成（≠ thorough 彻底的，≠ though 尽管）	We got through the backlog by Friday.	我们周五前把积压处理完了。	go through｜see sth through｜through to
+though	/ðoʊ/	conj. 尽管 adv. 不过（≠ through 通过）	It's slow, though it does work.	它慢是慢，不过确实能用。	even though｜as though
+averse	/əˈvɜːrs/	adj. 反感的，不愿意的（≠ adverse 不利的）	I'm not averse to trying it once.	试一次我倒不反对。	be averse to｜risk-averse	aversion n. 厌恶
+illegible	/ɪˈledʒəbl/	adj. 字迹难辨的（≠ eligible 有资格的）	The scan is completely illegible.	这份扫描件完全看不清。	almost illegible｜illegible handwriting
+economic	/ˌekəˈnɑːmɪk/	adj. 经济的，与经济有关（≠ economical 节省的）	The economic case is weak.	从经济角度看理由不充分。	economic growth｜economic policy	economics n. 经济学
+economical	/ˌekəˈnɑːmɪkl/	adj. 节约的，划算的（≠ economic 经济的）	It's more economical to buy annually.	按年买更划算。	economical with｜an economical option	economically adv. 经济地
+classic	/ˈklæsɪk/	adj. 典型的；经典的 n. 经典作品（≠ classical 古典的）	That's a classic mistake.	那是个典型错误。	a classic example｜a classic case
+classical	/ˈklæsɪkl/	adj. 古典的，用于音乐文学时期（≠ classic 典型的）	She only listens to classical music.	她只听古典音乐。	classical music｜classical literature
+momentary	/ˈmoʊmənteri/	adj. 短暂的，瞬间的（≠ momentous 重大的）	It was just a momentary glitch.	只是短暂的抖动。	a momentary lapse｜momentary pause	momentarily adv. 片刻地
+momentous	/moʊˈmentəs/	adj. 重大的，有重要意义的（≠ momentary 短暂的）	It felt like a momentous decision at the time.	当时感觉是个重大决定。	a momentous occasion｜a momentous change
+considerable	/kənˈsɪdərəbl/	adj. 相当大的，大量的（≠ considerate 体贴的）	That takes considerable effort.	那需要相当大的投入。	considerable time｜a considerable amount	considerably adv. 相当地
+considerate	/kənˈsɪdərət/	adj. 体贴的，为他人着想的（≠ considerable 相当大的）	It was considerate of her to warn us.	她提前提醒我们很体贴。	be considerate of｜a considerate gesture	consideration n. 体谅
+successive	/səkˈsesɪv/	adj. 连续的，接连的（≠ successful 成功的）	Three successive builds failed.	连续三次构建失败。	successive attempts｜on successive days	succession n. 连续；继任
+successful	/səkˈsesfl/	adj. 成功的（≠ successive 连续的）	The migration was successful.	迁移成功了。	a successful launch｜be successful in	success n. 成功 · successfully adv. 成功地
+beside	/bɪˈsaɪd/	prep. 在……旁边，表位置（≠ besides 除此之外）	Put it beside the other file.	把它放在另一个文件旁边。	beside the point｜sit beside sb
+besides	/bɪˈsaɪdz/	prep. 除……之外还 adv. 而且（≠ beside 在旁边）	Besides, we don't have the budget.	再说了，我们也没预算。	besides that｜besides doing
+compose	/kəmˈpoʊz/	v. 组成；撰写；作曲，部分组成整体（≠ comprise 整体包含部分）	The committee is composed of six members.	委员会由六人组成。	be composed of｜compose an email	composition n. 构成；作品
+assent	/əˈsent/	n. 同意，赞成 v. 同意（≠ ascent 上升）	We got written assent from both sides.	我们拿到了双方的书面同意。	give one's assent｜assent to
+ascent	/əˈsent/	n. 上升，攀登（≠ assent 同意）	The ascent in usage was steady.	使用量稳步上升。	a steady ascent｜the ascent of
+appraise	/əˈpreɪz/	v. 评估，估价（≠ apprise 告知）	We appraise performance twice a year.	我们一年做两次绩效评估。	appraise performance｜appraise the value	appraisal n. 评估
+apprise	/əˈpraɪz/	v. 告知，通知（≠ appraise 评估）	Please apprise the team of any changes.	有变动请通知团队。	apprise sb of sth｜keep sb apprised
+breath	/breθ/	n. 呼吸，一口气，名词（≠ breathe 动词）	Take a breath before you reply.	回复之前先喘口气。	take a breath｜out of breath｜hold one's breath
+breathe	/briːð/	v. 呼吸，动词（≠ breath 名词）	Just breathe and start over.	深呼吸，重来一次。	breathe in｜breathe deeply	breathing n. 呼吸
+canvas	/ˈkænvəs/	n. 帆布；画布（≠ canvass 游说）	The bag is made of heavy canvas.	这个包是厚帆布做的。	a canvas bag｜on canvas
+canvass	/ˈkænvəs/	v. 游说，拉票；征询（≠ canvas 帆布）	We canvassed the team for opinions.	我们征询了团队的意见。	canvass opinion｜canvass for support
+cite	/saɪt/	v. 引用，举出（≠ site 地点，≠ sight 视力）	He cited three studies to back it up.	他引用了三项研究来支撑。	cite a source｜cite an example	citation n. 引用
+censor	/ˈsensər/	v. 审查删改 n. 审查员（≠ censure 谴责）	The logs were censored before sharing.	日志分享前做了脱敏处理。	censor content｜heavily censored	censorship n. 审查制度
+censure	/ˈsenʃər/	n. 谴责 v. 责难（≠ censor 审查）	The report censured the whole process.	这份报告谴责了整个流程。	face censure｜censure sb for
+deprecate	/ˈdeprəkeɪt/	v. 弃用，不建议使用（≠ depreciate 贬值）	That method was deprecated two versions ago.	那个方法两个版本前就弃用了。	deprecate an API｜be deprecated	deprecated adj. 已弃用的
+depreciate	/dɪˈpriːʃieɪt/	v. 贬值；折旧（≠ deprecate 弃用）	The hardware depreciates over three years.	硬件按三年折旧。	depreciate in value｜depreciate rapidly	depreciation n. 折旧
+disinterested	/dɪsˈɪntrəstɪd/	adj. 公正无私的，没有利害关系（≠ uninterested 不感兴趣的）	We need a disinterested third party.	我们需要一个没有利害关系的第三方。	a disinterested observer｜disinterested advice
+uninterested	/ʌnˈɪntrəstɪd/	adj. 不感兴趣的（≠ disinterested 无私的）	He seemed completely uninterested.	他看起来完全不感兴趣。	uninterested in｜appear uninterested

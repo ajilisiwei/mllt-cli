@@ -1,0 +1,102 @@
+abolish	/əˈbɑːlɪʃ/	v. 废除，取消（制度、法律）	The company abolished the approval step entirely.	公司把那道审批环节彻底取消了。	abolish a rule｜abolish a system	abolition n. 废除
+accelerate	/əkˈseləreɪt/	v. 加快；加速	We need to accelerate the rollout.	我们得加快推广速度。	accelerate growth｜accelerate a process	acceleration n. 加速
+accommodate	/əˈkɑːmədeɪt/	v. 容纳；迁就，适应	The room can accommodate about thirty people.	这个房间能容纳三十人左右。	accommodate a request｜accommodate changes	accommodation n. 住宿；迁就
+accumulate	/əˈkjuːmjəleɪt/	v. 积累；积聚	Small delays accumulate into a big one.	小的延误累积起来就成了大延误。	accumulate experience｜accumulate over time	accumulation n. 积累
+acknowledge	/əkˈnɑːlɪdʒ/	v. 承认；确认收到；感谢	He acknowledged the mistake right away.	他当场就承认了错误。	acknowledge that｜acknowledge receipt	acknowledgement n. 承认；致谢
+adapt	/əˈdæpt/	v. 适应；改编，改造	It took me a month to adapt to the new process.	我花了一个月适应新流程。	adapt to｜adapt sth for	adaptation n. 适应；改编 · adaptable adj. 适应力强的
+adopt	/əˈdɑːpt/	v. 采用，采纳；收养	We adopted their approach with a few tweaks.	我们采用了他们的做法，稍作调整。	adopt a strategy｜adopt a standard	adoption n. 采用 · adopted adj. 被采纳的
+advocate	/ˈædvəkeɪt/	v. 提倡，主张 n. 拥护者	She advocated a slower, safer rollout.	她主张更慢但更稳妥的上线方式。	advocate for｜a strong advocate of	advocacy n. 倡导
+allocate	/ˈæləkeɪt/	v. 分配，划拨	How much budget is allocated to this?	这块分配了多少预算？	allocate resources｜allocate time	allocation n. 分配（额）
+alter	/ˈɔːltər/	v. 改变，更改；修改（衣服）	We altered the plan after the feedback.	收到反馈后我们调整了计划。	alter a plan｜significantly alter	alteration n. 改动
+anticipate	/ænˈtɪsɪpeɪt/	v. 预料；预先处理	We didn't anticipate this much traffic.	我们没料到会有这么大流量。	anticipate a problem｜as anticipated	anticipation n. 预期
+appeal	/əˈpiːl/	v. 有吸引力；呼吁；上诉 n. 吸引力	The simplicity is what appeals to me.	吸引我的是它的简洁。	appeal to sb｜appeal for help	appealing adj. 有吸引力的
+assess	/əˈses/	v. 评估，判断	We need to assess the impact first.	我们得先评估影响。	assess the risk｜assess the damage	assessment n. 评估
+assign	/əˈsaɪn/	v. 分派；指定	Who was this assigned to?	这个分给谁了？	assign a task｜be assigned to	assignment n. 任务；作业
+associate	/əˈsoʊsieɪt/	v. 联想；关联 n. 同事 adj. 副的	I always associate that sound with an error.	我一听到那个声音就想到出错。	associate A with B｜be associated with	association n. 关联；协会 · associated adj. 相关的
+assure	/əˈʃʊr/	v. 向……保证；使确信	He assured me it would be fixed today.	他向我保证今天就修好。	assure sb that｜rest assured	assurance n. 保证
+attain	/əˈteɪn/	v. 达到，获得（目标、水平）	Few teams attain that level of consistency.	很少有团队能达到那种稳定度。	attain a goal｜attain a level	attainable adj. 可达成的
+authorize	/ˈɔːθəraɪz/	v. 授权，批准	Only managers can authorize refunds.	只有经理能批退款。	authorize a payment｜be authorized to	authorization n. 授权 · authority n. 权限；权威
+cease	/siːs/	v. 停止，终止	Support for that version ceased last year.	那个版本去年就停止支持了。	cease to do｜cease operations	ceaseless adj. 不停的
+clarify	/ˈklærəfaɪ/	v. 澄清，说明	Let me clarify what I meant.	我澄清一下我的意思。	clarify a point｜just to clarify	clarification n. 澄清 · clarity n. 清晰
+comply	/kəmˈplaɪ/	v. 遵守，符合（规定）	The system has to comply with local law.	系统必须符合当地法律。	comply with｜fail to comply	compliance n. 合规 · compliant adj. 合规的
+comprise	/kəmˈpraɪz/	v. 由……组成；构成	The team comprises five engineers and a designer.	团队由五名工程师和一名设计师组成。	be comprised of｜comprise a whole
+confine	/kənˈfaɪn/	v. 限制在……范围内；关押	Let's confine this discussion to scope.	这次讨论我们只谈范围。	confine sth to｜be confined to	confined adj. 狭小的 · confinement n. 限制
+conform	/kənˈfɔːrm/	v. 符合；遵从	The output must conform to the schema.	输出必须符合这个结构。	conform to｜conform with	conformity n. 一致；遵从
+confront	/kənˈfrʌnt/	v. 面对；正视；对质	We have to confront the real cause.	我们必须正视真正的原因。	confront a problem｜be confronted with	confrontation n. 对抗
+consist	/kənˈsɪst/	v. 由……构成；在于	The job consists mainly of code review.	这份工作主要就是做代码评审。	consist of｜consist in	consistent adj. 一致的 · consistency n. 一致性
+constitute	/ˈkɑːnstətuːt/	v. 构成，等同于；组成	That would constitute a breach of contract.	那就构成违约了。	constitute a threat｜constitute a majority	constitution n. 构成；宪法
+consult	/kənˈsʌlt/	v. 咨询；查阅；商议	Did anyone consult the legal team?	有人咨询过法务吗？	consult sb about｜consult a document	consultant n. 顾问 · consultation n. 咨询
+convert	/kənˈvɜːrt/	v. 转换；改变信仰	How do we convert free users into paying ones?	我们怎么把免费用户转成付费用户？	convert A into B｜convert to	conversion n. 转化（率） · convertible adj. 可转换的
+convey	/kənˈveɪ/	v. 传达；运送	The chart conveys the point better than words.	这张图比文字更能说明问题。	convey a message｜convey meaning
+cope	/koʊp/	v. 应付，妥善处理	How are you coping with the workload?	这么大的工作量你还撑得住吗？	cope with｜cope well
+correspond	/ˌkɔːrəˈspɑːnd/	v. 相符；相当于；通信	The numbers don't correspond to the report.	这些数字和报告对不上。	correspond to｜correspond with	corresponding adj. 相应的 · correspondence n. 通信；对应
+define	/dɪˈfaɪn/	v. 界定，定义；明确	Let's define what done means here.	我们先明确这里的「完成」指什么。	define a term｜clearly defined	definition n. 定义 · definite adj. 明确的 · definitive adj. 权威的
+demonstrate	/ˈdemənstreɪt/	v. 证明，表明；演示	The pilot demonstrated that it scales.	试点证明了它能扩展。	demonstrate that｜demonstrate a feature	demonstration n. 演示；证明
+derive	/dɪˈraɪv/	v. 得到，取得；源自	Most of our revenue derives from renewals.	我们大部分营收来自续约。	derive from｜derive benefit from	derivative n. 衍生物 adj. 派生的
+determine	/dɪˈtɜːrmɪn/	v. 确定；决定；查明	We couldn't determine the exact cause.	我们没能查明确切原因。	determine whether｜determine the cause	determination n. 决心；确定 · determined adj. 坚决的
+deviate	/ˈdiːvieɪt/	v. 偏离，背离	The result deviates from what we expected.	结果和我们的预期有偏差。	deviate from｜deviate slightly	deviation n. 偏差
+diminish	/dɪˈmɪnɪʃ/	v. 减少，削弱	That doesn't diminish the value of the work.	那并不削弱这项工作的价值。	diminish over time｜diminishing returns	diminishing adj. 递减的
+disclose	/dɪsˈkloʊz/	v. 披露，透露	They didn't disclose the terms.	他们没有披露条款。	disclose information｜fail to disclose	disclosure n. 披露
+dismiss	/dɪsˈmɪs/	v. 不予考虑；解雇；解散	Don't dismiss the idea too quickly.	别太快否定这个想法。	dismiss an idea｜dismiss a claim	dismissal n. 解雇；驳回 · dismissive adj. 轻视的
+distinguish	/dɪˈstɪŋɡwɪʃ/	v. 区分，辨别；使突出	It's hard to distinguish the two cases.	这两种情况很难区分。	distinguish A from B｜distinguish between	distinct adj. 明显不同的 · distinction n. 区别 · distinguished adj. 卓越的
+distribute	/dɪˈstrɪbjuːt/	v. 分发；分布；分销	The load isn't evenly distributed.	负载分布不均。	distribute evenly｜distribute copies	distribution n. 分布；分发 · distributor n. 经销商
+eliminate	/ɪˈlɪmɪneɪt/	v. 消除，排除；淘汰	That change eliminated most of the errors.	那次改动消除了大部分错误。	eliminate a risk｜eliminate the need for	elimination n. 消除
+embody	/ɪmˈbɑːdi/	v. 体现，具体表现	The design embodies everything we argued for.	这个设计体现了我们主张的一切。	embody a principle｜embody an idea
+emerge	/ɪˈmɜːrdʒ/	v. 显现，出现；露头	A clear pattern emerged after a week.	一周后一个清晰的规律显现出来。	emerge from｜a pattern emerges	emerging adj. 新兴的 · emergence n. 出现
+emphasize	/ˈemfəsaɪz/	v. 强调，着重	I want to emphasize how tight the timeline is.	我想强调时间有多紧。	emphasize the importance｜emphasize that	emphasis n. 强调 · emphatic adj. 强调的
+enable	/ɪˈneɪbl/	v. 使能够；启用	This enables us to ship weekly.	这让我们能每周发布。	enable sb to do｜enable a feature	enabled adj. 已启用的
+enforce	/ɪnˈfɔːrs/	v. 强制执行；实施	The rule exists but nobody enforces it.	规定是有，但没人执行。	enforce a rule｜enforce a policy	enforcement n. 执行
+enhance	/ɪnˈhæns/	v. 提升，增强	The update enhances performance noticeably.	这次更新明显提升了性能。	enhance quality｜greatly enhance	enhancement n. 改进
+entail	/ɪnˈteɪl/	v. 牵涉，需要（付出）	What exactly does the migration entail?	迁移具体要做哪些事？	entail doing｜entail risk
+evaluate	/ɪˈvæljueɪt/	v. 评价，评估	We evaluated three vendors.	我们评估了三家供应商。	evaluate options｜carefully evaluate	evaluation n. 评估
+evolve	/ɪˈvɑːlv/	v. 演变，逐步发展	The product evolved a lot in two years.	这个产品两年里变化很大。	evolve into｜evolve over time	evolution n. 演变 · evolving adj. 不断演变的
+exceed	/ɪkˈsiːd/	v. 超过，超出	Costs exceeded the budget by 20%.	成本超出预算两成。	exceed expectations｜exceed a limit	excessive adj. 过度的 · excess n. 超出部分
+exclude	/ɪkˈskluːd/	v. 排除；不包括	These figures exclude tax.	这些数字不含税。	exclude sb from｜be excluded from	exclusive adj. 独家的；排他的 · exclusion n. 排除
+exert	/ɪɡˈzɜːrt/	v. 施加（影响、压力）；尽力	Don't exert that much pressure on the team.	别给团队施加那么大压力。	exert influence｜exert pressure｜exert oneself	exertion n. 努力
+exhibit	/ɪɡˈzɪbɪt/	v. 表现出；展出 n. 展品	The system exhibits the same behaviour under load.	高负载下系统表现出同样的行为。	exhibit signs of｜exhibit behaviour	exhibition n. 展览
+expand	/ɪkˈspænd/	v. 扩大，拓展；详述	We're expanding into two new markets.	我们正在拓展两个新市场。	expand on（详述）｜expand rapidly	expansion n. 扩张 · expansive adj. 广阔的
+exploit	/ɪkˈsplɔɪt/	v. 利用；剥削 n. 漏洞利用	We should exploit what we already built.	我们该好好利用已有的东西。	exploit an opportunity｜exploit a weakness	exploitation n. 利用；剥削
+facilitate	/fəˈsɪlɪteɪt/	v. 促进，使更容易；主持（会议）	A shared doc facilitates the whole discussion.	一份共享文档能让整个讨论顺畅很多。	facilitate a process｜facilitate a meeting	facilitator n. 主持人 · facility n. 设施
+foster	/ˈfɔːstər/	v. 培养，促进；寄养	We want to foster a culture of feedback.	我们想培养反馈文化。	foster growth｜foster a culture
+generate	/ˈdʒenəreɪt/	v. 产生，生成；创造（收入）	This channel generates most of our leads.	我们大部分线索来自这个渠道。	generate revenue｜generate interest	generation n. 生成；一代 · generator n. 发生器
+govern	/ˈɡʌvərn/	v. 支配，决定；治理	Contract law governs how this works.	这块由合同法约束。	govern a process｜be governed by	government n. 政府 · governance n. 治理
+highlight	/ˈhaɪlaɪt/	v. 突出，强调 n. 亮点	The report highlights three risks.	报告着重指出了三个风险。	highlight an issue｜the highlight of	highlighted adj. 被强调的
+hinder	/ˈhɪndər/	v. 阻碍，妨碍	Unclear ownership hinders progress.	归属不清会阻碍进展。	hinder progress｜hinder growth	hindrance n. 障碍
+illustrate	/ˈɪləstreɪt/	v. 说明，阐明；配图	Let me illustrate with a concrete case.	我用一个具体例子说明。	illustrate a point｜illustrate how	illustration n. 插图；例证
+impose	/ɪmˈpoʊz/	v. 强加；征收（税、罚款）	I don't want to impose a process on you.	我不想硬塞给你一套流程。	impose a limit｜impose a fine｜impose on sb	imposition n. 强加
+incorporate	/ɪnˈkɔːrpəreɪt/	v. 纳入，吸收；合并	We incorporated your feedback into v2.	我们把你的反馈纳入了第二版。	incorporate feedback｜incorporate into	incorporation n. 合并
+induce	/ɪnˈduːs/	v. 引起，导致；劝诱	Nothing we tried induced the bug again.	我们试了各种办法都没能再次触发那个问题。	induce a response｜induce sb to do	induction n. 归纳；入职引导
+infer	/ɪnˈfɜːr/	v. 推断，推论	What can we infer from these numbers?	从这些数字能推出什么？	infer from｜infer that	inference n. 推论
+initiate	/ɪˈnɪʃieɪt/	v. 发起，启动；使入门	She initiated the whole redesign.	整个重新设计是她发起的。	initiate a process｜initiate contact	initiative n. 倡议；主动性 · initial adj. 最初的
+integrate	/ˈɪntɪɡreɪt/	v. 整合，集成；融入	We integrated the two systems last month.	上个月我们把两个系统整合了。	integrate with｜integrate into	integration n. 集成 · integrated adj. 一体化的
+interpret	/ɪnˈtɜːrprət/	v. 理解，解读；口译	People interpreted that message differently.	那条消息大家理解得不一样。	interpret data｜interpret as	interpretation n. 解读 · interpreter n. 口译员
+intervene	/ˌɪntərˈviːn/	v. 介入，干预；插话	We had to intervene before it escalated.	事情闹大之前我们不得不介入。	intervene in｜intervene early	intervention n. 干预
+justify	/ˈdʒʌstɪfaɪ/	v. 证明……正当；为……辩解	Can we justify the extra cost?	这笔额外成本说得过去吗？	justify a decision｜justify the cost	justification n. 正当理由 · justified adj. 有正当理由的
+modify	/ˈmɑːdɪfaɪ/	v. 修改，调整	We modified the query and it got faster.	我们改了查询语句，速度就上来了。	modify a plan｜slightly modify	modification n. 修改
+monitor	/ˈmɑːnɪtər/	v. 监测，跟踪 n. 显示器	Let's monitor it for a week before deciding.	我们先观察一周再决定。	monitor progress｜closely monitor	monitoring n. 监控
+negotiate	/nɪˈɡoʊʃieɪt/	v. 谈判，协商；商定	We negotiated a better rate.	我们谈下了更好的价格。	negotiate a deal｜negotiate terms	negotiation n. 谈判 · negotiable adj. 可商量的
+obtain	/əbˈteɪn/	v. 获得，取得	You need to obtain approval first.	你得先拿到批准。	obtain permission｜obtain results	obtainable adj. 可获得的
+offset	/ˈɔːfset/	v. 抵消，弥补 n. 抵消额	The savings offset the setup cost.	节省的部分抵消了搭建成本。	offset a cost｜offset by
+overcome	/ˌoʊvərˈkʌm/	v. 克服，战胜	We overcame most of the technical issues.	大部分技术问题我们都解决了。	overcome a difficulty｜overcome resistance
+oversee	/ˌoʊvərˈsiː/	v. 监督，主管	She oversees three teams.	她管着三个团队。	oversee a project｜oversee operations	oversight n. 监管；疏忽
+persist	/pərˈsɪst/	v. 持续存在；坚持	The problem persists even after the restart.	重启之后问题还是在。	persist in｜the issue persists	persistent adj. 持续的；执着的 · persistence n. 坚持
+precede	/prɪˈsiːd/	v. 先于，在……之前	A design review precedes every launch.	每次上线前都有一次设计评审。	precede sth｜be preceded by	preceding adj. 前面的 · precedent n. 先例
+prohibit	/prəˈhɪbɪt/	v. 禁止，阻止	The policy prohibits sharing credentials.	规定禁止共用账号。	prohibit sb from doing｜strictly prohibited	prohibition n. 禁止
+prompt	/prɑːmpt/	v. 促使，引发 adj. 迅速的 n. 提示	What prompted the change?	是什么促成了这次变动？	prompt sb to do｜prompt action	promptly adv. 立即
+refine	/rɪˈfaɪn/	v. 改进，完善；提炼	We refined the wording after review.	评审后我们打磨了措辞。	refine a process｜refine an estimate	refined adj. 精炼的 · refinement n. 改进
+reinforce	/ˌriːɪnˈfɔːrs/	v. 强化，加强；增援	This just reinforces what we already suspected.	这只是印证了我们本来的猜测。	reinforce a point｜reinforce behaviour	reinforcement n. 强化
+specify	/ˈspesɪfaɪ/	v. 明确说明；具体指定	The ticket doesn't specify which version.	工单里没写是哪个版本。	specify a requirement｜unless specified	specification n. 规格说明 · specific adj. 具体的
+stimulate	/ˈstɪmjuleɪt/	v. 刺激，激发；促进	The discount stimulated a lot of signups.	打折带来了大量注册。	stimulate demand｜stimulate interest	stimulus n. 刺激（措施）
+sustain	/səˈsteɪn/	v. 维持；承受；遭受	Can we sustain this pace for a quarter?	这个节奏我们能撑一个季度吗？	sustain growth｜sustain damage	sustainable adj. 可持续的 · sustainability n. 可持续性
+undertake	/ˌʌndərˈteɪk/	v. 着手做；承担；承诺	They undertook a full security review.	他们做了一次完整的安全评审。	undertake a task｜undertake to do	undertaking n. 任务；承诺
+utilize	/ˈjuːtəlaɪz/	v. 利用，使用	We're not fully utilizing the capacity we paid for.	我们买的容量没用满。	fully utilize｜utilize resources	utilization n. 利用率 · utility n. 实用；公用事业
+validate	/ˈvælɪdeɪt/	v. 验证，确认；使生效	Let's validate the idea with five users first.	我们先找五个用户验证这个想法。	validate an assumption｜validate input	validation n. 验证 · valid adj. 有效的
+verify	/ˈverɪfaɪ/	v. 核实，查证	Can you verify this on your machine?	你能在你机器上核实一下吗？	verify a claim｜verify identity	verification n. 核实 · verifiable adj. 可核实的
+withstand	/wɪθˈstænd/	v. 经受住，承受	The design has to withstand ten times the load.	这个设计要能承受十倍负载。	withstand pressure｜withstand scrutiny
+compile	/kəmˈpaɪl/	v. 汇编，整理；编译	I compiled the feedback into one doc.	我把反馈整理成了一份文档。	compile a list｜compile data	compilation n. 汇编
+designate	/ˈdezɪɡneɪt/	v. 指定，指派；标明	Please designate a backup owner.	请指定一个备份负责人。	designate sb as｜a designated area	designation n. 指定；称号
+undermine	/ˌʌndərˈmaɪn/	v. 削弱，动摇（信心、权威）	Missing deadlines undermines trust.	一再延期会动摇信任。	undermine confidence｜undermine authority
+streamline	/ˈstriːmlaɪn/	v. 精简，使高效	We streamlined the approval from five steps to two.	我们把审批从五步精简到两步。	streamline a process｜streamline operations
+prioritize	/praɪˈɔːrətaɪz/	v. 排定优先级；优先处理	Let's prioritize the bugs that block users.	我们优先处理卡住用户的 bug。	prioritize tasks｜prioritize over	priority n. 优先级
+delegate	/ˈdelɪɡeɪt/	v. 授权，下放 n. 代表	You need to delegate more.	你得多分派一些任务出去。	delegate a task｜delegate to sb	delegation n. 授权；代表团
+escalate	/ˈeskəleɪt/	v. 升级上报；加剧	If it's not fixed by noon, escalate it.	中午前没修好就上报。	escalate an issue｜escalate quickly	escalation n. 升级（上报）

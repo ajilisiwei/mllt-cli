@@ -43,6 +43,11 @@ var legacySeparator = regexp.MustCompile(`\s/\s`)
 
 // cjkInWord 匹配单词列里的中日韩文字与全角标点。英文词表的单词列不该出现这些，
 // 一旦出现基本都是上一行的释义被截断成了独立的一行。
+// cyrillic 匹配西里尔字母。英文列里出现它基本都是输入法串行打出来的，
+// 肉眼几乎分不出来（objectивity vs objectivity），必须靠工具挡住。
+// 音标列不查——IPA 的 θ 属于希腊字母块，是合法字符。
+var cyrillic = regexp.MustCompile(`[\p{Cyrillic}]`)
+
 var cjkInWord = regexp.MustCompile(`[\p{Han}\p{Hiragana}\p{Katakana}\x{3000}-\x{303F}\x{FF00}-\x{FFEF}]`)
 
 func main() {
@@ -155,6 +160,8 @@ func suspicious(entry practice.WordEntry) string {
 		return "单词列仍含制表符"
 	case cjkInWord.MatchString(word):
 		return "单词列出现中文或全角标点，疑似上一行的断行残片"
+	case cyrillic.MatchString(word + entry.Example + entry.Collocation + entry.Family):
+		return "英文列里混入了西里尔字母"
 	case strings.Contains(meaning, "\t"):
 		return "释义列仍含制表符，疑似音标缺少右斜杠"
 	case strings.HasSuffix(word, "/"):
