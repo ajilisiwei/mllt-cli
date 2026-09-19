@@ -1,9 +1,9 @@
 package ui
 
 import (
+	"github.com/ajilisiwei/mllt-cli/internal/config"
 	"github.com/charmbracelet/bubbles/list"
 	"github.com/charmbracelet/bubbletea"
-	"github.com/ajilisiwei/mllt-cli/internal/config"
 )
 
 // SettingMenuItem 设置菜单项

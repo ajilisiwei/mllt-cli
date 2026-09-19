@@ -30,6 +30,12 @@ func WordPractice(fileName string) error {
 	nextOneOrder := config.AppConfig.NextOneOrder
 	showTranslation := config.AppConfig.ShowTranslation
 
+	// 例句也作为练习项：先打单词，再打用到它的整句
+	if config.AppConfig.PracticeExamples {
+		words = orderAndExpand(words, nextOneOrder)
+		nextOneOrder = "sequential"
+	}
+
 	// 开始练习
 	index := 0
 	reader := bufio.NewReader(os.Stdin)
@@ -37,12 +43,13 @@ func WordPractice(fileName string) error {
 	for {
 		// 获取当前单词
 		wordLine := words[index]
-		word, phonetic, translation := ParseWordLine(wordLine)
+		entry := ParseWordEntry(wordLine)
+		word, translation := entry.Word, entry.Meaning
 
 		// 显示单词
 		fmt.Printf("请输入: %s\n", word)
-		if showTranslation && phonetic != "" {
-			fmt.Printf("音标: %s\n", phonetic)
+		if showTranslation && entry.Phonetic != "" {
+			fmt.Printf("音标: %s\n", entry.Phonetic)
 		}
 
 		// 读取用户输入
@@ -58,8 +65,18 @@ func WordPractice(fileName string) error {
 		// 检查输入是否正确
 		if input == word {
 			fmt.Println("正确！")
-			if showTranslation && translation != "" {
-				fmt.Printf("翻译: %s\n", translation)
+			if showTranslation {
+				for _, field := range []struct{ label, value string }{
+					{"翻译", translation},
+					{"例句", entry.Example},
+					{"译文", entry.ExampleNote},
+					{"搭配", entry.Collocation},
+					{"词族", entry.Family},
+				} {
+					if field.value != "" {
+						fmt.Printf("%s: %s\n", field.label, field.value)
+					}
+				}
 			}
 			// 获取下一个单词的索引
 			index = GetNextIndex(index, len(words), nextOneOrder)

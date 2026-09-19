@@ -54,11 +54,7 @@ func ExpandEntryBlocks(items []string) [][]string {
 	for _, item := range items {
 		block := []string{item}
 
-		if entry := ParseEntryLine(item); entry.Example != "" {
-			example := entry.Example
-			if entry.ExampleNote != "" {
-				example += Separator + entry.ExampleNote
-			}
+		if example := exampleItemOf(item); example != "" {
 			block = append(block, example)
 		}
 
@@ -75,4 +71,28 @@ func ExpandEntries(items []string) []string {
 		expanded = append(expanded, block...)
 	}
 	return expanded
+}
+
+// exampleItemOf 返回一条记录对应的例句练习项，没有例句时返回空串。
+//
+// 例句项沿用原记录的分隔风格：短语和句子用 " ->> "，单词表用制表符分列，
+// 这样它在各自的资源类型里都是一条合法记录。
+func exampleItemOf(line string) string {
+	if strings.Contains(line, Separator) {
+		entry := ParseEntryLine(line)
+		if entry.Example == "" {
+			return ""
+		}
+		if entry.ExampleNote == "" {
+			return entry.Example
+		}
+		return entry.Example + Separator + entry.ExampleNote
+	}
+
+	word := ParseWordEntry(line)
+	if word.Example == "" {
+		return ""
+	}
+	// 单词表是制表符分列的，例句项也保持同样的列结构，音标列留空
+	return word.Example + "\t\t" + word.ExampleNote
 }

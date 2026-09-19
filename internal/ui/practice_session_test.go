@@ -1,6 +1,7 @@
 package ui
 
 import (
+	"strings"
 	"testing"
 
 	"github.com/ajilisiwei/mllt-cli/internal/config"
@@ -527,5 +528,80 @@ func TestExpandInPracticeOrderKeepsPairsTogether(t *testing.T) {
 		if order[i] != i {
 			t.Fatalf("展开后练习顺序应为恒等，第 %d 项 = %d", i, order[i])
 		}
+	}
+}
+
+// 扩展列齐全的单词条目要分行展示，并且例句能变成练习项
+func TestWordEntryWithAllColumns(t *testing.T) {
+	setupPracticeSessionTest(t)
+
+	line := strings.Join([]string{
+		"abandon",
+		"/əˈbændən/",
+		"v. 放弃，抛弃",
+		"They abandoned the plan after the first test.",
+		"第一次测试后他们就放弃了那个方案。",
+		"abandon a plan｜abandon ship",
+		"abandoned adj. 被遗弃的 · abandonment n. 放弃",
+	}, "\t")
+
+	items := practice.ExpandEntries([]string{line})
+	if len(items) != 2 {
+		t.Fatalf("展开后 %d 项，期望 2 项: %q", len(items), items)
+	}
+
+	session := &PracticeSession{
+		resourceType:   practice.Words,
+		items:          items,
+		practiceOrder:  []int{0, 1},
+		completedCount: 0,
+	}
+	config.AppConfig.ShowTranslation = true
+
+	want := strings.Join([]string{
+		"abandon",
+		"音标: /əˈbændən/",
+		"翻译: v. 放弃，抛弃",
+		"例句: They abandoned the plan after the first test.",
+		"译文: 第一次测试后他们就放弃了那个方案。",
+		"搭配: abandon a plan｜abandon ship",
+		"词族: abandoned adj. 被遗弃的 · abandonment n. 放弃",
+	}, "\n")
+	if got := session.getCurrentItem(); got != want {
+		t.Errorf("单词项显示 =\n%s\n期望 =\n%s", got, want)
+	}
+	if got := session.getExpectedInput(items[0]); got != "abandon" {
+		t.Errorf("单词项答案 = %q", got)
+	}
+
+	// 例句项：打整句，显示翻译
+	session.completedCount = 1
+	wantExample := "They abandoned the plan after the first test.\n翻译: 第一次测试后他们就放弃了那个方案。"
+	if got := session.getCurrentItem(); got != wantExample {
+		t.Errorf("例句项显示 =\n%s\n期望 =\n%s", got, wantExample)
+	}
+	if got := session.getExpectedInput(items[1]); got != "They abandoned the plan after the first test." {
+		t.Errorf("例句项答案 = %q", got)
+	}
+}
+
+// 三列的老词库不受扩展列影响
+func TestLegacyWordEntryUnchanged(t *testing.T) {
+	setupPracticeSessionTest(t)
+
+	session := &PracticeSession{
+		resourceType:   practice.Words,
+		items:          practice.ExpandEntries([]string{"ability\t/əˈbɪləti/\tn. 能力，能耐；才能"}),
+		practiceOrder:  []int{0},
+		completedCount: 0,
+	}
+	if len(session.items) != 1 {
+		t.Fatalf("没有例句的词条不该被展开，实际 %d 项", len(session.items))
+	}
+
+	config.AppConfig.ShowTranslation = true
+	want := "ability\n音标: /əˈbɪləti/\n翻译: n. 能力，能耐；才能"
+	if got := session.getCurrentItem(); got != want {
+		t.Errorf("getCurrentItem() = %q, want %q", got, want)
 	}
 }

@@ -966,18 +966,25 @@ func (m PracticeSession) getCurrentItem() string {
 
 // formatWordItem 按「单词 / 音标 / 释义」分行展示单词条目，音标不混入正文。
 func (m PracticeSession) formatWordItem(item string) string {
-	word, phonetic, meaning := practice.ParseWordLine(item)
+	entry := practice.ParseWordEntry(item)
+	word := entry.Word
 	if word == "" {
 		word = item
 	}
 
 	lines := []string{word}
 	if m.getShowTranslationConfig() {
-		if phonetic != "" {
-			lines = append(lines, "音标: "+phonetic)
-		}
-		if meaning != "" {
-			lines = append(lines, "翻译: "+meaning)
+		for _, field := range []struct{ label, value string }{
+			{"音标", entry.Phonetic},
+			{"翻译", entry.Meaning},
+			{"例句", entry.Example},
+			{"译文", entry.ExampleNote},
+			{"搭配", entry.Collocation},
+			{"词族", entry.Family},
+		} {
+			if field.value != "" {
+				lines = append(lines, field.label+": "+field.value)
+			}
 		}
 	}
 

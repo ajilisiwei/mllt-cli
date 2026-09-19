@@ -123,17 +123,17 @@ func isInDevelopmentMode() bool {
 func SaveConfig() error {
 	// 将结构体的内容写入到配置文件中
 	for k, v := range map[string]interface{}{
-		"languages":               AppConfig.Languages,
-		"current_language":        AppConfig.CurrentLanguage,
-		"words":                   AppConfig.Words,
-		"phrases":                 AppConfig.Phrases,
-		"sentences":               AppConfig.Sentences,
-		"articles":                AppConfig.Articles,
-		"correctness_match_mode":  AppConfig.CorrectnessMatchMode,
-		"next_one_order":          AppConfig.NextOneOrder,
-		"input_keyboard_sound":    AppConfig.InputKeyboardSound,
-		"show_translation":        AppConfig.ShowTranslation,
-		"practice_examples":       AppConfig.PracticeExamples,
+		"languages":              AppConfig.Languages,
+		"current_language":       AppConfig.CurrentLanguage,
+		"words":                  AppConfig.Words,
+		"phrases":                AppConfig.Phrases,
+		"sentences":              AppConfig.Sentences,
+		"articles":               AppConfig.Articles,
+		"correctness_match_mode": AppConfig.CorrectnessMatchMode,
+		"next_one_order":         AppConfig.NextOneOrder,
+		"input_keyboard_sound":   AppConfig.InputKeyboardSound,
+		"show_translation":       AppConfig.ShowTranslation,
+		"practice_examples":      AppConfig.PracticeExamples,
 	} {
 		viper.Set(k, v)
 	}
