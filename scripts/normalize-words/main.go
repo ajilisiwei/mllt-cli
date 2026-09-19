@@ -126,14 +126,14 @@ func inspect(path string) ([]issue, []suspect, []string, error) {
 			continue
 		}
 
-		word, phonetic, meaning := practice.ParseWordLine(raw)
-		want := canonical(word, phonetic, meaning)
+		entry := practice.ParseWordEntry(raw)
+		want := canonical(entry)
 
 		normalized = append(normalized, want)
 		if want != raw {
 			issues = append(issues, issue{file: path, line: lineNo, raw: raw, want: want})
 		}
-		if reason := suspicious(word, phonetic, meaning); reason != "" {
+		if reason := suspicious(entry); reason != "" {
 			suspects = append(suspects, suspect{line: lineNo, raw: raw, want: want, reason: reason})
 		}
 	}
@@ -146,7 +146,8 @@ func inspect(path string) ([]issue, []suspect, []string, error) {
 }
 
 // suspicious 判断规范化结果是否可信，返回非空字符串表示这一行需要人工确认。
-func suspicious(word, phonetic, meaning string) string {
+func suspicious(entry practice.WordEntry) string {
+	word, phonetic, meaning := entry.Word, entry.Phonetic, entry.Meaning
 	switch {
 	case word == "":
 		return "单词为空"
@@ -167,17 +168,27 @@ func suspicious(word, phonetic, meaning string) string {
 	return ""
 }
 
-// canonical 把解析结果拼回规范的 "单词\t/音标/\t释义"。
-func canonical(word, phonetic, meaning string) string {
-	parts := []string{word}
-	if phonetic != "" || meaning != "" {
-		parts = append(parts, phonetic)
-	}
-	if meaning != "" {
-		parts = append(parts, meaning)
+// canonical 把解析结果拼回规范的制表符分列形式：
+//
+//	单词 \t 音标 \t 释义 \t 例句 \t 例句翻译 \t 搭配 \t 词族
+//
+// 尾部的空列整列省略，中间的空列必须保留，否则后面的列会整体前移串位。
+func canonical(entry practice.WordEntry) string {
+	cols := []string{
+		entry.Word,
+		entry.Phonetic,
+		entry.Meaning,
+		entry.Example,
+		entry.ExampleNote,
+		entry.Collocation,
+		entry.Family,
 	}
 
-	return strings.Join(parts, "\t")
+	for len(cols) > 1 && cols[len(cols)-1] == "" {
+		cols = cols[:len(cols)-1]
+	}
+
+	return strings.Join(cols, "\t")
 }
 
 func reportSuspects(path string, suspects []suspect) {

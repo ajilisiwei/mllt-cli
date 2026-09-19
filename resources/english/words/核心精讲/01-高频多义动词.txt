@@ -1,0 +1,100 @@
+account	/əˈkaʊnt/	v. 解释；（比例）占；说明去向	Exports account for about 40% of our revenue.	出口大约占我们营收的四成。	account for（解释/占比）｜on account of（因为）	accountable adj. 需担责的 · accounting n. 会计
+address	/əˈdres/	v. 处理，应对；向……讲话；称呼	We need to address this issue before launch.	上线前我们得先解决这个问题。	address an issue｜address a problem｜address sb as	addressee n. 收件人
+apply	/əˈplaɪ/	v. 申请；适用；应用	Does this rule apply to contractors as well?	这条规定对外包也适用吗？	apply for（申请）｜apply to（适用于）｜apply sth to	application n. 申请；应用 · applicable adj. 适用的 · applicant n. 申请人
+appreciate	/əˈpriːʃieɪt/	v. 感激；理解，体会；欣赏	I'd appreciate it if you could review this today.	你今天能看一下的话我会很感激。	appreciate it if｜I appreciate your help	appreciation n. 感激；理解
+approach	/əˈproʊtʃ/	v. 着手处理；接近 n. 方法，路子	How should we approach this problem?	这个问题我们该怎么下手？	approach a problem｜a different approach｜take an approach
+argue	/ˈɑːrɡjuː/	v. 主张，论证；争论	She argued that the deadline was unrealistic.	她认为这个截止日期不现实。	argue that｜argue for/against｜argue with sb	argument n. 论点；争论 · arguably adv. 可以说
+arrange	/əˈreɪndʒ/	v. 安排；整理；商定	I'll arrange for someone to pick you up.	我安排人去接你。	arrange for sb to do｜arrange a meeting	arrangement n. 安排；布置
+assume	/əˈsuːm/	v. 假定，想当然；承担（职责）	Don't assume everyone has read the doc.	别想当然以为大家都看过文档了。	assume that｜assume responsibility｜assuming that	assumption n. 假设
+attend	/əˈtend/	v. 参加，出席；照料	Only six people attended the session.	只有六个人来参加。	attend a meeting｜attend to（处理，照料）	attendance n. 出席（率） · attendee n. 参加者
+attribute	/əˈtrɪbjuːt/	v. 把……归因于 n. 属性，特质	They attributed the drop to the price change.	他们把下滑归因于价格调整。	attribute A to B｜be attributed to
+bear	/ber/	v. 承受，忍受；承担；带有	The bridge can't bear that much weight.	这座桥承受不了那么重。	bear in mind（记住）｜bear the cost｜can't bear
+break	/breɪk/	v. 打破；中断；（消息）传开 n. 休息	Let's break for ten minutes.	我们休息十分钟。	break down（出故障/拆解）｜break even（收支相抵）｜take a break	breakdown n. 故障；细分 · breakthrough n. 突破
+bring	/brɪŋ/	v. 带来；促使；提出	What brought you to this field?	是什么让你入了这一行？	bring up（提出/抚养）｜bring about（导致）｜bring in（引入）
+carry	/ˈkæri/	v. 搬运；携带；承载（责任、风险）	That decision carries a lot of risk.	那个决定风险很大。	carry out（执行）｜carry on（继续）｜carry weight（有分量）
+charge	/tʃɑːrdʒ/	v. 收费；指控；充电 n. 费用；负责	How much do you charge for delivery?	配送你们怎么收费？	charge sb for sth｜in charge of（负责）｜free of charge
+claim	/kleɪm/	v. 声称；索取；索赔 n. 说法；索赔	He claims he never received the email.	他说他从没收到那封邮件。	claim that｜claim responsibility｜file a claim
+commit	/kəˈmɪt/	v. 承诺，投入；犯（错、罪）	I can't commit to a date until I check.	我确认之前不能定死日期。	commit to｜be committed to｜commit resources	commitment n. 承诺；投入 · committed adj. 尽心尽力的
+concern	/kənˈsɜːrn/	v. 涉及；使担忧 n. 顾虑；关切	What concerns me is the timeline.	我担心的是时间安排。	be concerned about｜raise a concern｜as far as … is concerned	concerned adj. 担心的 · concerning prep. 关于
+conduct	/kənˈdʌkt/	v. 进行，实施；指挥 n. 行为	We conducted a survey last month.	我们上个月做了一次调研。	conduct a survey｜conduct research｜code of conduct
+consider	/kənˈsɪdər/	v. 考虑；认为；顾及	Have you considered doing it in two phases?	你有没有考虑分两期做？	consider doing｜consider sth as｜all things considered	considerable adj. 相当大的 · considerate adj. 体贴的 · consideration n. 考虑
+contribute	/kənˈtrɪbjuːt/	v. 贡献；捐助；促成	Several factors contributed to the delay.	延期是多个因素共同造成的。	contribute to｜contribute sth to	contribution n. 贡献 · contributor n. 贡献者
+cover	/ˈkʌvər/	v. 涵盖；报道；覆盖 n. 封面	Does the warranty cover accidental damage?	保修涵盖意外损坏吗？	cover for sb（顶班）｜cover the cost｜be covered by
+deal	/diːl/	v. 处理，应对；发牌 n. 交易；协议	Who's dealing with the customer complaints?	客户投诉谁在处理？	deal with｜a good deal（很多/划算）｜close a deal
+deliver	/dɪˈlɪvər/	v. 交付；发表；兑现（承诺）	We delivered the feature two days early.	这个功能我们提前两天交付了。	deliver on（兑现）｜deliver a speech｜deliver results	delivery n. 交付；配送 · deliverable n. 交付物
+demand	/dɪˈmænd/	v. 要求；需要 n. 需求；要求	This job demands a lot of attention to detail.	这份工作非常需要细心。	in demand（抢手）｜demand that｜meet demand	demanding adj. 要求高的
+draw	/drɔː/	v. 吸引；得出；提取	We can't draw any conclusions from one test.	一次测试得不出任何结论。	draw a conclusion｜draw attention｜draw on（借助）	drawback n. 缺点 · drawing n. 图纸
+drive	/draɪv/	v. 驱动，推动；驾驶 n. 干劲；驱动器	What's driving the increase in signups?	注册量上涨是什么在拉动？	drive growth｜drive sb crazy｜test drive	driven adj. 有干劲的 · driver n. 驱动因素；司机
+engage	/ɪnˈɡeɪdʒ/	v. 吸引参与；从事；雇用	How do we engage users who signed up but never returned?	注册后再没回来的用户怎么拉回来？	engage with｜engage in｜be engaged in	engagement n. 参与度；约定 · engaging adj. 有吸引力的
+establish	/ɪˈstæblɪʃ/	v. 建立；确立；查明	We need to establish the facts first.	我们得先把事实弄清楚。	establish a relationship｜establish that｜well-established	establishment n. 建立；机构
+expect	/ɪkˈspekt/	v. 预计；期望；要求	I wasn't expecting it to take this long.	我没想到会花这么久。	expect sb to do｜be expected to｜as expected	expectation n. 期望 · expectancy n. 预期值
+figure	/ˈfɪɡjər/	v. 认为；弄明白 n. 数字；身影；人物	Let me figure out what went wrong.	我来弄清楚是哪里出了问题。	figure out｜go figure｜a key figure
+follow	/ˈfɑːloʊ/	v. 听懂，跟上；遵循；跟随	Sorry, I didn't follow that last part.	抱歉，最后那部分我没听懂。	follow up（跟进）｜follow through（贯彻到底）｜follow suit（效仿）	following prep. 在……之后 · follower n. 追随者
+handle	/ˈhændl/	v. 处理，应对；操作 n. 把手	She handled that complaint really well.	那个投诉她处理得很好。	handle a situation｜handle it｜get a handle on	handling n. 处理方式
+hold	/hoʊld/	v. 保持；举行；持有	Hold on, I'll check right now.	稍等，我马上查。	hold a meeting｜hold off（暂缓）｜hold up（撑住/耽搁）	holding n. 持股 · holder n. 持有人
+identify	/aɪˈdentɪfaɪ/	v. 找出，确定；识别	We identified three possible causes.	我们找出了三个可能的原因。	identify a problem｜identify with（认同）	identification n. 识别；身份证明 · identity n. 身份
+imply	/ɪmˈplaɪ/	v. 暗示；意味着	I didn't mean to imply you were wrong.	我不是在暗示你错了。	imply that｜this implies	implication n. 含意；影响 · implicit adj. 含蓄的
+indicate	/ˈɪndɪkeɪt/	v. 表明；示意；指出	The data indicates a clear downward trend.	数据表明下行趋势很明显。	indicate that｜as indicated	indication n. 迹象 · indicator n. 指标
+involve	/ɪnˈvɑːlv/	v. 涉及；需要；让……参与	This will involve a fair amount of rework.	这会涉及不少返工。	involve doing｜be involved in｜get sb involved	involvement n. 参与 · involved adj. 有关的；复杂的
+issue	/ˈɪʃuː/	v. 发布；发放 n. 问题；议题；（刊物）期	That's a separate issue, let's park it.	那是另一个问题，先放一放。	raise an issue｜issue a statement｜at issue（争论中）
+maintain	/meɪnˈteɪn/	v. 维持；维护；坚称	We managed to maintain quality under pressure.	在压力下我们保住了质量。	maintain a standard｜maintain that｜maintain a system	maintenance n. 维护 · maintainable adj. 可维护的
+manage	/ˈmænɪdʒ/	v. 设法做到；管理；应付	We managed to get it done before the deadline.	我们设法在截止前做完了。	manage to do｜manage a team｜manage expectations	management n. 管理 · manageable adj. 可控的 · manager n. 经理
+mark	/mɑːrk/	v. 标记；标志着；评分 n. 记号；分数	This marks the first time we've hit the target.	这是我们第一次达标。	mark a milestone｜mark sth as｜on your marks	marked adj. 明显的 · marker n. 标记物
+matter	/ˈmætər/	v. 要紧，有影响 n. 事情；问题	It doesn't matter who wrote it.	谁写的不重要。	it doesn't matter｜a matter of time｜as a matter of fact
+mean	/miːn/	v. 意味着；打算；有意 adj. 刻薄的	I didn't mean it that way.	我不是那个意思。	mean to do｜be meant to｜I mean it	meaning n. 意思 · meaningful adj. 有意义的 · means n. 手段
+meet	/miːt/	v. 满足；达到；会面	Does this meet your requirements?	这个满足你的要求吗？	meet a deadline｜meet the standard｜meet halfway	meeting n. 会议
+mind	/maɪnd/	v. 介意；留意 n. 头脑；想法	Would you mind sending it again?	你介意再发一次吗？	would you mind｜keep in mind｜change one's mind	mindful adj. 留意的 · mindset n. 思维方式
+miss	/mɪs/	v. 错过；没赶上；想念	I think we missed something obvious here.	我觉得我们漏掉了很明显的东西。	miss a deadline｜miss the point｜miss out on	missing adj. 缺失的
+move	/muːv/	v. 推进；移动；感动 n. 举动；步骤	Let's move on to the next item.	我们进行下一项。	move on｜move forward｜make a move	movement n. 运动；动向 · moving adj. 感人的
+note	/noʊt/	v. 注意到；指出 n. 笔记；便条	It's worth noting that this is a rough estimate.	值得注意的是这只是粗略估算。	note that｜take notes｜worth noting	notable adj. 值得注意的 · notably adv. 尤其
+observe	/əbˈzɜːrv/	v. 观察到；遵守；评论	We observed the same pattern last quarter.	上个季度我们观察到了同样的规律。	observe a pattern｜observe the rules	observation n. 观察 · observer n. 观察者
+occur	/əˈkɜːr/	v. 发生；出现；（想法）浮现	It never occurred to me to ask.	我压根没想到要问。	it occurs to sb that｜occur naturally	occurrence n. 发生；事件
+offer	/ˈɔːfər/	v. 提供；提出 n. 提议；录用通知	Can I offer a suggestion?	我能提个建议吗？	offer to do｜offer sb sth｜accept an offer	offering n. 提供物；产品
+pass	/pæs/	v. 通过；传递；度过	Let's pass this to the design team.	这个我们转给设计团队。	pass on（转达）｜pass out（昏倒）｜pass up（放过）	passing adj. 短暂的 · passage n. 通道；段落
+perform	/pərˈfɔːrm/	v. 表现；执行；表演	The new version performs much better.	新版本表现好多了。	perform well｜perform a task｜perform badly	performance n. 表现；演出
+place	/pleɪs/	v. 放置；下（订单）；给……定位 n. 地方	I placed the order this morning.	我今天早上下的单。	place an order｜take place（发生）｜in place（到位）	placement n. 安置；投放
+point	/pɔɪnt/	v. 指出；指向 n. 要点；分数；时刻	That's a fair point.	这话说得在理。	point out｜the point is｜at this point	pointed adj. 尖锐的
+present	/prɪˈzent/	v. 展示，呈现；带来 adj. 目前的 n. 礼物	This presents a real opportunity for us.	这给我们带来了实实在在的机会。	present a problem｜present findings｜at present	presentation n. 演示；呈现 · presence n. 在场；存在感
+press	/pres/	v. 催促；按压；坚持 n. 新闻界	I don't want to press you on this.	这件事我不想催你。	press for（催促争取）｜press ahead（推进）｜under pressure	pressing adj. 紧迫的 · pressure n. 压力
+pursue	/pərˈsuː/	v. 追求；继续从事；追赶	We decided not to pursue that option.	我们决定不走那条路了。	pursue a career｜pursue an option｜pursue a goal	pursuit n. 追求
+raise	/reɪz/	v. 提出；提高；筹集 n. 加薪	She raised a good point in the meeting.	她在会上提了个很好的问题。	raise a question｜raise concerns｜raise money
+reach	/riːtʃ/	v. 达成；抵达；联系上 n. 影响范围	We reached an agreement after two hours.	我们两小时后达成了一致。	reach an agreement｜reach out to｜within reach
+realize	/ˈriːəlaɪz/	v. 意识到；实现	I didn't realize it was due today.	我没意识到今天就要交。	realize that｜realize one's potential	realization n. 认识；实现
+recognize	/ˈrekəɡnaɪz/	v. 认可；认出；承认	The team's effort was finally recognized.	团队的付出终于得到了认可。	recognize the need｜be recognized as	recognition n. 认可；识别 · recognizable adj. 可辨认的
+refer	/rɪˈfɜːr/	v. 提到；参考；转介	Which version are you referring to?	你说的是哪个版本？	refer to｜refer sb to｜as referred to above	reference n. 参考；推荐人 · referral n. 转介
+reflect	/rɪˈflekt/	v. 反映；反思；反射	These numbers don't reflect the real usage.	这些数字反映不了真实使用情况。	reflect on（反思）｜be reflected in	reflection n. 反映；反思 · reflective adj. 沉思的
+regard	/rɪˈɡɑːrd/	v. 视为；看待 n. 关注；敬意	I regard this as the highest priority.	我把这个视为最高优先级。	regard A as B｜with regard to｜in this regard	regarding prep. 关于 · regardless adv. 不管怎样
+release	/rɪˈliːs/	v. 发布；释放 n. 发行；版本	We're releasing it on Friday.	我们周五发布。	release a version｜press release｜release sb from
+rely	/rɪˈlaɪ/	v. 依赖；信赖	We rely on their API for everything.	我们所有功能都依赖他们的接口。	rely on｜rely heavily on	reliable adj. 可靠的 · reliance n. 依赖 · reliability n. 可靠性
+remain	/rɪˈmeɪn/	v. 仍然是；剩下；留下	Two issues remain unresolved.	还有两个问题没解决。	remain the same｜it remains to be seen	remaining adj. 剩余的 · remainder n. 剩余部分
+replace	/rɪˈpleɪs/	v. 取代；更换	We replaced the whole module.	我们把整个模块换掉了。	replace A with B｜be replaced by	replacement n. 替代品；更换
+represent	/ˌreprɪˈzent/	v. 代表；相当于；表示	This represents about a third of our users.	这大约占我们用户的三分之一。	represent a company｜represent a change	representative n. 代表 adj. 有代表性的 · representation n. 表示
+require	/rɪˈkwaɪər/	v. 需要；要求	This requires approval from finance.	这个需要财务审批。	require sb to do｜be required to｜as required	requirement n. 需求；要求 · required adj. 必需的
+resolve	/rɪˈzɑːlv/	v. 解决；决心 n. 决心	We resolved the issue in under an hour.	我们一小时内就解决了。	resolve an issue｜resolve to do	resolution n. 解决；决议；分辨率
+respond	/rɪˈspɑːnd/	v. 回应；响应；反应	They haven't responded to my email yet.	他们还没回我邮件。	respond to｜respond quickly	response n. 回应 · responsive adj. 反应快的
+result	/rɪˈzʌlt/	v. 导致；产生 n. 结果	The outage resulted in a lot of complaints.	这次故障引发了大量投诉。	result in（导致）｜result from（源于）｜as a result	resulting adj. 由此产生的
+reveal	/rɪˈviːl/	v. 揭示；透露	The audit revealed several gaps.	审计揭示了几处漏洞。	reveal that｜reveal a flaw	revealing adj. 有启发性的 · revelation n. 揭露
+run	/rʌn/	v. 运行；经营；持续	Who runs this project now?	现在这个项目谁在管？	run a business｜run out of（用完）｜run into（撞上/遇到）	running adj. 连续的 n. 运行 · runner n. 跑者
+secure	/sɪˈkjʊr/	v. 争取到；使安全 adj. 安全的；稳固的	We secured funding for another year.	我们又争取到了一年的经费。	secure funding｜secure a deal｜feel secure	security n. 安全；保障 · securely adv. 牢固地
+seek	/siːk/	v. 寻求；征求；设法	I'd seek legal advice before signing.	签之前我会先咨询法务。	seek advice｜seek approval｜seek to do
+serve	/sɜːrv/	v. 起到……作用；服务；供应	This serves as a good starting point.	这可以作为一个不错的起点。	serve as｜serve a purpose｜serve customers	service n. 服务 · server n. 服务器
+set	/set/	v. 设定；安排；使处于 n. 一套 adj. 固定的	Let's set a deadline for this.	我们给这个定个截止时间。	set a goal｜set up（搭建）｜set aside（留出）	setting n. 设置；环境 · setup n. 配置
+settle	/ˈsetl/	v. 解决，敲定；安顿；沉淀	Let's settle this once and for all.	我们一次性把这事定下来。	settle a dispute｜settle for（将就）｜settle down	settlement n. 和解；定居点
+share	/ʃer/	v. 分享；分担 n. 份额；股份	Could you share the doc with the team?	你能把文档分享给团队吗？	share sth with sb｜market share｜share the cost	sharing n. 共享 · shareholder n. 股东
+shift	/ʃɪft/	v. 转变；挪动 n. 转变；轮班	The focus has shifted to retention.	重心已经转向留存了。	shift focus｜a shift in｜night shift
+stand	/stænd/	v. 承受；处于（某状态）；站立 n. 立场	Where do we stand on the budget?	预算这块我们现在什么情况？	stand out（突出）｜stand by（待命/支持）｜can't stand	standing n. 地位 adj. 长期的 · standard n. 标准
+state	/steɪt/	v. 陈述，说明 n. 状态；国家	Please state the reason for the change.	请说明变更原因。	state clearly｜state of the art｜in a bad state	statement n. 陈述；对账单
+stick	/stɪk/	v. 坚持；粘住；卡住 n. 棍子	Let's stick with the current plan.	我们还是按原计划来。	stick to（坚持）｜stick with｜stick out	sticky adj. 棘手的；粘的
+submit	/səbˈmɪt/	v. 提交；屈服	Submit your expenses by the fifth.	五号前提交报销。	submit a report｜submit to	submission n. 提交（物）
+suggest	/səɡˈdʒest/	v. 建议；表明；暗示	The data suggests we're on the right track.	数据表明我们方向是对的。	suggest doing｜suggest that｜as suggested	suggestion n. 建议 · suggestive adj. 提示性的
+support	/səˈpɔːrt/	v. 支持；支撑；兼容 n. 支持	Does the new version still support this?	新版本还兼容这个吗？	support a decision｜technical support｜in support of	supportive adj. 支持的 · supporter n. 支持者
+take	/teɪk/	v. 花费（时间）；接受；理解	How long will this take?	这要多久？	take time｜take over（接管）｜take on（承担）	taking n. 收入 · takeaway n. 要点；外卖
+tend	/tend/	v. 往往会；倾向于；照料	Meetings tend to run over on Fridays.	周五的会往往会超时。	tend to do｜tend toward	tendency n. 倾向
+turn	/tɜːrn/	v. 变成；转向；轮到 n. 轮次；转弯	It turned out to be a config issue.	结果发现是配置问题。	turn out（结果是）｜turn down（拒绝/调低）｜in turn	turnover n. 周转；离职率 · turnout n. 出席人数
+undergo	/ˌʌndərˈɡoʊ/	v. 经历；接受（治疗、改造）	The system underwent a major rewrite.	系统经历了一次大重构。	undergo change｜undergo training
+value	/ˈvæljuː/	v. 重视；估价 n. 价值；数值	I really value your input on this.	我很看重你在这件事上的意见。	value sb's opinion｜add value｜good value	valuable adj. 有价值的 · valuation n. 估值
+vary	/ˈveri/	v. 不同；变化	Results vary depending on the device.	结果因设备而异。	vary from A to B｜vary widely｜vary depending on	various adj. 各种各样的 · variation n. 变化 · variable n. 变量
+weigh	/weɪ/	v. 权衡；称重；有分量	We need to weigh the risks against the benefits.	我们得权衡风险和收益。	weigh the options｜weigh in（发表意见）｜weigh up	weight n. 重量；分量 · weighted adj. 加权的
+work	/wɜːrk/	v. 奏效；工作；运转 n. 工作；作品	That approach didn't work for us.	那个做法对我们不管用。	work out（解决/锻炼）｜work on｜work around	workaround n. 变通办法 · workload n. 工作量
+yield	/jiːld/	v. 产生；让步；屈服 n. 产量；收益	The experiment yielded surprising results.	这次实验得出了出人意料的结果。	yield results｜yield to（让步于）｜high yield
+pose	/poʊz/	v. 造成（问题、威胁）；摆姿势 n. 姿势	This poses a serious security risk.	这带来了严重的安全风险。	pose a risk｜pose a question｜pose a threat
