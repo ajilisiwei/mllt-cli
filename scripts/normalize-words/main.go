@@ -41,6 +41,10 @@ type suspect struct {
 // 说明这一行的音标没有被正确拆出（常见于词条本身含空格的情况）。
 var legacySeparator = regexp.MustCompile(`\s/\s`)
 
+// cjkInWord 匹配单词列里的中日韩文字与全角标点。英文词表的单词列不该出现这些，
+// 一旦出现基本都是上一行的释义被截断成了独立的一行。
+var cjkInWord = regexp.MustCompile(`[\p{Han}\p{Hiragana}\p{Katakana}\x{3000}-\x{303F}\x{FF00}-\x{FFEF}]`)
+
 func main() {
 	check := flag.Bool("check", false, "只校验，不修改文件")
 	write := flag.Bool("write", false, "就地规范化文件")
@@ -148,6 +152,8 @@ func suspicious(word, phonetic, meaning string) string {
 		return "单词为空"
 	case strings.Contains(word, "\t"):
 		return "单词列仍含制表符"
+	case cjkInWord.MatchString(word):
+		return "单词列出现中文或全角标点，疑似上一行的断行残片"
 	case strings.Contains(meaning, "\t"):
 		return "释义列仍含制表符，疑似音标缺少右斜杠"
 	case strings.HasSuffix(word, "/"):
