@@ -6,10 +6,10 @@ client	/ˈklaɪənt/	n. 客户端；客户
 network	/ˈnetwɜːrk/	n. 网络；网状系统
 database	/ˈdeɪtəbeɪs/	n. 数据库
 algorithm	/ˈælɡəˌrɪðəm/	n. 算法
-program	/ˈproʊɡræm/	n. 程序； v. 编程
+program	/ˈproʊɡræm/	n. 程序 v. 编程
 function	/ˈfʌŋkʃən/	n. 函数；功能
-variable	/ˈveriəbl/	n. 变量；adj. 可变的
-constant	/ˈkɑːnstənt/	n. 常量；adj. 不变的
+variable	/ˈveriəbl/	n. 变量 adj. 可变的
+constant	/ˈkɑːnstənt/	n. 常量 adj. 不变的
 array	/əˈreɪ/	n. 数组；排列
 list	/lɪst/	n. 列表；清单
 object	/ˈɑːbdʒɪkt/	n. 对象；物体
@@ -19,14 +19,14 @@ module	/ˈmɑːdʒuːl/	n. 模块；组件
 package	/ˈpækɪdʒ/	n. 包；软件包
 parameter	/pəˈræmɪtər/	n. 参数
 argument	/ˈɑːrɡjumənt/	n. 参数（实参）；争论
-return	/rɪˈtɜːrn/	v. 返回；归还；n. 返回值
-input	/ˈɪnpʊt/	n. 输入；v. 输入
-output	/ˈaʊtpʊt/	n. 输出；v. 输出
+return	/rɪˈtɜːrn/	v. 返回；归还 n. 返回值
+input	/ˈɪnpʊt/	n. 输入 v. 输入
+output	/ˈaʊtpʊt/	n. 输出 v. 输出
 integer	/ˈɪntɪdʒər/	n. 整数
-float	/floʊt/	n. 浮点数；v. 浮动
+float	/floʊt/	n. 浮点数 v. 浮动
 string	/strɪŋ/	n. 字符串；绳子
 boolean	/ˈbuːliən/	n. 布尔值
-loop	/luːp/	n. 循环；环路；v. 循环
+loop	/luːp/	n. 循环；环路 v. 循环
 condition	/kənˈdɪʃən/	n. 条件；状况
 statement	/ˈsteɪtmənt/	n. 语句；声明
 expression	/ɪkˈspreʃən/	n. 表达式；表情
@@ -46,10 +46,10 @@ decryption	/diːˈkrɪpʃən/	n. 解密
 authentication	/ɔːˌθentɪˈkeɪʃən/	n. 认证；鉴别
 authorization	/ˌɔːθərəˈzeɪʃən/	n. 授权；批准
 permission	/pərˈmɪʃən/	n. 权限；许可
-access	/ˈækses/	n. 访问；通路；v. 访问
+access	/ˈækses/	n. 访问；通路 v. 访问
 resource	/rɪˈsɔːrs/	n. 资源
 thread	/θred/	n. 线程；线索
-process	/ˈproʊses/	n. 进程；过程；v. 处理
+process	/ˈproʊses/	n. 进程；过程 v. 处理
 queue	/kjuː/	n. 队列；行列
 stack	/stæk/	n. 栈；堆叠
 cache	/kæʃ/	n. 缓存；贮藏
@@ -58,7 +58,7 @@ storage	/ˈstɔːrɪdʒ/	n. 存储；保管
 disk	/dɪsk/	n. 磁盘；圆盘
 file	/faɪl/	n. 文件；档案
 folder	/ˈfoʊldər/	n. 文件夹；折叠物
-directory	/dəˈrektəri/	n. 目录；人名录
+directory	/dəˈrektəri/	n. 目录
 path	/pæθ/	n. 路径；路线
 link	/lɪŋk/	n. 链接；联系
 socket	/ˈsɑːkɪt/	n. 套接字；插座
@@ -67,7 +67,7 @@ domain	/doʊˈmeɪn/	n. 域；领域
 host	/hoʊst/	n. 主机；主持人
 IP address	/ˌaɪˈpiː əˈdres/	n. IP地址
 URL	/ˌjuː ɑːr ˈel/	n. 网址；统一资源定位符
-request	/rɪˈkwest/	n. 请求；v. 请求
+request	/rɪˈkwest/	n. 请求 v. 请求
 response	/rɪˈspɑːns/	n. 响应；答复
 timeout	/ˈtaɪmaʊt/	n. 超时
 session	/ˈseʃən/	n. 会话；会议
@@ -81,22 +81,22 @@ shell	/ʃel/	n. Shell；壳；外壳程序
 script	/skrɪpt/	n. 脚本；手稿
 command	/kəˈmænd/	n. 命令；指挥
 version	/ˈvɜːrʒən/	n. 版本；译本
-update	/ʌpˈdeɪt/	v. 更新；n. 更新
-upgrade	/ʌpˈɡreɪd/	v. 升级；n. 升级
+update	/ʌpˈdeɪt/	v. 更新 n. 更新
+upgrade	/ʌpˈɡreɪd/	v. 升级 n. 升级
 rollback	/ˈroʊlbæk/	n. 回滚；恢复
-backup	/ˈbækʌp/	n. 备份；v. 备份
+backup	/ˈbækʌp/	n. 备份 v. 备份
 restore	/rɪˈstɔːr/	v. 恢复；修复
-log	/lɔːɡ/	n. 日志；v. 记录
-monitor	/ˈmɑːnɪtər/	n. 监控器；v. 监控
+log	/lɔːɡ/	n. 日志 v. 记录
+monitor	/ˈmɑːnɪtər/	n. 监控器 v. 监控
 alert	/əˈlɜːrt/	n. 警报；提醒
 issue	/ˈɪʃuː/	n. 问题；发行
 bug	/bʌɡ/	n. 缺陷；漏洞
 feature	/ˈfiːtʃər/	n. 功能；特征
-release	/rɪˈliːs/	v. 发布；释放；n. 版本
-patch	/pætʃ/	n. 补丁；v. 修补
+release	/rɪˈliːs/	v. 发布；释放 n. 版本
+patch	/pætʃ/	n. 补丁 v. 修补
 merge	/mɜːrdʒ/	v. 合并；融合
 branch	/bræntʃ/	n. 分支；树枝
-commit	/kəˈmɪt/	v. 提交；n. 提交记录
+commit	/kəˈmɪt/	v. 提交 n. 提交记录
 repository	/rɪˈpɑːzɪtɔːri/	n. 代码仓库；贮藏所
 clone	/kloʊn/	v. 克隆；复制
 pull	/pʊl/	v. 拉取（代码）；拉
@@ -104,7 +104,7 @@ push	/pʊʃ/	v. 推送（代码）；推动
 fork	/fɔːrk/	v. 派生（代码）；分叉
 merge conflict	/mɜːrdʒ ˈkɑːnflɪkt/	n. 合并冲突
 dependency	/dɪˈpendənsi/	n. 依赖；从属
-build	/bɪld/	v. 构建；n. 构建版本
+build	/bɪld/	v. 构建 n. 构建版本
 compile error	/kəmˈpaɪl ˈerər/	n. 编译错误
 runtime	/ˈrʌntaɪm/	n. 运行时
 runtime error	/ˈrʌntaɪm ˈerər/	n. 运行时错误
@@ -213,7 +213,7 @@ integration test	/ˌɪntɪˈɡreɪʃən test/	n. 集成测试
 regression test	/rɪˈɡreʃən test/	n. 回归测试
 test case	/test keɪs/	n. 测试用例
 test coverage	/test ˈkʌvərɪdʒ/	n. 测试覆盖率
-mock	/mɑːk/	n. 模拟对象；v. 模拟
+mock	/mɑːk/	n. 模拟对象 v. 模拟
 stub	/stʌb/	n. 存根；短桩
 dependency injection	/dɪˈpendənsi ɪnˈdʒekʃən/	n. 依赖注入
 singleton	/ˈsɪŋɡəltən/	n. 单例
@@ -456,7 +456,7 @@ container		容器
 Container As A Service		容器即服务（CaaS）
 content		内容
 context		上下文
-context map, 上下文映射图		上下文地图
+context map		上下文映射图；上下文地图
 Context Mapping		上下文映射
 contextual keyword		上下文关键字
 continuous integration		持续集成
@@ -556,7 +556,7 @@ Domain Name System		域名系统（DNS）
 Domain Service		领域服务
 Domain Specific Language		领域特定语言（DSL）
 DRD		交互设计说明文档（Design Requirements Document）
-DRY 原则		不自我重复原则（Don't Repeat Yourself），“不要重复你自己3”
+DRY principle		不自我重复原则（Don't Repeat Yourself）
 duck-typing		鸭子类型
 duck test		鸭子测试
 dummy function		虚构函数
@@ -683,7 +683,7 @@ Humane Registry		人文注册表（由 Martin Fowler 提出）
 Hybrid Cloud		混合云
 hypertext-driven		超文本驱动
 HyperText Markup Language		超文本标记语言（HTML）
-IA		信息架构（Information Architect）；
+IA		信息架构（Information Architect）
 Iaas		设施即服务（Infrastructure as a Service）
 Idempotence		幂等性
 Idempotent Operation		幂等操作
@@ -750,7 +750,7 @@ Key Performance Indicator		关键绩效考核指标（KPI）
 Key Space		键空间
 key-space notification		键空间通知
 Key-Value Pair		键-值对
-KISS 原则		保持简单原则（Keep It Simple Silly），“简单是一切之本3”
+KISS principle		保持简单原则（Keep It Simple Silly）
 KPI		关键绩效考核指标（Key Performance Indicator）
 Language Integrated Query		语言集成查询（LINQ）
 Large		大型
@@ -990,7 +990,7 @@ Replace Conditional with Polymorphism		以多态取代条件表达式
 Replace Constructor with Factory Method		以工厂函数取代构造函数
 Replace Data Value with Object		以对象取代数据值
 Replace Delegation with Inheritance		以继承取代委托
-Replace Error 　 Code with Exception		以异常取代错误码
+Replace Error Code with Exception		以异常取代错误码
 Replace Exception with Test		以测试取代异常
 Replace Inheritance with Delegation		以委托取代继承
 Replace Magic Number with Symbolic Constant		以字面常量取代魔法数
@@ -1005,7 +1005,7 @@ Replace Type Code with Class		以类取代类型码
 Replace Type Code with State/Strategy		以 State/Strategy 取代类型码
 Replace Type Code with Subclass		以子类取代类型码
 reporting		报表
-Repository		存储库；仓储；仓库；资源库
+Repository		存储库；仓储；仓库
 REpresentational State Transfer		表述性状态转移、表征性状态传输、具象状态传输（REST）
 request pipeline		请求管道
 Requirements Churn		需求波动
