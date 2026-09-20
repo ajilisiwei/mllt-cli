@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"os"
+	"strconv"
 
 	mlltcli "github.com/ajilisiwei/mllt-cli"
 	"github.com/ajilisiwei/mllt-cli/internal/config"
@@ -347,7 +348,7 @@ var settingMatchModeCmd = &cobra.Command{
 var settingOrderCmd = &cobra.Command{
 	Use:   "order [order]",
 	Short: "设置练习顺序",
-	Long:  `设置练习资源的出现顺序，可选值：random（随机）、sequential（顺序）。`,
+	Long:  `设置练习资源的出现顺序，可选值：random（随机）、sequential（顺序）、ebbinghaus（艾宾浩斯间隔复习）。`,
 	Args:  cobra.MaximumNArgs(1),
 	Run: func(cmd *cobra.Command, args []string) {
 		if len(args) == 0 {
@@ -356,13 +357,14 @@ var settingOrderCmd = &cobra.Command{
 			fmt.Println("可用的顺序设置:")
 			fmt.Println("  random     - 随机")
 			fmt.Println("  sequential - 顺序")
+			fmt.Println("  ebbinghaus - 艾宾浩斯间隔复习（答错的会更早重现）")
 			return
 		}
 
 		order := args[0]
-		if order != "random" && order != "sequential" {
+		if order != "random" && order != "sequential" && order != "ebbinghaus" {
 			fmt.Printf("无效的顺序设置: %s\n", order)
-			fmt.Println("可用的顺序设置: random, sequential")
+			fmt.Println("可用的顺序设置: random, sequential, ebbinghaus")
 			return
 		}
 
@@ -373,7 +375,7 @@ var settingOrderCmd = &cobra.Command{
 		}
 		fmt.Printf("练习顺序已设置为: %s\n", order)
 	},
-	ValidArgs: []string{"random", "sequential"},
+	ValidArgs: []string{"random", "sequential", "ebbinghaus"},
 }
 
 // settingKeyboardSoundCmd 表示setting keyboard-sound子命令
@@ -515,6 +517,55 @@ var settingExamplesCmd = &cobra.Command{
 	ValidArgs: []string{"on", "off"},
 }
 
+// settingDailyCmd 表示setting daily子命令
+var settingDailyCmd = &cobra.Command{
+	Use:   "daily [new-limit] [review-limit]",
+	Short: "设置艾宾浩斯模式的每日练习量",
+	Long: `设置艾宾浩斯模式下每天引入的新条目数量和复习上限，0 表示不限。
+只影响"下一个资源出现顺序"为 ebbinghaus 时的取题数量。`,
+	Args: cobra.MaximumNArgs(2),
+	Run: func(cmd *cobra.Command, args []string) {
+		if len(args) == 0 {
+			fmt.Printf("每日新条目上限: %s\n", formatLimit(config.AppConfig.DailyNewLimit))
+			fmt.Printf("每日复习上限:   %s\n", formatLimit(config.AppConfig.DailyReviewLimit))
+			fmt.Println("\n用法: mllt-cli setting daily <新条目上限> [复习上限]，0 表示不限")
+			return
+		}
+
+		newLimit, err := strconv.Atoi(args[0])
+		if err != nil || newLimit < 0 {
+			fmt.Printf("无效的新条目上限: %s\n", args[0])
+			return
+		}
+		config.AppConfig.DailyNewLimit = newLimit
+
+		if len(args) == 2 {
+			reviewLimit, err := strconv.Atoi(args[1])
+			if err != nil || reviewLimit < 0 {
+				fmt.Printf("无效的复习上限: %s\n", args[1])
+				return
+			}
+			config.AppConfig.DailyReviewLimit = reviewLimit
+		}
+
+		if err := config.SaveConfig(); err != nil {
+			fmt.Printf("保存配置失败: %s\n", err)
+			return
+		}
+		fmt.Printf("每日新条目上限已设为 %s，复习上限 %s\n",
+			formatLimit(config.AppConfig.DailyNewLimit),
+			formatLimit(config.AppConfig.DailyReviewLimit))
+	},
+}
+
+// formatLimit 把 0 显示成"不限"
+func formatLimit(limit int) string {
+	if limit <= 0 {
+		return "不限"
+	}
+	return fmt.Sprintf("%d", limit)
+}
+
 func init() {
 	// 确保默认资源与配置已初始化
 	if err := mlltcli.EnsureAssets(); err != nil {
@@ -553,6 +604,7 @@ func init() {
 	settingCmd.AddCommand(settingKeyboardSoundCmd)
 	settingCmd.AddCommand(settingTranslationCmd)
 	settingCmd.AddCommand(settingExamplesCmd)
+	settingCmd.AddCommand(settingDailyCmd)
 }
 
 func main() {

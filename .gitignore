@@ -52,3 +52,6 @@ mllt-cli-windows-*
 
 # Release artifacts
 dist/
+
+# Test output: tests resolve resources relative to the package directory
+internal/*/resources/

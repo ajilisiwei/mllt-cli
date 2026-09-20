@@ -32,6 +32,10 @@ type Config struct {
 	ShowTranslation bool `mapstructure:"show_translation"`
 	// v0.4 新增：短语的例句是否也作为练习内容，而不只是展示
 	PracticeExamples bool `mapstructure:"practice_examples"`
+	// v0.4 新增：艾宾浩斯模式下每天引入的新条目上限，0 表示不限
+	DailyNewLimit int `mapstructure:"daily_new_limit"`
+	// v0.4 新增：艾宾浩斯模式下每天的复习上限，0 表示不限
+	DailyReviewLimit int `mapstructure:"daily_review_limit"`
 }
 
 // WordsConfig 表示单词练习的配置
@@ -66,6 +70,8 @@ func LoadConfig() error {
 
 	// 老版本的配置文件里没有这个键，缺省按「例句也要练」处理
 	viper.SetDefault("practice_examples", true)
+	viper.SetDefault("daily_new_limit", 50)
+	viper.SetDefault("daily_review_limit", 0)
 
 	// 判断是否为开发环境
 	isDevMode := isInDevelopmentMode()
@@ -134,6 +140,8 @@ func SaveConfig() error {
 		"input_keyboard_sound":   AppConfig.InputKeyboardSound,
 		"show_translation":       AppConfig.ShowTranslation,
 		"practice_examples":      AppConfig.PracticeExamples,
+		"daily_new_limit":        AppConfig.DailyNewLimit,
+		"daily_review_limit":     AppConfig.DailyReviewLimit,
 	} {
 		viper.Set(k, v)
 	}

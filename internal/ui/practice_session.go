@@ -86,10 +86,11 @@ type PracticeSession struct {
 	result          string          // 结果信息
 	quitting        bool
 	// v0.2 新增：错误状态跟踪
-	lastInputWrong bool   // 上次输入是否错误
-	wrongInput     string // 错误的输入内容
-	expectedText   string // 期望的正确文本
-	exampleItems   []bool // 与 items 等长，标记哪些是展开出来的例句项
+	lastInputWrong bool      // 上次输入是否错误
+	wrongInput     string    // 错误的输入内容
+	expectedText   string    // 期望的正确文本
+	exampleItems   []bool    // 与 items 等长，标记哪些是展开出来的例句项
+	nextDue        time.Time // 艾宾浩斯模式下最近一个未到期条目的复习时间
 	// v0.2 新增：随机顺序支持
 	practiceOrder    []int // 练习顺序索引列表
 	completedCount   int   // 已完成的项目数量
@@ -152,15 +153,19 @@ func NewPracticeSession(resourceType, fileName string) *PracticeSession {
 
 	var schedule *srs.Schedule
 	srsEnabled := false
+	var nextDue time.Time
 
 	if len(practiceOrder) > 0 && resourceType != practice.Articles && orderMode == "ebbinghaus" {
 		if sch, err := srs.Load(resourceType, fileName, normalizedItems); err == nil {
-			ordered := sch.Order(normalizedItems)
-			if len(ordered) == len(practiceOrder) {
-				practiceOrder = ordered
-				schedule = sch
-				srsEnabled = true
-			}
+			// 只取今天该练的：到期复习 + 限量新条目
+			practiceOrder = sch.DueItems(
+				normalizedItems,
+				config.AppConfig.DailyNewLimit,
+				config.AppConfig.DailyReviewLimit,
+			)
+			schedule = sch
+			srsEnabled = true
+			nextDue = sch.NextDue(normalizedItems)
 		} else {
 			orderMode = "sequential"
 		}
@@ -200,6 +205,7 @@ func NewPracticeSession(resourceType, fileName string) *PracticeSession {
 		state:                   "practicing",
 		practiceOrder:           practiceOrder,
 		exampleItems:            exampleItems,
+		nextDue:                 nextDue,
 		completedCount:          0,
 		initialItemCount:        len(practiceOrder),
 		srsEnabled:              srsEnabled,
@@ -351,6 +357,7 @@ func (m *PracticeSession) handleAnswerSubmission() (tea.Model, tea.Cmd) {
 
 	isCorrect := m.isInputCorrect(userInput, expectedInput)
 	m.recordSpacedRepetition(originalItem, isCorrect)
+	m.recordWrongAnswer(originalItem, isCorrect)
 
 	if isCorrect {
 		m.correct++
@@ -772,7 +779,7 @@ func (m PracticeSession) View() string {
 			wrappedText := m.wrapText(currentItem, m.width-4)
 			s.WriteString(RenderText(wrappedText) + "\n\n")
 		} else {
-			s.WriteString(RenderText("暂无可练习内容") + "\n\n")
+			s.WriteString(RenderText(m.emptyMessage()) + "\n\n")
 		}
 
 		s.WriteString(RenderHighlight("请输入:") + "\n")
@@ -1013,6 +1020,47 @@ func (m PracticeSession) formatEntryItem(item string) string {
 	}
 
 	return strings.Join(lines, "\n")
+}
+
+// recordWrongAnswer 维护错题本：答错就收进去，在错题本里答对才移出去。
+//
+// 只在练错题本时移除，是因为在原列表里偶然答对一次并不说明已经掌握——
+// 真正的检验是回到错题本里再打一遍。
+func (m *PracticeSession) recordWrongAnswer(item string, correct bool) {
+	if item == "" || !bookmark.SupportsMark(m.resourceType) {
+		return
+	}
+
+	if !correct {
+		_, _ = bookmark.Add(m.resourceType, bookmark.WrongList, item)
+		return
+	}
+
+	if m.fileName == bookmark.WrongList {
+		_, _ = bookmark.Remove(m.resourceType, bookmark.WrongList, item)
+	}
+}
+
+// emptyMessage 说明为什么没有可练的内容。艾宾浩斯模式下练完当天的量是正常状态，
+// 不该和「这个文件是空的」显示成同一句话。
+func (m PracticeSession) emptyMessage() string {
+	if !m.srsEnabled || len(m.items) == 0 {
+		return "暂无可练习内容"
+	}
+
+	if m.nextDue.IsZero() {
+		return "今天的复习已完成，这个列表暂时没有到期内容。"
+	}
+
+	wait := time.Until(m.nextDue)
+	switch {
+	case wait < time.Hour:
+		return fmt.Sprintf("今天的复习已完成，约 %d 分钟后有内容到期。", int(wait.Minutes())+1)
+	case wait < 24*time.Hour:
+		return fmt.Sprintf("今天的复习已完成，约 %d 小时后有内容到期。", int(wait.Hours())+1)
+	default:
+		return fmt.Sprintf("今天的复习已完成，下次到期在 %s。", m.nextDue.Format("1月2日 15:04"))
+	}
 }
 
 // currentIsExample 判断当前练习项是不是展开出来的例句项。

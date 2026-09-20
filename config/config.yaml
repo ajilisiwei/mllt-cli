@@ -1,6 +1,8 @@
 articles: {}
 correctness_match_mode: word_match
 current_language: english
+daily_new_limit: 50
+daily_review_limit: 0
 input_keyboard_sound: true
 languages:
     - english

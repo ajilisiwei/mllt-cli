@@ -166,6 +166,70 @@ func (s *Schedule) Order(items []string) []int {
 	return ordered
 }
 
+// DueItems 返回今天真正该练的条目下标：先是已经到期的复习项（按到期时间从早到晚），
+// 再补上没练过的新项。
+//
+// 艾宾浩斯的价值在于每天只练该练的那部分——一个五千词的文件如果每次都全量铺开，
+// 间隔重复就退化成了随机刷题。上限传 0 表示不限制。
+func (s *Schedule) DueItems(items []string, newLimit, reviewLimit int) []int {
+	type candidate struct {
+		index int
+		due   time.Time
+	}
+
+	var reviews []candidate
+	var fresh []int
+
+	now := time.Now()
+	for idx, item := range items {
+		state := s.getState(item)
+		switch {
+		case state.DueAt.IsZero():
+			fresh = append(fresh, idx)
+		case state.DueAt.After(now):
+			// 还没到复习时间，今天不练
+		default:
+			reviews = append(reviews, candidate{index: idx, due: state.DueAt})
+		}
+	}
+
+	sort.SliceStable(reviews, func(i, j int) bool {
+		return reviews[i].due.Before(reviews[j].due)
+	})
+
+	if reviewLimit > 0 && len(reviews) > reviewLimit {
+		reviews = reviews[:reviewLimit]
+	}
+	if newLimit > 0 && len(fresh) > newLimit {
+		fresh = fresh[:newLimit]
+	}
+
+	ordered := make([]int, 0, len(reviews)+len(fresh))
+	for _, r := range reviews {
+		ordered = append(ordered, r.index)
+	}
+	return append(ordered, fresh...)
+}
+
+// NextDue 返回最近一个尚未到期条目的复习时间；没有这样的条目时返回零值。
+// 用来在今天练完之后告诉用户下次该什么时候回来。
+func (s *Schedule) NextDue(items []string) time.Time {
+	var next time.Time
+
+	now := time.Now()
+	for _, item := range items {
+		due := s.getState(item).DueAt
+		if due.IsZero() || !due.After(now) {
+			continue
+		}
+		if next.IsZero() || due.Before(next) {
+			next = due
+		}
+	}
+
+	return next
+}
+
 // RecordResult 根据练习结果更新记忆计划。
 func (s *Schedule) RecordResult(item string, correct bool) error {
 	if s == nil {
