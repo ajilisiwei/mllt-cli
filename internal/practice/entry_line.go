@@ -1,24 +1,37 @@
 package practice
 
 import (
+	"fmt"
 	"strings"
 
 	"github.com/ajilisiwei/mllt-cli/internal/config"
 )
 
+// Contrast 表示一条对比句：英文加它的中文注释。
+type Contrast struct {
+	Text string
+	Note string
+}
+
 // Entry 表示一条短语/句子条目拆分后的各个字段。
 type Entry struct {
 	Text        string // 需要输入的正文
 	Meaning     string // 中文释义
-	Example     string // 英文例句
-	ExampleNote string // 例句的中文翻译
+	Example     string // 第一条对比句，等同于 Contrasts[0].Text（保留给既有调用方）
+	ExampleNote string // 第一条对比句的注释
+	// Contrasts 是正文之后的全部对比句。短语只有一条例句，语法册可以挂一整套时态。
+	Contrasts []Contrast
 }
 
-// ParseEntryLine 解析短语或句子行，支持用 " ->> " 分成最多四段：
+// ParseEntryLine 解析短语或句子行。各段按「文本, 注释」两两成对：
 //
 //	正文 ->> 释义
 //	正文 ->> 释义 ->> 例句
 //	正文 ->> 释义 ->> 例句 ->> 例句翻译
+//	正文 ->> 注释 ->> 对比句1 ->> 注释1 ->> 对比句2 ->> 注释2 ->> …
+//
+// 成对之后就不再有段数上限：短语挂一条例句，语法条目可以挂一整套时态，
+// 它们会被展开成连续的练习项，对比才不会被拆散。
 //
 // 两段的旧格式继续按「正文 + 释义」解析；不含 " ->> " 时回退到通用分隔符规则。
 // 正文始终与 ParseLine 的结果一致，因此打字答案、记忆计划的键都不受影响。
@@ -29,17 +42,30 @@ func ParseEntryLine(line string) Entry {
 	}
 
 	parts := strings.Split(line, Separator)
+	for i := range parts {
+		parts[i] = strings.TrimSpace(parts[i])
+	}
 
-	entry := Entry{Text: strings.TrimSpace(parts[0])}
+	entry := Entry{Text: parts[0]}
 	if len(parts) > 1 {
-		entry.Meaning = strings.TrimSpace(parts[1])
+		entry.Meaning = parts[1]
 	}
-	if len(parts) > 2 {
-		entry.Example = strings.TrimSpace(parts[2])
+
+	// 从第三段起每两段构成一条对比句；最后一句缺注释时注释留空
+	for i := 2; i < len(parts); i += 2 {
+		contrast := Contrast{Text: parts[i]}
+		if i+1 < len(parts) {
+			contrast.Note = parts[i+1]
+		}
+		if contrast.Text == "" {
+			continue
+		}
+		entry.Contrasts = append(entry.Contrasts, contrast)
 	}
-	if len(parts) > 3 {
-		// 例句翻译里若再出现分隔符，原样拼回，避免内容被截断
-		entry.ExampleNote = strings.TrimSpace(strings.Join(parts[3:], Separator))
+
+	if len(entry.Contrasts) > 0 {
+		entry.Example = entry.Contrasts[0].Text
+		entry.ExampleNote = entry.Contrasts[0].Note
 	}
 
 	return entry
@@ -58,9 +84,7 @@ func ExpandEntryBlocks(items []string) [][]string {
 	for _, item := range items {
 		block := []string{item}
 
-		if example := exampleItemOf(item); example != "" {
-			block = append(block, example)
-		}
+		block = append(block, contrastItemsOf(item)...)
 
 		blocks = append(blocks, block)
 	}
@@ -77,28 +101,31 @@ func ExpandEntries(items []string) []string {
 	return expanded
 }
 
-// exampleItemOf 返回一条记录对应的例句练习项，没有例句时返回空串。
+// contrastItemsOf 返回一条记录挂着的全部对比句练习项，没有则返回空切片。
 //
-// 例句项沿用原记录的分隔风格：短语和句子用 " ->> "，单词表用制表符分列，
+// 练习项沿用原记录的分隔风格：短语和句子用 " ->> "，单词表用制表符分列，
 // 这样它在各自的资源类型里都是一条合法记录。
-func exampleItemOf(line string) string {
+func contrastItemsOf(line string) []string {
 	if strings.Contains(line, Separator) {
 		entry := ParseEntryLine(line)
-		if entry.Example == "" {
-			return ""
+
+		items := make([]string, 0, len(entry.Contrasts))
+		for _, contrast := range entry.Contrasts {
+			if contrast.Note == "" {
+				items = append(items, contrast.Text)
+				continue
+			}
+			items = append(items, contrast.Text+Separator+contrast.Note)
 		}
-		if entry.ExampleNote == "" {
-			return entry.Example
-		}
-		return entry.Example + Separator + entry.ExampleNote
+		return items
 	}
 
 	word := ParseWordEntry(line)
 	if word.Example == "" {
-		return ""
+		return nil
 	}
 	// 单词表是制表符分列的，例句项也保持同样的列结构，音标列留空
-	return word.Example + "\t\t" + word.ExampleNote
+	return []string{word.Example + "\t\t" + word.ExampleNote}
 }
 
 // 练习方向
@@ -143,4 +170,40 @@ func PromptFor(resourceType, line string) string {
 		return meaning
 	}
 	return text
+}
+
+// Field 是一条记录在正文之外要展示的字段。
+type Field struct {
+	Label string
+	Value string
+}
+
+// DisplayFields 返回正文之外要展示的内容。
+//
+// 只挂一条对比句时按「例句 / 译文」显示，这是短语册的样子；挂一整套时
+// （比如同一场景铺开各种时态）改成带编号的「对比N / 注释N」，
+// 否则一屏全是同名标签，根本没法对照着看。
+func (e Entry) DisplayFields() []Field {
+	fields := make([]Field, 0, 1+len(e.Contrasts)*2)
+
+	if e.Meaning != "" {
+		fields = append(fields, Field{Label: "翻译", Value: e.Meaning})
+	}
+
+	numbered := len(e.Contrasts) > 1
+	for i, contrast := range e.Contrasts {
+		textLabel, noteLabel := "例句", "译文"
+		if numbered {
+			textLabel = fmt.Sprintf("对比%d", i+1)
+			noteLabel = fmt.Sprintf("注释%d", i+1)
+		}
+		if contrast.Text != "" {
+			fields = append(fields, Field{Label: textLabel, Value: contrast.Text})
+		}
+		if contrast.Note != "" {
+			fields = append(fields, Field{Label: noteLabel, Value: contrast.Note})
+		}
+	}
+
+	return fields
 }

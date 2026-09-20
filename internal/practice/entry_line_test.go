@@ -62,7 +62,8 @@ func TestParseEntryLine(t *testing.T) {
 	for _, tc := range cases {
 		t.Run(tc.name, func(t *testing.T) {
 			got := ParseEntryLine(tc.line)
-			if got != tc.want {
+			if got.Text != tc.want.Text || got.Meaning != tc.want.Meaning ||
+				got.Example != tc.want.Example || got.ExampleNote != tc.want.ExampleNote {
 				t.Errorf("ParseEntryLine(%q)\n got = %+v\nwant = %+v", tc.line, got, tc.want)
 			}
 		})
@@ -192,5 +193,76 @@ func TestExpandEntryBlocksKeepsExampleWithItsPhrase(t *testing.T) {
 				t.Errorf("顺序 %v：%q 的下一项是 %q，期望它的例句 %q", order, entry.Text, next, entry.Example)
 			}
 		}
+	}
+}
+
+func TestParseEntryLineCollectsAllContrasts(t *testing.T) {
+	line := "He lives here. ->> 他住在这儿（一般现在时：长期状态）" +
+		" ->> He is living here. ->> 他目前住在这儿（现在进行时：临时安排）" +
+		" ->> He has lived here for ten years. ->> 他在这儿住了十年了（现在完成时：持续到现在）" +
+		" ->> He lived here for ten years. ->> 他在这儿住过十年（一般过去时：现在已搬走）"
+
+	entry := ParseEntryLine(line)
+
+	if entry.Text != "He lives here." {
+		t.Errorf("正文 = %q", entry.Text)
+	}
+	if entry.Meaning != "他住在这儿（一般现在时：长期状态）" {
+		t.Errorf("注释 = %q", entry.Meaning)
+	}
+	if len(entry.Contrasts) != 3 {
+		t.Fatalf("对比句数量 = %d，期望 3", len(entry.Contrasts))
+	}
+
+	want := []Contrast{
+		{Text: "He is living here.", Note: "他目前住在这儿（现在进行时：临时安排）"},
+		{Text: "He has lived here for ten years.", Note: "他在这儿住了十年了（现在完成时：持续到现在）"},
+		{Text: "He lived here for ten years.", Note: "他在这儿住过十年（一般过去时：现在已搬走）"},
+	}
+	for i, w := range want {
+		if entry.Contrasts[i] != w {
+			t.Errorf("第 %d 个对比 = %+v，期望 %+v", i+1, entry.Contrasts[i], w)
+		}
+	}
+
+	// 兼容字段仍指向第一个对比句
+	if entry.Example != want[0].Text || entry.ExampleNote != want[0].Note {
+		t.Errorf("兼容字段 = (%q, %q)", entry.Example, entry.ExampleNote)
+	}
+}
+
+// 整套时态必须在同一个练习块里，否则对比就散了
+func TestExpandEntryBlocksKeepsWholeParadigmTogether(t *testing.T) {
+	line := "He lives here. ->> 一般现在时" +
+		" ->> He is living here. ->> 现在进行时" +
+		" ->> He has lived here. ->> 现在完成时"
+
+	blocks := ExpandEntryBlocks([]string{line})
+	if len(blocks) != 1 {
+		t.Fatalf("应该只有一个块，实际 %d 个", len(blocks))
+	}
+
+	block := blocks[0]
+	if len(block) != 3 {
+		t.Fatalf("块内 %d 项，期望 3 项: %q", len(block), block)
+	}
+
+	wantTexts := []string{"He lives here.", "He is living here.", "He has lived here."}
+	for i, want := range wantTexts {
+		if got, _ := ParseLine(block[i]); got != want {
+			t.Errorf("块内第 %d 项 = %q，期望 %q", i, got, want)
+		}
+	}
+}
+
+// 奇数段（最后一句没有注释）不能丢内容
+func TestParseEntryLineHandlesMissingLastNote(t *testing.T) {
+	entry := ParseEntryLine("hang up ->> 挂断电话 ->> Don't hang up on me.")
+
+	if len(entry.Contrasts) != 1 {
+		t.Fatalf("对比句数量 = %d，期望 1", len(entry.Contrasts))
+	}
+	if entry.Contrasts[0].Text != "Don't hang up on me." || entry.Contrasts[0].Note != "" {
+		t.Errorf("对比 = %+v", entry.Contrasts[0])
 	}
 }

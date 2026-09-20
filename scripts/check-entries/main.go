@@ -25,7 +25,9 @@ import (
 	"github.com/ajilisiwei/mllt-cli/internal/practice"
 )
 
-const maxFields = 4
+// 各段两两成对（文本 + 注释），一条语法条目可以挂一整套时态。
+// 上限只是防手滑，不是格式限制。
+const maxFields = 16
 
 type record struct {
 	file string
@@ -91,6 +93,9 @@ func checkType(root, resourceType string) (bool, error) {
 			}
 			if n := len(strings.Split(rec.raw, practice.Separator)); n > maxFields {
 				problems = append(problems, fmt.Sprintf("%s 分成了 %d 段，最多 %d 段", label, n, maxFields))
+			}
+			if n := len(strings.Split(rec.raw, practice.Separator)); n > 4 && n%2 != 0 {
+				problems = append(problems, fmt.Sprintf("%s 有 %d 段，对比句必须成对（文本 + 注释）", label, n))
 			}
 
 			byText[normalize(entry.Text)] = append(byText[normalize(entry.Text)], rec)

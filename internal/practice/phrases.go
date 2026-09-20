@@ -45,7 +45,7 @@ func PhrasePractice(fileName string) error {
 		// 获取当前短语
 		phraseLine := phrases[index]
 		entry := ParseEntryLine(phraseLine)
-		phrase, translation := entry.Text, entry.Meaning
+		phrase := entry.Text
 		prompt := PromptFor(Phrases, phraseLine)
 
 		// 显示短语
@@ -68,14 +68,12 @@ func PhrasePractice(fileName string) error {
 				// 译写模式下题面就是译文，不必再打一遍；确认原文更有用
 				if prompt != phrase {
 					fmt.Printf("原文: %s\n", phrase)
-				} else if translation != "" {
-					fmt.Printf("翻译: %s\n", translation)
 				}
-				if entry.Example != "" {
-					fmt.Printf("例句: %s\n", entry.Example)
-				}
-				if entry.ExampleNote != "" {
-					fmt.Printf("译文: %s\n", entry.ExampleNote)
+				for _, field := range entry.DisplayFields() {
+					if field.Label == "翻译" && prompt != phrase {
+						continue // 译写模式下题面就是译文，不必再打一遍
+					}
+					fmt.Printf("%s: %s\n", field.Label, field.Value)
 				}
 			}
 			// 获取下一个短语的索引

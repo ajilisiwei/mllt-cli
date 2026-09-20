@@ -44,7 +44,7 @@ func SentencePractice(fileName string) error {
 		// 获取当前句子
 		sentenceLine := sentences[index]
 		entry := ParseEntryLine(sentenceLine)
-		sentence, translation := entry.Text, entry.Meaning
+		sentence := entry.Text
 		prompt := PromptFor(Sentences, sentenceLine)
 
 		// 显示句子
@@ -67,14 +67,12 @@ func SentencePractice(fileName string) error {
 				// 译写模式下题面就是译文，不必再打一遍；确认原文更有用
 				if prompt != sentence {
 					fmt.Printf("原文: %s\n", sentence)
-				} else if translation != "" {
-					fmt.Printf("翻译: %s\n", translation)
 				}
-				if entry.Example != "" {
-					fmt.Printf("例句: %s\n", entry.Example)
-				}
-				if entry.ExampleNote != "" {
-					fmt.Printf("译文: %s\n", entry.ExampleNote)
+				for _, field := range entry.DisplayFields() {
+					if field.Label == "翻译" && prompt != sentence {
+						continue // 译写模式下题面就是译文，不必再打一遍
+					}
+					fmt.Printf("%s: %s\n", field.Label, field.Value)
 				}
 			}
 			// 获取下一个句子的索引
