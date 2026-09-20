@@ -12,11 +12,15 @@ import (
 const (
 	MarkedList   = "标记"
 	FavoriteList = "收藏"
+	// WrongList 收集答错过的条目。与「标记」不同，它不会被排除出正常练习——
+	// 错过的东西恰恰是最该继续练的。
+	WrongList = "错题"
 )
 
 var supportedLists = map[string]struct{}{
 	MarkedList:   {},
 	FavoriteList: {},
+	WrongList:    {},
 }
 
 // Add stores an item in the target special list. Returns true if the item was newly added.

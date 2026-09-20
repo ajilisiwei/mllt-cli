@@ -4,6 +4,7 @@ import (
 	"strings"
 	"testing"
 
+	"github.com/ajilisiwei/mllt-cli/internal/bookmark"
 	"github.com/ajilisiwei/mllt-cli/internal/config"
 	"github.com/ajilisiwei/mllt-cli/internal/practice"
 )
@@ -603,5 +604,55 @@ func TestLegacyWordEntryUnchanged(t *testing.T) {
 	want := "ability\n音标: /əˈbɪləti/\n翻译: n. 能力，能耐；才能"
 	if got := session.getCurrentItem(); got != want {
 		t.Errorf("getCurrentItem() = %q, want %q", got, want)
+	}
+}
+
+// 答错自动进错题本，在错题本里答对才移出
+func TestRecordWrongAnswer(t *testing.T) {
+	setupPracticeSessionTest(t)
+
+	const item = "abandon\t/əˈbændən/\tv. 放弃"
+	cleanup := func() { _, _ = bookmark.Remove(practice.Words, bookmark.WrongList, item) }
+	cleanup()
+	defer cleanup()
+
+	session := &PracticeSession{resourceType: practice.Words, fileName: "六级单词"}
+
+	session.recordWrongAnswer(item, false)
+	if ok, _ := bookmark.Contains(practice.Words, bookmark.WrongList, item); !ok {
+		t.Fatal("答错后应进入错题本")
+	}
+
+	// 在原列表里答对不移出：偶然对一次不算掌握
+	session.recordWrongAnswer(item, true)
+	if ok, _ := bookmark.Contains(practice.Words, bookmark.WrongList, item); !ok {
+		t.Error("在原列表答对不应移出错题本")
+	}
+
+	// 回到错题本里答对才移出
+	session.fileName = bookmark.WrongList
+	session.recordWrongAnswer(item, true)
+	if ok, _ := bookmark.Contains(practice.Words, bookmark.WrongList, item); ok {
+		t.Error("在错题本里答对后应移出")
+	}
+}
+
+// 错题本不能被排除出正常练习，否则错过的内容就再也练不到了
+func TestWrongListIsNotExcludedFromPractice(t *testing.T) {
+	setupPracticeSessionTest(t)
+
+	const item = "issue\t/ˈɪʃuː/\tn. 问题"
+	if _, err := bookmark.Add(practice.Words, bookmark.WrongList, item); err != nil {
+		t.Fatalf("加入错题本失败: %v", err)
+	}
+	defer bookmark.Remove(practice.Words, bookmark.WrongList, item)
+
+	kept := filterExcludedItems(practice.Words, []string{item})
+	if len(kept) != 1 {
+		t.Fatalf("错题本里的条目被排除出了练习: %v", kept)
+	}
+
+	if !bookmark.IsSpecialList(bookmark.WrongList) {
+		t.Error("错题本应当是可直接练习的特殊列表")
 	}
 }
