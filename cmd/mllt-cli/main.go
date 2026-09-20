@@ -517,6 +517,42 @@ var settingExamplesCmd = &cobra.Command{
 	ValidArgs: []string{"on", "off"},
 }
 
+// settingDirectionCmd 表示setting direction子命令
+var settingDirectionCmd = &cobra.Command{
+	Use:   "direction [copy|translate]",
+	Short: "设置练习方向",
+	Long:  `设置练习方向，可选值：copy（看英文抄写）、translate（看中文译写）。`,
+	Args:  cobra.MaximumNArgs(1),
+	Run: func(cmd *cobra.Command, args []string) {
+		if len(args) == 0 {
+			direction := config.AppConfig.PracticeDirection
+			if direction == "" {
+				direction = "copy"
+			}
+			fmt.Printf("当前练习方向: %s\n", direction)
+			fmt.Println("可用的练习方向:")
+			fmt.Println("  copy      - 看英文抄写，练手感与拼写")
+			fmt.Println("  translate - 看中文译写，练产出能力")
+			return
+		}
+
+		direction := args[0]
+		if direction != "copy" && direction != "translate" {
+			fmt.Printf("无效的练习方向: %s\n", direction)
+			fmt.Println("可用的练习方向: copy, translate")
+			return
+		}
+
+		config.AppConfig.PracticeDirection = direction
+		if err := config.SaveConfig(); err != nil {
+			fmt.Printf("保存配置失败: %s\n", err)
+			return
+		}
+		fmt.Printf("练习方向已设置为: %s\n", direction)
+	},
+	ValidArgs: []string{"copy", "translate"},
+}
+
 // settingDailyCmd 表示setting daily子命令
 var settingDailyCmd = &cobra.Command{
 	Use:   "daily [new-limit] [review-limit]",
@@ -605,6 +641,7 @@ func init() {
 	settingCmd.AddCommand(settingTranslationCmd)
 	settingCmd.AddCommand(settingExamplesCmd)
 	settingCmd.AddCommand(settingDailyCmd)
+	settingCmd.AddCommand(settingDirectionCmd)
 }
 
 func main() {

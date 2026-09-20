@@ -1,6 +1,10 @@
 package practice
 
-import "strings"
+import (
+	"strings"
+
+	"github.com/ajilisiwei/mllt-cli/internal/config"
+)
 
 // Entry 表示一条短语/句子条目拆分后的各个字段。
 type Entry struct {
@@ -95,4 +99,48 @@ func exampleItemOf(line string) string {
 	}
 	// 单词表是制表符分列的，例句项也保持同样的列结构，音标列留空
 	return word.Example + "\t\t" + word.ExampleNote
+}
+
+// 练习方向
+const (
+	DirectionCopy      = "copy"      // 看英文抄写
+	DirectionTranslate = "translate" // 看中文译写
+)
+
+// PromptFor 返回练习时要显示的题面。
+//
+// 译写模式下给中文提示（单词给音标加释义，其余给译文），条目没有译文时退回英文原文——
+// 给一个空白提示比给原文更糟。抄写模式下始终返回英文原文。
+func PromptFor(resourceType, line string) string {
+	text := WordPrimaryText(line)
+	if resourceType != Words {
+		if primary, _ := ParseLine(line); primary != "" {
+			text = primary
+		}
+	}
+
+	if !strings.EqualFold(config.AppConfig.PracticeDirection, DirectionTranslate) {
+		return text
+	}
+
+	if resourceType == Words {
+		entry := ParseWordEntry(line)
+
+		hints := make([]string, 0, 2)
+		if entry.Phonetic != "" {
+			hints = append(hints, entry.Phonetic)
+		}
+		if entry.Meaning != "" {
+			hints = append(hints, entry.Meaning)
+		}
+		if len(hints) > 0 {
+			return strings.Join(hints, "  ")
+		}
+		return text
+	}
+
+	if meaning := ParseEntryLine(line).Meaning; meaning != "" {
+		return meaning
+	}
+	return text
 }

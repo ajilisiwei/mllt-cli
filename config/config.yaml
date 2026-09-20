@@ -9,6 +9,7 @@ languages:
     - japanese
 next_one_order: ebbinghaus
 phrases: {}
+practice_direction: copy
 practice_examples: true
 sentences: {}
 show_translation: false

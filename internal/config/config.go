@@ -36,6 +36,8 @@ type Config struct {
 	DailyNewLimit int `mapstructure:"daily_new_limit"`
 	// v0.4 新增：艾宾浩斯模式下每天的复习上限，0 表示不限
 	DailyReviewLimit int `mapstructure:"daily_review_limit"`
+	// v0.4 新增：练习方向，copy（看英文抄写）或 translate（看中文译写）
+	PracticeDirection string `mapstructure:"practice_direction"`
 }
 
 // WordsConfig 表示单词练习的配置
@@ -72,6 +74,7 @@ func LoadConfig() error {
 	viper.SetDefault("practice_examples", true)
 	viper.SetDefault("daily_new_limit", 50)
 	viper.SetDefault("daily_review_limit", 0)
+	viper.SetDefault("practice_direction", "copy")
 
 	// 判断是否为开发环境
 	isDevMode := isInDevelopmentMode()
@@ -142,6 +145,7 @@ func SaveConfig() error {
 		"practice_examples":      AppConfig.PracticeExamples,
 		"daily_new_limit":        AppConfig.DailyNewLimit,
 		"daily_review_limit":     AppConfig.DailyReviewLimit,
+		"practice_direction":     AppConfig.PracticeDirection,
 	} {
 		viper.Set(k, v)
 	}

@@ -775,7 +775,7 @@ func (m PracticeSession) View() string {
 
 		currentItem := m.getCurrentItem()
 		if currentItem != "" {
-			s.WriteString(RenderHighlight("当前项目:") + "\n")
+			s.WriteString(RenderHighlight(m.promptLabel()) + "\n")
 			wrappedText := m.wrapText(currentItem, m.width-4)
 			s.WriteString(RenderText(wrappedText) + "\n\n")
 		} else {
@@ -944,6 +944,13 @@ func (m PracticeSession) getCurrentItem() string {
 		return ""
 	}
 
+	// 译写模式：只给中文提示，英文原文要靠自己写出来
+	if m.isTranslateMode() {
+		if prompt := m.translatePrompt(item); prompt != "" {
+			return prompt
+		}
+	}
+
 	if m.resourceType == practice.Words {
 		return m.formatWordItem(item)
 	}
@@ -1020,6 +1027,51 @@ func (m PracticeSession) formatEntryItem(item string) string {
 	}
 
 	return strings.Join(lines, "\n")
+}
+
+// 练习方向
+const (
+	practiceDirectionCopy      = "copy"      // 看英文抄写
+	practiceDirectionTranslate = "translate" // 看中文译写
+)
+
+// promptLabel 返回题面的标题，让人一眼看出这题要抄写还是要译写。
+func (m PracticeSession) promptLabel() string {
+	if m.isTranslateMode() {
+		if m.resourceType == practice.Words {
+			return "请拼写这个单词:"
+		}
+		return "请译写成英文:"
+	}
+	return "当前项目:"
+}
+
+// isTranslateMode 判断当前是否为译写模式。
+func (m PracticeSession) isTranslateMode() bool {
+	return strings.EqualFold(config.AppConfig.PracticeDirection, practiceDirectionTranslate)
+}
+
+// translatePrompt 返回译写模式下要显示的中文提示；条目没有译文时返回空串，
+// 调用方据此退回抄写模式——给一个空白提示比给英文原文更糟。
+//
+// 单词给的是音标加释义：光看"v. 放弃，抛弃"有太多英文对得上，音标才能把答案锁死，
+// 而且这正好是一次拼写练习。其余类型给译文即可。
+// 例句、搭配、词族一律不显示，它们都会泄题。
+func (m PracticeSession) translatePrompt(item string) string {
+	if m.resourceType == practice.Words {
+		entry := practice.ParseWordEntry(item)
+
+		lines := make([]string, 0, 2)
+		if entry.Phonetic != "" {
+			lines = append(lines, entry.Phonetic)
+		}
+		if entry.Meaning != "" {
+			lines = append(lines, entry.Meaning)
+		}
+		return strings.Join(lines, "\n")
+	}
+
+	return practice.ParseEntryLine(item).Meaning
 }
 
 // recordWrongAnswer 维护错题本：答错就收进去，在错题本里答对才移出去。

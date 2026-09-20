@@ -45,10 +45,11 @@ func WordPractice(fileName string) error {
 		wordLine := words[index]
 		entry := ParseWordEntry(wordLine)
 		word, translation := entry.Word, entry.Meaning
+		prompt := PromptFor(Words, wordLine)
 
-		// 显示单词
-		fmt.Printf("请输入: %s\n", word)
-		if showTranslation && entry.Phonetic != "" {
+		// 显示题面。译写模式下音标已经在题面里，不要再单独打一遍
+		fmt.Printf("请输入: %s\n", prompt)
+		if showTranslation && entry.Phonetic != "" && prompt == word {
 			fmt.Printf("音标: %s\n", entry.Phonetic)
 		}
 

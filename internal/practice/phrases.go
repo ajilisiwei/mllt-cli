@@ -46,9 +46,10 @@ func PhrasePractice(fileName string) error {
 		phraseLine := phrases[index]
 		entry := ParseEntryLine(phraseLine)
 		phrase, translation := entry.Text, entry.Meaning
+		prompt := PromptFor(Phrases, phraseLine)
 
 		// 显示短语
-		fmt.Printf("请输入: %s\n", phrase)
+		fmt.Printf("请输入: %s\n", prompt)
 
 		// 读取用户输入
 		input, _ := reader.ReadString('\n')

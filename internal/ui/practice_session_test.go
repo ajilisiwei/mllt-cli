@@ -656,3 +656,110 @@ func TestWrongListIsNotExcludedFromPractice(t *testing.T) {
 		t.Error("错题本应当是可直接练习的特殊列表")
 	}
 }
+
+// 译写模式：单词看音标+释义拼写，句子看中文写英文；打字答案始终是英文原文
+func TestTranslateModePrompts(t *testing.T) {
+	setupPracticeSessionTest(t)
+
+	originalDirection := config.AppConfig.PracticeDirection
+	defer func() { config.AppConfig.PracticeDirection = originalDirection }()
+	config.AppConfig.PracticeDirection = practiceDirectionTranslate
+	config.AppConfig.ShowTranslation = true
+
+	cases := []struct {
+		name         string
+		resourceType string
+		item         string
+		wantPrompt   string
+		wantInput    string
+	}{
+		{
+			name:         "单词：给音标和释义，拼出单词",
+			resourceType: practice.Words,
+			item:         "abandon\t/əˈbændən/\tv. 放弃，抛弃",
+			wantPrompt:   "/əˈbændən/\nv. 放弃，抛弃",
+			wantInput:    "abandon",
+		},
+		{
+			name:         "单词例句项：给中文，写出整句",
+			resourceType: practice.Words,
+			item:         "They abandoned the plan.\t\t他们放弃了那个方案。",
+			wantPrompt:   "他们放弃了那个方案。",
+			wantInput:    "They abandoned the plan.",
+		},
+		{
+			name:         "句子：给中文，写出英文",
+			resourceType: practice.Sentences,
+			item:         "I'll look into it and get back to you. ->> 我会调查一下再回复你。",
+			wantPrompt:   "我会调查一下再回复你。",
+			wantInput:    "I'll look into it and get back to you.",
+		},
+		{
+			name:         "短语：例句和搭配会泄题，只给释义",
+			resourceType: practice.Phrases,
+			item:         "look into ->> 调查；了解一下 ->> I'll look into it. ->> 我查一下。",
+			wantPrompt:   "调查；了解一下",
+			wantInput:    "look into",
+		},
+	}
+
+	for _, tc := range cases {
+		t.Run(tc.name, func(t *testing.T) {
+			session := &PracticeSession{
+				resourceType:   tc.resourceType,
+				items:          []string{tc.item},
+				practiceOrder:  []int{0},
+				completedCount: 0,
+			}
+			if got := session.getCurrentItem(); got != tc.wantPrompt {
+				t.Errorf("提示 = %q\n期望 = %q", got, tc.wantPrompt)
+			}
+			if got := session.getExpectedInput(tc.item); got != tc.wantInput {
+				t.Errorf("答案 = %q，期望 %q", got, tc.wantInput)
+			}
+		})
+	}
+}
+
+// 没有译文的条目无法译写，要退回抄写模式，否则会出现空白提示
+func TestTranslateModeFallsBackWithoutTranslation(t *testing.T) {
+	setupPracticeSessionTest(t)
+
+	originalDirection := config.AppConfig.PracticeDirection
+	defer func() { config.AppConfig.PracticeDirection = originalDirection }()
+	config.AppConfig.PracticeDirection = practiceDirectionTranslate
+	config.AppConfig.ShowTranslation = true
+
+	session := &PracticeSession{
+		resourceType:   practice.Sentences,
+		items:          []string{"Are you kidding me?"},
+		practiceOrder:  []int{0},
+		completedCount: 0,
+	}
+
+	if got := session.getCurrentItem(); got != "Are you kidding me?" {
+		t.Errorf("无译文时应显示原文，实际 %q", got)
+	}
+}
+
+// 抄写模式必须完全不受影响
+func TestCopyModeUnaffected(t *testing.T) {
+	setupPracticeSessionTest(t)
+
+	originalDirection := config.AppConfig.PracticeDirection
+	defer func() { config.AppConfig.PracticeDirection = originalDirection }()
+	config.AppConfig.PracticeDirection = practiceDirectionCopy
+	config.AppConfig.ShowTranslation = true
+
+	session := &PracticeSession{
+		resourceType:   practice.Words,
+		items:          []string{"abandon\t/əˈbændən/\tv. 放弃，抛弃"},
+		practiceOrder:  []int{0},
+		completedCount: 0,
+	}
+
+	want := "abandon\n音标: /əˈbændən/\n翻译: v. 放弃，抛弃"
+	if got := session.getCurrentItem(); got != want {
+		t.Errorf("getCurrentItem() = %q\nwant %q", got, want)
+	}
+}

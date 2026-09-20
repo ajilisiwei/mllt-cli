@@ -39,9 +39,10 @@ func SentencePractice(fileName string) error {
 		sentenceLine := sentences[index]
 		entry := ParseEntryLine(sentenceLine)
 		sentence, translation := entry.Text, entry.Meaning
+		prompt := PromptFor(Sentences, sentenceLine)
 
 		// 显示句子
-		fmt.Printf("请输入: %s\n", sentence)
+		fmt.Printf("请输入: %s\n", prompt)
 
 		// 读取用户输入
 		input, _ := reader.ReadString('\n')

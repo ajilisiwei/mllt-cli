@@ -57,6 +57,13 @@ func NewSettingMenu() *SettingMenu {
 			},
 		},
 		SettingMenuItem{
+			title:       "练习方向设置",
+			description: "设置是看英文抄写，还是看中文译写",
+			action: func() (tea.Model, error) {
+				return NewPracticeDirectionMenu(), nil
+			},
+		},
+		SettingMenuItem{
 			title:       "例句练习设置",
 			description: "设置短语的例句是否也作为练习内容",
 			action: func() (tea.Model, error) {
