@@ -1,0 +1,103 @@
+Although it's late, we should finish. ->> 虽然晚了，我们还是该做完　❌ Although…, but… —— 中文的「虽然…但是…」不能直译，英文二选一
+Because it rained, we stayed in. ->> 因为下雨我们就待在家里了　❌ Because…, so… —— 同理，because 和 so 不能连用
+I'm not confident in my English. ->> 我英语不太好　❌ My English is very poor —— 母语者更常从「人」出发说这件事
+It's really crowded here. ->> 这里人很多　❌ The people are very many —— 「人多」用 crowded，不用 many
+I really like it. ->> 我很喜欢　❌ I very like it —— very 不能直接修饰动词，要用 really 或 very much
+Turn on the light, please. ->> 请开灯　❌ Open the light —— 电器用 turn on / turn off
+How do you say this in English? ->> 这个用英语怎么说？　❌ How to say —— 这是疑问句，需要完整的主谓结构
+What do you think of it? ->> 你觉得怎么样？　❌ How do you think —— think 的固定搭配是 what…think of
+I've been working here since 2020. ->> 我从 2020 年起就在这儿工作　❌ I work here since 2020 —— since 必须搭配完成时
+There are three problems. ->> 有三个问题　❌ Have three problems —— 表示「存在」用 there be，不用 have
+I have some advice for you. ->> 我有些建议给你　❌ some advices —— advice 不可数，没有复数
+We need more information. ->> 我们需要更多信息　❌ informations —— information 不可数
+The equipment is expensive. ->> 设备很贵　❌ equipments are —— equipment 不可数，谓语用单数
+He gave me some useful feedback. ->> 他给了我一些有用的反馈　❌ feedbacks —— feedback 不可数
+She made a lot of progress. ->> 她进步很大　❌ many progresses —— progress 不可数，用 a lot of
+I did a lot of research. ->> 我做了很多调研　❌ researches —— research 作「调研」讲时不可数
+Most of my friends agree. ->> 我大部分朋友都同意　❌ Most of friends —— of 后面必须有限定词（my/the/these）
+Most people agree. ->> 大部分人都同意　❌ Most of people —— 没有限定词时不用 of
+One of my colleagues is leaving. ->> 我的一个同事要走了　❌ one of my colleague is —— one of 后面必须用复数名词
+The number of users is growing. ->> 用户数量在增长　❌ are growing —— 主语是 the number，谓语用单数
+A number of users are complaining. ->> 不少用户在抱怨　❌ is complaining —— a number of 表「若干」，谓语用复数
+Everyone has their own opinion. ->> 每个人都有自己的看法　❌ Everyone have —— everyone 是单数
+The team is small. ->> 团队很小　❌ The team are small —— 美式英语把 team 当整体，用单数
+Twenty percent of the budget is gone. ->> 预算花掉了两成　❌ are gone —— of 后是不可数名词时谓语用单数
+He suggested waiting a week. ->> 他建议等一周　❌ suggest me to wait —— suggest 后不接「人 + 不定式」
+He advised me to wait. ->> 他建议我等等　❌ advised me waiting —— advise 后接「人 + 不定式」
+We should avoid making that mistake. ->> 我们该避免犯那个错　❌ avoid to make —— avoid 后接动名词
+I'm looking forward to seeing the results. ->> 我很期待看到结果　❌ looking forward to see —— 这里的 to 是介词，后面要用动名词
+I'm used to working late. ->> 我习惯加班了　❌ used to working 混成 used to work —— be used to 后接动名词
+She insisted on paying. ->> 她坚持要付钱　❌ insisted to pay —— insist on 后接动名词
+They're capable of handling it. ->> 他们有能力处理　❌ capable to handle —— capable of 后接动名词
+I'm interested in learning more. ->> 我有兴趣多了解一些　❌ interested to learn more —— interested in 后接动名词
+Thank you for your help. ->> 谢谢你的帮助　❌ Thanks your help —— thank 后面要有介词 for
+It depends on the context. ->> 这要看具体情况　❌ It depends the context —— depend 后必须加 on
+We discussed the plan. ->> 我们讨论了这个方案　❌ discussed about —— discuss 是及物动词，不加 about
+I'll contact you tomorrow. ->> 我明天联系你　❌ contact with you —— contact 作动词时直接接宾语
+She married an engineer. ->> 她嫁给了一位工程师　❌ married with —— marry 直接接宾语
+Please reply to my email. ->> 请回复我的邮件　❌ reply my email —— reply 后接 to
+He entered the room. ->> 他走进房间　❌ entered into the room —— enter 表「进入场所」不加 into
+They arrived in Beijing. ->> 他们到了北京　❌ arrived Beijing —— arrive 后接 in（大地方）或 at（小地方）
+I'll explain it to you. ->> 我解释给你听　❌ explain you —— explain 后接「事 + to + 人」
+She contributed to the project. ->> 她为这个项目出了力　❌ contributed the project —— contribute 后接 to
+The price has risen. ->> 价格涨了　❌ has raised —— rise 不及物，raise 要带宾语
+They raised the price. ->> 他们提高了价格　❌ They rose the price —— raise 才能带宾语
+He lay down for a while. ->> 他躺了一会儿　❌ laid down —— lie 的过去式是 lay，lay 的过去式才是 laid
+Please lie down. ->> 请躺下　❌ Please lay down —— 躺下用 lie
+The problem lies in the design. ->> 问题出在设计上　❌ lays in —— 表「在于」用 lie in
+It affects performance. ->> 这会影响性能　❌ It effects performance —— affect 是动词，effect 是名词
+It had a big effect on performance. ->> 这对性能影响很大　❌ a big affect —— 名词用 effect
+She did well on the test. ->> 她考得不错　❌ did good —— 修饰动词要用副词 well
+It works fine. ->> 运行得挺好　❌ It works good —— 同上
+I feel bad about it. ->> 我为这事感到过意不去　❌ I feel badly —— feel 是系动词，后接形容词
+It sounds interesting. ->> 听起来挺有意思　❌ It sounds interestingly —— 系动词后用形容词
+I'm bored with this task. ->> 我对这个任务感到厌烦　❌ I'm boring —— -ed 形容人的感受，-ing 形容事物
+This meeting is boring. ->> 这个会很无聊　❌ This meeting is bored —— 事物用 -ing
+I'm confused by the instructions. ->> 说明把我搞糊涂了　❌ I'm confusing —— 人用 -ed
+The result is surprising. ->> 这个结果出人意料　❌ The result is surprised —— 事物用 -ing
+This is more important than that. ->> 这个比那个更重要　❌ more importanter —— 比较级不能重复标记
+It's the most useful tool. ->> 这是最有用的工具　❌ the most usefulest —— 最高级同理
+It's twice as expensive. ->> 贵了一倍　❌ twice more expensive —— 倍数用 twice as…as
+He's much taller than me. ->> 他比我高得多　❌ very taller —— 修饰比较级用 much / far，不用 very
+There are fewer bugs now. ->> 现在 bug 少了　❌ less bugs —— 可数名词用 fewer
+There's less noise now. ->> 现在噪音小了　❌ fewer noise —— 不可数名词用 less
+I hardly ever use it. ->> 我几乎不用它　❌ I don't hardly use it —— hardly 本身已含否定
+I don't think it will work. ->> 我觉得这行不通　❌ I think it won't work —— 英语习惯把否定前移到主句
+Neither of them agrees. ->> 他们俩都不同意　❌ Neither of them don't agree —— neither 已含否定
+He said he was busy. ->> 他说他很忙　❌ He said he is busy —— 主句过去时，从句相应后移
+She told me that she'd be late. ->> 她跟我说她会晚到　❌ told to me —— tell 直接接人
+He said to me that it was fine. ->> 他跟我说没问题　❌ He said me —— say 后接人要加 to
+Do you know where he is? ->> 你知道他在哪吗？　❌ where is he —— 宾语从句用陈述语序
+Could you tell me what time it is? ->> 能告诉我几点了吗？　❌ what time is it —— 同上
+I don't know whether he'll come. ->> 我不知道他会不会来　❌ whether he will come or not to come —— 冗余
+The reason is that we ran out of time. ->> 原因是我们时间不够了　❌ The reason is because —— reason 后用 that
+It's not that I don't want to. ->> 不是我不想　❌ It's not I don't want —— 固定结构要有 that
+What I mean is that it's too risky. ->> 我的意思是风险太大　❌ What I mean is because —— 同理
+The company is doing well. ->> 公司经营得不错　❌ The company are —— 美式英语用单数
+Please give me some feedback on it. ->> 请给我一些反馈　❌ give me a feedback —— feedback 不可数，不用 a
+I have a lot of work to do. ->> 我有很多活要干　❌ many works —— work 作「工作量」讲不可数
+He has rich experience. ->> 他经验丰富　❌ rich experiences —— 表「经验」时不可数
+We had some good experiences there. ->> 我们在那儿有过一些好的经历　❌ 表「经历」时可数，这里用复数是对的
+Time is money. ->> 时间就是金钱　❌ The time is the money —— 抽象概念泛指时不加冠词
+I go to school by bus. ->> 我坐公交上学　❌ by the bus —— by + 交通工具不加冠词
+She plays the piano. ->> 她弹钢琴　❌ plays piano —— 乐器前要加 the
+He plays football. ->> 他踢足球　❌ plays the football —— 球类运动前不加 the
+I had breakfast at seven. ->> 我七点吃的早饭　❌ had a breakfast —— 三餐前一般不加冠词
+She's a teacher. ->> 她是老师　❌ She's teacher —— 单数可数名词前必须有冠词
+He went to the hospital to see a friend. ->> 他去医院看朋友　❌ went to hospital（英式表「住院」）—— 去探病要加 the
+Open your books to page 20. ->> 把书翻到第 20 页　❌ page 20 页码前不加 the —— 序数概念已由数字表达
+I'll be there in ten minutes. ->> 我十分钟后到　❌ after ten minutes —— 从现在起算用 in
+He left after ten minutes. ->> 十分钟后他就走了　❌ in ten minutes —— 过去的时间点之后用 after
+I've lived here for three years. ->> 我在这儿住了三年了　❌ since three years —— 时间段用 for
+I've lived here since 2021. ->> 我从 2021 年起住在这儿　❌ for 2021 —— 时间点用 since
+On Monday we'll review it. ->> 周一我们评审　❌ In Monday —— 具体某天用 on
+In the morning I check email. ->> 早上我看邮件　❌ On the morning —— 时段用 in
+At night it gets cold. ->> 夜里会变冷　❌ In night —— at night 是固定搭配
+I'm good at solving problems. ->> 我擅长解决问题　❌ good at solve —— at 是介词，后接动名词
+She's responsible for testing. ->> 她负责测试　❌ responsible of —— 固定搭配是 responsible for
+It's different from the old one. ->> 这和旧的不一样　❌ different with —— 用 from（美式）或 to（英式）
+The same as before. ->> 和之前一样　❌ The same with before —— the same as 是固定搭配
+I agree with you. ->> 我同意你　❌ I'm agree —— agree 本身是动词，前面不加 be
+I'm afraid I can't. ->> 恐怕我不行　❌ I afraid —— afraid 是形容词，需要 be
+Let's discuss it tomorrow. ->> 我们明天讨论　❌ Let's to discuss —— let 后接动词原形
+He helped me solve it. ->> 他帮我解决了　❌ helped me to solving —— help 后接原形或不定式

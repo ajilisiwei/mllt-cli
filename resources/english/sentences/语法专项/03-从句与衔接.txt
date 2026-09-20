@@ -1,0 +1,99 @@
+The engineer who wrote this has left. ->> 写这个的工程师已经离职了　（who 引导定语从句，指人作主语）
+The bug that caused the outage is fixed. ->> 引发故障的那个 bug 修好了　（that 指物作主语）
+The file I sent you is the latest one. ->> 我发你的那个文件是最新版　（关系代词作宾语时可以省略）
+The team whose lead resigned needs support. ->> 负责人辞职的那个团队需要支持　（whose 表所属关系）
+This is the room where we hold reviews. ->> 这是我们做评审的房间　（where 引导地点定语从句）
+That's the reason why it failed. ->> 那就是它失败的原因　（why 引导原因定语从句）
+We chose Monday, which turned out to be a mistake. ->> 我们选了周一，结果证明是个错误　（which 引导非限制性从句，指代整件事）
+He's the only person who knows the password. ->> 他是唯一知道密码的人　（先行词被 only 修饰时用 that 或 who）
+Everything that could go wrong did. ->> 能出错的都出错了　（先行词是 everything 时用 that）
+She's someone I'd trust with this. ->> 她是这件事我信得过的人　（口语里关系代词常省略）
+We'll start as soon as everyone joins. ->> 大家一到齐我们就开始　（as soon as 引导时间从句，用一般现在时表将来）
+Once you've approved it, I'll deploy. ->> 你批了我就部署　（once 引导条件兼时间从句）
+I'll wait until you're ready. ->> 我等你准备好　（until 引导时间从句）
+By the time you read this, it'll be done. ->> 等你看到这条的时候就已经做完了　（by the time 后常配将来完成时）
+Whenever it breaks, it's the same cause. ->> 每次出问题都是同一个原因　（whenever 表「每当」）
+Since you're here, let's go over it. ->> 既然你来了，我们就过一遍　（since 在这里表原因，不是时间）
+As it's getting late, let's wrap up. ->> 天色不早了，我们收尾吧　（as 表原因，语气比 because 弱）
+Now that we have the data, we can decide. ->> 既然拿到数据了，我们就能决定了　（now that 表「既然」）
+Unless something changes, we'll ship Friday. ->> 除非有变，我们周五上线　（unless 相当于 if…not）
+In case it fails, we have a backup. ->> 万一失败了，我们还有备份　（in case 表「以防」）
+Provided that the tests pass, we're good. ->> 只要测试通过就没问题　（provided that 表「假如」，比 if 正式）
+As long as it's documented, I'm fine with it. ->> 只要有文档我就接受　（as long as 表条件）
+Even if it works, I'd still rewrite it. ->> 就算能跑我也还是要重写　（even if 表让步，承认可能性）
+Even though it works, it's hard to maintain. ->> 虽然能跑，但很难维护　（even though 表让步，陈述事实）
+While I agree in principle, the timing is wrong. ->> 原则上我同意，但时机不对　（while 表对比让步）
+Whereas the old one was fast, this one is safe. ->> 旧的快，而这个更稳　（whereas 表鲜明对比，偏书面）
+However you do it, document it. ->> 不管你怎么做，都要写文档　（however 引导让步从句）
+No matter what happens, tell me first. ->> 不管发生什么，先告诉我　（no matter what 表让步）
+So that everyone can follow, I'll start from scratch. ->> 为了让大家跟得上，我从头讲　（so that 表目的）
+It was so slow that users gave up. ->> 慢到用户都放弃了　（so…that 表结果）
+It's such a common mistake that we automated the check. ->> 这个错太常见了，我们干脆自动化检查　（such a + 名词 + that）
+He left early in order to catch the train. ->> 他早走是为了赶火车　（in order to 表目的，比 so as to 更常用）
+Having finished the tests, we deployed. ->> 测试做完之后我们就部署了　（完成式分词表先发生的动作）
+Given the deadline, we'll cut scope. ->> 考虑到截止时间，我们会砍范围　（given 表「考虑到」）
+Considering the budget, that's reasonable. ->> 考虑到预算，这算合理　（considering 引导状语）
+Judging by the logs, it's a timeout. ->> 从日志看，是超时　（judging by 表「根据…判断」）
+All things considered, it went well. ->> 总的来说进行得不错　（独立主格结构）
+With the API down, nothing works. ->> 接口一挂，什么都用不了　（with 复合结构表原因）
+Compared with last quarter, we're ahead. ->> 和上季度比我们领先　（compared with 表比较）
+Based on what we know, I'd wait. ->> 根据目前掌握的情况，我会再等等　（based on 引导依据）
+Speaking of which, did you see the report? ->> 说到这个，你看报告了吗？　（口语衔接）
+Assuming nothing breaks, we'll finish Friday. ->> 假设不出问题，我们周五完工　（assuming 引导假设）
+What matters is whether users notice. ->> 要紧的是用户会不会察觉　（what 引导主语从句）
+Whether we ship today is up to you. ->> 今天上不上线由你定　（whether 引导主语从句，不能用 if）
+It's clear that we underestimated it. ->> 显然我们低估了　（it 作形式主语）
+The fact that nobody noticed worries me. ->> 没人发现这件事让我担心　（that 引导同位语从句）
+I have no idea why it happened. ->> 我完全不知道为什么会这样　（why 引导同位语从句）
+The question is how we recover. ->> 问题是我们怎么恢复　（how 引导表语从句）
+Who owns this is still unclear. ->> 这归谁负责还不清楚　（who 引导主语从句）
+Let me know if there's anything else. ->> 还有别的就告诉我　（if 引导条件从句）
+The data is incomplete; therefore, I'd hold off. ->> 数据不全，因此我倾向暂缓　（therefore 表结论，较正式）
+Costs went up; consequently, margins shrank. ->> 成本上升，结果利润率收窄　（consequently 表结果）
+It's slower. That said, it's far more reliable. ->> 它更慢。话虽如此，可靠性高得多　（that said 表让步转折，口语常用）
+It's risky. Even so, I'd try it. ->> 有风险。即便如此我还是想试　（even so 表让步）
+Moreover, it cuts the maintenance cost. ->> 而且还能降低维护成本　（moreover 表递进，正式）
+On top of that, we saved two days. ->> 除此之外我们还省了两天　（on top of that 表递进，口语）
+Meanwhile, the old system keeps running. ->> 与此同时旧系统照常运行　（meanwhile 表同时）
+In contrast, the new flow takes one step. ->> 相比之下新流程只要一步　（in contrast 表对比）
+Otherwise, we'll have to roll back. ->> 否则我们就得回滚　（otherwise 表「否则」）
+Hence the extra check. ->> 这就是那道额外检查的由来　（hence 表结果，后可直接接名词）
+Nevertheless, the deadline stands. ->> 尽管如此，截止日期不变　（nevertheless 表强让步，正式）
+Instead, we split it into two releases. ->> 我们改成分两次发布　（instead 表替代）
+As a result, support tickets dropped by half. ->> 结果工单少了一半　（as a result 表结果）
+For instance, take last Friday's outage. ->> 比如说上周五那次故障　（for instance 举例）
+In other words, we're back to square one. ->> 换句话说我们又回到原点了　（in other words 表换说法）
+To put it simply, it doesn't scale. ->> 简单说就是扩展不了　（to put it simply 表简化表述）
+More importantly, nobody noticed. ->> 更重要的是没人发现　（more importantly 表强调递进）
+Above all, keep it reversible. ->> 最重要的是保证可回滚　（above all 表最高强调）
+In short, we need more time. ->> 总之我们需要更多时间　（in short 表总结）
+All in all, it was worth doing. ->> 总的来说这事值得做　（all in all 表总结）
+Not only did it fail, it failed silently. ->> 它不仅失败了，还是静默失败　（not only 置句首要部分倒装）
+Only then did we understand. ->> 直到那时我们才明白　（only + 状语置句首要倒装）
+Never have I seen it this slow. ->> 我从没见过这么慢　（否定词置句首要倒装）
+It was the config, not the code. ->> 问题出在配置，不是代码　（it is…that 强调结构的简化）
+It's the timing that worries me. ->> 让我担心的是时机　（it is…that 强调主语）
+What I'd do is roll back first. ->> 我会先回滚　（what 引导的强调结构）
+Rarely does this happen twice. ->> 这种事很少发生两次　（rarely 置句首要倒装）
+So tight was the schedule that we cut tests. ->> 时间紧到我们砍了测试　（so + 形容词置句首要倒装）
+He's not only fast but also careful. ->> 他不但快而且细　（not only…but also 连接同类成分）
+Either we fix it now or we postpone. ->> 要么现在修，要么推迟　（either…or 连接对等成分）
+Neither the logs nor the metrics show anything. ->> 日志和指标都没显示异常　（neither…nor，谓语就近一致）
+Both the design and the timing were wrong. ->> 设计和时机都不对　（both…and 后谓语用复数）
+Not the tool but the process is the problem. ->> 问题不在工具而在流程　（not…but，谓语就近一致）
+The more we test, the fewer surprises we get. ->> 测得越多，意外越少　（the more…the fewer 比较结构）
+The sooner we know, the better. ->> 越早知道越好　（省略式的 the + 比较级结构）
+As far as I know, nothing changed. ->> 据我所知什么都没变　（as far as I know 固定表达）
+As for the budget, let's discuss it separately. ->> 至于预算，我们单独谈　（as for 引出话题）
+When it comes to performance, this wins. ->> 说到性能，这个胜出　（when it comes to 后接名词或动名词）
+Regardless of the outcome, we learned a lot. ->> 不管结果如何，我们收获很多　（regardless of 后接名词）
+Apart from that, everything is fine. ->> 除此之外一切正常　（apart from 表「除…之外」）
+Rather than rewrite it, let's patch it. ->> 与其重写不如打补丁　（rather than 后接原形）
+Instead of guessing, let's measure. ->> 与其猜不如量　（instead of 后接动名词）
+In addition to testing, we need docs. ->> 除了测试，我们还需要文档　（in addition to 后接名词或动名词）
+Due to the outage, we missed the window. ->> 由于故障我们错过了窗口期　（due to 后接名词）
+Owing to budget cuts, the project stalled. ->> 由于预算削减，项目停滞了　（owing to 与 due to 同义，偏正式）
+Thanks to her review, we caught it early. ->> 多亏她评审，我们早发现了　（thanks to 表正面原因）
+Because of that, we changed the plan. ->> 因为那个我们改了计划　（because of 后接名词）
+In spite of the delay, users were happy. ->> 尽管延期了，用户还是满意　（in spite of 后接名词）
+Despite the risk, we went ahead. ->> 尽管有风险我们还是推进了　（despite 后不加 of）

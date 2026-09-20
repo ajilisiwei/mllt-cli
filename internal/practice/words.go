@@ -67,6 +67,10 @@ func WordPractice(fileName string) error {
 		if input == word {
 			fmt.Println("正确！")
 			if showTranslation {
+				// 译写模式下题面就是音标加释义，不必再打一遍；确认拼写更有用
+				if prompt != word {
+					fmt.Printf("原文: %s\n", word)
+				}
 				for _, field := range []struct{ label, value string }{
 					{"翻译", translation},
 					{"例句", entry.Example},
@@ -83,6 +87,7 @@ func WordPractice(fileName string) error {
 			index = GetNextIndex(index, len(words), nextOneOrder)
 		} else {
 			fmt.Println("错误，请重新输入。")
+			fmt.Printf("正确答案: %s\n", word)
 		}
 
 		fmt.Println() // 空行分隔

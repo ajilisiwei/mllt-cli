@@ -30,6 +30,12 @@ func SentencePractice(fileName string) error {
 	nextOneOrder := config.AppConfig.NextOneOrder
 	showTranslation := config.AppConfig.ShowTranslation
 
+	// 例句／对比句也作为练习项：先在条目层定好顺序，再展开，保证配对的两句紧挨着出
+	if config.AppConfig.PracticeExamples {
+		sentences = orderAndExpand(sentences, nextOneOrder)
+		nextOneOrder = "sequential"
+	}
+
 	// 开始练习
 	index := 0
 	reader := bufio.NewReader(os.Stdin)
@@ -58,7 +64,10 @@ func SentencePractice(fileName string) error {
 		if input == sentence {
 			fmt.Println("正确！")
 			if showTranslation {
-				if translation != "" {
+				// 译写模式下题面就是译文，不必再打一遍；确认原文更有用
+				if prompt != sentence {
+					fmt.Printf("原文: %s\n", sentence)
+				} else if translation != "" {
 					fmt.Printf("翻译: %s\n", translation)
 				}
 				if entry.Example != "" {
@@ -72,6 +81,7 @@ func SentencePractice(fileName string) error {
 			index = GetNextIndex(index, len(sentences), nextOneOrder)
 		} else {
 			fmt.Println("错误，请重新输入。")
+			fmt.Printf("正确答案: %s\n", sentence)
 		}
 
 		fmt.Println() // 空行分隔

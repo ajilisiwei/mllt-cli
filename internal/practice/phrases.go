@@ -65,7 +65,10 @@ func PhrasePractice(fileName string) error {
 		if input == phrase {
 			fmt.Println("正确！")
 			if showTranslation {
-				if translation != "" {
+				// 译写模式下题面就是译文，不必再打一遍；确认原文更有用
+				if prompt != phrase {
+					fmt.Printf("原文: %s\n", phrase)
+				} else if translation != "" {
 					fmt.Printf("翻译: %s\n", translation)
 				}
 				if entry.Example != "" {
@@ -79,6 +82,7 @@ func PhrasePractice(fileName string) error {
 			index = GetNextIndex(index, len(phrases), nextOneOrder)
 		} else {
 			fmt.Println("错误，请重新输入。")
+			fmt.Printf("正确答案: %s\n", phrase)
 		}
 
 		fmt.Println() // 空行分隔

@@ -1,0 +1,61 @@
+He has lived here for ten years. ->> 他在这儿住了十年了（现在还住着） ->> He lived here for ten years. ->> 他在这儿住过十年（现在已经搬走了）
+I've worked on this all morning. ->> 这个我做了一上午了（还没做完） ->> I worked on this all morning. ->> 这个我做了一上午（已经结束了）
+She has been writing the report. ->> 她一直在写那份报告（强调过程还在继续） ->> She has written the report. ->> 她把报告写完了（强调结果已完成）
+I've known him since 2019. ->> 我从 2019 年起就认识他了（用 since 必须配完成时） ->> I met him in 2019. ->> 我 2019 年认识他的（具体时间点用一般过去时）
+We live in Shanghai. ->> 我们住在上海（长期状态） ->> We're living in Shanghai for now. ->> 我们目前暂住上海（临时安排）
+He always complains about it. ->> 他老是抱怨这事（客观陈述习惯） ->> He's always complaining about it. ->> 他老是抱怨这事（带情绪，嫌烦）
+What do you do? ->> 你是做什么工作的？（问职业） ->> What are you doing? ->> 你在干什么？（问此刻）
+I was writing when she called. ->> 她打来电话时我正在写（打断的背景动作） ->> I wrote it when she called. ->> 她打来电话时我写了（先后发生的两件事）
+The train had left when we arrived. ->> 我们到的时候火车已经开走了（到之前就走了） ->> The train left when we arrived. ->> 我们一到火车就开走了（几乎同时）
+I had finished before he asked. ->> 他问之前我就做完了（强调更早） ->> I finished after he asked. ->> 他问之后我才做完（顺序相反）
+I'll call you tonight. ->> 我今晚给你打电话（临时决定） ->> I'm going to call you tonight. ->> 我打算今晚给你打电话（早有打算）
+I'm meeting him at three. ->> 我三点要见他（已经约好了） ->> I'll meet him at three. ->> 那我三点见他吧（当场决定）
+The meeting starts at nine. ->> 会议九点开始（时刻表式的既定安排） ->> The meeting is starting now. ->> 会议现在开始了（正在发生）
+By then I'll have finished. ->> 到那时我就做完了（将来某时点之前完成） ->> By then I'll be working on it. ->> 到那时我正在做（将来某时点正在进行）
+I used to smoke. ->> 我以前抽烟（现在不抽了） ->> I'm used to the noise. ->> 我习惯这噪音了（be used to 后接名词或动名词）
+She would call every Sunday. ->> 她以前每周日都会打电话来（过去的规律性行为） ->> She called last Sunday. ->> 她上周日打过电话（一次性事件）
+The report was finished yesterday. ->> 报告昨天完成了（被动，不强调谁做的） ->> We finished the report yesterday. ->> 我们昨天完成了报告（主动，点明是谁）
+The issue has been resolved. ->> 问题已经解决了（完成时被动） ->> We have resolved the issue. ->> 我们已经解决了问题（完成时主动）
+It's being reviewed right now. ->> 它正在被评审（进行时被动） ->> They're reviewing it right now. ->> 他们正在评审它（进行时主动）
+The decision will be made on Friday. ->> 决定将在周五作出（不指明决策人） ->> They'll make the decision on Friday. ->> 他们周五会作决定（指明决策人）
+If I have time, I'll help. ->> 如果我有时间就帮忙（很可能发生） ->> If I had time, I'd help. ->> 我要是有时间就帮忙了（其实没时间）
+If I were you, I'd wait. ->> 我要是你就等等（与现在事实相反） ->> If I had known, I'd have waited. ->> 早知道我就等了（与过去事实相反）
+I wish I knew the answer. ->> 我要是知道答案就好了（现在不知道） ->> I wish I had known earlier. ->> 我要是早知道就好了（过去不知道）
+He must have forgotten. ->> 他肯定是忘了（对过去的肯定推测） ->> He might have forgotten. ->> 他可能是忘了（对过去的不确定推测）
+She can't have seen it. ->> 她不可能看到过（对过去的否定推测） ->> She couldn't see it. ->> 她（当时）看不到（陈述事实）
+You should have told me. ->> 你早该告诉我的（但你没说） ->> You should tell me. ->> 你该告诉我（现在还来得及）
+I need to have it checked. ->> 我得找人检查一下（让别人做） ->> I need to check it. ->> 我得检查一下（自己做）
+I had my laptop repaired. ->> 我把笔记本送去修了（别人修的） ->> I repaired my laptop. ->> 我自己修了笔记本（自己动手）
+The door was left open. ->> 门一直开着（被动，状态） ->> Someone left the door open. ->> 有人没关门（主动，点出动作者）
+It's said that he resigned. ->> 据说他辞职了（消息来源不明） ->> People say he resigned. ->> 人们说他辞职了（同义的主动说法）
+I'm going to the office. ->> 我正要去办公室（此刻在路上） ->> I go to the office on Mondays. ->> 我周一去办公室（规律安排）
+Have you finished yet? ->> 你做完了吗？（关心现在的结果） ->> When did you finish? ->> 你什么时候做完的？（问过去的时间点）
+I haven't seen him today. ->> 我今天还没见到他（今天还没过完） ->> I didn't see him yesterday. ->> 我昨天没见到他（昨天已经过去）
+This is the first time I've been here. ->> 这是我第一次来这儿（固定搭配要用完成时） ->> I came here last year. ->> 我去年来过这儿（一般过去时）
+It has been three years since we met. ->> 我们认识三年了（since 引导的时间段） ->> We met three years ago. ->> 我们三年前认识的（ago 配一般过去时）
+He's gone to Beijing. ->> 他去北京了（人还没回来） ->> He's been to Beijing. ->> 他去过北京（人已经回来了）
+I'll let you know when he arrives. ->> 他到了我告诉你（时间状语从句用一般现在时表将来） ->> I don't know when he'll arrive. ->> 我不知道他什么时候到（宾语从句用将来时）
+If it rains, we'll cancel. ->> 如果下雨我们就取消（条件从句不用 will） ->> I wonder if it will rain. ->> 我想知道会不会下雨（宾语从句可以用 will）
+She's worked here since March. ->> 她从三月起就在这儿工作（还在这儿） ->> She worked here until March. ->> 她在这儿工作到三月（现在不在了）
+We've been waiting for an hour. ->> 我们已经等了一小时了（还在等） ->> We waited for an hour. ->> 我们等了一小时（已经不等了）
+The system is updated weekly. ->> 系统每周更新（被动，惯常） ->> The system was updated last night. ->> 系统昨晚更新了（被动，具体时间）
+Nothing has changed. ->> 什么都没变（到现在为止） ->> Nothing changed. ->> 什么都没变（就那一次）
+I've already sent it. ->> 我已经发出去了（强调现在的状态） ->> I sent it an hour ago. ->> 我一小时前发的（强调过去的时间）
+He seems to be busy. ->> 他好像很忙（现在忙） ->> He seems to have been busy. ->> 他好像一直很忙（忙了一阵子了）
+I remember locking the door. ->> 我记得锁过门了（事已做） ->> I remembered to lock the door. ->> 我记得要锁门（然后去锁了）
+He stopped smoking. ->> 他把烟戒了（停止做某事） ->> He stopped to smoke. ->> 他停下来抽根烟（停下去做某事）
+I regret telling him. ->> 我后悔告诉他了（已经说了） ->> I regret to tell you that… ->> 很遗憾地通知你……（正要说）
+Try calling him. ->> 试试给他打个电话（试试这个办法） ->> Try to call him. ->> 尽量给他打个电话（努力去做）
+The report needs revising. ->> 报告需要修改（needs doing 表被动） ->> I need to revise the report. ->> 我需要修改报告（主动）
+It's worth checking. ->> 值得查一下（worth 后接动名词） ->> It's worthwhile to check. ->> 查一下是值得的（worthwhile 后接不定式）
+I'm looking forward to hearing from you. ->> 期待你的回复（to 是介词，后接动名词） ->> I want to hear from you. ->> 我想听到你的消息（to 是不定式符号）
+He's used to working late. ->> 他习惯了加班（现在习惯了） ->> He used to work late. ->> 他以前经常加班（现在不了）
+She made me wait. ->> 她让我等（make 后接动词原形） ->> She asked me to wait. ->> 她请我等一下（ask 后接不定式）
+I saw him leave. ->> 我看见他离开了（看到全过程） ->> I saw him leaving. ->> 我看见他正在离开（看到一个片段）
+The door opened. ->> 门开了（自动，不强调施动者） ->> The door was opened. ->> 门被打开了（有人打开的）
+Three people were injured. ->> 三个人受伤了（被动，常见于新闻） ->> The accident injured three people. ->> 事故造成三人受伤（主动）
+It is believed to be safe. ->> 一般认为它是安全的（正式，客观） ->> People believe it's safe. ->> 人们认为它是安全的（口语，主观）
+Had I known, I'd have acted. ->> 早知道我就采取行动了（倒装的虚拟条件句） ->> If I had known, I'd have acted. ->> 早知道我就采取行动了（正常语序，同义）
+It's time we left. ->> 我们该走了（it's time 后用过去式） ->> It's time to leave. ->> 该走了（后接不定式）
+I'd rather you didn't. ->> 我希望你别这么做（would rather 后用过去式） ->> I'd rather not do it. ->> 我不太想做（后接动词原形）
+He suggested that we wait. ->> 他建议我们等等（suggest 后用虚拟语气动词原形） ->> He said that we waited. ->> 他说我们等了（陈述事实，正常时态）
