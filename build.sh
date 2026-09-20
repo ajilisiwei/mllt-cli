@@ -35,6 +35,14 @@ else
     fi
 fi
 
+# 重新签名。lipo 合并后的通用二进制会丢掉顶层签名（单个切片的签名还在，
+# 但整体验证不通过），在 Apple Silicon 上会被内核直接 SIGKILL。
+if command -v codesign &> /dev/null; then
+    echo "重新签名..."
+    codesign --force --sign - mllt-cli
+    codesign --verify mllt-cli && echo "签名校验通过"
+fi
+
 # 设置执行权限
 chmod +x mllt-cli
 

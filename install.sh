@@ -49,8 +49,10 @@ if [ ! -d "$INSTALL_DIR" ]; then
     sudo mkdir -p "$INSTALL_DIR"
 fi
 
-# 复制可执行文件
+# 复制可执行文件。先删再拷：直接覆盖会让内核里那份代码签名缓存变脏，
+# 新二进制一运行就被 SIGKILL（表现为 "zsh: killed"）。
 echo "安装 $BINARY_NAME 到 $INSTALL_DIR..."
+sudo rm -f "$INSTALL_DIR/$BINARY_NAME"
 sudo cp "$BINARY_NAME" "$INSTALL_DIR/"
 
 # 设置权限
