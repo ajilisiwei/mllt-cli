@@ -43,12 +43,13 @@ __debug_bin*
 # Log files
 *.log
 
-# Binary files
-lang-cli
-mllt-cli
-mllt-cli-darwin-*
-mllt-cli-linux-*
-mllt-cli-windows-*
+# Binary files. 前导斜杠限定只匹配仓库根目录，
+# 否则 "mllt-cli" 会把 cmd/mllt-cli/ 这个源码目录一并忽略掉。
+/lang-cli
+/mllt-cli
+/mllt-cli-darwin-*
+/mllt-cli-linux-*
+/mllt-cli-windows-*
 
 # Release artifacts
 dist/
