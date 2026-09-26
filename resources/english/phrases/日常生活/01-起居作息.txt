@@ -1,79 +1,79 @@
-wake up ->> 醒来 ->> I usually wake up around seven. ->> 我一般七点左右醒。
-get up ->> 起床 ->> I couldn't get up this morning. ->> 我今天早上起不来。
-sleep in ->> 睡懒觉 ->> I slept in until eleven on Saturday. ->> 我周六睡到十一点。
-have a lie-in ->> 赖床（英式） ->> I'm having a lie-in tomorrow. ->> 我明天要赖个床。
-stay up ->> 熬夜 ->> I stayed up way too late last night. ->> 我昨晚熬得太晚了。
-be a night owl ->> 夜猫子 ->> I'm a night owl, I do my best work at night. ->> 我是夜猫子，晚上效率最高。
-be a morning person ->> 早起型的人 ->> I'm not a morning person at all. ->> 我完全不是早起的人。
-oversleep ->> 睡过头 ->> I overslept and missed the bus. ->> 我睡过头了，没赶上公交。
-set an alarm ->> 定闹钟 ->> Did you set an alarm for six? ->> 你定六点的闹钟了吗？
-hit the snooze button ->> 按掉闹钟继续睡 ->> I hit the snooze button three times. ->> 我按了三次贪睡键。
-sleep through sth ->> 睡过去没听见 ->> I slept through my alarm again. ->> 我又没听见闹钟。
-toss and turn ->> 翻来覆去睡不着 ->> I tossed and turned all night. ->> 我整晚翻来覆去。
-doze off ->> 打瞌睡 ->> I dozed off on the train. ->> 我在火车上打了个盹。
-nod off ->> 打盹 ->> He nodded off during the movie. ->> 他看电影时睡着了。
-be out like a light ->> 秒睡 ->> She was out like a light. ->> 她一下就睡着了。
-be fast asleep ->> 睡得很熟 ->> The kids are fast asleep. ->> 孩子们睡得很熟。
-get a good night's sleep ->> 睡个好觉 ->> Get a good night's sleep before the flight. ->> 坐飞机前好好睡一觉。
-catch up on sleep ->> 补觉 ->> I need to catch up on sleep this weekend. ->> 我这周末得补个觉。
-turn in ->> 就寝 ->> I'm going to turn in early tonight. ->> 我今晚早点睡。
-call it a night ->> 今晚就到这 ->> I'm exhausted, let's call it a night. ->> 我累坏了，今晚就到这吧。
-hit the sack ->> 上床睡觉（口语） ->> I'm going to hit the sack. ->> 我去睡了。
-make the bed ->> 整理床铺 ->> I make the bed every morning. ->> 我每天早上整理床铺。
-brush one's teeth ->> 刷牙 ->> Brush your teeth before bed. ->> 睡前刷牙。
-take a shower ->> 洗澡 ->> I'll take a quick shower first. ->> 我先快速冲个澡。
-wash up ->> 洗漱 ->> Go wash up, dinner's ready. ->> 去洗一下，饭好了。
-get dressed ->> 穿衣服 ->> Give me five minutes to get dressed. ->> 给我五分钟穿衣服。
-throw on ->> 随便套上 ->> I'll just throw on a jacket. ->> 我随便套件外套。
-change into ->> 换成（某件衣服） ->> Let me change into something comfortable. ->> 我换件舒服的衣服。
-do one's hair ->> 弄头发 ->> She's still doing her hair. ->> 她还在弄头发。
-grab breakfast ->> 随便吃个早饭 ->> I'll grab breakfast on the way. ->> 我路上随便吃点早饭。
-skip breakfast ->> 不吃早饭 ->> I usually skip breakfast. ->> 我一般不吃早饭。
-head out ->> 出门 ->> I'm heading out in ten minutes. ->> 我十分钟后出门。
-make it on time ->> 准时赶到 ->> I don't think I'll make it on time. ->> 我觉得我赶不及了。
-rush out ->> 匆忙出门 ->> I rushed out without my keys. ->> 我匆忙出门忘带钥匙了。
-take one's time ->> 慢慢来 ->> Take your time, we're not in a hurry. ->> 慢慢来，我们不赶时间。
-lock up ->> 锁门 ->> Don't forget to lock up. ->> 别忘了锁门。
-run errands ->> 出门办杂事 ->> I need to run a few errands this afternoon. ->> 我下午得出去办点事。
-drop by ->> 顺路去一下 ->> I'll drop by the pharmacy on the way home. ->> 我回家路上顺便去趟药店。
-stop by ->> 顺道过去 ->> Can you stop by the store? ->> 你能顺路去趟超市吗？
-pick up ->> 顺路买；接（人） ->> Can you pick up some milk? ->> 你能顺便买点牛奶吗？
-get home ->> 到家 ->> I usually get home around seven. ->> 我一般七点左右到家。
-kick off one's shoes ->> 脱掉鞋 ->> I kicked off my shoes and sat down. ->> 我脱了鞋坐下。
-put away ->> 收起来 ->> Put your stuff away, please. ->> 请把你的东西收好。
-tidy up ->> 收拾整理 ->> Let me tidy up before they arrive. ->> 他们来之前我收拾一下。
-clean up ->> 打扫干净 ->> I'll clean up after dinner. ->> 饭后我来收拾。
-straighten up ->> 稍微整理一下 ->> Can you straighten up the living room? ->> 你能把客厅稍微整理下吗？
-do the dishes ->> 洗碗 ->> I'll cook if you do the dishes. ->> 你洗碗我就做饭。
-do the laundry ->> 洗衣服 ->> I need to do the laundry tonight. ->> 我今晚得洗衣服。
-hang up ->> 把衣服挂起来 ->> Hang up your coat. ->> 把外套挂起来。
-fold the laundry ->> 叠衣服 ->> I hate folding laundry. ->> 我讨厌叠衣服。
-take out the trash ->> 倒垃圾 ->> Whose turn is it to take out the trash? ->> 该谁倒垃圾了？
-water the plants ->> 浇花 ->> Could you water the plants while I'm away? ->> 我不在时你能帮忙浇花吗？
-feed the cat ->> 喂猫 ->> Did anyone feed the cat? ->> 有人喂猫了吗？
-walk the dog ->> 遛狗 ->> I walk the dog before work. ->> 我上班前遛狗。
-charge one's phone ->> 给手机充电 ->> I forgot to charge my phone. ->> 我忘了给手机充电。
-run out of ->> 用完了 ->> We've run out of coffee. ->> 咖啡喝完了。
-be out of ->> 没有了 ->> We're out of milk again. ->> 牛奶又没了。
-stock up on ->> 囤货 ->> Let's stock up on snacks. ->> 我们囤点零食吧。
-open the curtains ->> 拉开窗帘 ->> Open the curtains and let some light in. ->> 拉开窗帘透点光进来。
-draw the curtains ->> 拉上窗帘 ->> Could you draw the curtains? ->> 你能把窗帘拉上吗？
-air out ->> 通风 ->> Let's air out the room. ->> 我们给房间通通风。
-turn on ->> 打开（电器） ->> Can you turn on the AC? ->> 你能开下空调吗？
-turn off ->> 关掉 ->> Don't forget to turn off the lights. ->> 别忘了关灯。
-turn up ->> 调高（音量、温度） ->> Can you turn up the heat a bit? ->> 你能把暖气调高点吗？
-turn down ->> 调低 ->> Please turn down the TV. ->> 请把电视声音调小。
-unwind ->> 放松下来 ->> I watch a show to unwind. ->> 我看剧放松一下。
-wind down ->> 慢慢平静下来 ->> I need an hour to wind down before bed. ->> 我睡前需要一小时放松。
-chill out ->> 歇一歇；别紧张 ->> I just want to chill out tonight. ->> 我今晚就想歇着。
-stay in ->> 宅在家 ->> Let's just stay in tonight. ->> 我们今晚就在家吧。
-go out ->> 出去玩 ->> Do you want to go out tonight? ->> 今晚想出去吗？
-be worn out ->> 累坏了 ->> I'm completely worn out. ->> 我累垮了。
-be beat ->> 累惨了（口语） ->> I'm beat, I'm going to bed. ->> 我累死了，我去睡了。
-drift off ->> 迷迷糊糊睡着 ->> I drifted off halfway through the movie. ->> 我电影看到一半就睡着了。
-feel refreshed ->> 感觉恢复了 ->> I feel refreshed after that nap. ->> 睡了一觉感觉恢复了。
-check the weather ->> 看天气 ->> Let me check the weather first. ->> 我先看下天气。
-pack a bag ->> 收拾包 ->> I packed a bag the night before. ->> 我前一晚就把包收好了。
-set out one's clothes ->> 提前把衣服备好 ->> I set out my clothes the night before. ->> 我前一晚把衣服备好。
-get ready ->> 准备好 ->> Give me ten minutes to get ready. ->> 给我十分钟准备一下。
-be up early ->> 起得早 ->> I was up early to catch the train. ->> 我为了赶火车起得很早。
+wake up ->> 醒来 ->> I usually wake up around seven. ->> 我一般七点左右醒。 ->> I woke up at four and couldn't sleep again. ->> 我四点醒了就再没睡着。 ->> Wake me up if I'm not up by seven. ->> 我七点还没起就叫我。
+get up ->> 起床 ->> I couldn't get up this morning. ->> 我今天早上起不来。 ->> He gets up before the alarm. ->> 他闹钟没响就起了。 ->> I couldn't get up off the sofa. ->> 我从沙发上起不来。
+sleep in ->> 睡懒觉 ->> I slept in until eleven on Saturday. ->> 我周六睡到十一点。 ->> We slept in until noon. ->> 我们睡到中午。 ->> Sundays are for sleeping in. ->> 周日就是用来睡懒觉的。
+have a lie-in ->> 赖床（英式） ->> I'm having a lie-in tomorrow. ->> 我明天要赖个床。 ->> I had a long lie-in on Saturday. ->> 我周六赖了很久的床。 ->> She never has a lie-in. ->> 她从不赖床。
+stay up ->> 熬夜 ->> I stayed up way too late last night. ->> 我昨晚熬得太晚了。 ->> Don't stay up too late. ->> 别熬太晚。 ->> We stayed up watching the final. ->> 我们熬夜看了决赛。
+be a night owl ->> 夜猫子 ->> I'm a night owl, I do my best work at night. ->> 我是夜猫子，晚上效率最高。 ->> My roommate is a total night owl. ->> 我室友是彻头彻尾的夜猫子。 ->> Night owls struggle with early meetings. ->> 夜猫子最怕早会。
+be a morning person ->> 早起型的人 ->> I'm not a morning person at all. ->> 我完全不是早起的人。 ->> She's a morning person, I'm not. ->> 她是早起型的，我不是。 ->> Morning people get the quiet hours. ->> 早起的人能占到安静时段。
+oversleep ->> 睡过头 ->> I overslept and missed the bus. ->> 我睡过头了，没赶上公交。 ->> I overslept and missed the meeting. ->> 我睡过头，错过了会。 ->> He overslept for the third time. ->> 他第三次睡过头了。
+set an alarm ->> 定闹钟 ->> Did you set an alarm for six? ->> 你定六点的闹钟了吗？ ->> Set an alarm so we don't forget. ->> 定个闹钟免得忘了。 ->> I set three alarms just in case. ->> 我定了三个闹钟以防万一。
+hit the snooze button ->> 按掉闹钟继续睡 ->> I hit the snooze button three times. ->> 我按了三次贪睡键。 ->> Stop hitting the snooze button. ->> 别再按贪睡了。 ->> He hits snooze until the last minute. ->> 他一直按到最后一刻。
+sleep through sth ->> 睡过去没听见 ->> I slept through my alarm again. ->> 我又没听见闹钟。 ->> She slept through the whole storm. ->> 整场暴风雨她都睡过去了。 ->> The baby finally slept through the night. ->> 宝宝终于一觉睡到天亮。
+toss and turn ->> 翻来覆去睡不着 ->> I tossed and turned all night. ->> 我整晚翻来覆去。 ->> I tossed and turned until three. ->> 我翻来覆去到三点。 ->> He tosses and turns when he's stressed. ->> 他一有压力就睡不安稳。
+doze off ->> 打瞌睡 ->> I dozed off on the train. ->> 我在火车上打了个盹。 ->> I dozed off during the film. ->> 看电影时我打了个盹。 ->> He keeps dozing off at his desk. ->> 他老在桌前打瞌睡。
+nod off ->> 打盹 ->> He nodded off during the movie. ->> 他看电影时睡着了。 ->> She nodded off on the bus. ->> 她在公交上睡着了。 ->> Don't nod off in the meeting. ->> 别在会上打瞌睡。
+be out like a light ->> 秒睡 ->> She was out like a light. ->> 她一下就睡着了。 ->> He was out like a light by nine. ->> 他九点就睡死了。 ->> Two minutes and she was out like a light. ->> 两分钟她就睡着了。
+be fast asleep ->> 睡得很熟 ->> The kids are fast asleep. ->> 孩子们睡得很熟。 ->> The kids were fast asleep by then. ->> 那时孩子们已经睡熟了。 ->> He's fast asleep, don't wake him. ->> 他睡得很沉，别叫他。
+get a good night's sleep ->> 睡个好觉 ->> Get a good night's sleep before the flight. ->> 坐飞机前好好睡一觉。 ->> Get a good night's sleep before the exam. ->> 考试前好好睡一觉。 ->> I haven't had a good night's sleep in weeks. ->> 我好几周没睡好了。
+catch up on sleep ->> 补觉 ->> I need to catch up on sleep this weekend. ->> 我这周末得补个觉。 ->> I'm catching up on sleep this weekend. ->> 这周末我要补觉。 ->> You can't really catch up on sleep. ->> 觉其实补不回来。
+turn in ->> 就寝 ->> I'm going to turn in early tonight. ->> 我今晚早点睡。 ->> I'm going to turn in, goodnight. ->> 我去睡了，晚安。 ->> They turned in around eleven. ->> 他们十一点左右睡的。
+call it a night ->> 今晚就到这 ->> I'm exhausted, let's call it a night. ->> 我累坏了，今晚就到这吧。 ->> Let's call it a night. ->> 今晚就到这吧。 ->> We called it a night after one drink. ->> 喝了一杯我们就散了。
+hit the sack ->> 上床睡觉（口语） ->> I'm going to hit the sack. ->> 我去睡了。 ->> I'm hitting the sack early tonight. ->> 我今晚早点睡。 ->> He hit the sack right after dinner. ->> 他一吃完饭就去睡了。
+make the bed ->> 整理床铺 ->> I make the bed every morning. ->> 我每天早上整理床铺。 ->> Make your bed before you leave. ->> 走之前把床铺好。 ->> She never makes the bed. ->> 她从不铺床。
+brush one's teeth ->> 刷牙 ->> Brush your teeth before bed. ->> 睡前刷牙。 ->> Did you brush your teeth? ->> 你刷牙了吗？ ->> I brush my teeth twice a day. ->> 我一天刷两次牙。
+take a shower ->> 洗澡 ->> I'll take a quick shower first. ->> 我先快速冲个澡。 ->> I'll take a shower and head out. ->> 我冲个澡就出门。 ->> He takes a cold shower every morning. ->> 他每天早上冲冷水澡。
+wash up ->> 洗漱 ->> Go wash up, dinner's ready. ->> 去洗一下，饭好了。 ->> Go wash up before dinner. ->> 吃饭前去洗一下。 ->> I'll wash up, you dry. ->> 我洗你擦。
+get dressed ->> 穿衣服 ->> Give me five minutes to get dressed. ->> 给我五分钟穿衣服。 ->> Get dressed, we're leaving. ->> 穿衣服，我们要走了。 ->> She got dressed in two minutes. ->> 她两分钟就穿好了。
+throw on ->> 随便套上 ->> I'll just throw on a jacket. ->> 我随便套件外套。 ->> I threw on a sweater and left. ->> 我套了件毛衣就走了。 ->> Just throw on whatever's clean. ->> 随便套件干净的就行。
+change into ->> 换成（某件衣服） ->> Let me change into something comfortable. ->> 我换件舒服的衣服。 ->> Let me change into something warmer. ->> 我换件暖和点的。 ->> He changed into his running gear. ->> 他换上了跑步装备。
+do one's hair ->> 弄头发 ->> She's still doing her hair. ->> 她还在弄头发。 ->> Give me five minutes to do my hair. ->> 给我五分钟弄头发。 ->> She does her hair every morning. ->> 她每天早上弄头发。
+grab breakfast ->> 随便吃个早饭 ->> I'll grab breakfast on the way. ->> 我路上随便吃点早饭。 ->> Let's grab breakfast on the way. ->> 路上随便吃点早饭。 ->> I grabbed breakfast at the station. ->> 我在车站随便买了早饭。
+skip breakfast ->> 不吃早饭 ->> I usually skip breakfast. ->> 我一般不吃早饭。 ->> Don't skip breakfast before a long day. ->> 一天要忙就别不吃早饭。 ->> He skips breakfast most days. ->> 他大多数日子不吃早饭。
+head out ->> 出门 ->> I'm heading out in ten minutes. ->> 我十分钟后出门。 ->> We're heading out in five. ->> 我们五分钟后出门。 ->> She headed out without her coat. ->> 她没穿外套就出门了。
+make it on time ->> 准时赶到 ->> I don't think I'll make it on time. ->> 我觉得我赶不及了。 ->> Do you think we'll make it on time? ->> 你觉得我们赶得上吗？ ->> We just made it on time. ->> 我们刚好赶上。
+rush out ->> 匆忙出门 ->> I rushed out without my keys. ->> 我匆忙出门忘带钥匙了。 ->> He rushed out without breakfast. ->> 他没吃早饭就匆匆出门。 ->> I rushed out and left my badge. ->> 我匆忙出门把工牌忘了。
+take one's time ->> 慢慢来 ->> Take your time, we're not in a hurry. ->> 慢慢来，我们不赶时间。 ->> Take your time, there's no rush. ->> 慢慢来，不着急。 ->> She took her time answering. ->> 她不慌不忙地回答。
+lock up ->> 锁门 ->> Don't forget to lock up. ->> 别忘了锁门。 ->> Last one out locks up. ->> 最后走的人锁门。 ->> Did you lock up properly? ->> 你锁好了吗？
+run errands ->> 出门办杂事 ->> I need to run a few errands this afternoon. ->> 我下午得出去办点事。 ->> I've got errands to run this morning. ->> 我上午有些杂事要办。 ->> She spent Saturday running errands. ->> 她周六都在跑腿办事。
+drop by ->> 顺路去一下 ->> I'll drop by the pharmacy on the way home. ->> 我回家路上顺便去趟药店。 ->> Drop by anytime you're nearby. ->> 路过随时来坐坐。 ->> She dropped by with coffee. ->> 她顺路带了咖啡过来。
+stop by ->> 顺道过去 ->> Can you stop by the store? ->> 你能顺路去趟超市吗？ ->> I'll stop by the bank first. ->> 我先顺路去趟银行。 ->> Can you stop by my desk later? ->> 待会儿能来我工位一趟吗？
+pick up ->> 顺路买；接（人） ->> Can you pick up some milk? ->> 你能顺便买点牛奶吗？ ->> Can you pick up the kids at five? ->> 你五点能去接孩子吗？ ->> I picked up dinner on the way. ->> 我回来路上买了晚饭。
+get home ->> 到家 ->> I usually get home around seven. ->> 我一般七点左右到家。 ->> I didn't get home until midnight. ->> 我半夜才到家。 ->> Text me when you get home. ->> 到家发我消息。
+kick off one's shoes ->> 脱掉鞋 ->> I kicked off my shoes and sat down. ->> 我脱了鞋坐下。 ->> She kicked off her shoes at the door. ->> 她在门口把鞋甩了。 ->> He kicked off his shoes and collapsed. ->> 他脱了鞋就瘫倒了。
+put away ->> 收起来 ->> Put your stuff away, please. ->> 请把你的东西收好。 ->> Put the groceries away first. ->> 先把菜收起来。 ->> Everything's been put away. ->> 东西都收好了。
+tidy up ->> 收拾整理 ->> Let me tidy up before they arrive. ->> 他们来之前我收拾一下。 ->> Let me tidy up a bit. ->> 我稍微收拾一下。 ->> They tidied up before the guests arrived. ->> 客人来之前他们收拾了一下。
+clean up ->> 打扫干净 ->> I'll clean up after dinner. ->> 饭后我来收拾。 ->> Who's cleaning up tonight? ->> 今晚谁收拾？ ->> We cleaned up after the party. ->> 派对后我们打扫了。
+straighten up ->> 稍微整理一下 ->> Can you straighten up the living room? ->> 你能把客厅稍微整理下吗？ ->> Straighten up your desk before you go. ->> 走之前把桌子理一下。 ->> The room needs straightening up. ->> 房间需要整理一下。
+do the dishes ->> 洗碗 ->> I'll cook if you do the dishes. ->> 你洗碗我就做饭。 ->> It's your turn to do the dishes. ->> 该你洗碗了。 ->> He did the dishes without being asked. ->> 没人说他就把碗洗了。
+do the laundry ->> 洗衣服 ->> I need to do the laundry tonight. ->> 我今晚得洗衣服。 ->> I do the laundry on Sundays. ->> 我周日洗衣服。 ->> The laundry hasn't been done all week. ->> 一周的衣服都没洗。
+hang up ->> 把衣服挂起来 ->> Hang up your coat. ->> 把外套挂起来。 ->> Hang up your towel after your shower. ->> 洗完澡把毛巾挂好。 ->> She hung up her coat by the door. ->> 她把外套挂在门边。
+fold the laundry ->> 叠衣服 ->> I hate folding laundry. ->> 我讨厌叠衣服。 ->> I still need to fold the laundry. ->> 我还得叠衣服。 ->> He folds laundry while watching TV. ->> 他边看电视边叠衣服。
+take out the trash ->> 倒垃圾 ->> Whose turn is it to take out the trash? ->> 该谁倒垃圾了？ ->> Don't forget to take out the trash. ->> 别忘了倒垃圾。 ->> He took out the trash on his way. ->> 他出门顺手倒了垃圾。
+water the plants ->> 浇花 ->> Could you water the plants while I'm away? ->> 我不在时你能帮忙浇花吗？ ->> The plants need watering. ->> 花该浇水了。 ->> She waters the plants every other day. ->> 她隔天浇一次花。
+feed the cat ->> 喂猫 ->> Did anyone feed the cat? ->> 有人喂猫了吗？ ->> Have you fed the cat yet? ->> 猫喂了吗？ ->> I feed the cat before I leave. ->> 我出门前喂猫。
+walk the dog ->> 遛狗 ->> I walk the dog before work. ->> 我上班前遛狗。 ->> He walks the dog twice a day. ->> 他一天遛两次狗。 ->> Can you walk the dog tonight? ->> 今晚你能遛狗吗？
+charge one's phone ->> 给手机充电 ->> I forgot to charge my phone. ->> 我忘了给手机充电。 ->> My phone's at 3%, I need to charge it. ->> 我手机剩百分之三，得充电了。 ->> Charge your phone before the trip. ->> 出门前把手机充上。
+run out of ->> 用完了 ->> We've run out of coffee. ->> 咖啡喝完了。 ->> We ran out of milk again. ->> 牛奶又用完了。 ->> I'm running out of patience. ->> 我快没耐心了。
+be out of ->> 没有了 ->> We're out of milk again. ->> 牛奶又没了。 ->> We're out of coffee filters. ->> 咖啡滤纸没了。 ->> They were out of my size. ->> 我的号没货了。
+stock up on ->> 囤货 ->> Let's stock up on snacks. ->> 我们囤点零食吧。 ->> Let's stock up on water. ->> 我们囤点水。 ->> She stocked up before the holiday. ->> 她假期前囤了货。
+open the curtains ->> 拉开窗帘 ->> Open the curtains and let some light in. ->> 拉开窗帘透点光进来。 ->> Open the curtains, it's so dark. ->> 拉开窗帘，太暗了。 ->> He opened the curtains at six. ->> 他六点就拉开了窗帘。
+draw the curtains ->> 拉上窗帘 ->> Could you draw the curtains? ->> 你能把窗帘拉上吗？ ->> Draw the curtains, the sun's too strong. ->> 拉上窗帘，太阳太晒。 ->> She drew the curtains and went to bed. ->> 她拉上窗帘就睡了。
+air out ->> 通风 ->> Let's air out the room. ->> 我们给房间通通风。 ->> Air out the room while you're at it. ->> 顺便给房间通通风。 ->> The blankets need airing out. ->> 被子该晒晒了。
+turn on ->> 打开（电器） ->> Can you turn on the AC? ->> 你能开下空调吗？ ->> Turn on the kettle, would you? ->> 帮忙把水壶打开。 ->> He turned on the light and winced. ->> 他开了灯，被晃得眯眼。
+turn off ->> 关掉 ->> Don't forget to turn off the lights. ->> 别忘了关灯。 ->> Turn off the tap properly. ->> 把水龙头关严。 ->> I turned off my phone for the evening. ->> 我晚上把手机关了。
+turn up ->> 调高（音量、温度） ->> Can you turn up the heat a bit? ->> 你能把暖气调高点吗？ ->> Turn up the volume a bit. ->> 音量调大点。 ->> Can you turn the heat up? ->> 你能把暖气调高点吗？
+turn down ->> 调低 ->> Please turn down the TV. ->> 请把电视声音调小。 ->> Turn down the music, please. ->> 请把音乐调小。 ->> He turned the thermostat down. ->> 他把温控调低了。
+unwind ->> 放松下来 ->> I watch a show to unwind. ->> 我看剧放松一下。 ->> I need an hour to unwind. ->> 我需要一小时放松。 ->> A walk helps me unwind. ->> 散步能让我放松。
+wind down ->> 慢慢平静下来 ->> I need an hour to wind down before bed. ->> 我睡前需要一小时放松。 ->> I wind down with a book. ->> 我看书放松。 ->> The evening winds down around ten. ->> 晚上十点左右就安静下来了。
+chill out ->> 歇一歇；别紧张 ->> I just want to chill out tonight. ->> 我今晚就想歇着。 ->> Chill out, we have plenty of time. ->> 别急，我们时间多着呢。 ->> I just want to chill out tonight. ->> 我今晚就想歇着。
+stay in ->> 宅在家 ->> Let's just stay in tonight. ->> 我们今晚就在家吧。 ->> We stayed in and cooked. ->> 我们待在家做了饭。 ->> I'd rather stay in tonight. ->> 我今晚更想待在家。
+go out ->> 出去玩 ->> Do you want to go out tonight? ->> 今晚想出去吗？ ->> We went out for dinner. ->> 我们出去吃了晚饭。 ->> Do you want to go out or order in? ->> 你想出去吃还是叫外卖？
+be worn out ->> 累坏了 ->> I'm completely worn out. ->> 我累垮了。 ->> I'm worn out after that trip. ->> 那趟出差把我累坏了。 ->> She looked completely worn out. ->> 她看起来累坏了。
+be beat ->> 累惨了（口语） ->> I'm beat, I'm going to bed. ->> 我累死了，我去睡了。 ->> I'm beat, I'm going to bed. ->> 我累死了，去睡了。 ->> After the move we were both beat. ->> 搬完家我们俩都累瘫了。
+drift off ->> 迷迷糊糊睡着 ->> I drifted off halfway through the movie. ->> 我电影看到一半就睡着了。 ->> I drifted off on the train. ->> 我在火车上迷迷糊糊睡着了。 ->> She drifted off mid-sentence. ->> 她话说到一半就睡着了。
+feel refreshed ->> 感觉恢复了 ->> I feel refreshed after that nap. ->> 睡了一觉感觉恢复了。 ->> I felt refreshed after the nap. ->> 午睡后我感觉恢复了。 ->> A shower makes me feel refreshed. ->> 洗个澡就精神了。
+check the weather ->> 看天气 ->> Let me check the weather first. ->> 我先看下天气。 ->> Check the weather before you pack. ->> 收拾行李前看下天气。 ->> I always check the weather first. ->> 我总是先看天气。
+pack a bag ->> 收拾包 ->> I packed a bag the night before. ->> 我前一晚就把包收好了。 ->> I packed a bag the night before. ->> 我前一晚就收拾好了包。 ->> She packed a bag in ten minutes. ->> 她十分钟就收拾好了。
+set out one's clothes ->> 提前把衣服备好 ->> I set out my clothes the night before. ->> 我前一晚把衣服备好。 ->> I set out my clothes the night before. ->> 我前一晚把衣服备好。 ->> He sets out his clothes to save time. ->> 他提前备衣服省时间。
+get ready ->> 准备好 ->> Give me ten minutes to get ready. ->> 给我十分钟准备一下。 ->> Give me ten minutes to get ready. ->> 给我十分钟准备。 ->> The kids are getting ready for school. ->> 孩子们在准备上学。
+be up early ->> 起得早 ->> I was up early to catch the train. ->> 我为了赶火车起得很早。 ->> I was up early to catch the flight. ->> 我起了个大早赶飞机。 ->> She's always up early. ->> 她总是起得很早。

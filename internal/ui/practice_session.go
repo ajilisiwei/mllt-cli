@@ -1006,7 +1006,8 @@ func (m PracticeSession) formatEntryItem(item string) string {
 
 	lines := []string{text}
 	if m.getShowTranslationConfig() {
-		for _, field := range entry.DisplayFields() {
+		textLabel, noteLabel := practice.ExampleLabels(m.resourceType)
+		for _, field := range entry.DisplayFields(textLabel, noteLabel) {
 			lines = append(lines, field.Label+": "+field.Value)
 		}
 	}

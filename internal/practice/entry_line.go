@@ -182,10 +182,10 @@ type Field struct {
 
 // DisplayFields 返回正文之外要展示的内容。
 //
-// 只挂一条对比句时按「例句 / 译文」显示，这是短语册的样子；挂一整套时
-// （比如同一场景铺开各种时态）改成带编号的「对比N / 注释N」，
+// textLabel / noteLabel 由调用方按资源类型给定：短语挂的是例句，语法条目挂的是
+// 对比句，同一套结构在两种资源里该叫不同的名字。挂多条时标签带编号，
 // 否则一屏全是同名标签，根本没法对照着看。
-func (e Entry) DisplayFields() []Field {
+func (e Entry) DisplayFields(textLabel, noteLabel string) []Field {
 	fields := make([]Field, 0, 1+len(e.Contrasts)*2)
 
 	if e.Meaning != "" {
@@ -194,18 +194,26 @@ func (e Entry) DisplayFields() []Field {
 
 	numbered := len(e.Contrasts) > 1
 	for i, contrast := range e.Contrasts {
-		textLabel, noteLabel := "例句", "译文"
+		text, note := textLabel, noteLabel
 		if numbered {
-			textLabel = fmt.Sprintf("对比%d", i+1)
-			noteLabel = fmt.Sprintf("注释%d", i+1)
+			text = fmt.Sprintf("%s%d", textLabel, i+1)
+			note = fmt.Sprintf("%s%d", noteLabel, i+1)
 		}
 		if contrast.Text != "" {
-			fields = append(fields, Field{Label: textLabel, Value: contrast.Text})
+			fields = append(fields, Field{Label: text, Value: contrast.Text})
 		}
 		if contrast.Note != "" {
-			fields = append(fields, Field{Label: noteLabel, Value: contrast.Note})
+			fields = append(fields, Field{Label: note, Value: contrast.Note})
 		}
 	}
 
 	return fields
+}
+
+// ExampleLabels 返回对比句该用的标签。短语册挂的是例句，语法册挂的是对比句。
+func ExampleLabels(resourceType string) (string, string) {
+	if resourceType == Sentences || resourceType == Articles {
+		return "对比", "注释"
+	}
+	return "例句", "译文"
 }

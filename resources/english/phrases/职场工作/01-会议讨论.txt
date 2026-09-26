@@ -1,79 +1,79 @@
-set up a meeting ->> 安排会议 ->> Can you set up a meeting with the design team this week? ->> 你这周能跟设计团队安排个会吗？
-schedule a call ->> 约个电话会 ->> Let's schedule a call for Thursday afternoon. ->> 我们约周四下午打个电话吧。
-hop on a call ->> 临时开个电话会（口语） ->> Can we hop on a quick call? ->> 我们能快速通个电话吗？
-dial in ->> 拨入会议 ->> I'll dial in from home tomorrow. ->> 我明天在家拨进来。
-join the call ->> 加入会议 ->> Sorry, I just joined the call. ->> 抱歉，我刚加进来。
-be on mute ->> 静音了 ->> You're on mute, we can't hear you. ->> 你静音了，我们听不到。
-speak up ->> 大点声；开口发言 ->> Could you speak up a bit? You're breaking up. ->> 你能大声点吗？你那边断断续续的。
-break up ->> （信号）断断续续 ->> Your audio keeps breaking up. ->> 你的声音一直断断续续。
-cut out ->> （通话）中断 ->> Sorry, you cut out for a second. ->> 抱歉，你刚断了一下。
-drop off ->> 掉线 ->> I got dropped off the call, what did I miss? ->> 我掉线了，错过了什么？
-kick off ->> 开始（会议、项目） ->> Let's kick off with a quick round of updates. ->> 我们先快速过一轮进展。
-run through ->> 快速过一遍 ->> Let me run through the agenda first. ->> 我先把议程过一遍。
-walk sb through ->> 带某人逐步了解 ->> Can you walk me through the numbers? ->> 你能带我把这些数据讲一遍吗？
-go over ->> 仔细过一遍 ->> Let's go over the main points again. ->> 我们再把要点过一遍。
-touch base ->> 碰个头；简单沟通 ->> Let's touch base on Friday. ->> 我们周五碰一下。
-check in ->> 同步一下情况 ->> I just wanted to check in on the timeline. ->> 我就是想问一下进度安排。
-sync up ->> 对齐信息 ->> Let's sync up before the client call. ->> 客户电话之前我们先对一下。
-align on ->> 就……达成一致 ->> We need to align on the scope first. ->> 我们得先把范围对齐。
-get on the same page ->> 达成共识 ->> Let's make sure we're all on the same page. ->> 我们确保大家理解一致。
-see eye to eye ->> 意见一致 ->> We don't always see eye to eye, and that's fine. ->> 我们不总是意见一致，这很正常。
-chime in ->> 插话补充 ->> Feel free to chime in if I miss anything. ->> 我漏了什么你随时补充。
-jump in ->> 插一句 ->> Can I jump in here for a second? ->> 我能插一句吗？
-weigh in ->> 发表看法 ->> I'd love to hear you weigh in on this. ->> 我很想听听你对这事的看法。
-go around the room ->> 挨个发言 ->> Let's go around the room and share updates. ->> 我们挨个说一下进展。
-hand it over to ->> 交给某人接着讲 ->> I'll hand it over to Sarah for the demo. ->> 演示部分我交给 Sarah。
-bring sb up to speed ->> 让某人了解最新情况 ->> Let me bring you up to speed on what happened. ->> 我跟你说一下最新情况。
-loop sb in ->> 把某人拉进来 ->> Let's loop in legal on this one. ->> 这件事把法务拉进来。
-keep sb in the loop ->> 让某人保持知情 ->> Keep me in the loop on any changes. ->> 有变动随时告诉我。
-follow up ->> 跟进 ->> I'll follow up with them tomorrow. ->> 我明天跟他们跟进。
-circle back ->> 稍后再聊 ->> Let's circle back on this next week. ->> 这事我们下周再聊。
-come back to sth ->> 回头再讨论 ->> Can we come back to this at the end? ->> 我们能最后再讨论这个吗？
-take it offline ->> 会后私下谈 ->> Let's take this offline and not hold everyone up. ->> 这事我们会后聊，别耽误大家。
-put a pin in it ->> 先记下，暂时搁置 ->> Let's put a pin in it for now. ->> 这个先记一笔，暂时放放。
-table sth ->> 暂时搁置 ->> We decided to table the pricing discussion. ->> 我们决定先把定价的讨论放一放。
-park sth ->> 先放一边 ->> Let's park that idea and move on. ->> 这个想法先放一边，我们继续。
-drill down into ->> 深入细看 ->> Can we drill down into last month's drop? ->> 我们能细看一下上个月的下滑吗？
-zoom out ->> 拉远看全局 ->> Let's zoom out and look at the bigger picture. ->> 我们跳出来看看整体情况。
-hash out ->> 反复讨论出结果 ->> We need to hash out the details. ->> 细节我们得讨论清楚。
-iron out ->> 解决（分歧、问题） ->> There are a few issues to iron out. ->> 还有几个问题要理顺。
-flesh out ->> 充实细节 ->> Can you flesh out the proposal a bit? ->> 你能把方案再充实一点吗？
-work out ->> 想出办法；解决 ->> We'll work something out. ->> 我们会想出办法的。
-nail sth down ->> 敲定 ->> Let's nail down the date today. ->> 我们今天把日期敲定。
-come up with ->> 想出（方案、点子） ->> Can you come up with a few options? ->> 你能想出几个方案吗？
-run sth by sb ->> 征求某人意见 ->> Let me run this by my manager first. ->> 我先问一下我经理的意见。
-bounce ideas off sb ->> 跟某人碰想法 ->> I just want to bounce a few ideas off you. ->> 我就是想跟你碰几个想法。
-throw out an idea ->> 抛个想法 ->> Let me just throw out an idea here. ->> 我抛个想法。
-play devil's advocate ->> 故意唱反调（帮助思考） ->> Let me play devil's advocate for a second. ->> 我故意唱个反调。
-push back on ->> 提出异议 ->> I'd push back on that timeline, it's too tight. ->> 这个时间表我有异议，太紧了。
-be on board with ->> 赞成；支持 ->> Is everyone on board with this approach? ->> 大家都认可这个做法吗？
-buy into ->> 认同（想法、计划） ->> The team really bought into the new process. ->> 团队很认同这个新流程。
-sign off on ->> 批准 ->> We're waiting for finance to sign off on it. ->> 我们在等财务批。
-green-light ->> 批准放行 ->> The project finally got green-lit. ->> 项目终于获批了。
-hold off on ->> 暂缓 ->> Let's hold off on the launch until next month. ->> 上线的事推到下个月吧。
-rule out ->> 排除 ->> We can rule out the database as the cause. ->> 可以排除是数据库的原因。
-narrow down ->> 缩小范围 ->> Let's narrow it down to two options. ->> 我们缩到两个选项。
-go with ->> 选定 ->> Let's go with the second option. ->> 我们就选第二个方案。
-stick with ->> 维持原方案 ->> Let's stick with the current plan for now. ->> 目前还是按原计划来。
-make a call ->> 拍板做决定 ->> Someone needs to make a call on this today. ->> 今天得有人拍板。
-have the final say ->> 有最终决定权 ->> She has the final say on the budget. ->> 预算由她最终拍板。
-wrap up ->> 收尾；结束 ->> Let's wrap up, we're almost out of time. ->> 我们收尾吧，时间快到了。
-call it a day ->> 今天就到这 ->> Let's call it a day and pick this up tomorrow. ->> 今天先到这，明天接着。
-be short on time ->> 时间不够 ->> We're short on time, so let's be quick. ->> 时间不多了，我们快点。
-run over ->> 超时 ->> Sorry, we ran over by ten minutes. ->> 抱歉，我们超时十分钟。
-push sth back ->> 推迟 ->> Can we push the meeting back an hour? ->> 会议能往后推一小时吗？
-move sth up ->> 提前 ->> Can we move the review up to Tuesday? ->> 评审能提前到周二吗？
-be double-booked ->> 时间撞了 ->> I'm double-booked at two, can we do three? ->> 我两点撞会了，三点行吗？
-be running late ->> 要迟到了 ->> I'm running late, start without me. ->> 我要晚点到，你们先开始。
-take notes ->> 做记录 ->> Could someone take notes for this one? ->> 这场有人做个记录吗？
-share one's screen ->> 共享屏幕 ->> Let me share my screen so you can see. ->> 我共享一下屏幕给你们看。
-give sb a heads-up ->> 提前知会某人 ->> Just giving you a heads-up before the meeting. ->> 会前先跟你知会一声。
-action item ->> 待办事项 ->> Let's list the action items before we finish. ->> 结束前我们列一下待办。
-take ownership of ->> 负责到底 ->> Who wants to take ownership of this? ->> 这个谁来负责？
-be on the hook for ->> 得负责；跑不掉 ->> I'm on the hook for the report by Friday. ->> 周五前的报告我得交。
-have bandwidth ->> 有精力/有余力 ->> I don't have the bandwidth to take this on. ->> 我没精力接这个。
-be swamped ->> 忙不过来 ->> I'm swamped this week, can it wait? ->> 我这周忙疯了，能等等吗？
-be a blocker ->> 是阻碍 ->> The API delay is a blocker for us. ->> 接口延期卡住我们了。
-be up in the air ->> 还没定 ->> The launch date is still up in the air. ->> 上线时间还没定。
-for the record ->> 说明一下；正式声明 ->> For the record, I raised this last month. ->> 说明一下，我上个月就提过。
-to recap ->> 简单总结一下 ->> To recap, we agreed on three things. ->> 简单总结，我们达成了三点共识。
+set up a meeting ->> 安排会议 ->> Can you set up a meeting with the design team this week? ->> 你这周能跟设计团队安排个会吗？ ->> Let's set up a meeting with legal. ->> 我们跟法务约个会。 ->> She set up a meeting for Thursday. ->> 她把会安排在周四。
+schedule a call ->> 约个电话会 ->> Let's schedule a call for Thursday afternoon. ->> 我们约周四下午打个电话吧。 ->> Can we schedule a call for Monday? ->> 周一能约个电话吗？ ->> I've scheduled a call with the vendor. ->> 我跟供应商约了电话。
+hop on a call ->> 临时开个电话会（口语） ->> Can we hop on a quick call? ->> 我们能快速通个电话吗？ ->> Want to hop on a call instead of typing? ->> 别打字了，要不通个电话？ ->> She hopped on a call right away. ->> 她马上就接了电话。
+dial in ->> 拨入会议 ->> I'll dial in from home tomorrow. ->> 我明天在家拨进来。 ->> Three people dialed in late. ->> 有三个人晚了才拨进来。 ->> You can dial in from your phone. ->> 你可以用手机拨进来。
+join the call ->> 加入会议 ->> Sorry, I just joined the call. ->> 抱歉，我刚加进来。 ->> Can everyone hear me? I just joined. ->> 大家能听见吗？我刚进来。 ->> He never joined the call. ->> 他一直没进来。
+be on mute ->> 静音了 ->> You're on mute, we can't hear you. ->> 你静音了，我们听不到。 ->> I was on mute the whole time. ->> 我一直静着音。 ->> Stay on mute unless you're speaking. ->> 不发言就保持静音。
+speak up ->> 大点声；开口发言 ->> Could you speak up a bit? You're breaking up. ->> 你能大声点吗？你那边断断续续的。 ->> Nobody spoke up at the meeting. ->> 会上没人吭声。 ->> Speak up if you disagree. ->> 不同意就说出来。
+break up ->> （信号）断断续续 ->> Your audio keeps breaking up. ->> 你的声音一直断断续续。 ->> The call kept breaking up. ->> 通话一直断断续续。 ->> You're breaking up, say that again. ->> 你那边卡了，再说一遍。
+cut out ->> （通话）中断 ->> Sorry, you cut out for a second. ->> 抱歉，你刚断了一下。 ->> The audio cut out for a second. ->> 声音断了一下。 ->> My connection keeps cutting out. ->> 我这边网老是断。
+drop off ->> 掉线 ->> I got dropped off the call, what did I miss? ->> 我掉线了，错过了什么？ ->> Half the room dropped off at once. ->> 一下子掉线了一半人。 ->> If I drop off, start without me. ->> 我要是掉线了你们先开始。
+kick off ->> 开始（会议、项目） ->> Let's kick off with a quick round of updates. ->> 我们先快速过一轮进展。 ->> Who wants to kick off? ->> 谁先开始？ ->> The project kicks off next Monday. ->> 项目下周一启动。
+run through ->> 快速过一遍 ->> Let me run through the agenda first. ->> 我先把议程过一遍。 ->> Can we run through it once more? ->> 能再过一遍吗？ ->> She ran through the numbers quickly. ->> 她快速过了一遍数据。
+walk sb through ->> 带某人逐步了解 ->> Can you walk me through the numbers? ->> 你能带我把这些数据讲一遍吗？ ->> He walked me through the setup. ->> 他带我把配置走了一遍。 ->> Let me walk you through the flow. ->> 我带你把流程过一遍。
+go over ->> 仔细过一遍 ->> Let's go over the main points again. ->> 我们再把要点过一遍。 ->> Let's go over the action items. ->> 我们过一下待办。 ->> I went over it twice and found nothing. ->> 我看了两遍什么也没发现。
+touch base ->> 碰个头；简单沟通 ->> Let's touch base on Friday. ->> 我们周五碰一下。 ->> I'll touch base with her after lunch. ->> 午饭后我跟她碰一下。 ->> Just touching base on the invoice. ->> 就发票的事问一下。
+check in ->> 同步一下情况 ->> I just wanted to check in on the timeline. ->> 我就是想问一下进度安排。 ->> I wanted to check in before you start. ->> 你开始之前我想确认一下。 ->> She checks in with the team daily. ->> 她每天跟团队同步。
+sync up ->> 对齐信息 ->> Let's sync up before the client call. ->> 客户电话之前我们先对一下。 ->> Let's sync up Monday morning. ->> 我们周一早上对一下。 ->> We sync up twice a week. ->> 我们一周对齐两次。
+align on ->> 就……达成一致 ->> We need to align on the scope first. ->> 我们得先把范围对齐。 ->> We need to align on the definition. ->> 定义上我们得统一。 ->> Are we aligned on the timeline? ->> 时间安排我们对齐了吗？
+get on the same page ->> 达成共识 ->> Let's make sure we're all on the same page. ->> 我们确保大家理解一致。 ->> Five minutes to get on the same page. ->> 花五分钟统一一下认识。 ->> We're finally on the same page. ->> 我们终于想到一块儿去了。
+see eye to eye ->> 意见一致 ->> We don't always see eye to eye, and that's fine. ->> 我们不总是意见一致，这很正常。 ->> They rarely see eye to eye. ->> 他们很少意见一致。 ->> We see eye to eye on this one. ->> 这件事我们看法一致。
+chime in ->> 插话补充 ->> Feel free to chime in if I miss anything. ->> 我漏了什么你随时补充。 ->> Feel free to chime in anytime. ->> 随时插话补充。 ->> She chimed in with a good point. ->> 她插了一句，说得很到位。
+jump in ->> 插一句 ->> Can I jump in here for a second? ->> 我能插一句吗？ ->> Sorry to jump in, quick question. ->> 抱歉插一句，有个小问题。 ->> He jumped in before she finished. ->> 她还没说完他就插话了。
+weigh in ->> 发表看法 ->> I'd love to hear you weigh in on this. ->> 我很想听听你对这事的看法。 ->> Could you weigh in on this thread? ->> 这个话题你能说两句吗？ ->> Legal weighed in yesterday. ->> 法务昨天发表了意见。
+go around the room ->> 挨个发言 ->> Let's go around the room and share updates. ->> 我们挨个说一下进展。 ->> Let's go around the room quickly. ->> 我们快速挨个说一下。 ->> We went around the room twice. ->> 我们挨个说了两轮。
+hand it over to ->> 交给某人接着讲 ->> I'll hand it over to Sarah for the demo. ->> 演示部分我交给 Sarah。 ->> I'll hand it over to Mei now. ->> 现在交给 Mei。 ->> He handed it over without notes. ->> 他交接时什么记录都没留。
+bring sb up to speed ->> 让某人了解最新情况 ->> Let me bring you up to speed on what happened. ->> 我跟你说一下最新情况。 ->> Can someone bring me up to speed? ->> 谁能跟我说说现在什么情况？ ->> It took an hour to bring him up to speed. ->> 花了一小时才让他弄清情况。
+loop sb in ->> 把某人拉进来 ->> Let's loop in legal on this one. ->> 这件事把法务拉进来。 ->> Loop me in on the reply. ->> 回复的时候抄我一下。 ->> She wasn't looped in until Friday. ->> 她周五才被拉进来。
+keep sb in the loop ->> 让某人保持知情 ->> Keep me in the loop on any changes. ->> 有变动随时告诉我。 ->> Please keep finance in the loop. ->> 请让财务保持知情。 ->> He didn't keep anyone in the loop. ->> 他谁都没告知。
+follow up ->> 跟进 ->> I'll follow up with them tomorrow. ->> 我明天跟他们跟进。 ->> I'll follow up in writing. ->> 我会书面跟进。 ->> Did anyone follow up on that? ->> 那件事有人跟进了吗？
+circle back ->> 稍后再聊 ->> Let's circle back on this next week. ->> 这事我们下周再聊。 ->> Let me circle back after lunch. ->> 午饭后我再找你。 ->> We never circled back on it. ->> 那件事我们再没提过。
+come back to sth ->> 回头再讨论 ->> Can we come back to this at the end? ->> 我们能最后再讨论这个吗？ ->> Can we come back to this later? ->> 这个能待会儿再说吗？ ->> Let's come back to your first point. ->> 我们回到你的第一点。
+take it offline ->> 会后私下谈 ->> Let's take this offline and not hold everyone up. ->> 这事我们会后聊，别耽误大家。 ->> This is detailed — let's take it offline. ->> 这个太细了，会后聊。 ->> They took the argument offline. ->> 他们把争论挪到了会后。
+put a pin in it ->> 先记下，暂时搁置 ->> Let's put a pin in it for now. ->> 这个先记一笔，暂时放放。 ->> Let's put a pin in it for today. ->> 今天先把这个记一笔。 ->> We put a pin in it back in March. ->> 三月的时候我们就搁置了。
+table sth ->> 暂时搁置 ->> We decided to table the pricing discussion. ->> 我们决定先把定价的讨论放一放。 ->> The committee tabled the motion. ->> 委员会搁置了这项动议。 ->> Let's table pricing until Q3. ->> 定价的事推到三季度。
+park sth ->> 先放一边 ->> Let's park that idea and move on. ->> 这个想法先放一边，我们继续。 ->> Park that thought for a second. ->> 这个想法先放一下。 ->> We parked it and moved on. ->> 我们搁置后继续往下走。
+drill down into ->> 深入细看 ->> Can we drill down into last month's drop? ->> 我们能细看一下上个月的下滑吗？ ->> Let's drill down into the March numbers. ->> 我们细看三月的数据。 ->> She drilled down into the root cause. ->> 她深挖了根本原因。
+zoom out ->> 拉远看全局 ->> Let's zoom out and look at the bigger picture. ->> 我们跳出来看看整体情况。 ->> Zoom out for a second — why are we doing this? ->> 跳出来想想，我们为什么做这个？ ->> If you zoom out, the trend is fine. ->> 放远看，趋势没问题。
+hash out ->> 反复讨论出结果 ->> We need to hash out the details. ->> 细节我们得讨论清楚。 ->> We hashed it out over lunch. ->> 我们午饭时把这事谈妥了。 ->> There's a lot still to hash out. ->> 还有很多要谈。
+iron out ->> 解决（分歧、问题） ->> There are a few issues to iron out. ->> 还有几个问题要理顺。 ->> A few wrinkles still to iron out. ->> 还有几个小问题要理顺。 ->> They ironed out their differences. ->> 他们消除了分歧。
+flesh out ->> 充实细节 ->> Can you flesh out the proposal a bit? ->> 你能把方案再充实一点吗？ ->> Flesh out the second section. ->> 把第二部分充实一下。 ->> The idea needs fleshing out. ->> 这个想法需要再具体些。
+work out ->> 想出办法；解决 ->> We'll work something out. ->> 我们会想出办法的。 ->> I'm sure we'll work something out. ->> 我相信我们能想出办法。 ->> It worked out better than expected. ->> 结果比预期的好。
+nail sth down ->> 敲定 ->> Let's nail down the date today. ->> 我们今天把日期敲定。 ->> We still haven't nailed down the scope. ->> 范围我们还没定死。 ->> Let's nail down who does what. ->> 我们把分工定下来。
+come up with ->> 想出（方案、点子） ->> Can you come up with a few options? ->> 你能想出几个方案吗？ ->> She came up with three options overnight. ->> 她一晚上想出了三个方案。 ->> Can you come up with a better name? ->> 你能想个更好的名字吗？
+run sth by sb ->> 征求某人意见 ->> Let me run this by my manager first. ->> 我先问一下我经理的意见。 ->> Run it by legal before you send. ->> 发之前先给法务过目。 ->> He ran the numbers by me first. ->> 他先把数据给我看了。
+bounce ideas off sb ->> 跟某人碰想法 ->> I just want to bounce a few ideas off you. ->> 我就是想跟你碰几个想法。 ->> Can I bounce an idea off you? ->> 我跟你碰个想法行吗？ ->> We bounced ideas off each other for an hour. ->> 我们互相碰想法碰了一小时。
+throw out an idea ->> 抛个想法 ->> Let me just throw out an idea here. ->> 我抛个想法。 ->> Let me throw out a wild idea. ->> 我抛个大胆的想法。 ->> She threw out an idea nobody expected. ->> 她提了个谁都没想到的点子。
+play devil's advocate ->> 故意唱反调（帮助思考） ->> Let me play devil's advocate for a second. ->> 我故意唱个反调。 ->> I'm playing devil's advocate here. ->> 我这是故意唱反调。 ->> Someone should play devil's advocate. ->> 该有人来唱个反调。
+push back on ->> 提出异议 ->> I'd push back on that timeline, it's too tight. ->> 这个时间表我有异议，太紧了。 ->> She pushed back on the estimate. ->> 她对那个估算提出了异议。 ->> Don't be afraid to push back. ->> 别怕提反对意见。
+be on board with ->> 赞成；支持 ->> Is everyone on board with this approach? ->> 大家都认可这个做法吗？ ->> Everyone's on board with the change. ->> 大家都认可这个变动。 ->> I'm not fully on board yet. ->> 我还没完全认同。
+buy into ->> 认同（想法、计划） ->> The team really bought into the new process. ->> 团队很认同这个新流程。 ->> The team never bought into it. ->> 团队从没真正认同过。 ->> She bought into the vision early. ->> 她很早就认同了这个愿景。
+sign off on ->> 批准 ->> We're waiting for finance to sign off on it. ->> 我们在等财务批。 ->> Who signs off on this? ->> 这个谁批？ ->> It was signed off last Friday. ->> 上周五批下来的。
+green-light ->> 批准放行 ->> The project finally got green-lit. ->> 项目终于获批了。 ->> Management green-lit the budget. ->> 管理层批了预算。 ->> Nothing gets green-lit in December. ->> 十二月什么都批不下来。
+hold off on ->> 暂缓 ->> Let's hold off on the launch until next month. ->> 上线的事推到下个月吧。 ->> Hold off on sending it. ->> 先别发。 ->> We held off for two weeks. ->> 我们缓了两周。
+rule out ->> 排除 ->> We can rule out the database as the cause. ->> 可以排除是数据库的原因。 ->> I wouldn't rule that out yet. ->> 我暂时不会排除这个可能。 ->> Hardware has been ruled out. ->> 硬件问题已排除。
+narrow down ->> 缩小范围 ->> Let's narrow it down to two options. ->> 我们缩到两个选项。 ->> We narrowed it down to one. ->> 我们缩到只剩一个。 ->> Can you narrow down the time range? ->> 时间范围你能缩小点吗？
+go with ->> 选定 ->> Let's go with the second option. ->> 我们就选第二个方案。 ->> Let's just go with what we have. ->> 就用现有的吧。 ->> She went with her gut. ->> 她凭直觉做了选择。
+stick with ->> 维持原方案 ->> Let's stick with the current plan for now. ->> 目前还是按原计划来。 ->> Stick with it, it gets easier. ->> 坚持下去，会越来越顺。 ->> We stuck with the original vendor. ->> 我们还是用了原来的供应商。
+make a call ->> 拍板做决定 ->> Someone needs to make a call on this today. ->> 今天得有人拍板。 ->> Someone has to make a call here. ->> 这事得有人拍板。 ->> She made the call and moved on. ->> 她定了就往下走了。
+have the final say ->> 有最终决定权 ->> She has the final say on the budget. ->> 预算由她最终拍板。 ->> Who has the final say on design? ->> 设计上谁说了算？ ->> The client has the final say. ->> 客户有最终决定权。
+wrap up ->> 收尾；结束 ->> Let's wrap up, we're almost out of time. ->> 我们收尾吧，时间快到了。 ->> Let's wrap up in five minutes. ->> 我们五分钟内结束。 ->> We wrapped up early for once. ->> 这次难得提前结束了。
+call it a day ->> 今天就到这 ->> Let's call it a day and pick this up tomorrow. ->> 今天先到这，明天接着。 ->> It's seven, let's call it a day. ->> 七点了，今天到这吧。 ->> We called it a day after the demo. ->> 演示完我们就收工了。
+be short on time ->> 时间不够 ->> We're short on time, so let's be quick. ->> 时间不多了，我们快点。 ->> We're short on time, be brief. ->> 时间不多，简短点。 ->> They were short on time and cut corners. ->> 他们时间紧，就走了捷径。
+run over ->> 超时 ->> Sorry, we ran over by ten minutes. ->> 抱歉，我们超时十分钟。 ->> We ran over by twenty minutes. ->> 我们超时二十分钟。 ->> Meetings here always run over. ->> 这里开会总是超时。
+push sth back ->> 推迟 ->> Can we push the meeting back an hour? ->> 会议能往后推一小时吗？ ->> Can we push it back to Thursday? ->> 能推到周四吗？ ->> They pushed the launch back a month. ->> 他们把上线推后了一个月。
+move sth up ->> 提前 ->> Can we move the review up to Tuesday? ->> 评审能提前到周二吗？ ->> Could we move it up to nine? ->> 能提前到九点吗？ ->> The deadline was moved up. ->> 截止日期提前了。
+be double-booked ->> 时间撞了 ->> I'm double-booked at two, can we do three? ->> 我两点撞会了，三点行吗？ ->> Sorry, I'm double-booked then. ->> 抱歉，那个时间我撞会了。 ->> She's double-booked all afternoon. ->> 她整个下午都撞了。
+be running late ->> 要迟到了 ->> I'm running late, start without me. ->> 我要晚点到，你们先开始。 ->> I'm running about ten minutes late. ->> 我大概会晚十分钟。 ->> She's always running late. ->> 她老是迟到。
+take notes ->> 做记录 ->> Could someone take notes for this one? ->> 这场有人做个记录吗？ ->> I'll take notes this time. ->> 这次我来记录。 ->> Nobody took notes, so we forgot. ->> 没人做记录，结果都忘了。
+share one's screen ->> 共享屏幕 ->> Let me share my screen so you can see. ->> 我共享一下屏幕给你们看。 ->> Could you share your screen? ->> 你能共享屏幕吗？ ->> She shared her screen by accident. ->> 她不小心共享了屏幕。
+give sb a heads-up ->> 提前知会某人 ->> Just giving you a heads-up before the meeting. ->> 会前先跟你知会一声。 ->> Thanks for the heads-up. ->> 谢谢你提前说。 ->> Give me a heads-up if it slips. ->> 有延期提前跟我说。
+action item ->> 待办事项 ->> Let's list the action items before we finish. ->> 结束前我们列一下待办。 ->> There are four action items. ->> 有四项待办。 ->> Assign an owner to each action item. ->> 每项待办都指定负责人。
+take ownership of ->> 负责到底 ->> Who wants to take ownership of this? ->> 这个谁来负责？ ->> She took ownership of the whole area. ->> 整块她都接了过去。 ->> Nobody took ownership, so it stalled. ->> 没人负责，所以停滞了。
+be on the hook for ->> 得负责；跑不掉 ->> I'm on the hook for the report by Friday. ->> 周五前的报告我得交。 ->> I'm on the hook for the numbers. ->> 数据这块归我。 ->> Who's on the hook if it fails? ->> 出问题谁担责？
+have bandwidth ->> 有精力/有余力 ->> I don't have the bandwidth to take this on. ->> 我没精力接这个。 ->> Do you have bandwidth next week? ->> 你下周有空吗？ ->> Nobody has bandwidth right now. ->> 现在谁都腾不出手。
+be swamped ->> 忙不过来 ->> I'm swamped this week, can it wait? ->> 我这周忙疯了，能等等吗？ ->> I'm swamped until Thursday. ->> 我忙到周四。 ->> She's been swamped since the launch. ->> 上线之后她就忙翻了。
+be a blocker ->> 是阻碍 ->> The API delay is a blocker for us. ->> 接口延期卡住我们了。 ->> Is this a blocker or just annoying? ->> 这是卡住了还是只是烦人？ ->> Approval is the main blocker. ->> 审批是主要阻碍。
+be up in the air ->> 还没定 ->> The launch date is still up in the air. ->> 上线时间还没定。 ->> Everything's up in the air right now. ->> 现在什么都没定。 ->> The venue is still up in the air. ->> 场地还没定。
+for the record ->> 说明一下；正式声明 ->> For the record, I raised this last month. ->> 说明一下，我上个月就提过。 ->> For the record, I disagreed. ->> 说明一下，我当时不同意。 ->> For the record, this was tested. ->> 说明一下，这个测过了。
+to recap ->> 简单总结一下 ->> To recap, we agreed on three things. ->> 简单总结，我们达成了三点共识。 ->> To recap, three things changed. ->> 总结一下，有三处变动。 ->> To recap briefly before we close. ->> 结束前简单总结一下。

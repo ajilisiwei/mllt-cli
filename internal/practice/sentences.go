@@ -68,7 +68,8 @@ func SentencePractice(fileName string) error {
 				if prompt != sentence {
 					fmt.Printf("原文: %s\n", sentence)
 				}
-				for _, field := range entry.DisplayFields() {
+				textLabel, noteLabel := ExampleLabels(Sentences)
+				for _, field := range entry.DisplayFields(textLabel, noteLabel) {
 					if field.Label == "翻译" && prompt != sentence {
 						continue // 译写模式下题面就是译文，不必再打一遍
 					}
