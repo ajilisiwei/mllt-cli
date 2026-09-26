@@ -1,6 +1,7 @@
 package practice
 
 import (
+	"fmt"
 	"regexp"
 	"strings"
 )
@@ -9,26 +10,34 @@ import (
 // 必须以 "/" 结尾才算音标，因此 "and/or"、"km/h" 之类的词条不会被误拆。
 var trailingPhonetic = regexp.MustCompile(`^(.*?)\s*(/[^/\t]*/)\s*$`)
 
-// WordEntry 表示一条单词记录。列按使用频率排序，靠后的列可以整列省略：
+// WordEntry 表示一条单词记录。定长列在前，例句在后按「例句 + 译文」成对排列，
+// 数量不限：
 //
-//	单词 \t 音标 \t 释义 \t 例句 \t 例句翻译 \t 搭配 \t 词族
+//	单词 \t 音标 \t 释义 \t 搭配 \t 词族 \t 例句1 \t 译文1 \t 例句2 \t 译文2 \t …
 //
-// 高频简单词只写前三列即可；只有"认识≠会用"的词才值得补上例句、搭配和词族。
+// 高频简单词只写前三列即可；只有"认识≠会用"的词才值得补上搭配、词族和例句。
+// 一个词配多个例句是有意的——单个例句只教会一种搭配，看过它在几种语境里怎么用，
+// 才谈得上掌握。
 type WordEntry struct {
 	Word        string
 	Phonetic    string
 	Meaning     string
-	Example     string
-	ExampleNote string
 	Collocation string
 	Family      string
+	// Examples 是这个词的全部例句，按出现顺序排列。
+	Examples []Contrast
+	// Example / ExampleNote 指向第一个例句，保留给既有调用方。
+	Example     string
+	ExampleNote string
 }
 
-// ParseWordEntry 解析单词行。四列以上按上面的列定义读取，三列及以下走兼容解析，
+// ParseWordEntry 解析单词行。三列以上按上面的列定义读取，更少的列走兼容解析，
 // 因此现有词库和历史脏数据都不受影响。
 func ParseWordEntry(line string) WordEntry {
 	cols := strings.Split(line, "\t")
-	if len(cols) < 4 {
+	// 三列（单词 / 音标 / 释义）已经是标准格式，按列解析；
+	// 更少的列说明是缺制表符之类的历史写法，交给兼容解析去兜。
+	if len(cols) < 3 {
 		word, phonetic, meaning := parseLegacyWordLine(line)
 		return WordEntry{Word: word, Phonetic: phonetic, Meaning: meaning}
 	}
@@ -46,15 +55,29 @@ func ParseWordEntry(line string) WordEntry {
 		phonetic = normalizePhonetic(written)
 	}
 
-	return WordEntry{
+	entry := WordEntry{
 		Word:        word,
 		Phonetic:    phonetic,
 		Meaning:     column(2),
-		Example:     column(3),
-		ExampleNote: column(4),
-		Collocation: column(5),
-		Family:      column(6),
+		Collocation: column(3),
+		Family:      column(4),
 	}
+
+	// 第六列起每两列一个例句；最后一句缺译文时译文留空
+	for i := 5; i < len(cols); i += 2 {
+		example := Contrast{Text: column(i), Note: column(i + 1)}
+		if example.Text == "" {
+			continue
+		}
+		entry.Examples = append(entry.Examples, example)
+	}
+
+	if len(entry.Examples) > 0 {
+		entry.Example = entry.Examples[0].Text
+		entry.ExampleNote = entry.Examples[0].Note
+	}
+
+	return entry
 }
 
 // ParseWordLine 解析单词行，返回单词、音标和释义。
@@ -72,7 +95,7 @@ func ParseWordLine(line string) (word string, phonetic string, meaning string) {
 	return entry.Word, entry.Phonetic, entry.Meaning
 }
 
-// parseLegacyWordLine 解析三列及以下的历史写法。
+// parseLegacyWordLine 解析两列及以下的历史写法：缺制表符、空格分隔、箭头分隔等。
 func parseLegacyWordLine(line string) (word string, phonetic string, meaning string) {
 	primary, rest := ParseLine(line)
 
@@ -139,4 +162,40 @@ func normalizePhonetic(phonetic string) string {
 		return ""
 	}
 	return "/" + body + "/"
+}
+
+// DisplayFields 返回单词正文之外要展示的内容。
+//
+// 顺序是先搭配词族（怎么用），再例句（在哪用）。挂多个例句时编号，
+// 一个词配三句是有意的：单句只教一种搭配，几种语境摆在一起才看得出词的用法范围。
+func (e WordEntry) DisplayFields() []Field {
+	fields := make([]Field, 0, 4+len(e.Examples)*2)
+
+	for _, f := range []Field{
+		{Label: "音标", Value: e.Phonetic},
+		{Label: "翻译", Value: e.Meaning},
+		{Label: "搭配", Value: e.Collocation},
+		{Label: "词族", Value: e.Family},
+	} {
+		if f.Value != "" {
+			fields = append(fields, f)
+		}
+	}
+
+	numbered := len(e.Examples) > 1
+	for i, example := range e.Examples {
+		textLabel, noteLabel := "例句", "译文"
+		if numbered {
+			textLabel = fmt.Sprintf("例句%d", i+1)
+			noteLabel = fmt.Sprintf("译文%d", i+1)
+		}
+		if example.Text != "" {
+			fields = append(fields, Field{Label: textLabel, Value: example.Text})
+		}
+		if example.Note != "" {
+			fields = append(fields, Field{Label: noteLabel, Value: example.Note})
+		}
+	}
+
+	return fields
 }

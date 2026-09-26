@@ -540,15 +540,17 @@ func TestWordEntryWithAllColumns(t *testing.T) {
 		"abandon",
 		"/əˈbændən/",
 		"v. 放弃，抛弃",
-		"They abandoned the plan after the first test.",
-		"第一次测试后他们就放弃了那个方案。",
 		"abandon a plan｜abandon ship",
 		"abandoned adj. 被遗弃的 · abandonment n. 放弃",
+		"They abandoned the plan after the first test.",
+		"第一次测试后他们就放弃了那个方案。",
+		"We had to abandon ship.",
+		"我们不得不弃船。",
 	}, "\t")
 
 	items := practice.ExpandEntries([]string{line})
-	if len(items) != 2 {
-		t.Fatalf("展开后 %d 项，期望 2 项: %q", len(items), items)
+	if len(items) != 3 {
+		t.Fatalf("展开后 %d 项，期望 3 项（单词 + 两个例句）: %q", len(items), items)
 	}
 
 	session := &PracticeSession{
@@ -563,10 +565,12 @@ func TestWordEntryWithAllColumns(t *testing.T) {
 		"abandon",
 		"音标: /əˈbændən/",
 		"翻译: v. 放弃，抛弃",
-		"例句: They abandoned the plan after the first test.",
-		"译文: 第一次测试后他们就放弃了那个方案。",
 		"搭配: abandon a plan｜abandon ship",
 		"词族: abandoned adj. 被遗弃的 · abandonment n. 放弃",
+		"例句1: They abandoned the plan after the first test.",
+		"译文1: 第一次测试后他们就放弃了那个方案。",
+		"例句2: We had to abandon ship.",
+		"译文2: 我们不得不弃船。",
 	}, "\n")
 	if got := session.getCurrentItem(); got != want {
 		t.Errorf("单词项显示 =\n%s\n期望 =\n%s", got, want)

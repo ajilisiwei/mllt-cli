@@ -1,102 +1,102 @@
-inspect	/ɪnˈspekt/	v. 检查，视察	They inspect every batch before shipping.	他们发货前检查每一批。	inspect for defects｜inspect a site	spect=看 · inspection n. 检查 · inspector n. 检查员
-speculate	/ˈspekjuleɪt/	v. 推测，猜测；投机	I'd rather not speculate without data.	没有数据我不想乱猜。	speculate about｜speculate on	spect=看 · speculation n. 推测 · speculative adj. 推测的
-conspicuous	/kənˈspɪkjuəs/	adj. 显眼的，引人注目的	The warning should be conspicuous.	警告应该放得显眼。	conspicuous by its absence｜conspicuously placed	spec=看 · conspicuously adv. 显眼地
-specimen	/ˈspesɪmən/	n. 样本，标本	We only had one specimen to test.	我们只有一个样本可测。	a specimen of｜collect specimens	spec=看
-retrospect	/ˈretrəspekt/	n. 回顾，回想	In retrospect, we shipped too early.	现在回头看，我们上得太早了。	in retrospect｜retrospect on	retro=向后 + spect=看 · retrospective adj. 回顾的
-export	/ˈekspɔːrt/	v. 导出；出口 n. 出口（商品）	You can export the report as CSV.	你可以把报告导出成 CSV。	export data｜export to	port=搬运 · exporter n. 出口商
-import	/ɪmˈpɔːrt/	v. 导入；进口 n. 进口	We import the config at startup.	我们在启动时导入配置。	import from｜import data	port=搬运 · importer n. 进口商
-portable	/ˈpɔːrtəbl/	adj. 便携的；可移植的	The format is portable across systems.	这个格式跨系统可移植。	a portable device｜portable code	port=搬运 · portability n. 可移植性
-transport	/ˈtrænspɔːrt/	v. 运输 n. 交通运输	The data is transported over TLS.	数据通过 TLS 传输。	public transport｜transport goods	trans=跨 + port=搬运 · transportation n. 运输
-rapport	/ræˈpɔːr/	n. 融洽的关系	She built a good rapport with the client.	她和客户建立了很好的关系。	build rapport｜have rapport with	port=搬运
-deduce	/dɪˈduːs/	v. 推断，演绎	What can we deduce from the logs?	从日志能推断出什么？	deduce from｜deduce that	duc=引导 · deduction n. 推断；扣除
-produce	/prəˈduːs/	v. 生产；produced 产生；出示 n. 农产品	The query produces duplicate rows.	这个查询会产生重复行。	produce results｜produce evidence	duc=引导 · product n. 产品 · production n. 生产
-reduce	/rɪˈduːs/	v. 减少，降低；简化	We reduced the build time by half.	我们把构建时间减了一半。	reduce costs｜reduce sth to	duc=引导 · reduction n. 减少
-conducive	/kənˈduːsɪv/	adj. 有助于……的	Open offices aren't conducive to focus.	开放式办公不利于专注。	conducive to｜be conducive to	duc=引导
-inject	/ɪnˈdʒekt/	v. 注入；插入	Don't inject config at runtime.	别在运行时注入配置。	inject into｜inject funds	ject=投 · injection n. 注入
-project	/prəˈdʒekt/	v. 预计；投射 n. 项目	We project a 10% increase.	我们预计增长一成。	project growth｜a pet project	pro=向前 + ject=投 · projection n. 预测；投影
-reject	/rɪˈdʒekt/	v. 拒绝；驳回 n. 次品	The server rejected the request.	服务器拒绝了这个请求。	reject a proposal｜be rejected	re=回 + ject=投 · rejection n. 拒绝
-subject	/ˈsʌbdʒɪkt/	n. 主题；科目 adj. 易受……影响的 v. 使遭受	The price is subject to change.	价格可能变动。	be subject to｜subject sb to	sub=下 + ject=投 · subjective adj. 主观的
-trajectory	/trəˈdʒektəri/	n. 轨迹，发展轨线	The growth trajectory looks healthy.	增长轨迹看起来健康。	a growth trajectory｜on a trajectory	tra=横越 + ject=投
-admit	/ədˈmɪt/	v. 承认；准许进入	He admitted he hadn't tested it.	他承认没测过。	admit that｜admit to doing	mit=送 · admission n. 承认；准入
-emit	/ɪˈmɪt/	v. 发出，散发（光、声、信号）	The service emits an event on every write.	每次写入服务都会发出一个事件。	emit a signal｜emit light	e=出 + mit=送 · emission n. 排放
-omit	/oʊˈmɪt/	v. 遗漏，省略	You omitted the version number.	你漏了版本号。	omit to do｜be omitted from	o=去 + mit=送 · omission n. 遗漏
-permit	/pərˈmɪt/	v. 允许 n. 许可证	Time permitting, we'll also do the docs.	时间允许的话文档也一起做。	permit sb to do｜a work permit	per=通过 + mit=送 · permission n. 许可
-transmit	/trænzˈmɪt/	v. 传输，传送；传播	The signal is transmitted every second.	信号每秒传输一次。	transmit data｜transmit a disease	trans=跨 + mit=送 · transmission n. 传输
-concede	/kənˈsiːd/	v. 承认（不情愿）；让步	I'll concede that the old way was simpler.	我承认老办法更简单。	concede a point｜concede defeat	cede=走 · concession n. 让步
-recede	/rɪˈsiːd/	v. 后退，消退	The risk receded after the patch.	打了补丁之后风险就消退了。	recede into｜gradually recede	re=回 + cede=走 · recession n. 衰退
-process	/ˈprɑːses/	n. 流程，过程 v. 处理，加工	The whole process takes three days.	整个流程要三天。	in the process of｜process data	pro=向前 + cess=走 · processing n. 处理
-predecessor	/ˈpredəsesər/	n. 前任；前身	This replaces its predecessor entirely.	这个完全取代了上一代。	its predecessor｜my predecessor	pre=前 + cess=走
-confer	/kənˈfɜːr/	v. 商议；授予	Let me confer with the team first.	我先和团队商量一下。	confer with｜confer a title	fer=带 · conference n. 会议
-prefer	/prɪˈfɜːr/	v. 更喜欢，宁愿	I'd prefer to do it in two steps.	我更想分两步做。	prefer A to B｜prefer to do	pre=前 + fer=带 · preference n. 偏好 · preferable adj. 更可取的
-transfer	/trænsˈfɜːr/	v. 转移；调动 n. 转账；转让	We transferred ownership to her team.	我们把所有权转给了她的团队。	transfer to｜transfer ownership	trans=跨 + fer=带 · transferable adj. 可转让的
-oppose	/əˈpoʊz/	v. 反对，抵制	Nobody opposed the change.	没人反对这个改动。	oppose a plan｜be opposed to	op=反 + pos=放 · opposition n. 反对 · opposite adj. 相反的
-postpone	/poʊˈspoʊn/	v. 推迟，延期	They postponed the review to Monday.	他们把评审推到了周一。	postpone until｜postpone a decision	post=后 + pon=放 · postponement n. 延期
-dispose	/dɪˈspoʊz/	v. 处理，处置；使倾向	How do we dispose of the old records?	旧记录我们怎么处理？	dispose of｜be disposed to	dis=分开 + pos=放 · disposal n. 处置 · disposable adj. 一次性的
-propose	/prəˈpoʊz/	v. 提议，建议；求婚	I propose we split it into two tickets.	我提议拆成两个工单。	propose that｜propose a solution	pro=向前 + pos=放 · proposal n. 提案 · proposition n. 主张
-abstract	/ˈæbstrækt/	adj. 抽象的 n. 摘要 v. 提取	That's too abstract to act on.	太抽象了，没法落地。	an abstract concept｜in the abstract	abs=离开 + tract=拉 · abstraction n. 抽象
-attract	/əˈtrækt/	v. 吸引	The pricing page attracts the most traffic.	定价页流量最大。	attract attention｜attract customers	at=向 + tract=拉 · attraction n. 吸引力 · attractive adj. 有吸引力的
-contract	/ˈkɑːntrækt/	n. 合同 v. 收缩；签约；感染	Read the contract before signing.	签之前先读合同。	sign a contract｜contract with	con=一起 + tract=拉 · contractor n. 承包方 · contractual adj. 合同的
-extract	/ɪkˈstrækt/	v. 提取，抽出 n. 摘录	We extract the metrics nightly.	我们每晚抽取指标。	extract data from｜extract information	ex=出 + tract=拉 · extraction n. 提取
-retract	/rɪˈtrækt/	v. 收回（言论）；缩回	They retracted the statement the next day.	他们第二天就收回了那份声明。	retract a claim｜retract a statement	re=回 + tract=拉 · retraction n. 撤回
-describe	/dɪˈskraɪb/	v. 描述，描写	Can you describe what you saw?	你能描述一下你看到的吗？	describe sth as｜hard to describe	scrib=写 · description n. 描述 · descriptive adj. 描述性的
-prescribe	/prɪˈskraɪb/	v. 规定；开（处方）	The policy prescribes a two-person review.	规定要求两人评审。	prescribe a rule｜prescribe medication	pre=前 + scrib=写 · prescription n. 处方；规定
-subscribe	/səbˈskraɪb/	v. 订阅；认购；赞同	Subscribe to the channel for updates.	订阅这个频道获取更新。	subscribe to｜subscribe for	sub=下 + scrib=写 · subscription n. 订阅 · subscriber n. 订阅者
-transcribe	/trænˈskraɪb/	v. 转写，誊写；转录	We transcribe every user interview.	每次用户访谈我们都会转成文字。	transcribe an interview｜transcribe notes	trans=跨 + scrib=写 · transcript n. 文字记录
-avert	/əˈvɜːrt/	v. 避免，防止；转移（目光）	We averted a much bigger outage.	我们避免了一次更大的故障。	avert a crisis｜avert disaster	a=离 + vert=转
-divert	/daɪˈvɜːrt/	v. 转移，分流；使转向	We diverted traffic to the backup.	我们把流量切到了备用。	divert traffic｜divert attention	di=分开 + vert=转 · diversion n. 转移
-revert	/rɪˈvɜːrt/	v. 恢复原状；回复	Let's revert to the previous version.	我们回退到上一个版本。	revert to｜revert changes	re=回 + vert=转 · reversion n. 回复
-reverse	/rɪˈvɜːrs/	v. 逆转；撤销 adj. 相反的 n. 反面	We had to reverse the migration.	我们不得不回滚迁移。	in reverse｜reverse a decision	re=回 + vers=转 · reversal n. 逆转 · reversible adj. 可逆的
-converse	/kənˈvɜːrs/	v. 交谈 n. 相反的事物 adj. 相反的	The converse is also true.	反过来也成立。	the converse of｜converse with	con=一起 + vers=转 · conversely adv. 反过来
-contain	/kənˈteɪn/	v. 包含；控制住	The file contains sensitive keys.	这个文件里有敏感密钥。	contain information｜contain a leak	con=一起 + tain=持 · container n. 容器 · containment n. 遏制
-detain	/dɪˈteɪn/	v. 拘留；耽搁	Sorry to detain you, one last question.	抱歉耽误你，最后一个问题。	detain sb｜be detained	de=离 + tain=持 · detention n. 拘留
-tenure	/ˈtenjər/	n. 任期；终身职位	During her tenure the team doubled.	她任内团队规模翻了倍。	during one's tenure｜tenure track	ten=持
-tenant	/ˈtenənt/	n. 租户，承租人	Each tenant gets an isolated database.	每个租户有独立的数据库。	a tenant of｜multi-tenant	ten=持 · tenancy n. 租期
-contradict	/ˌkɑːntrəˈdɪkt/	v. 与……矛盾；反驳	These two reports contradict each other.	这两份报告互相矛盾。	contradict each other｜contradict a claim	contra=反 + dict=说 · contradiction n. 矛盾
-dictate	/ˈdɪkteɪt/	v. 决定，支配；口述	The budget dictates the scope.	预算决定了范围。	dictate terms｜dictate that	dict=说 · dictation n. 口述
-predict	/prɪˈdɪkt/	v. 预测，预言	It's hard to predict the load.	负载很难预测。	predict that｜hard to predict	pre=前 + dict=说 · prediction n. 预测 · predictable adj. 可预测的
-verdict	/ˈvɜːrdɪkt/	n. 裁决；结论，看法	What's your verdict on the new tool?	新工具你的结论是什么？	reach a verdict｜the verdict is	ver=真 + dict=说
-compress	/kəmˈpres/	v. 压缩	We compress the payload before sending.	我们发送前先压缩数据。	compress a file｜compress data	com=一起 + press=压 · compression n. 压缩
-express	/ɪkˈspres/	v. 表达 adj. 快递的；明确的 n. 快车	Let me express this differently.	我换个说法。	express an opinion｜express concern	ex=出 + press=压 · expression n. 表达 · expressive adj. 富有表现力的
-suppress	/səˈpres/	v. 抑制；压制；屏蔽	We suppress duplicate alerts.	我们把重复告警屏蔽掉。	suppress a warning｜suppress emotion	sup=下 + press=压 · suppression n. 抑制
-impress	/ɪmˈpres/	v. 使印象深刻；使铭记	The demo impressed everyone.	演示让所有人印象深刻。	impress sb with｜impress upon sb	im=进 + press=压 · impression n. 印象 · impressive adj. 令人印象深刻的
-evoke	/ɪˈvoʊk/	v. 唤起，引起（回忆、感觉）	The old design evokes a lot of nostalgia.	老设计勾起很多怀旧感。	evoke a memory｜evoke a response	e=出 + vok=叫 · evocative adj. 唤起回忆的
-invoke	/ɪnˈvoʊk/	v. 调用；援引；唤起	The handler is invoked on every request.	每次请求都会调用这个处理函数。	invoke a function｜invoke a rule	in=进 + vok=叫 · invocation n. 调用
-provoke	/prəˈvoʊk/	v. 激起；激怒	The wording provoked a strong reaction.	那个措辞引起了强烈反应。	provoke a reaction｜provoke anger	pro=向前 + vok=叫 · provocative adj. 挑衅的
-vocation	/voʊˈkeɪʃn/	n. 职业；使命感	Teaching is a vocation for her.	对她来说教书是一种使命。	a sense of vocation｜by vocation	voc=叫 · vocational adj. 职业的
-progress	/ˈprɑːɡres/	n. 进展 v. 前进，进步	We made good progress this week.	这周进展不错。	make progress｜in progress	pro=向前 + gress=走 · progressive adj. 渐进的
-regress	/rɪˈɡres/	v. 倒退，退步 n. 倒退	Quality regressed after the refactor.	重构之后质量倒退了。	regress to｜a regression test	re=回 + gress=走 · regression n. 倒退；回归
-digress	/daɪˈɡres/	v. 离题，跑题	Sorry, I digress — back to the point.	抱歉跑题了，回到正题。	digress from｜if I may digress	di=离 + gress=走 · digression n. 离题
-aggressive	/əˈɡresɪv/	adj. 激进的；有进取心的；好斗的	That's an aggressive timeline.	这个时间表挺激进的。	an aggressive target｜aggressive growth	ag=向 + gress=走 · aggressively adv. 激进地
-fluent	/ˈfluːənt/	adj. 流利的；流畅的	She's fluent in three languages.	她三门语言都很流利。	fluent in｜fluent speech	flu=流 · fluency n. 流利
-fluctuate	/ˈflʌktʃueɪt/	v. 波动，起伏	Response times fluctuate a lot.	响应时间波动很大。	fluctuate between｜fluctuate wildly	flu=流 · fluctuation n. 波动
-influence	/ˈɪnfluəns/	n. 影响（力） v. 影响	Her opinion carries a lot of influence.	她的意见很有影响力。	have influence on｜under the influence	in=进 + flu=流 · influential adj. 有影响力的
-affluent	/ˈæfluənt/	adj. 富裕的	It targets a more affluent segment.	它面向更富裕的人群。	an affluent area｜affluent customers	af=向 + flu=流 · affluence n. 富裕
-superfluous	/suːˈpɜːrfluəs/	adj. 多余的，不必要的	Half these comments are superfluous.	这些注释一半是多余的。	superfluous detail｜render sth superfluous	super=超过 + flu=流
-capture	/ˈkæptʃər/	v. 捕捉；采集；夺取 n. 捕获	We capture every error with a stack trace.	我们把每个错误连堆栈一起记录。	capture data｜capture attention	cap=拿 · captive adj. 被俘的
-participate	/pɑːrˈtɪsɪpeɪt/	v. 参与，参加	Only three people participated.	只有三个人参与。	participate in｜actively participate	part=部分 + cip=拿 · participant n. 参与者 · participation n. 参与
-recipient	/rɪˈsɪpiənt/	n. 接收者，受领人	The recipient never got the email.	收件人根本没收到邮件。	the recipient of｜intended recipient	re=回 + cip=拿
-susceptible	/səˈseptəbl/	adj. 易受影响的，易感的	Older devices are susceptible to this bug.	老设备容易触发这个问题。	susceptible to｜highly susceptible	sus=下 + cep=拿 · susceptibility n. 易感性
-complete	/kəmˈpliːt/	adj. 完整的 v. 完成	The migration is complete.	迁移完成了。	complete a task｜a complete list	ple=满 · completion n. 完成 · completely adv. 完全地
-deplete	/dɪˈpliːt/	v. 耗尽，大量减少	The retry storm depleted the pool.	重试风暴把连接池耗尽了。	deplete resources｜severely depleted	de=去 + plet=满 · depletion n. 耗尽
-supplement	/ˈsʌplɪment/	n. 补充（物） v. 补充	We supplement the logs with metrics.	我们用指标补充日志。	supplement sth with｜a dietary supplement	sup=下 + ple=满 · supplementary adj. 补充的
-implement	/ˈɪmplɪment/	v. 实施，执行；实现 n. 工具	We implemented it in two days.	我们两天就实现了。	implement a plan｜implement a feature	ple=满 · implementation n. 实现
-insist	/ɪnˈsɪst/	v. 坚持，坚决要求	She insisted on a written agreement.	她坚持要书面协议。	insist on｜insist that	in=上 + sist=站 · insistence n. 坚持 · insistent adj. 坚持的
-resist	/rɪˈzɪst/	v. 抵抗，抗拒；耐得住	It's hard to resist adding one more feature.	很难忍住不再加一个功能。	resist the temptation｜resist change	re=回 + sist=站 · resistance n. 阻力 · resistant adj. 有抵抗力的
-assist	/əˈsɪst/	v. 协助，帮助 n. 助攻	Can you assist with the migration?	迁移你能帮忙吗？	assist sb with｜assist in doing	as=向 + sist=站 · assistance n. 协助 · assistant n. 助理
-compel	/kəmˈpel/	v. 迫使；强求	Nothing compels us to ship this week.	没什么逼着我们这周上线。	compel sb to do｜feel compelled to	com=一起 + pel=推 · compulsory adj. 强制的
-expel	/ɪkˈspel/	v. 驱逐；开除	The node was expelled from the cluster.	那个节点被踢出集群了。	expel sb from｜be expelled	ex=出 + pel=推 · expulsion n. 驱逐
-propel	/prəˈpel/	v. 推动，推进	Word of mouth propelled the growth.	口碑推动了增长。	propel sth forward｜propel growth	pro=向前 + pel=推 · propulsion n. 推进
-impulse	/ˈɪmpʌls/	n. 冲动；脉冲	Resist the impulse to rewrite it.	忍住重写它的冲动。	on impulse｜an impulse buy	im=进 + puls=推 · impulsive adj. 冲动的
-acclaim	/əˈkleɪm/	n. 称赞，好评 v. 称赞	The release got a lot of acclaim.	这次发布收获了不少好评。	critical acclaim｜widely acclaimed	claim=喊 · acclaimed adj. 备受赞誉的
-proclaim	/prəˈkleɪm/	v. 宣告，声明；表明	The banner proclaims it is the fastest.	横幅上声称它是最快的。	proclaim that｜proclaim independence	pro=向前 + claim=喊 · proclamation n. 公告
-disclaim	/dɪsˈkleɪm/	v. 否认；放弃（权利）	They disclaim any responsibility for data loss.	他们对数据丢失不承担任何责任。	disclaim responsibility｜a disclaimer	dis=否定 + claim=喊 · disclaimer n. 免责声明
-provide	/prəˈvaɪd/	v. 提供；规定	We provide a sandbox for testing.	我们提供一个测试沙箱。	provide sb with｜provide for	pro=向前 + vid=看 · provider n. 提供方 · provision n. 提供；条款
-revise	/rɪˈvaɪz/	v. 修订，修改；复习	We revised the estimate upward.	我们把估算往上调了。	revise a document｜revise upward	re=再 + vis=看 · revision n. 修订
-supervise	/ˈsuːpərvaɪz/	v. 监督，指导	Who supervises the interns?	实习生谁带？	supervise a team｜closely supervise	super=上 + vis=看 · supervisor n. 主管 · supervision n. 监督
-visible	/ˈvɪzəbl/	adj. 可见的；明显的	The error isn't visible in production.	这个错误在生产环境看不到。	clearly visible｜visible to	vis=看 · visibility n. 可见性；能见度
-construct	/kənˈstrʌkt/	v. 构建，建造 n. 构念	We constructed a minimal test case.	我们构造了一个最小复现用例。	construct an argument｜construct a model	struct=建 · construction n. 建造 · constructive adj. 建设性的
-instruct	/ɪnˈstrʌkt/	v. 指示，吩咐；教导	The docs instruct you to run it twice.	文档要求你运行两次。	instruct sb to do｜instruct sb in	in=进 + struct=建 · instruction n. 指令 · instructor n. 讲师
-obstruct	/əbˈstrʌkt/	v. 阻碍，妨碍	A long approval chain obstructs everything.	冗长的审批链把什么都卡住了。	obstruct progress｜obstruct a view	ob=反 + struct=建 · obstruction n. 阻碍
-extend	/ɪkˈstend/	v. 延长；扩展；给予	Can we extend the deadline by a week?	截止时间能延一周吗？	extend a deadline｜extend an invitation	ex=出 + tend=伸 · extension n. 延期；扩展 · extensive adj. 广泛的
-intend	/ɪnˈtend/	v. 打算，意图	I intend to finish it today.	我打算今天做完。	intend to do｜be intended for	in=向 + tend=伸 · intention n. 意图 · intentional adj. 故意的
-contend	/kənˈtend/	v. 主张；争辩；应对	He contends that the data is flawed.	他主张这些数据有问题。	contend that｜contend with	con=一起 + tend=伸 · contention n. 争论；论点
+inspect	/ɪnˈspekt/	v. 检查，视察	inspect for defects｜inspect a site	spect=看 · inspection n. 检查 · inspector n. 检查员	They inspect every batch before shipping.	他们发货前检查每一批。	An officer inspected our passports.	一名警员检查了我们的护照。	Inspect the seal before you open it.	打开前先检查密封条。
+speculate	/ˈspekjuleɪt/	v. 推测，猜测；投机	speculate about｜speculate on	spect=看 · speculation n. 推测 · speculative adj. 推测的	I'd rather not speculate without data.	没有数据我不想乱猜。	Analysts speculate about a merger.	分析师猜测会有并购。	He made money speculating in property.	他靠炒房赚了钱。
+conspicuous	/kənˈspɪkjuəs/	adj. 显眼的，引人注目的	conspicuous by its absence｜conspicuously placed	spec=看 · conspicuously adv. 显眼地	The warning should be conspicuous.	警告应该放得显眼。	He felt conspicuous in the suit.	穿着西装他觉得很扎眼。	Her absence was conspicuous.	她的缺席很显眼。
+specimen	/ˈspesɪmən/	n. 样本，标本	a specimen of｜collect specimens	spec=看	We only had one specimen to test.	我们只有一个样本可测。	The museum has a rare specimen.	博物馆有一件稀有标本。	Send a urine specimen to the lab.	把尿样送去化验。
+retrospect	/ˈretrəspekt/	n. 回顾，回想	in retrospect｜retrospect on	retro=向后 + spect=看 · retrospective adj. 回顾的	In retrospect, we shipped too early.	现在回头看，我们上得太早了。	In retrospect it was obvious.	现在回头看很明显。	They held a retrospective of her work.	他们办了她的作品回顾展。
+export	/ˈekspɔːrt/	v. 导出；出口 n. 出口（商品）	export data｜export to	port=搬运 · exporter n. 出口商	You can export the report as CSV.	你可以把报告导出成 CSV。	Coffee is their main export.	咖啡是他们的主要出口品。	Export the data as CSV.	把数据导出成 CSV。
+import	/ɪmˈpɔːrt/	v. 导入；进口 n. 进口	import from｜import data	port=搬运 · importer n. 进口商	We import the config at startup.	我们在启动时导入配置。	The import duty is high.	进口关税很高。	This is of little import.	这没什么重要性。
+portable	/ˈpɔːrtəbl/	adj. 便携的；可移植的	a portable device｜portable code	port=搬运 · portability n. 可移植性	The format is portable across systems.	这个格式跨系统可移植。	A portable heater would help.	弄个便携取暖器会好些。	The skill is portable across jobs.	这项技能换工作也用得上。
+transport	/ˈtrænspɔːrt/	v. 运输 n. 交通运输	public transport｜transport goods	trans=跨 + port=搬运 · transportation n. 运输	The data is transported over TLS.	数据通过 TLS 传输。	Public transport is cheap here.	这里公共交通很便宜。	The goods were transported by rail.	货物是铁路运输的。
+rapport	/ræˈpɔːr/	n. 融洽的关系	build rapport｜have rapport with	port=搬运	She built a good rapport with the client.	她和客户建立了很好的关系。	They have a natural rapport.	他们很投缘。	It takes time to build rapport.	建立默契需要时间。
+deduce	/dɪˈduːs/	v. 推断，演绎	deduce from｜deduce that	duc=引导 · deduction n. 推断；扣除	What can we deduce from the logs?	从日志能推断出什么？	Holmes deduced it from the mud.	福尔摩斯从泥点推断出来的。	Tax is deducted at source.	税款直接从源头扣除。
+produce	/prəˈduːs/	v. 生产；produced 产生；出示 n. 农产品	produce results｜produce evidence	duc=引导 · product n. 产品 · production n. 生产	The query produces duplicate rows.	这个查询会产生重复行。	The farm produces organic vegetables.	这个农场种有机蔬菜。	Please produce your ticket.	请出示车票。
+reduce	/rɪˈduːs/	v. 减少，降低；简化	reduce costs｜reduce sth to	duc=引导 · reduction n. 减少	We reduced the build time by half.	我们把构建时间减了一半。	Reduce the heat and simmer.	把火调小慢炖。	Prices were reduced by half.	价格降了一半。
+conducive	/kənˈduːsɪv/	adj. 有助于……的	conducive to｜be conducive to	duc=引导	Open offices aren't conducive to focus.	开放式办公不利于专注。	The setting isn't conducive to study.	这个环境不适合学习。	Silence is conducive to sleep.	安静有助于入睡。
+inject	/ɪnˈdʒekt/	v. 注入；插入	inject into｜inject funds	ject=投 · injection n. 注入	Don't inject config at runtime.	别在运行时注入配置。	The nurse injected the vaccine.	护士注射了疫苗。	She injected some humor into it.	她加了点幽默进去。
+project	/prəˈdʒekt/	v. 预计；投射 n. 项目	project growth｜a pet project	pro=向前 + ject=投 · projection n. 预测；投影	We project a 10% increase.	我们预计增长一成。	Project the slides on the wall.	把幻灯片投到墙上。	He projects confidence.	他给人一种自信的感觉。
+reject	/rɪˈdʒekt/	v. 拒绝；驳回 n. 次品	reject a proposal｜be rejected	re=回 + ject=投 · rejection n. 拒绝	The server rejected the request.	服务器拒绝了这个请求。	My application was rejected.	我的申请被拒了。	The body rejected the transplant.	身体对移植产生了排斥。
+subject	/ˈsʌbdʒɪkt/	n. 主题；科目 adj. 易受……影响的 v. 使遭受	be subject to｜subject sb to	sub=下 + ject=投 · subjective adj. 主观的	The price is subject to change.	价格可能变动。	What subject did you major in?	你主修什么专业？	They were subjected to long delays.	他们遭遇了长时间延误。
+trajectory	/trəˈdʒektəri/	n. 轨迹，发展轨线	a growth trajectory｜on a trajectory	tra=横越 + ject=投	The growth trajectory looks healthy.	增长轨迹看起来健康。	The ball's trajectory was perfect.	球的弧线很完美。	Her career took a different trajectory.	她的职业走上了另一条轨迹。
+admit	/ədˈmɪt/	v. 承认；准许进入	admit that｜admit to doing	mit=送 · admission n. 承认；准入	He admitted he hadn't tested it.	他承认没测过。	The ticket admits two people.	这张票可进两人。	He was admitted to hospital.	他住院了。
+emit	/ɪˈmɪt/	v. 发出，散发（光、声、信号）	emit a signal｜emit light	e=出 + mit=送 · emission n. 排放	The service emits an event on every write.	每次写入服务都会发出一个事件。	The device emits a faint hum.	这设备发出轻微的嗡嗡声。	Factories emit less than before.	工厂的排放比以前少了。
+omit	/oʊˈmɪt/	v. 遗漏，省略	omit to do｜be omitted from	o=去 + mit=送 · omission n. 遗漏	You omitted the version number.	你漏了版本号。	Don't omit the unit.	别漏掉单位。	Her name was omitted by mistake.	她的名字被误漏了。
+permit	/pərˈmɪt/	v. 允许 n. 许可证	permit sb to do｜a work permit	per=通过 + mit=送 · permission n. 许可	Time permitting, we'll also do the docs.	时间允许的话文档也一起做。	You need a parking permit.	你需要一张停车证。	Weather permitting, we'll go.	天气允许的话我们就去。
+transmit	/trænzˈmɪt/	v. 传输，传送；传播	transmit data｜transmit a disease	trans=跨 + mit=送 · transmission n. 传输	The signal is transmitted every second.	信号每秒传输一次。	The disease transmits through air.	这种病经空气传播。	Values are transmitted at home.	价值观是在家里传下来的。
+concede	/kənˈsiːd/	v. 承认（不情愿）；让步	concede a point｜concede defeat	cede=走 · concession n. 让步	I'll concede that the old way was simpler.	我承认老办法更简单。	He conceded the election.	他承认败选。	They conceded a goal late on.	他们终场前丢了一球。
+recede	/rɪˈsiːd/	v. 后退，消退	recede into｜gradually recede	re=回 + cede=走 · recession n. 衰退	The risk receded after the patch.	打了补丁之后风险就消退了。	The floodwater slowly receded.	洪水慢慢退了。	His hairline is receding.	他发际线在后移。
+process	/ˈprɑːses/	n. 流程，过程 v. 处理，加工	in the process of｜process data	pro=向前 + cess=走 · processing n. 处理	The whole process takes three days.	整个流程要三天。	Your refund is being processed.	你的退款正在处理。	Give yourself time to process it.	给自己时间消化。
+predecessor	/ˈpredəsesər/	n. 前任；前身	its predecessor｜my predecessor	pre=前 + cess=走	This replaces its predecessor entirely.	这个完全取代了上一代。	My predecessor left good notes.	我的前任留了不错的记录。	It's faster than its predecessor.	它比上一代更快。
+confer	/kənˈfɜːr/	v. 商议；授予	confer with｜confer a title	fer=带 · conference n. 会议	Let me confer with the team first.	我先和团队商量一下。	The degree was conferred in June.	学位是六月授予的。	They conferred briefly in the corner.	他们在角落里简短商量了一下。
+prefer	/prɪˈfɜːr/	v. 更喜欢，宁愿	prefer A to B｜prefer to do	pre=前 + fer=带 · preference n. 偏好 · preferable adj. 更可取的	I'd prefer to do it in two steps.	我更想分两步做。	I prefer tea to coffee.	比起咖啡我更喜欢茶。	Payment by transfer is preferred.	优先选择转账付款。
+transfer	/trænsˈfɜːr/	v. 转移；调动 n. 转账；转让	transfer to｜transfer ownership	trans=跨 + fer=带 · transferable adj. 可转让的	We transferred ownership to her team.	我们把所有权转给了她的团队。	She transferred to another school.	她转学了。	The file transfer failed.	文件传输失败了。
+oppose	/əˈpoʊz/	v. 反对，抵制	oppose a plan｜be opposed to	op=反 + pos=放 · opposition n. 反对 · opposite adj. 相反的	Nobody opposed the change.	没人反对这个改动。	Local residents opposed the plan.	当地居民反对这个方案。	As opposed to what, exactly?	具体是跟什么相比？
+postpone	/poʊˈspoʊn/	v. 推迟，延期	postpone until｜postpone a decision	post=后 + pon=放 · postponement n. 延期	They postponed the review to Monday.	他们把评审推到了周一。	The match was postponed twice.	比赛推迟了两次。	Don't postpone the hard part.	难的部分别拖。
+dispose	/dɪˈspoʊz/	v. 处理，处置；使倾向	dispose of｜be disposed to	dis=分开 + pos=放 · disposal n. 处置 · disposable adj. 一次性的	How do we dispose of the old records?	旧记录我们怎么处理？	Dispose of batteries properly.	电池要妥善处理。	Everything is at your disposal.	一切任你使用。
+propose	/prəˈpoʊz/	v. 提议，建议；求婚	propose that｜propose a solution	pro=向前 + pos=放 · proposal n. 提案 · proposition n. 主张	I propose we split it into two tickets.	我提议拆成两个工单。	He proposed on the beach.	他在海滩上求婚了。	I propose a different approach.	我提议换个做法。
+abstract	/ˈæbstrækt/	adj. 抽象的 n. 摘要 v. 提取	an abstract concept｜in the abstract	abs=离开 + tract=拉 · abstraction n. 抽象	That's too abstract to act on.	太抽象了，没法落地。	Read the abstract first.	先看摘要。	Abstract the common logic into one function.	把公共逻辑抽成一个函数。
+attract	/əˈtrækt/	v. 吸引	attract attention｜attract customers	at=向 + tract=拉 · attraction n. 吸引力 · attractive adj. 有吸引力的	The pricing page attracts the most traffic.	定价页流量最大。	Honey attracts flies.	蜂蜜招苍蝇。	The role attracted 300 applicants.	这个职位吸引了三百人投递。
+contract	/ˈkɑːntrækt/	n. 合同 v. 收缩；签约；感染	sign a contract｜contract with	con=一起 + tract=拉 · contractor n. 承包方 · contractual adj. 合同的	Read the contract before signing.	签之前先读合同。	Metal contracts in the cold.	金属遇冷收缩。	He contracted a fever abroad.	他在国外染上了发热。
+extract	/ɪkˈstrækt/	v. 提取，抽出 n. 摘录	extract data from｜extract information	ex=出 + tract=拉 · extraction n. 提取	We extract the metrics nightly.	我们每晚抽取指标。	The dentist extracted the tooth.	牙医把牙拔了。	Here's an extract from her speech.	这是她发言的一段摘录。
+retract	/rɪˈtrækt/	v. 收回（言论）；缩回	retract a claim｜retract a statement	re=回 + tract=拉 · retraction n. 撤回	They retracted the statement the next day.	他们第二天就收回了那份声明。	The wheels retract after takeoff.	起飞后起落架收起。	The paper was retracted.	那篇论文被撤稿了。
+describe	/dɪˈskraɪb/	v. 描述，描写	describe sth as｜hard to describe	scrib=写 · description n. 描述 · descriptive adj. 描述性的	Can you describe what you saw?	你能描述一下你看到的吗？	Describe it in one sentence.	用一句话描述它。	The curve describes a perfect arc.	这条曲线画出一道完美的弧。
+prescribe	/prɪˈskraɪb/	v. 规定；开（处方）	prescribe a rule｜prescribe medication	pre=前 + scrib=写 · prescription n. 处方；规定	The policy prescribes a two-person review.	规定要求两人评审。	The doctor prescribed rest.	医生嘱咐休息。	The law prescribes a fine.	法律规定要罚款。
+subscribe	/səbˈskraɪb/	v. 订阅；认购；赞同	subscribe to｜subscribe for	sub=下 + scrib=写 · subscription n. 订阅 · subscriber n. 订阅者	Subscribe to the channel for updates.	订阅这个频道获取更新。	I subscribe to two newspapers.	我订了两份报纸。	I don't subscribe to that view.	我不认同那种看法。
+transcribe	/trænˈskraɪb/	v. 转写，誊写；转录	transcribe an interview｜transcribe notes	trans=跨 + scrib=写 · transcript n. 文字记录	We transcribe every user interview.	每次用户访谈我们都会转成文字。	She transcribed the recording.	她把录音转成了文字。	The piece was transcribed for piano.	这首曲子被改编成钢琴版。
+avert	/əˈvɜːrt/	v. 避免，防止；转移（目光）	avert a crisis｜avert disaster	a=离 + vert=转	We averted a much bigger outage.	我们避免了一次更大的故障。	She averted her eyes.	她把目光移开了。	Quick action averted a disaster.	及时行动避免了一场灾难。
+divert	/daɪˈvɜːrt/	v. 转移，分流；使转向	divert traffic｜divert attention	di=分开 + vert=转 · diversion n. 转移	We diverted traffic to the backup.	我们把流量切到了备用。	Traffic was diverted around the site.	车流被绕开了工地。	He tried to divert the conversation.	他想把话题岔开。
+revert	/rɪˈvɜːrt/	v. 恢复原状；回复	revert to｜revert changes	re=回 + vert=转 · reversion n. 回复	Let's revert to the previous version.	我们回退到上一个版本。	She reverted to her maiden name.	她改回了娘家姓。	Please revert with your comments.	请回复你的意见。
+reverse	/rɪˈvɜːrs/	v. 逆转；撤销 adj. 相反的 n. 反面	in reverse｜reverse a decision	re=回 + vers=转 · reversal n. 逆转 · reversible adj. 可逆的	We had to reverse the migration.	我们不得不回滚迁移。	He reversed into the parking space.	他倒车进了车位。	The trend reversed sharply.	趋势急剧逆转。
+converse	/kənˈvɜːrs/	v. 交谈 n. 相反的事物 adj. 相反的	the converse of｜converse with	con=一起 + vers=转 · conversely adv. 反过来	The converse is also true.	反过来也成立。	They conversed in French.	他们用法语交谈。	Conversely, smaller teams ship faster.	反过来说，小团队出活更快。
+contain	/kənˈteɪn/	v. 包含；控制住	contain information｜contain a leak	con=一起 + tain=持 · container n. 容器 · containment n. 遏制	The file contains sensitive keys.	这个文件里有敏感密钥。	This product contains nuts.	本产品含坚果。	She could barely contain her excitement.	她激动得快按捺不住。
+detain	/dɪˈteɪn/	v. 拘留；耽搁	detain sb｜be detained	de=离 + tain=持 · detention n. 拘留	Sorry to detain you, one last question.	抱歉耽误你，最后一个问题。	Two people were detained overnight.	两人被拘留了一晚。	I won't detain you any longer.	我不再耽误你了。
+tenure	/ˈtenjər/	n. 任期；终身职位	during one's tenure｜tenure track	ten=持	During her tenure the team doubled.	她任内团队规模翻了倍。	He was granted tenure last year.	他去年拿到了终身教职。	Her tenure was short but eventful.	她任期不长但事情不少。
+tenant	/ˈtenənt/	n. 租户，承租人	a tenant of｜multi-tenant	ten=持 · tenancy n. 租期	Each tenant gets an isolated database.	每个租户有独立的数据库。	The tenant moved out in May.	租客五月搬走了。	Tenants pay their own utilities.	租客自付水电。
+contradict	/ˌkɑːntrəˈdɪkt/	v. 与……矛盾；反驳	contradict each other｜contradict a claim	contra=反 + dict=说 · contradiction n. 矛盾	These two reports contradict each other.	这两份报告互相矛盾。	Don't contradict yourself.	别自相矛盾。	The witness contradicted himself.	证人前后矛盾。
+dictate	/ˈdɪkteɪt/	v. 决定，支配；口述	dictate terms｜dictate that	dict=说 · dictation n. 口述	The budget dictates the scope.	预算决定了范围。	She dictated the letter to her assistant.	她把信口述给助理。	I won't be dictated to.	我不会被人指使。
+predict	/prɪˈdɪkt/	v. 预测，预言	predict that｜hard to predict	pre=前 + dict=说 · prediction n. 预测 · predictable adj. 可预测的	It's hard to predict the load.	负载很难预测。	Nobody predicted this result.	没人预料到这个结果。	The model predicts a slowdown.	模型预测会放缓。
+verdict	/ˈvɜːrdɪkt/	n. 裁决；结论，看法	reach a verdict｜the verdict is	ver=真 + dict=说	What's your verdict on the new tool?	新工具你的结论是什么？	The jury returned a verdict.	陪审团作出了裁决。	What's your verdict on the food?	这吃的你觉得怎么样？
+compress	/kəmˈpres/	v. 压缩	compress a file｜compress data	com=一起 + press=压 · compression n. 压缩	We compress the payload before sending.	我们发送前先压缩数据。	Compress the file before sending.	发之前先压缩文件。	The timeline was compressed to six weeks.	时间被压缩到了六周。
+express	/ɪkˈspres/	v. 表达 adj. 快递的；明确的 n. 快车	express an opinion｜express concern	ex=出 + press=压 · expression n. 表达 · expressive adj. 富有表现力的	Let me express this differently.	我换个说法。	Take the express train.	坐特快列车。	She expressed her thanks in a note.	她写了张便条表示感谢。
+suppress	/səˈpres/	v. 抑制；压制；屏蔽	suppress a warning｜suppress emotion	sup=下 + press=压 · suppression n. 抑制	We suppress duplicate alerts.	我们把重复告警屏蔽掉。	He suppressed a yawn.	他忍住了一个哈欠。	The report was suppressed for months.	那份报告被压了好几个月。
+impress	/ɪmˈpres/	v. 使印象深刻；使铭记	impress sb with｜impress upon sb	im=进 + press=压 · impression n. 印象 · impressive adj. 令人印象深刻的	The demo impressed everyone.	演示让所有人印象深刻。	I was impressed by her answer.	她的回答让我印象深刻。	He impressed the importance on us.	他向我们反复强调了重要性。
+evoke	/ɪˈvoʊk/	v. 唤起，引起（回忆、感觉）	evoke a memory｜evoke a response	e=出 + vok=叫 · evocative adj. 唤起回忆的	The old design evokes a lot of nostalgia.	老设计勾起很多怀旧感。	The smell evokes my childhood.	那味道让我想起童年。	The photo evoked strong reactions.	那张照片引发了强烈反应。
+invoke	/ɪnˈvoʊk/	v. 调用；援引；唤起	invoke a function｜invoke a rule	in=进 + vok=叫 · invocation n. 调用	The handler is invoked on every request.	每次请求都会调用这个处理函数。	She invoked her right to silence.	她援引了沉默权。	The callback is invoked once.	回调只会被调用一次。
+provoke	/prəˈvoʊk/	v. 激起；激怒	provoke a reaction｜provoke anger	pro=向前 + vok=叫 · provocative adj. 挑衅的	The wording provoked a strong reaction.	那个措辞引起了强烈反应。	Don't provoke the dog.	别逗那条狗。	The remark provoked laughter.	那句话引来了笑声。
+vocation	/voʊˈkeɪʃn/	n. 职业；使命感	a sense of vocation｜by vocation	voc=叫 · vocational adj. 职业的	Teaching is a vocation for her.	对她来说教书是一种使命。	Nursing is a vocation for her.	护理对她来说是一份使命。	He took vocational training.	他接受了职业培训。
+progress	/ˈprɑːɡres/	n. 进展 v. 前进，进步	make progress｜in progress	pro=向前 + gress=走 · progressive adj. 渐进的	We made good progress this week.	这周进展不错。	Progress has been slow but steady.	进展缓慢但稳定。	The talks are still in progress.	会谈仍在进行中。
+regress	/rɪˈɡres/	v. 倒退，退步 n. 倒退	regress to｜a regression test	re=回 + gress=走 · regression n. 倒退；回归	Quality regressed after the refactor.	重构之后质量倒退了。	His symptoms regressed after a week.	一周后他的症状减轻了。	We ran a regression test.	我们跑了回归测试。
+digress	/daɪˈɡres/	v. 离题，跑题	digress from｜if I may digress	di=离 + gress=走 · digression n. 离题	Sorry, I digress — back to the point.	抱歉跑题了，回到正题。	Sorry to digress, but this matters.	抱歉跑个题，但这很重要。	He digressed for ten minutes.	他离题说了十分钟。
+aggressive	/əˈɡresɪv/	adj. 激进的；有进取心的；好斗的	an aggressive target｜aggressive growth	ag=向 + gress=走 · aggressively adv. 激进地	That's an aggressive timeline.	这个时间表挺激进的。	He's too aggressive in meetings.	他开会时太咄咄逼人。	They set aggressive growth targets.	他们定了激进的增长目标。
+fluent	/ˈfluːənt/	adj. 流利的；流畅的	fluent in｜fluent speech	flu=流 · fluency n. 流利	She's fluent in three languages.	她三门语言都很流利。	Her Japanese is fluent.	她日语很流利。	The animation is smooth and fluent.	动画流畅自然。
+fluctuate	/ˈflʌktʃueɪt/	v. 波动，起伏	fluctuate between｜fluctuate wildly	flu=流 · fluctuation n. 波动	Response times fluctuate a lot.	响应时间波动很大。	Her weight fluctuates a lot.	她体重波动很大。	Demand fluctuates seasonally.	需求随季节波动。
+influence	/ˈɪnfluəns/	n. 影响（力） v. 影响	have influence on｜under the influence	in=进 + flu=流 · influential adj. 有影响力的	Her opinion carries a lot of influence.	她的意见很有影响力。	She influenced my career a lot.	她对我的职业影响很大。	He was driving under the influence.	他酒驾。
+affluent	/ˈæfluənt/	adj. 富裕的	an affluent area｜affluent customers	af=向 + flu=流 · affluence n. 富裕	It targets a more affluent segment.	它面向更富裕的人群。	They live in an affluent suburb.	他们住在富裕的郊区。	Affluence brings its own problems.	富裕也带来它自己的问题。
+superfluous	/suːˈpɜːrfluəs/	adj. 多余的，不必要的	superfluous detail｜render sth superfluous	super=超过 + flu=流	Half these comments are superfluous.	这些注释一半是多余的。	The last paragraph is superfluous.	最后一段是多余的。	Cut anything superfluous.	多余的都删掉。
+capture	/ˈkæptʃər/	v. 捕捉；采集；夺取 n. 捕获	capture data｜capture attention	cap=拿 · captive adj. 被俘的	We capture every error with a stack trace.	我们把每个错误连堆栈一起记录。	The photo captured the moment.	那张照片抓住了那个瞬间。	They captured 30% of the market.	他们拿下了三成市场。
+participate	/pɑːrˈtɪsɪpeɪt/	v. 参与，参加	participate in｜actively participate	part=部分 + cip=拿 · participant n. 参与者 · participation n. 参与	Only three people participated.	只有三个人参与。	Everyone is welcome to participate.	欢迎所有人参与。	She participates in two study groups.	她参加了两个学习小组。
+recipient	/rɪˈsɪpiənt/	n. 接收者，受领人	the recipient of｜intended recipient	re=回 + cip=拿	The recipient never got the email.	收件人根本没收到邮件。	She's the recipient of the award.	她是这个奖项的获得者。	Check the recipient list twice.	收件人列表核对两遍。
+susceptible	/səˈseptəbl/	adj. 易受影响的，易感的	susceptible to｜highly susceptible	sus=下 + cep=拿 · susceptibility n. 易感性	Older devices are susceptible to this bug.	老设备容易触发这个问题。	Young plants are susceptible to frost.	幼苗容易受霜冻影响。	He's susceptible to flattery.	他容易被奉承打动。
+complete	/kəmˈpliːt/	adj. 完整的 v. 完成	complete a task｜a complete list	ple=满 · completion n. 完成 · completely adv. 完全地	The migration is complete.	迁移完成了。	Complete the form in full.	把表格填完整。	It was a complete disaster.	那是场彻底的灾难。
+deplete	/dɪˈpliːt/	v. 耗尽，大量减少	deplete resources｜severely depleted	de=去 + plet=满 · depletion n. 耗尽	The retry storm depleted the pool.	重试风暴把连接池耗尽了。	Stocks were depleted by June.	库存到六月就见底了。	Long shifts deplete your focus.	长班会耗光你的专注力。
+supplement	/ˈsʌplɪment/	n. 补充（物） v. 补充	supplement sth with｜a dietary supplement	sup=下 + ple=满 · supplementary adj. 补充的	We supplement the logs with metrics.	我们用指标补充日志。	He supplements his income by teaching.	他靠教书补贴收入。	She takes iron supplements.	她在吃铁补剂。
+implement	/ˈɪmplɪment/	v. 实施，执行；实现 n. 工具	implement a plan｜implement a feature	ple=满 · implementation n. 实现	We implemented it in two days.	我们两天就实现了。	Garden implements are in the shed.	园艺工具在棚里。	The policy was implemented in stages.	政策是分阶段实施的。
+insist	/ɪnˈsɪst/	v. 坚持，坚决要求	insist on｜insist that	in=上 + sist=站 · insistence n. 坚持 · insistent adj. 坚持的	She insisted on a written agreement.	她坚持要书面协议。	If you insist, I'll come.	你非要我去我就去。	He insisted on paying the bill.	他坚持要买单。
+resist	/rɪˈzɪst/	v. 抵抗，抗拒；耐得住	resist the temptation｜resist change	re=回 + sist=站 · resistance n. 阻力 · resistant adj. 有抵抗力的	It's hard to resist adding one more feature.	很难忍住不再加一个功能。	I couldn't resist the cake.	我没忍住那块蛋糕。	The coating resists water.	这层涂料防水。
+assist	/əˈsɪst/	v. 协助，帮助 n. 助攻	assist sb with｜assist in doing	as=向 + sist=站 · assistance n. 协助 · assistant n. 助理	Can you assist with the migration?	迁移你能帮忙吗？	She assisted at the operation.	她在手术中协助。	He got an assist in the final minute.	他在最后一分钟送出助攻。
+compel	/kəmˈpel/	v. 迫使；强求	compel sb to do｜feel compelled to	com=一起 + pel=推 · compulsory adj. 强制的	Nothing compels us to ship this week.	没什么逼着我们这周上线。	Curiosity compelled me to look.	好奇心让我忍不住看了一眼。	Attendance is compulsory.	出勤是强制的。
+expel	/ɪkˈspel/	v. 驱逐；开除	expel sb from｜be expelled	ex=出 + pel=推 · expulsion n. 驱逐	The node was expelled from the cluster.	那个节点被踢出集群了。	He was expelled from school.	他被学校开除了。	The engine expels hot air.	发动机排出热气。
+propel	/prəˈpel/	v. 推动，推进	propel sth forward｜propel growth	pro=向前 + pel=推 · propulsion n. 推进	Word of mouth propelled the growth.	口碑推动了增长。	The boat is propelled by wind.	这船靠风推进。	Ambition propelled her forward.	野心推着她往前。
+impulse	/ˈɪmpʌls/	n. 冲动；脉冲	on impulse｜an impulse buy	im=进 + puls=推 · impulsive adj. 冲动的	Resist the impulse to rewrite it.	忍住重写它的冲动。	I bought it on impulse.	我一冲动就买了。	He's too impulsive with money.	他花钱太冲动。
+acclaim	/əˈkleɪm/	n. 称赞，好评 v. 称赞	critical acclaim｜widely acclaimed	claim=喊 · acclaimed adj. 备受赞誉的	The release got a lot of acclaim.	这次发布收获了不少好评。	The film was acclaimed worldwide.	这部电影在全球广受好评。	She won critical acclaim.	她赢得了评论界的赞誉。
+proclaim	/prəˈkleɪm/	v. 宣告，声明；表明	proclaim that｜proclaim independence	pro=向前 + claim=喊 · proclamation n. 公告	The banner proclaims it is the fastest.	横幅上声称它是最快的。	He proclaimed himself the winner.	他自称是赢家。	The sign proclaims free entry.	牌子上写着免费入场。
+disclaim	/dɪsˈkleɪm/	v. 否认；放弃（权利）	disclaim responsibility｜a disclaimer	dis=否定 + claim=喊 · disclaimer n. 免责声明	They disclaim any responsibility for data loss.	他们对数据丢失不承担任何责任。	The site disclaims all liability.	网站声明不承担任何责任。	Read the disclaimer first.	先读免责声明。
+provide	/prəˈvaɪd/	v. 提供；规定	provide sb with｜provide for	pro=向前 + vid=看 · provider n. 提供方 · provision n. 提供；条款	We provide a sandbox for testing.	我们提供一个测试沙箱。	Lunch will be provided.	午餐会提供。	The contract provides for early exit.	合同规定了提前退出的条款。
+revise	/rɪˈvaɪz/	v. 修订，修改；复习	revise a document｜revise upward	re=再 + vis=看 · revision n. 修订	We revised the estimate upward.	我们把估算往上调了。	I revised the essay three times.	这篇文章我改了三遍。	She's revising for her exams.	她在为考试复习。
+supervise	/ˈsuːpərvaɪz/	v. 监督，指导	supervise a team｜closely supervise	super=上 + vis=看 · supervisor n. 主管 · supervision n. 监督	Who supervises the interns?	实习生谁带？	Children must be supervised.	儿童必须有人看管。	He supervised her PhD.	她的博士是他带的。
+visible	/ˈvɪzəbl/	adj. 可见的；明显的	clearly visible｜visible to	vis=看 · visibility n. 可见性；能见度	The error isn't visible in production.	这个错误在生产环境看不到。	The scar is barely visible.	那道疤几乎看不出来。	Visibility was down to 50 metres.	能见度降到了五十米。
+construct	/kənˈstrʌkt/	v. 构建，建造 n. 构念	construct an argument｜construct a model	struct=建 · construction n. 建造 · constructive adj. 建设性的	We constructed a minimal test case.	我们构造了一个最小复现用例。	The bridge was constructed in 1890.	这座桥建于 1890 年。	Give constructive feedback.	给出建设性的反馈。
+instruct	/ɪnˈstrʌkt/	v. 指示，吩咐；教导	instruct sb to do｜instruct sb in	in=进 + struct=建 · instruction n. 指令 · instructor n. 讲师	The docs instruct you to run it twice.	文档要求你运行两次。	We were instructed to wait.	我们被告知等着。	Follow the instructions carefully.	仔细按说明操作。
+obstruct	/əbˈstrʌkt/	v. 阻碍，妨碍	obstruct progress｜obstruct a view	ob=反 + struct=建 · obstruction n. 阻碍	A long approval chain obstructs everything.	冗长的审批链把什么都卡住了。	Don't obstruct the exit.	别堵住出口。	A branch was obstructing the view.	一根树枝挡住了视线。
+extend	/ɪkˈstend/	v. 延长；扩展；给予	extend a deadline｜extend an invitation	ex=出 + tend=伸 · extension n. 延期；扩展 · extensive adj. 广泛的	Can we extend the deadline by a week?	截止时间能延一周吗？	The garden extends to the fence.	花园一直延伸到围栏。	I'd like to extend my thanks.	我想表达谢意。
+intend	/ɪnˈtend/	v. 打算，意图	intend to do｜be intended for	in=向 + tend=伸 · intention n. 意图 · intentional adj. 故意的	I intend to finish it today.	我打算今天做完。	It wasn't intended as a joke.	这不是开玩笑。	The room is intended for meetings.	这个房间是用来开会的。
+contend	/kənˈtend/	v. 主张；争辩；应对	contend that｜contend with	con=一起 + tend=伸 · contention n. 争论；论点	He contends that the data is flawed.	他主张这些数据有问题。	Four teams contend for the title.	四支队伍争夺冠军。	We have a lot to contend with.	我们要应付的事很多。

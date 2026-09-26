@@ -177,7 +177,7 @@ func suspicious(entry practice.WordEntry) string {
 
 // canonical 把解析结果拼回规范的制表符分列形式：
 //
-//	单词 \t 音标 \t 释义 \t 例句 \t 例句翻译 \t 搭配 \t 词族
+//	单词 \t 音标 \t 释义 \t 搭配 \t 词族 \t 例句1 \t 译文1 \t 例句2 \t 译文2 \t …
 //
 // 尾部的空列整列省略，中间的空列必须保留，否则后面的列会整体前移串位。
 func canonical(entry practice.WordEntry) string {
@@ -185,10 +185,11 @@ func canonical(entry practice.WordEntry) string {
 		entry.Word,
 		entry.Phonetic,
 		entry.Meaning,
-		entry.Example,
-		entry.ExampleNote,
 		entry.Collocation,
 		entry.Family,
+	}
+	for _, example := range entry.Examples {
+		cols = append(cols, example.Text, example.Note)
 	}
 
 	for len(cols) > 1 && cols[len(cols)-1] == "" {

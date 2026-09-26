@@ -121,11 +121,13 @@ func contrastItemsOf(line string) []string {
 	}
 
 	word := ParseWordEntry(line)
-	if word.Example == "" {
-		return nil
+
+	items := make([]string, 0, len(word.Examples))
+	for _, example := range word.Examples {
+		// 单词表是制表符分列的，例句项也保持同样的列结构，音标列留空
+		items = append(items, example.Text+"\t\t"+example.Note)
 	}
-	// 单词表是制表符分列的，例句项也保持同样的列结构，音标列留空
-	return []string{word.Example + "\t\t" + word.ExampleNote}
+	return items
 }
 
 // 练习方向

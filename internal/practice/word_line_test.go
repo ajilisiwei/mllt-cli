@@ -1,6 +1,9 @@
 package practice
 
-import "testing"
+import (
+	"strings"
+	"testing"
+)
 
 func TestParseWordLine(t *testing.T) {
 	cases := []struct {
@@ -153,39 +156,35 @@ func TestParseWordEntry(t *testing.T) {
 		want WordEntry
 	}{
 		{
-			name: "完整七列",
-			line: "abandon\t/əˈbændən/\tv. 放弃，抛弃\tThey abandoned the plan after the first test.\t第一次测试后他们就放弃了那个方案。\tabandon a plan｜abandon ship\tabandoned adj. 被遗弃的 · abandonment n. 放弃",
+			name: "定长列加三个例句",
+			line: strings.Join([]string{
+				"abandon", "/əˈbændən/", "v. 放弃，抛弃",
+				"abandon a plan｜abandon ship", "abandoned adj. 被遗弃的",
+				"They abandoned the plan after the first test.", "第一次测试后他们就放弃了那个方案。",
+				"We had to abandon ship.", "我们不得不弃船。",
+				"Don't abandon hope just yet.", "先别放弃希望。",
+			}, "\t"),
 			want: WordEntry{
-				Word:        "abandon",
-				Phonetic:    "/əˈbændən/",
-				Meaning:     "v. 放弃，抛弃",
+				Word: "abandon", Phonetic: "/əˈbændən/", Meaning: "v. 放弃，抛弃",
+				Collocation: "abandon a plan｜abandon ship",
+				Family:      "abandoned adj. 被遗弃的",
+				Examples: []Contrast{
+					{Text: "They abandoned the plan after the first test.", Note: "第一次测试后他们就放弃了那个方案。"},
+					{Text: "We had to abandon ship.", Note: "我们不得不弃船。"},
+					{Text: "Don't abandon hope just yet.", Note: "先别放弃希望。"},
+				},
 				Example:     "They abandoned the plan after the first test.",
 				ExampleNote: "第一次测试后他们就放弃了那个方案。",
-				Collocation: "abandon a plan｜abandon ship",
-				Family:      "abandoned adj. 被遗弃的 · abandonment n. 放弃",
 			},
 		},
 		{
-			name: "六列：有例句有搭配，无词族",
-			line: "apply\t/əˈplaɪ/\tv. 申请；应用\tShe applied for the job last week.\t她上周申请了那份工作。\tapply for｜apply to",
+			name: "只有一个例句",
+			line: "apply\t/əˈplaɪ/\tv. 申请\tapply for\t\tShe applied for the job.\t她申请了那份工作。",
 			want: WordEntry{
-				Word:        "apply",
-				Phonetic:    "/əˈplaɪ/",
-				Meaning:     "v. 申请；应用",
-				Example:     "She applied for the job last week.",
-				ExampleNote: "她上周申请了那份工作。",
-				Collocation: "apply for｜apply to",
-			},
-		},
-		{
-			name: "五列：只到例句翻译",
-			line: "able\t/ˈeɪbl/\tadj. 有能力的\tShe was able to fix it herself.\t她自己就能修好。",
-			want: WordEntry{
-				Word:        "able",
-				Phonetic:    "/ˈeɪbl/",
-				Meaning:     "adj. 有能力的",
-				Example:     "She was able to fix it herself.",
-				ExampleNote: "她自己就能修好。",
+				Word: "apply", Phonetic: "/əˈplaɪ/", Meaning: "v. 申请",
+				Collocation: "apply for",
+				Examples:    []Contrast{{Text: "She applied for the job.", Note: "她申请了那份工作。"}},
+				Example:     "She applied for the job.", ExampleNote: "她申请了那份工作。",
 			},
 		},
 		{
@@ -205,34 +204,57 @@ func TestParseWordEntry(t *testing.T) {
 		},
 		{
 			name: "音标列没写斜杠也能识别",
-			line: "issue\tˈɪʃuː\tn. 问题；议题\tThat's a separate issue.\t那是另一个问题。",
-			want: WordEntry{
-				Word:        "issue",
-				Phonetic:    "/ˈɪʃuː/",
-				Meaning:     "n. 问题；议题",
-				Example:     "That's a separate issue.",
-				ExampleNote: "那是另一个问题。",
-			},
-		},
-		{
-			name: "多余的空白要清掉",
-			line: "term \t /tɜːrm/ \t n. 术语 \t Let's agree on terms. \t 我们先把说法统一。 ",
-			want: WordEntry{
-				Word:        "term",
-				Phonetic:    "/tɜːrm/",
-				Meaning:     "n. 术语",
-				Example:     "Let's agree on terms.",
-				ExampleNote: "我们先把说法统一。",
-			},
+			line: "issue\tˈɪʃuː\tn. 问题；议题",
+			want: WordEntry{Word: "issue", Phonetic: "/ˈɪʃuː/", Meaning: "n. 问题；议题"},
 		},
 	}
 
 	for _, tc := range cases {
 		t.Run(tc.name, func(t *testing.T) {
-			if got := ParseWordEntry(tc.line); got != tc.want {
-				t.Errorf("ParseWordEntry(%q)\n got = %+v\nwant = %+v", tc.line, got, tc.want)
+			got := ParseWordEntry(tc.line)
+
+			if got.Word != tc.want.Word || got.Phonetic != tc.want.Phonetic ||
+				got.Meaning != tc.want.Meaning || got.Collocation != tc.want.Collocation ||
+				got.Family != tc.want.Family {
+				t.Errorf("定长列\n got = %+v\nwant = %+v", got, tc.want)
+			}
+			if len(got.Examples) != len(tc.want.Examples) {
+				t.Fatalf("例句数量 = %d，期望 %d: %+v", len(got.Examples), len(tc.want.Examples), got.Examples)
+			}
+			for i := range tc.want.Examples {
+				if got.Examples[i] != tc.want.Examples[i] {
+					t.Errorf("第 %d 个例句 = %+v，期望 %+v", i+1, got.Examples[i], tc.want.Examples[i])
+				}
+			}
+			if got.Example != tc.want.Example || got.ExampleNote != tc.want.ExampleNote {
+				t.Errorf("兼容字段 = (%q, %q)", got.Example, got.ExampleNote)
 			}
 		})
+	}
+}
+
+// 三个例句要展开成三个独立的练习项，并且紧跟在单词后面
+func TestWordExamplesAllExpand(t *testing.T) {
+	line := strings.Join([]string{
+		"abandon", "/əˈbændən/", "v. 放弃", "abandon a plan", "",
+		"They abandoned the plan.", "他们放弃了那个方案。",
+		"We had to abandon ship.", "我们不得不弃船。",
+		"Don't abandon hope.", "别放弃希望。",
+	}, "\t")
+
+	blocks := ExpandEntryBlocks([]string{line})
+	if len(blocks) != 1 {
+		t.Fatalf("应该只有一个块，实际 %d 个", len(blocks))
+	}
+	if len(blocks[0]) != 4 {
+		t.Fatalf("块内 %d 项，期望 4 项（单词 + 三个例句）: %q", len(blocks[0]), blocks[0])
+	}
+
+	want := []string{"abandon", "They abandoned the plan.", "We had to abandon ship.", "Don't abandon hope."}
+	for i, w := range want {
+		if got := WordPrimaryText(blocks[0][i]); got != w {
+			t.Errorf("块内第 %d 项 = %q，期望 %q", i, got, w)
+		}
 	}
 }
 

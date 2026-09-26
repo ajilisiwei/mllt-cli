@@ -988,17 +988,8 @@ func (m PracticeSession) formatWordItem(item string) string {
 
 	lines := []string{word}
 	if m.getShowTranslationConfig() {
-		for _, field := range []struct{ label, value string }{
-			{"音标", entry.Phonetic},
-			{"翻译", entry.Meaning},
-			{"例句", entry.Example},
-			{"译文", entry.ExampleNote},
-			{"搭配", entry.Collocation},
-			{"词族", entry.Family},
-		} {
-			if field.value != "" {
-				lines = append(lines, field.label+": "+field.value)
-			}
+		for _, field := range entry.DisplayFields() {
+			lines = append(lines, field.Label+": "+field.Value)
 		}
 	}
 

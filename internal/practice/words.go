@@ -44,14 +44,15 @@ func WordPractice(fileName string) error {
 		// 获取当前单词
 		wordLine := words[index]
 		entry := ParseWordEntry(wordLine)
-		word, translation := entry.Word, entry.Meaning
+		word := entry.Word
 		prompt := PromptFor(Words, wordLine)
 
-		// 显示题面。译写模式下音标已经在题面里，不要再单独打一遍
+		// 显示题面。译写模式下音标已经在题面里，答对后再一并展示
 		fmt.Printf("请输入: %s\n", prompt)
 		if showTranslation && entry.Phonetic != "" && prompt == word {
 			fmt.Printf("音标: %s\n", entry.Phonetic)
 		}
+		answered := prompt == word
 
 		// 读取用户输入
 		input, _ := reader.ReadString('\n')
@@ -68,19 +69,14 @@ func WordPractice(fileName string) error {
 			fmt.Println("正确！")
 			if showTranslation {
 				// 译写模式下题面就是音标加释义，不必再打一遍；确认拼写更有用
-				if prompt != word {
+				if !answered {
 					fmt.Printf("原文: %s\n", word)
 				}
-				for _, field := range []struct{ label, value string }{
-					{"翻译", translation},
-					{"例句", entry.Example},
-					{"译文", entry.ExampleNote},
-					{"搭配", entry.Collocation},
-					{"词族", entry.Family},
-				} {
-					if field.value != "" {
-						fmt.Printf("%s: %s\n", field.label, field.value)
+				for _, field := range entry.DisplayFields() {
+					if answered && field.Label == "音标" {
+						continue // 题面已经打过了
 					}
+					fmt.Printf("%s: %s\n", field.Label, field.Value)
 				}
 			}
 			// 获取下一个单词的索引
