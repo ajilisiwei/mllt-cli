@@ -1,0 +1,25 @@
+Have you seen my keys? ->> 你看见我钥匙了吗？（配偶） ->> They're on the hook by the door. ->> 在门边挂钩上。（配偶）
+What time will you be home? ->> 你几点回来？（配偶） ->> Around seven, maybe later. ->> 七点左右，可能晚点。（配偶）
+Did you take out the trash? ->> 你倒垃圾了吗？（配偶） ->> I'll do it before bed. ->> 睡前我倒。（配偶）
+Can you pick up the kids today? ->> 今天你能去接孩子吗？（配偶） ->> I've got a meeting until five. ->> 我开会开到五点。（配偶）
+Have you done your homework? ->> 作业写完了吗？（家长） ->> Almost, just one more question. ->> 快了，还剩一道题。（孩子）
+Phone away at the table, please. ->> 吃饭不许玩手机。（家长） ->> Okay, okay. ->> 好啦好啦。（孩子）
+How was school today? ->> 今天学校怎么样？（家长） ->> Fine. We had a test. ->> 还行，考了个试。（孩子）
+Mum called, she wants to visit. ->> 妈打电话了，她想来。（配偶） ->> That's fine, when? ->> 行啊，什么时候？（配偶）
+Are we out of milk again? ->> 牛奶又没了吗？（配偶） ->> I'll grab some on my way back. ->> 我回来路上买。（配偶）
+Don't forget the parent meeting Thursday. ->> 别忘了周四的家长会。（配偶） ->> It's already in my calendar. ->> 已经记在日历上了。（配偶）
+What should we do this weekend? ->> 这周末干点什么？（配偶） ->> Nothing too far, I'm tired. ->> 别跑太远，我累。（配偶） ->> We could just walk by the river. ->> 那就去河边走走。（配偶） ->> That sounds nice. Saturday morning? ->> 听着不错，周六上午？（配偶）
+Can I stay out till eleven? ->> 我能玩到十一点吗？（孩子） ->> That's a bit late on a school night. ->> 明天还上学，有点晚。（家长） ->> Everyone else is staying. ->> 别人都留到那么晚。（孩子） ->> Ten, and I'll pick you up. ->> 十点，我去接你。（家长） ->> Deal. ->> 成交。（孩子）
+You said you'd fix the shelf. ->> 你说过要修那个架子。（配偶） ->> I know, I kept meaning to. ->> 我知道，一直想着呢。（配偶） ->> It's been three weeks. ->> 都三周了。（配偶） ->> I'll do it tonight, I promise. ->> 今晚就修，我保证。（配偶）
+Dad, can you help me with this? ->> 爸，这个你能帮我吗？（孩子） ->> Let me see. Where are you stuck? ->> 我看看，卡在哪了？（家长） ->> I don't get the second step. ->> 第二步我不懂。（孩子） ->> Read it to me out loud. ->> 你读给我听听。（家长） ->> Oh. I think I see it now. ->> 哦，我好像明白了。（孩子）
+Your mother's birthday is next week. ->> 你妈下周生日。（配偶） ->> Should we do dinner at home? ->> 要不在家吃饭？（配偶） ->> She'd probably prefer that. ->> 她估计更喜欢在家。（配偶） ->> I'll cook, you handle the cake. ->> 我做饭，蛋糕你管。（配偶）
+I'm worried about Grandpa. ->> 我有点担心爷爷。（配偶） ->> Has something happened? ->> 出什么事了吗？（配偶） ->> He's been forgetting things. ->> 他最近老忘事。（配偶） ->> Let's take him for a checkup. ->> 带他去做个体检吧。（配偶） ->> I'll call the clinic tomorrow. ->> 我明天给诊所打电话。（配偶）
+Why is your room like this? ->> 你房间怎么这样？（家长） ->> I was going to tidy it later. ->> 我本来打算待会儿收拾。（孩子） ->> You said that yesterday too. ->> 你昨天也是这么说的。（家长） ->> Fine, I'll do it now. ->> 好吧，我现在收拾。（孩子）
+Can we get a dog? ->> 我们能养条狗吗？（孩子） ->> Who's going to walk it? ->> 谁遛狗？（家长） ->> I will, every day. ->> 我，每天都遛。（孩子） ->> Every day, even in the rain? ->> 每天？下雨也遛？（家长） ->> Yes! I promise. ->> 是！我保证。（孩子） ->> Let's talk about it after the exams. ->> 考完试再说。（家长）
+I don't want to argue about this again. ->> 我不想再为这事吵了。（配偶） ->> Then let's just decide. ->> 那我们直接定下来。（配偶） ->> You pick this time, I'll pick next. ->> 这次你定，下次我定。（配偶） ->> That's fair. ->> 这样公平。（配偶）
+Are you okay? You've been quiet. ->> 你还好吗？一直不说话。（配偶） ->> Just a rough day at work. ->> 就是工作上不太顺。（配偶） ->> Do you want to talk about it? ->> 想聊聊吗？（配偶） ->> Not yet. Maybe later. ->> 暂时不想，待会儿吧。（配偶） ->> I'm here when you do. ->> 你想聊的时候我在。（配偶）
+We need to talk about the budget. ->> 我们得谈谈预算。（配偶） ->> I know, we overspent again. ->> 我知道，又超支了。（配偶） ->> Mostly eating out. ->> 主要是外食。（配偶） ->> Should we set a limit? ->> 要不定个上限？（配偶） ->> Twice a week sounds reasonable. ->> 一周两次挺合理。（配偶） ->> And we cook together on weekends. ->> 周末我们一起做饭。（配偶） ->> I'd actually enjoy that. ->> 这个我还挺期待的。（配偶）
+Can we talk about the summer? ->> 我们聊聊暑假吧？（配偶） ->> Are you thinking of a trip? ->> 你想出去玩？（配偶） ->> Somewhere the kids can swim. ->> 找个孩子能游泳的地方。（配偶） ->> That rules out the mountains then. ->> 那就排除山里了。（配偶） ->> What about the coast? ->> 海边怎么样？（配偶） ->> It'll be crowded in August. ->> 八月人会很多。（配偶） ->> Then let's go in July. ->> 那就七月去。（配偶） ->> I'll look at flights tonight. ->> 我今晚看看机票。（配偶）
+I got my report card. ->> 我成绩单出来了。（孩子） ->> How did it go? ->> 考得怎么样？（家长） ->> Good in most subjects. ->> 大部分还行。（孩子） ->> And the ones that aren't good? ->> 不好的那些呢？（家长） ->> Maths dropped a bit. ->> 数学掉了一点。（孩子） ->> Do you know why? ->> 知道为什么吗？（家长） ->> I didn't ask for help when I got stuck. ->> 卡住的时候我没求助。（孩子） ->> Then that's what we fix. Ask earlier. ->> 那就改这个，早点问。（家长）
+Dinner's ready! ->> 饭好了！（家长） ->> Coming in a minute. ->> 马上来。（孩子） ->> It'll get cold. ->> 会凉的。（家长） ->> I'm just saving my game. ->> 我存个档。（孩子） ->> You said that five minutes ago. ->> 五分钟前你就这么说。（家长） ->> Okay, I'm coming now. ->> 好啦，我现在就来。（孩子）
+Can you give me a hand in the kitchen? ->> 你能来厨房帮个手吗？（配偶） ->> What do you need? ->> 要我做什么？（配偶） ->> Could you chop the onions? ->> 你切下洋葱？（配偶） ->> How fine? ->> 切多细？（配偶） ->> Roughly is fine. ->> 大块就行。（配偶） ->> Anything else after that? ->> 切完还有别的吗？（配偶） ->> Set the table, and we're done. ->> 摆下餐具就好了。（配偶）

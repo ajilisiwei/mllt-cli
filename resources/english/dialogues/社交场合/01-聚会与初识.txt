@@ -1,0 +1,25 @@
+Have we met before? ->> 我们见过吗？（宾客） ->> I don't think so. I'm Lin. ->> 应该没有，我叫林。（宾客）
+How do you two know each other? ->> 你们俩怎么认识的？（宾客） ->> We used to work together. ->> 我们以前是同事。（宾客）
+Can I get you a drink? ->> 要喝点什么吗？（主人） ->> Just water for now, thanks. ->> 先来杯水，谢谢。（宾客）
+Is this seat free? ->> 这位子有人吗？（宾客） ->> All yours. ->> 您坐。（宾客）
+What do you do? ->> 你是做什么的？（宾客） ->> I work in publishing. ->> 我做出版的。（宾客）
+Sorry, I didn't catch your name. ->> 抱歉，没听清你的名字。（宾客） ->> It's Hao. Nice to meet you. ->> 郝，很高兴认识你。（宾客）
+Are you staying for dinner? ->> 你留下吃晚饭吗？（主人） ->> I'd love to, if that's okay. ->> 如果方便的话我很乐意。（宾客）
+Thanks for having me. ->> 谢谢你的招待。（宾客） ->> Any time, come again. ->> 随时欢迎，下次再来。（主人）
+I should get going. ->> 我该走了。（宾客） ->> Already? Stay a bit longer. ->> 这么快？再坐会儿吧。（主人）
+Let's keep in touch. ->> 保持联系。（宾客） ->> Definitely, I'll message you. ->> 一定，我回头给你发消息。（宾客）
+Hi, I'm Sam. I work with Anna. ->> 你好，我叫 Sam，和 Anna 是同事。（宾客） ->> Oh, she's mentioned you. ->> 哦，她提过你。（宾客） ->> Nothing bad, I hope. ->> 希望不是坏话。（宾客） ->> All good, don't worry. ->> 都是好话，放心。（宾客）
+Are you new to the city? ->> 你是新来这个城市的吗？（宾客） ->> Yes, moved here in spring. ->> 是的，春天搬来的。（宾客） ->> How are you finding it? ->> 感觉怎么样？（宾客） ->> Still adjusting, but I like it. ->> 还在适应，不过挺喜欢。（宾客）
+We're having people over Saturday. ->> 我们周六请人来家里。（朋友） ->> What time? ->> 几点？（朋友） ->> Around seven, nothing formal. ->> 七点左右，很随意。（朋友） ->> Count me in. Should I bring anything? ->> 算我一个，要带什么吗？（朋友） ->> Just yourself. ->> 人来就行。（朋友）
+Sorry, I can't make it tomorrow. ->> 抱歉，我明天去不了。（朋友） ->> No worries. Everything okay? ->> 没关系，没事吧？（朋友） ->> Just a work thing that came up. ->> 工作上临时有事。（朋友） ->> Let's do next week instead. ->> 那改到下周吧。（朋友） ->> Sounds good, I'll text you. ->> 好，我发消息给你。（朋友）
+Congratulations on the new job! ->> 恭喜你找到新工作！（朋友） ->> Thanks, I'm still a bit nervous. ->> 谢谢，我还有点紧张。（朋友） ->> You'll be great. ->> 你肯定没问题。（朋友） ->> I hope so. First day is Monday. ->> 希望吧，周一第一天。（朋友）
+I heard about your grandmother. ->> 我听说你奶奶的事了。（朋友） ->> Thanks. It's been a hard week. ->> 谢谢，这周挺难熬的。（朋友） ->> Let me know if you need anything. ->> 需要什么跟我说。（朋友） ->> I will. It means a lot. ->> 会的，谢谢你。（朋友）
+Do you want to grab a drink after? ->> 完事后要不要去喝一杯？（同事） ->> I'd like to, but I'm driving. ->> 想去，但我开车了。（同事） ->> Coffee then? ->> 那喝咖啡？（同事） ->> That works. ->> 可以。（同事）
+You two should meet. ->> 你们俩该认识一下。（朋友） ->> Why's that? ->> 为什么？（朋友） ->> You both run marathons. ->> 你们都跑马拉松。（朋友） ->> Really? Which one did you do last? ->> 是吗？你最近跑的哪一场？（朋友）
+Sorry I'm late. ->> 抱歉我迟到了。（朋友） ->> You're fine, we just sat down. ->> 没事，我们刚坐下。（朋友） ->> The traffic was terrible. ->> 路上太堵了。（朋友） ->> Always is on Fridays. ->> 周五总是这样。（朋友）
+It was really nice meeting you. ->> 认识你很高兴。（宾客） ->> Likewise. Are you on WeChat? ->> 我也是，你有微信吗？（宾客） ->> I am, let me scan you. ->> 有，我扫你。（宾客） ->> Great, talk soon. ->> 好，回头聊。（宾客）
+So how long have you been in this field? ->> 你入这行多久了？（宾客） ->> About eight years now. ->> 差不多八年了。（宾客） ->> What got you into it? ->> 什么让你入的行？（宾客） ->> Honestly, it was an accident. ->> 说实话是误打误撞。（宾客） ->> How so? ->> 怎么说？（宾客） ->> I took a summer job and never left. ->> 做了份暑期工就留下了。（宾客） ->> That happens more than people think. ->> 这种事比大家想的常见。（宾客） ->> What about you? ->> 你呢？（宾客）
+Thanks for inviting me, this is lovely. ->> 谢谢你邀请我，这儿真好。（宾客） ->> I'm glad you could come. ->> 你能来我很高兴。（主人） ->> Did you cook all of this? ->> 这些都是你做的？（宾客） ->> Most of it. The dessert's from a shop. ->> 大部分是，甜点是买的。（主人） ->> It's all delicious. ->> 都很好吃。（宾客） ->> Help yourself to more. ->> 多吃点。（主人） ->> I will, but let me pace myself. ->> 会的，我慢慢吃。（宾客）
+Can I ask you something? ->> 我能问你件事吗？（朋友） ->> Of course. ->> 当然。（朋友） ->> Have I done something to upset you? ->> 我是不是做了什么让你不高兴？（朋友） ->> No, it's not you. ->> 不是你的问题。（朋友） ->> You've been quiet all week. ->> 你这周一直很沉默。（朋友） ->> Things at home are complicated right now. ->> 家里最近有点复杂。（朋友） ->> I'm sorry. I'm around if you want to talk. ->> 抱歉，想聊随时找我。（朋友） ->> Thanks. That helps. ->> 谢谢，这话有用。（朋友）
+We're thinking of a weekend away. ->> 我们在想周末出去玩。（朋友） ->> Where to? ->> 去哪？（朋友） ->> Somewhere with hills. ->> 有山的地方。（朋友） ->> How many people? ->> 几个人？（朋友） ->> Six, maybe eight. ->> 六个，可能八个。（朋友） ->> That's a big house to find. ->> 那得找个大点的房子。（朋友） ->> I know. Any ideas? ->> 是啊，你有想法吗？（朋友） ->> Let me ask around. ->> 我问问看。（朋友）
+I owe you an apology. ->> 我得跟你道个歉。（朋友） ->> What for? ->> 为什么？（朋友） ->> I shouldn't have said that last night. ->> 昨晚那话我不该说。（朋友） ->> I was a bit hurt, honestly. ->> 说实话我有点难受。（朋友） ->> I know, and I'm sorry. ->> 我知道，对不起。（朋友） ->> It's okay. Let's move on. ->> 没事，翻篇吧。（朋友） ->> Thanks for not making it a thing. ->> 谢谢你没揪着不放。（朋友）
