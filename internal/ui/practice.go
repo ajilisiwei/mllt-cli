@@ -33,6 +33,11 @@ func NewPracticeMenu() *PracticeMenu {
 			action:      func() (tea.Model, error) { return NewResourceSelectionMenu(practice.Sentences), nil },
 		},
 		MenuItem{
+			title:       "对话练习",
+			description: "进行成段对话的打字练习",
+			action:      func() (tea.Model, error) { return NewResourceSelectionMenu(practice.Dialogues), nil },
+		},
+		MenuItem{
 			title:       "文章练习",
 			description: "进行文章打字练习",
 			action:      func() (tea.Model, error) { return NewResourceSelectionMenu(practice.Articles), nil },
@@ -182,6 +187,8 @@ func getResourceTypeTitle(resourceType string) string {
 		return "短语"
 	case practice.Sentences:
 		return "句子"
+	case practice.Dialogues:
+		return "对话"
 	case practice.Articles:
 		return "文章"
 	default:

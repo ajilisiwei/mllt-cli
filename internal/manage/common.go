@@ -15,6 +15,7 @@ const (
 	Words     = "words"
 	Phrases   = "phrases"
 	Sentences = "sentences"
+	Dialogues = "dialogues"
 	Articles  = "articles"
 )
 
@@ -155,7 +156,7 @@ func DeleteResourceFolder(resourceType, folderDir string) error {
 // ValidateResourceType 验证资源类型是否有效
 func ValidateResourceType(resourceType string) bool {
 	switch resourceType {
-	case Words, Phrases, Sentences, Articles:
+	case Words, Phrases, Sentences, Dialogues, Articles:
 		return true
 	default:
 		return false

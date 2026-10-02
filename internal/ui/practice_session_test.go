@@ -767,3 +767,63 @@ func TestCopyModeUnaffected(t *testing.T) {
 		t.Errorf("getCurrentItem() = %q\nwant %q", got, want)
 	}
 }
+
+// 对话按轮次展示，正文是第一轮，说话人只出现在中文里
+func TestFormatDialogueItem(t *testing.T) {
+	setupPracticeSessionTest(t)
+
+	line := strings.Join([]string{
+		"Could I get a window seat?", "能给我靠窗的座位吗？（乘客）",
+		"I'm afraid only aisle seats are left.", "恐怕只剩过道座了。（地勤）",
+		"Then could I sit near the front?", "那能坐前排一点吗？（乘客）",
+	}, " ->> ")
+
+	session := &PracticeSession{
+		resourceType:   practice.Dialogues,
+		items:          []string{line},
+		practiceOrder:  []int{0},
+		completedCount: 0,
+	}
+
+	config.AppConfig.ShowTranslation = true
+	want := strings.Join([]string{
+		"Could I get a window seat?",
+		"译文1: 能给我靠窗的座位吗？（乘客）",
+		"第2句: I'm afraid only aisle seats are left.",
+		"译文2: 恐怕只剩过道座了。（地勤）",
+		"第3句: Then could I sit near the front?",
+		"译文3: 那能坐前排一点吗？（乘客）",
+	}, "\n")
+	if got := session.getCurrentItem(); got != want {
+		t.Errorf("对话展示 =\n%s\n期望 =\n%s", got, want)
+	}
+
+	// 打字答案只有英文，不含说话人
+	if got := session.getExpectedInput(line); got != "Could I get a window seat?" {
+		t.Errorf("打字答案 = %q", got)
+	}
+}
+
+// 整段对话必须逐轮展开成独立练习项，且保持在同一个块里
+func TestDialogueExpandsEveryTurn(t *testing.T) {
+	line := strings.Join([]string{
+		"Are you ready to order?", "可以点餐了吗？（服务员）",
+		"Could we have another minute?", "能再给我们一分钟吗？（顾客）",
+		"Of course, take your time.", "当然，您慢慢看。（服务员）",
+	}, " ->> ")
+
+	blocks := practice.ExpandEntryBlocks([]string{line})
+	if len(blocks) != 1 {
+		t.Fatalf("一段对话应该是一个块，实际 %d 个", len(blocks))
+	}
+	if len(blocks[0]) != 3 {
+		t.Fatalf("块内 %d 项，期望 3 轮: %q", len(blocks[0]), blocks[0])
+	}
+
+	want := []string{"Are you ready to order?", "Could we have another minute?", "Of course, take your time."}
+	for i, w := range want {
+		if got, _ := practice.ParseLine(blocks[0][i]); got != w {
+			t.Errorf("第 %d 轮 = %q，期望 %q", i+1, got, w)
+		}
+	}
+}

@@ -155,6 +155,17 @@ func NewResourceTypeMenu(action string) *ResourceTypeMenu {
 			},
 		},
 		MenuItem{
+			title:       "对话",
+			description: getActionTitle(action) + "对话资源",
+			action: func() (tea.Model, error) {
+				if action == "delete" {
+					return NewManageResourceMenu(practice.Dialogues, action), nil
+				} else {
+					return NewImportView(practice.Dialogues), nil
+				}
+			},
+		},
+		MenuItem{
 			title:       "文章",
 			description: getActionTitle(action) + "文章资源",
 			action: func() (tea.Model, error) {

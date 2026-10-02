@@ -19,15 +19,20 @@ import (
 	"fmt"
 	"os"
 	"path/filepath"
+	"regexp"
 	"sort"
 	"strings"
 
 	"github.com/ajilisiwei/mllt-cli/internal/practice"
 )
 
-// 各段两两成对（文本 + 注释），一条语法条目可以挂一整套时态。
-// 上限只是防手滑，不是格式限制。
-const maxFields = 16
+// 各段两两成对（文本 + 注释）：一条语法条目可以挂一整套时态，
+// 一条对话可以挂到十轮（20 段）。上限只是防手滑，留了一点余量。
+const maxFields = 24
+
+// cjkInEnglish 匹配英文字段里混进来的中日韩文字。中英混排打字时很容易串行，
+// 而且肉眼扫过去极难发现（rough状态 vs rough status）。
+var cjkInEnglish = regexp.MustCompile(`[\p{Han}\p{Hiragana}\p{Katakana}]`)
 
 type record struct {
 	file string
@@ -39,7 +44,7 @@ func main() {
 	root := flag.String("root", ".", "仓库根目录")
 	flag.Parse()
 
-	types := []string{practice.Phrases, practice.Sentences}
+	types := []string{practice.Phrases, practice.Sentences, practice.Dialogues}
 
 	failed := false
 	for _, resourceType := range types {
@@ -96,6 +101,12 @@ func checkType(root, resourceType string) (bool, error) {
 			}
 			if n := len(strings.Split(rec.raw, practice.Separator)); n > 4 && n%2 != 0 {
 				problems = append(problems, fmt.Sprintf("%s 有 %d 段，对比句必须成对（文本 + 注释）", label, n))
+			}
+			// 奇数段（第 1、3、5…）是英文，偶数段是中文注释
+			for i, part := range strings.Split(rec.raw, practice.Separator) {
+				if i%2 == 0 && cjkInEnglish.MatchString(part) {
+					problems = append(problems, fmt.Sprintf("%s 第 %d 段是英文却混入了中文: %s", label, i+1, truncate(part)))
+				}
 			}
 
 			byText[normalize(entry.Text)] = append(byText[normalize(entry.Text)], rec)

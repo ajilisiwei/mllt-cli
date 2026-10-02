@@ -184,6 +184,38 @@ var practiceSentencesCmd = &cobra.Command{
 	},
 }
 
+// practiceDialoguesCmd 表示practice dialogues子命令
+var practiceDialoguesCmd = &cobra.Command{
+	Use:   "dialogues [file]",
+	Short: "对话练习",
+	Long:  `对话练习功能，从指定的对话文件中读取整段对话，逐轮进行练习。`,
+	Args:  cobra.MaximumNArgs(1),
+	Run: func(cmd *cobra.Command, args []string) {
+		if len(args) == 0 {
+			files, err := practice.ListDialogueFiles()
+			if err != nil {
+				fmt.Println("获取对话文件失败:", err)
+				return
+			}
+
+			if len(files) == 0 {
+				fmt.Println("没有可用的对话文件，请先创建或导入对话。")
+				return
+			}
+
+			fmt.Println("可用的对话文件:")
+			for i, file := range files {
+				fmt.Printf("%d. %s\n", i+1, file)
+			}
+			return
+		}
+
+		if err := practice.DialoguePractice(args[0]); err != nil {
+			fmt.Println("对话练习失败:", err)
+		}
+	},
+}
+
 // practiceArticlesCmd 表示practice articles子命令
 var practiceArticlesCmd = &cobra.Command{
 	Use:   "articles [file]",
@@ -628,6 +660,7 @@ func init() {
 	practiceCmd.AddCommand(practiceWordsCmd)
 	practiceCmd.AddCommand(practicePhrasesCmd)
 	practiceCmd.AddCommand(practiceSentencesCmd)
+	practiceCmd.AddCommand(practiceDialoguesCmd)
 	practiceCmd.AddCommand(practiceArticlesCmd)
 
 	// 添加manage子命令

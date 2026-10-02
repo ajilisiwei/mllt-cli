@@ -185,9 +185,11 @@ func NewPracticeSession(resourceType, fileName string) *PracticeSession {
 		}
 	}
 
-	// 排好条目顺序之后再展开例句，保证例句紧跟在它的短语后面
+	// 排好条目顺序之后再展开，保证例句／对话轮次紧跟在它的条目后面。
+	// 对话无视「例句练习」开关——后续轮次不是例句，是内容本身，
+	// 关掉开关只会让一段对话只剩第一句能练。
 	var exampleItems []bool
-	if config.AppConfig.PracticeExamples {
+	if config.AppConfig.PracticeExamples || resourceType == practice.Dialogues {
 		normalizedItems, exampleItems, practiceOrder = expandInPracticeOrder(normalizedItems, practiceOrder)
 	}
 
@@ -955,6 +957,10 @@ func (m PracticeSession) getCurrentItem() string {
 		return m.formatWordItem(item)
 	}
 
+	if m.resourceType == practice.Dialogues {
+		return m.formatDialogueItem(item)
+	}
+
 	if m.resourceType == practice.Phrases || m.resourceType == practice.Sentences {
 		return m.formatEntryItem(item)
 	}
@@ -990,6 +996,44 @@ func (m PracticeSession) formatWordItem(item string) string {
 	if m.getShowTranslationConfig() {
 		for _, field := range entry.DisplayFields() {
 			lines = append(lines, field.Label+": "+field.Value)
+		}
+	}
+
+	return strings.Join(lines, "\n")
+}
+
+// formatDialogueItem 按轮次展示整段对话。正文是第一轮，后面依次编号。
+//
+// 说话人不进英文正文——打字时手上只有纯英文，角色写在中文注释里。
+func (m PracticeSession) formatDialogueItem(item string) string {
+	entry := practice.ParseEntryLine(item)
+	text := entry.Text
+	if text == "" {
+		text = item
+	}
+
+	lines := []string{text}
+	if !m.getShowTranslationConfig() {
+		return text
+	}
+
+	// 只有一轮时不编号，避免孤零零一个「译文1」
+	if len(entry.Contrasts) == 0 {
+		if entry.Meaning != "" {
+			lines = append(lines, "译文: "+entry.Meaning)
+		}
+		return strings.Join(lines, "\n")
+	}
+
+	if entry.Meaning != "" {
+		lines = append(lines, "译文1: "+entry.Meaning)
+	}
+	for i, turn := range entry.Contrasts {
+		if turn.Text != "" {
+			lines = append(lines, fmt.Sprintf("第%d句: %s", i+2, turn.Text))
+		}
+		if turn.Note != "" {
+			lines = append(lines, fmt.Sprintf("译文%d: %s", i+2, turn.Note))
 		}
 	}
 

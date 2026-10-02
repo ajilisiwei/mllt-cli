@@ -20,6 +20,7 @@ const (
 	Words     = "words"
 	Phrases   = "phrases"
 	Sentences = "sentences"
+	Dialogues = "dialogues"
 	Articles  = "articles"
 )
 
